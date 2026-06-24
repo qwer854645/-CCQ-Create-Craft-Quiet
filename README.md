@@ -15,6 +15,7 @@ NeoForge 1.21.1 整合包配置仓库。本仓库保存整合包的自定义内�
 - `config/` — 模组配置文件
 - `kubejs/` — KubeJS 脚本、汉化资源与数据包
 - `defaultconfigs/` — 默认配置
+- `fancymenu_data/` — FancyMenu 菜单与 Buddy 数据
 - `Create_Craft&Quiet.json` — 版本/启动清单
 - `modlist.txt` — 模组列表（文件名）
 
