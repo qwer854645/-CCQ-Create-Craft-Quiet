@@ -13,11 +13,8 @@ NeoForge 1.21.1 整合包配置仓库。本仓库保存整合包的自定义内�
 ## 仓库内容
 
 - `config/` — 模组配置文件
-- `kubejs/` — KubeJS 脚本与汉化资源
+- `kubejs/` — KubeJS 脚本、汉化资源与数据包
 - `defaultconfigs/` — 默认配置
-- `resourcepacks/` — 资源包
-- `shaderpacks/` — 光影包
-- `tlm_custom_pack/` — 女仆模组自定义模型包
 - `Create_Craft&Quiet.json` — 版本/启动清单
 - `modlist.txt` — 模组列表（文件名）
 
@@ -42,7 +39,12 @@ NeoForge 1.21.1 整合包配置仓库。本仓库保存整合包的自定义内�
 - 模组 jar 因体积与版权原因未纳入版本控制，请自行从 Modrinth / CurseForge 或原有整合包备份中获取
 - 个人存档、日志、崩溃报告等运行时文件已在 `.gitignore` 中排除
 - 无对应模组的 KubeJS 汉化已移至 `kubejs/assets_orphan/`
+- `resourcepacks/`、`shaderpacks/`、`tlm_custom_pack/` 未纳入本仓库，需在游戏实例中自行维护
+
+## 第三方资源归属
+
+`kubejs/data/minecraft/structure/end_city/` 下的结构文件（`.nbt`）来自 CurseForge 资源包 [**Vanilla Better End City**](https://www.curseforge.com/minecraft/texture-packs/vanilla-better-end-city)，版权归原作者所有。本仓库仅引用其结构数据以覆盖原版末地城生成，不包含该资源包的其他素材。
 
 ## 许可
 
-本仓库中的自定义脚本与配置遵循各模组原作者的许可。模组本身版权归各自作者所有。
+本仓库中的自定义脚本与配置遵循各模组原作者的许可。模组本身及上述第三方资源包版权归各自作者所有。

@@ -25,6 +25,11 @@ fancymenu_data/
 natives-windows-x86_64/
 patchouli_books/
 
+# Not tracked in this repo
+resourcepacks/
+shaderpacks/
+tlm_custom_pack/
+
 # Mod binaries (see modlist.txt; install via launcher or scripts)
 mods/
 *.jar
