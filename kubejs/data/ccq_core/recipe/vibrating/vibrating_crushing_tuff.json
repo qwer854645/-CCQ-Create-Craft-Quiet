@@ -1,0 +1,21 @@
+﻿{
+    "type":  "vintageimprovements:vibrating",
+    "ingredients":  [
+                        {
+                            "count":  2,
+                            "item":  "ccq_core:crushing_tuff"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "chance": 0.8,
+                        "count":  2,
+                        "id":  "create:zinc_nugget"
+                    },
+                    {
+                        "count":  1,
+                        "id":  "minecraft:iron_nugget"
+                    }
+                ],
+    "processing_time":  800
+}

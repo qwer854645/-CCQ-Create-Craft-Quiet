@@ -1,0 +1,123 @@
+{
+  "values": {
+    "minecraft:iron_ingot":{
+      "base_value":10,
+      "processors":[]
+    },
+
+    "minecraft:copper_ingot":{
+      "base_value":5,
+      "processors":[]
+    },
+
+    "minecraft:gold_ingot":{
+      "base_value":20,
+      "processors":[]
+    },
+
+    "minecraft:netherite_ingot":{
+      "base_value":200,
+      "processors":[]
+    },
+
+    "create:andesite_alloy":{
+      "base_value":5,
+      "processors":[]
+    },
+
+    "create:zinc_ingot":{
+      "base_value":10,
+      "processors":[]
+    },
+
+    "create:brass_ingot":{
+      "base_value":15,
+      "processors":[]
+    },
+
+    "createaddition:electrum_ingot":{
+      "base_value":25,
+      "processors":[]
+    },
+
+    "advancednetherite:netherite_iron_ingot":{
+      "base_value":250,
+      "processors":[]
+    },
+
+    "advancednetherite:netherite_gold_ingot":{
+      "base_value":300,
+      "processors":[]
+    },
+
+    "advancednetherite:netherite_emerald_ingot":{
+      "base_value":350,
+      "processors":[]
+    },
+
+    "advancednetherite:netherite_diamond_ingot":{
+      "base_value":400,
+      "processors":[]
+    },
+
+    "createnuclear:steel_ingot":{
+      "base_value":15,
+      "processors":[]
+    },
+
+    "createnuclear:lead_ingot":{
+      "base_value":18,
+      "processors":[]
+    },
+
+    "northstar:titanium_ingot":{
+      "base_value":50,
+      "processors":[]
+    },
+
+    "northstar:martian_steel":{
+      "base_value":75,
+      "processors":[]
+    },
+
+    "northstar:tungsten_ingot":{
+      "base_value":85,
+      "processors":[]
+    },
+
+    "createbigcannons:cast_iron_ingot":{
+      "base_value":15,
+      "processors":[]
+    },
+
+    "createbigcannons:bronze_ingot":{
+      "base_value":25,
+      "processors":[]
+    },
+
+    "createbigcannons:nethersteel_ingot":{
+      "base_value":100,
+      "processors":[]
+    },
+
+    "createbigcannons:industrial_iron_ingot":{
+      "base_value":2,
+      "processors":[]
+    },
+
+    "create_aquatic_ambitions:prismarine_alloy":{
+      "base_value":15,
+      "processors":[]
+    },
+
+    "minecraft:diamond":{
+      "base_value":50,
+      "processors":[]
+    },
+
+    "minecraft:coal":{
+      "base_value":50,
+      "processors":[]
+    }
+  }
+}

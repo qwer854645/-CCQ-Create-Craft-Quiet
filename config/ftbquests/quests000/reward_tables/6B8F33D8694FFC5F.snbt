@@ -1,0 +1,47 @@
+{
+	icon: {
+		id: "minecraft:diamond"
+	}
+	id: "6B8F33D8694FFC5F"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			count: 3
+			id: "4384AFEB572485A4"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 2.0f
+		}
+		{ id: "7CE77EE67BF7CFE3", item: { count: 1, id: "minecraft:diamond_sword" } }
+		{ id: "681208E7622AE228", item: { count: 1, id: "minecraft:diamond_axe" } }
+		{ id: "208C83250A68551A", item: { count: 1, id: "minecraft:diamond_pickaxe" } }
+		{ id: "6A0EEDA7DFC858AD", item: { count: 1, id: "minecraft:diamond_shovel" } }
+		{
+			id: "17F6B711E87938E8"
+			item: {
+				count: 1
+				id: "minecraft:diamond_block"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "0E3ED5ED18569A2B"
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+			weight: 0.05f
+		}
+		{
+			id: "70B853B0E0E2CFBC"
+			item: {
+				count: 1
+				id: "minecraft:netherite_block"
+			}
+			weight: 0.02f
+		}
+	]
+}

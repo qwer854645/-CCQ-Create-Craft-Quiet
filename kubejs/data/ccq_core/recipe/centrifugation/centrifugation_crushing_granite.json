@@ -1,0 +1,21 @@
+﻿{
+    "type":  "vintageimprovements:centrifugation",
+    "ingredients":  [
+                        {
+                            "count":  4,
+                            "item":  "ccq_core:crushing_granite"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  2,
+                        "id":  "minecraft:redstone"
+                    },
+                    {
+                        "count":  1,
+                        "id":  "minecraft:gravel"
+                    }
+                ],
+    "processing_time":  1000
+}
+

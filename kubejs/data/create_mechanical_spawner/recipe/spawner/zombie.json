@@ -1,0 +1,19 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+    {
+      "count": 6,
+      "id": "minecraft:rotten_flesh"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_zombie"
+  },
+  "output": "minecraft:zombie",
+  "processingTime": 1500
+}

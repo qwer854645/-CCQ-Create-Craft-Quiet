@@ -1,0 +1,13 @@
+{
+    "options.particles.minecraft.trail": "轨迹",
+    "sodium-extra.option.sun": "太阳",
+    "options.particles.minecraft.block_crumble.tooltip": "嘎枝因嘎枝之心被破坏而消失时产生的方块碎裂粒子",
+    "options.particles.minecraft.ominous_spawning": "不祥产生",
+    "options.particles.minecraft.trail.tooltip": "切换生物与其相连的心灵方块之间的粒子轨迹.有助于追踪连接关系,但可能会影响性能.",
+    "options.particles.minecraft.ominous_spawning.tooltip": "不祥之兆生成时的粒子效果设置.",
+    "sodium-extra.option.moon": "月亮",
+    "sodium-extra.option.moon.tooltip": "如果启用,月亮将会被渲染.",
+    "options.particles.minecraft.block_crumble": "方块碎裂",
+    "sodium-extra.option.sun.tooltip": "如果启用,太阳将会被渲染.",
+    "options.particles.minecraft.trial_spawner_detection_ominous": "试炼生成器探测不祥"
+}

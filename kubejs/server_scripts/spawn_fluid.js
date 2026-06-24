@@ -1,0 +1,124 @@
+ServerEvents.recipes(event => {
+
+    const create = event.recipes.create
+    const farmer = event.recipes.farmersdelight
+     //删掉一些培养液，改一些培养液
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_fox')
+  event.remove('create:fill_minecraft_bucket_with_create_mechanical_spawner_spawn_fluid_fox')
+  event.remove('create_mechanical_spawner:spawner/fox')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_witch')
+  event.remove('create:fill_minecraft_bucket_with_create_mechanical_spawner_spawn_fluid_witch')
+  event.remove('create_mechanical_spawner:spawner/witch')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_wolf')
+  event.remove('create:fill_minecraft_bucket_with_create_mechanical_spawner_spawn_fluid_wolf')
+  event.remove('create_mechanical_spawner:spawner/wolf')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_parrot')
+  event.remove('create:fill_minecraft_bucket_with_create_mechanical_spawner_spawn_fluid_parrot')
+  event.remove('create_mechanical_spawner:spawner/parrot')
+
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_pig')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_bat')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_chicken')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_cow')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_bee')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_horse')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_panda')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_rabbit')
+  event.remove('create_mechanical_spawner:spawn_fluid_eachantment_industry_experience')
+  event.remove('create_mechanical_spawner:mixing/spawn_fluid_slime')
+  //随机
+  create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',1000),
+   [
+    'northstar:enriched_glowstone_ore',
+    Fluid.of('create_enchantment_industry:experience',500),
+    Fluid.of('minecraft:water',500)
+   ]
+).id('ccq_core:random_spawner')
+  //守卫者
+  create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_bat',250),
+   [
+    'minecraft:prismarine_shard',
+    'minecraft:prismarine_crystals',
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',100)
+   ]
+).id('ccq_core:guardian_spawner')
+/*//蠹虫
+create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_chicken',250),
+   [
+    'create:experience_nugget',
+    'create:experience_nugget',
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',100)
+   ]
+).id('ccq_core:silverfish_spawner')*/
+//海龟
+create.mixing(
+   Fluid.of('create_mechanical_spawner:spawn_fluid_chicken',250),
+  [
+   'minecraft:turtle_egg',
+   Fluid.of('create_mechanical_spawner:spawn_fluid_random',100)
+  ]
+).id('ccq_core:turtle_spawner')
+//尸壳
+create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_cow',250),
+   [
+    'minecraft:rotten_flesh',
+    'minecraft:sand',
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',100)
+   ]
+).id('ccq_core:husk_spawner')
+//末影螨
+create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_bee',250),
+   [
+    'minecraft:chorus_fruit',
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',100)
+   ]
+).id('ccq_core:endermite_spawner')
+//嗅探兽
+create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_horse',250),
+   [
+    'minecraft:sniffer_egg',
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',100)
+   ]
+).id('ccq_core:sniffer_spawner')
+//监守者
+create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_rabbit',250),
+   [
+    'minecraft:sculk_catalyst',
+    'minecraft:sculk',
+    'minecraft:gold_ingot',
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',50)
+   ]
+).id('ccq_core:warden_spawner')
+//幻翼
+create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_pig',250),
+   [
+    'minecraft:phantom_membrane',
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',100)
+   ]
+).id('ccq_core:phantom_spawner')
+//疣猪兽
+create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_slime',250),
+   [
+    'mynethersdelight:hoglin_loin',
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',100)
+   ]
+).id('ccq_core:hoglin_spawner')
+//潜影贝
+create.mixing(
+    Fluid.of('create_mechanical_spawner:spawn_fluid_panda',250),
+   [
+    'minecraft:shulker_shell',
+    Fluid.of('create_mechanical_spawner:spawn_fluid_random',100)
+   ]
+).id('ccq_core:shulker_spawner')
+
+})

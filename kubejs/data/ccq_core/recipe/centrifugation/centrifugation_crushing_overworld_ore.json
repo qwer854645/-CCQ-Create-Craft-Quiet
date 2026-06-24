@@ -1,0 +1,26 @@
+﻿{
+    "type":  "vintageimprovements:centrifugation",
+    "ingredients":  [
+                        {
+                            "count":  1,
+                            "item":  "ccq_core:crushing_raw_overworld_ore"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "createnuclear:raw_lead"
+                    },
+                    {
+                        "count":  1,
+                        "chance": 0.6,
+                        "id":  "createnuclear:raw_lead"
+                    },
+                    {
+                        "count":  1,
+                        "id":  "createnuclear:raw_uranium"
+                    }
+                ],
+    "processing_time":  1000
+}
+

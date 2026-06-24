@@ -1,0 +1,24 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+    {
+     "count": 2,
+      "id": "ends_delight:raw_ender_mite_meat"
+    },
+    {
+      "chance": 0.5,
+      "count": 2,
+      "id": "ends_delight:raw_ender_mite_meat"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_bee"
+  },
+  "output": "minecraft:endermite",
+  "processingTime": 500
+}

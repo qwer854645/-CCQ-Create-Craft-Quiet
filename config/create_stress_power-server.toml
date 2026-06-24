@@ -1,0 +1,41 @@
+#Stress generator settings
+[generator]
+	#Forge Energy per tick at 256 RPM (before generator efficiency).
+	# Default: 720
+	# Range: > 1
+	fe_at_max_rpm = 720
+	#Generator efficiency multiplier.
+	# Default: 0.8
+	# Range: 0.01 ~ 1.0
+	efficiency = 0.8
+	#Stress impact per RPM.
+	# Default: 56.0
+	# Range: 0.0 ~ 1024.0
+	stress_impact_per_rpm = 56.0
+	#Minimum RPM required to generate energy.
+	# Default: 32
+	# Range: 1 ~ 256
+	min_rpm = 32
+	#Internal FE buffer.
+	# Default: 8000
+	# Range: > 1
+	internal_capacity = 8000
+	#Maximum FE/t output.
+	# Default: 8000
+	# Range: > 1
+	max_output = 8000
+
+#Stress motor settings
+[motor]
+	#Motor efficiency (FE to stress conversion).
+	# Default: 0.72
+	# Range: 0.01 ~ 1.0
+	efficiency = 0.72
+	#Stress capacity per RPM.
+	# Default: 40.0
+	# Range: 0.0 ~ 1024.0
+	stress_capacity_per_rpm = 40.0
+	#Maximum configurable RPM.
+	# Default: 256
+	# Range: 1 ~ 256
+	max_rpm = 256

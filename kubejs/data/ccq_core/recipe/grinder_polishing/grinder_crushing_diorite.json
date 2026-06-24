@@ -1,0 +1,16 @@
+﻿{
+    "type":  "vintageimprovements:polishing",
+    "ingredients":  [
+                        {
+                            "item":  "ccq_core:crushing_diorite"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "minecraft:quartz"
+                    }
+                ],
+    "processing_time":  50,
+    "speed_limits":  3
+}

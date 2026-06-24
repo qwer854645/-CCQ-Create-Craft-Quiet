@@ -1,0 +1,25 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+ "customLoot": [
+    {
+      "chance": 0.8,
+      "count": 2,
+      "id": "minecraft:gold_ingot"
+    },
+{
+      "chance": 0.01,
+      "count": 1,
+      "id": "minecraft:netherite_upgrade_smithing_template"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_pigling"
+  },
+  "output": "minecraft:piglin",
+  "processingTime": 2000
+}

@@ -1,0 +1,132 @@
+{
+	icon: {
+		id: "create_mechanical_spawner:spawn_fluid_random_bucket"
+	}
+	id: "1C5AB3AA1CC484A3"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{
+			count: 16
+			id: "3F5DE91C2C61AD6E"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_random_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "34391DA46D427270"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_blaze_bucket"
+			}
+		}
+		{ id: "650D0B5FEA39F85C", item: { count: 1, id: "create_mechanical_spawner:spawn_fluid_creeper_bucket" } }
+		{
+			count: 16
+			id: "07C9BA600C62422A"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_drowned_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "440A512D1E027EEC"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_evoker_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "4A064A48D5742479"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_ghast_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "737A4244F5C69463"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_magma_cube_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "12FEFC7600414721"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_pigling_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "64E2304D24505CB1"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_skeleton_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "61EAC2C0D6C18154"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_slime_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "474168B7416CA759"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_spider_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "4B4259CA0E40C191"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_zombie_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "1588C39D537E38AF"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_wither_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "12D0A3F8C19E16AA"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_bat_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "7AC3DFBE05DA2F2C"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_chicken_bucket"
+			}
+		}
+		{
+			count: 16
+			id: "5F8AE1F425ACE03C"
+			item: {
+				count: 1
+				id: "create_mechanical_spawner:spawn_fluid_panda_bucket"
+			}
+		}
+		{ id: "25F9B43C287A6077", item: { count: 1, id: "create_mechanical_spawner:spawn_fluid_rabbit_bucket" } }
+	]
+}

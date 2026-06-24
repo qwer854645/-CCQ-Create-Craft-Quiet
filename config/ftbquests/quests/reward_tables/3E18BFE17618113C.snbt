@@ -1,0 +1,37 @@
+{
+	icon: {
+		id: "minecraft:iron_ingot"
+	}
+	id: "3E18BFE17618113C"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_"
+	}
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ id: "16CE431C79FF581D", item: { count: 1, id: "minecraft:iron_shovel" } }
+		{ id: "4841980B16CB61AF", item: { count: 1, id: "minecraft:iron_pickaxe" } }
+		{ id: "37A46016B0F97CDE", item: { count: 1, id: "minecraft:iron_axe" } }
+		{ id: "27DAD4A29B5851D3", item: { count: 1, id: "minecraft:iron_hoe" } }
+		{ id: "19FB22C9D8D5F5B3", item: { count: 1, id: "minecraft:iron_sword" } }
+		{ id: "2424E4553CE18325", item: { count: 1, id: "minecraft:iron_helmet" } }
+		{ id: "039FDE4C4D2139D7", item: { count: 1, id: "minecraft:iron_chestplate" } }
+		{ id: "121AC39CFB6A3828", item: { count: 1, id: "minecraft:iron_leggings" } }
+		{ id: "15D526F343549AC7", item: { count: 1, id: "minecraft:iron_boots" } }
+		{
+			id: "4ADB64F0A155A3D6"
+			item: {
+				count: 1
+				id: "createoreexcavation:drill"
+			}
+			weight: 0.2f
+		}
+		{ id: "349E14FD59B95534", item: { count: 1, id: "farmersdelight:iron_knife" } }
+	]
+}

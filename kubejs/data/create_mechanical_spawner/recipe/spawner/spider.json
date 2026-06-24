@@ -1,0 +1,29 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+    {
+     "count": 2,
+      "id": "minecraft:spider_eye"
+    },
+ {
+      "chance": 0.2,
+      "count": 1,
+      "id": "minecraft:spider_eye"
+    },
+{
+      "chance": 0.6,
+      "count": 1,
+      "id": "minecraft:string"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_spider"
+  },
+  "output": "minecraft:spider",
+  "processingTime": 1800
+}

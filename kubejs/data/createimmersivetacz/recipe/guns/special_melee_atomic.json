@@ -1,0 +1,30 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "pattern": [
+    "DDBDD",
+    "  S  ",
+    "  S  ",
+    "  B  "
+  ],
+  "key": {
+    "B": {
+      "item": "create:brass_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "tacz:modern_kinetic_gun",
+    "components": {
+      "minecraft:custom_data": {
+        "GunId": "create_armorer:special_melee_atomic",
+        "GunFireMode": "SEMI"
+      }
+    }
+  }
+}

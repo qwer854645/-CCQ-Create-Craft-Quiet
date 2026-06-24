@@ -1,0 +1,14 @@
+{
+    "tacz.type.scope.name": "Scope",
+    "tacz.type.muzzle.name": "Muzzle",
+    "tacz.type.stock.name": "Stock",
+    "tacz.type.grip.name": "Grip",
+    "tacz.type.extended_mag.name": "Magazine",
+    "tacz.type.pistol.name": "Pistol",
+    "tacz.type.sniper.name": "Sniper Rifle",
+    "tacz.type.rifle.name": "Rifle",
+    "tacz.type.shotgun.name": "Shotgun",
+    "tacz.type.smg.name": "Submachine Gun",
+    "tacz.type.rpg.name": "Heavy Weapon",
+    "tacz.type.mg.name": "Machine Gun"
+}

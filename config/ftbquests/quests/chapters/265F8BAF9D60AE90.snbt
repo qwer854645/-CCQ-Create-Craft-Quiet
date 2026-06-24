@@ -1,0 +1,44 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "265F8BAF9D60AE90"
+	group: "7446D161BCAFA84C"
+	icon: {
+		id: "farmersdelight:iron_knife"
+	}
+	id: "265F8BAF9D60AE90"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "1804B186C2F1A46B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44743AA103E48543"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "75C278D999B4DDBB"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "2FB615DD50A71A32"
+			tasks: [{
+				id: "042220FC9DC917A6"
+				item: { count: 1, id: "farmersdelight:iron_knife" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+ "customLoot": [
+    {
+      "chance": 0.5,
+      "count": 2,
+      "id": "minecraft:shulker_shell"
+    },
+{
+      "count": 1,
+      "id": "ends_delight:shulker_meat"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_panda"
+  },
+  "output": "minecraft:shulker",
+  "processingTime": 1500
+}

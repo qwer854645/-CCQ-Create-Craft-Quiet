@@ -1,0 +1,22 @@
+﻿{
+    "type":  "vintageimprovements:centrifugation",
+    "ingredients":  [
+                        {
+                            "count":  2,
+                            "item":  "ccq_core:crushing_blackstone"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  2,
+                        "id":  "minecraft:coal"
+                    },
+                    {
+                        "count":  1,
+                        "chance": 0.8,
+                        "id":  "createnuclear:coal_dust"
+                    }
+                ],
+    "processing_time":  1000
+}
+

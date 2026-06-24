@@ -1,0 +1,166 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "5EC6F746A2E3EA83"
+	group: "40D9AA552FD9F863"
+	icon: {
+		id: "createaddition:electric_motor"
+	}
+	id: "5EC6F746A2E3EA83"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["637D679A5F9512C7"]
+			icon: {
+				id: "createaddition:capacitor"
+			}
+			id: "22B4CD63112B7670"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "37BDD67887ED03BD"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1EF58F71975D6C88"]
+			id: "2D9313E4777DA5E7"
+			tasks: [{
+				id: "0B6D16B871CF8780"
+				item: { count: 1, id: "createaddition:alternator" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7E8808DA7D0B9645"]
+			id: "1EF58F71975D6C88"
+			tasks: [{
+				id: "3C93E90F9D44D026"
+				item: { count: 1, id: "createaddition:copper_spool" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["22B4CD63112B7670"]
+			id: "7E8808DA7D0B9645"
+			tasks: [{
+				id: "1B1F8A06AF47C206"
+				item: { count: 1, id: "createaddition:rolling_mill" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7E8808DA7D0B9645"]
+			id: "386E51C27B4669AE"
+			tasks: [{
+				id: "680E142610433F94"
+				item: { count: 1, id: "createaddition:gold_spool" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1EF58F71975D6C88"]
+			id: "64F6E8A08692AE94"
+			tasks: [{
+				id: "6C58716409EB8B1F"
+				item: { count: 1, id: "createaddition:electric_motor" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1EF58F71975D6C88"
+				"2D9313E4777DA5E7"
+				"64F6E8A08692AE94"
+			]
+			id: "0580D72A066597EB"
+			tasks: [{
+				id: "2A40658CA39888C9"
+				item: { count: 1, id: "createaddition:connector" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["386E51C27B4669AE"]
+			id: "703303222D623C2F"
+			tasks: [{
+				id: "6F2D63869AF4A8F1"
+				item: { count: 1, id: "createaddition:large_connector" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"703303222D623C2F"
+				"0580D72A066597EB"
+			]
+			id: "67A00DFA86C385F6"
+			tasks: [{
+				id: "501B6D5028D99215"
+				item: { count: 1, id: "createaddition:modular_accumulator" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"67A00DFA86C385F6"
+				"4A93B5EAF7E9FCF3"
+			]
+			id: "654A96EE0B3D690A"
+			tasks: [{
+				id: "73D31DBB98906947"
+				item: { count: 1, id: "createaddition:portable_energy_interface" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D9313E4777DA5E7"]
+			id: "0F3330933341E31D"
+			tasks: [{
+				id: "30B08B30A50B2E38"
+				item: { count: 1, id: "createaddition:tesla_coil" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0F3330933341E31D"]
+			id: "30B9B8C2AECCECA4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "438781983BDF2C7F"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2D4A87399F2F8A2A"
+				item: { count: 1, id: "createaddition:electrum_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+	]
+}

@@ -1,0 +1,16 @@
+#Server ticks between Egg Producer work checks. Higher values are better for servers; production progress is scaled.
+# Default: 20
+# Range: 1 ~ 200
+eggProducerTickInterval = 20
+#Extra delay before an idle Egg Producer checks inputs again after it has no seeds, water, speed, or output space.
+# Default: 100
+# Range: 20 ~ 1200
+eggProducerIdleRecheckTicks = 100
+#Allow Incubator server processing. Disable for maximum TPS if players do not need it.
+incubatorEnabled = true
+#Server ticks between Incubator work checks. Higher values are better for servers; timers are scaled.
+# Default: 20
+# Range: 1 ~ 200
+incubatorTickInterval = 20
+#Allow Incubators to spawn real chicken entities. Keep false for server performance.
+incubatorAllowChickenSpawning = false

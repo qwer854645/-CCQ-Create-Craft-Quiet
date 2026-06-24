@@ -1,0 +1,30 @@
+{
+  "block.ccq_core.mob_essence": "生物精华",
+  "fluid_type.ccq_core.mob_essence": "生物精华",
+  "fluid_type.ccq_core.mob_essence_flowing": "生物精华",
+  "item.ccq_core.mob_essence_bucket": "生物精华桶",
+
+  "block.ccq_core.cooling_liquid": "冷却液",
+  "fluid_type.ccq_core.cooling_liquid": "冷却液",
+  "fluid_type.ccq_core.cooling_liquid_flowing": "冷却液",
+  "item.ccq_core.cooling_liquid": "冷却液桶",
+
+  "item.ccq_core.interplanetary_navigation": "星际航行基础",
+  "item.ccq_core.crushing_granite":"粉碎花岗岩",
+	"item.ccq_core.crushing_diorite":"粉碎闪长岩",
+	"item.ccq_core.crushing_limestone":"粉碎石灰岩",
+	"item.ccq_core.crushing_basalt":"粉碎玄武岩",
+	"item.ccq_core.crushing_andesite":"粉碎安山岩",
+	"item.ccq_core.crushing_shale":"粉碎页岩",
+	"item.ccq_core.crushing_calcite":"粉碎方解石",
+	"item.ccq_core.crushing_blackstone":"粉碎黑石",
+	"item.ccq_core.crushing_tuff":"粉碎凝灰岩",
+  "item.ccq_core.raw_lapis":"粗青金石",
+  "item.ccq_core.raw_amethyst":"粗紫水晶",
+  "item.ccq_core.raw_gem":"宝石矿",
+  "item.ccq_core.crushing_raw_gem":"粉碎宝石矿",
+  "item.ccq_core.raw_overworld_ore":"主世界金属矿石",
+  "item.ccq_core.crushing_raw_overworld_ore":"粉碎主世界金属矿石",
+  "item.ccq_core.raw_nether_ore":"下界矿石",
+  "item.ccq_core.crushing_raw_nether_ore":"粉碎下界矿石"
+}

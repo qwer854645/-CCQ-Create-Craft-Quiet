@@ -1,0 +1,16 @@
+﻿{
+    "type":  "vintageimprovements:polishing",
+    "ingredients":  [
+                        {
+                            "item":  "ccq_core:crushing_raw_overworld_ore"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "createpropulsion:raw_platinum"
+                    }
+                ],
+    "processing_time":  50,
+    "speed_limits":  2
+}

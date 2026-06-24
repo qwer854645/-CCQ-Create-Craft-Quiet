@@ -1,0 +1,695 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7E4525E2F4697F2C"
+	group: "40D9AA552FD9F863"
+	icon: {
+		id: "northstar:telescope"
+	}
+	id: "7E4525E2F4697F2C"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["637D679A5F9512C7"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "6A75E98D6A1B88F0"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "7F4BE70779340AF9"
+				type: "checkmark"
+			}]
+			x: -23.25d
+			y: 9.75d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			id: "61231B2F45BFF40C"
+			tasks: [{
+				id: "4E899471DCFA331C"
+				item: { count: 1, id: "northstar:telescope" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			id: "72116C123980BCB6"
+			tasks: [{
+				id: "578F479470006EBC"
+				item: { count: 1, id: "northstar:astronomy_table" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["61231B2F45BFF40C"]
+			id: "6A5DF8AC94E45A17"
+			tasks: [{
+				id: "7A9AD8F16666A4CA"
+				item: { count: 1, id: "northstar:astronomical_reading" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: 15.5d
+		}
+		{
+			dependencies: [
+				"72116C123980BCB6"
+				"6A5DF8AC94E45A17"
+			]
+			id: "511E577C7FADFABA"
+			tasks: [{
+				id: "4237A8C53487CBC9"
+				item: { count: 1, id: "northstar:star_map" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["786BAC54D522E026"]
+			dependency_requirement: "one_started"
+			id: "23ECA5E8A43E1951"
+			rewards: [{
+				count: 10
+				id: "6DB086ED6256CCAF"
+				item: {
+					count: 1
+					id: "northstar:titanium_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A045F951FFA077B"
+				item: { count: 1, id: "northstar:titanium_ingot" }
+				type: "item"
+			}]
+			x: -17.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			id: "570D7092659E0C72"
+			tasks: [{
+				id: "2E11F2E3446D8472"
+				item: { count: 1, id: "create:limestone" }
+				type: "item"
+			}]
+			x: -22.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["570D7092659E0C72"]
+			id: "731124644169310C"
+			tasks: [{
+				id: "6685A358803A3A80"
+				item: { count: 1, id: "northstar:rutile_concentrate" }
+				type: "item"
+			}]
+			x: -20.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			id: "22FCFBBD91BF701B"
+			tasks: [{
+				id: "4A2D1570B0161306"
+				item: { count: 1, id: "northstar:salt" }
+				type: "item"
+			}]
+			x: -21.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["22FCFBBD91BF701B"]
+			id: "1230CECA5C89FBF1"
+			tasks: [{
+				id: "2DCEDAB6F1535AF8"
+				item: { count: 1, id: "northstar:sodium_catalyst" }
+				type: "item"
+			}]
+			x: -20.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["731124644169310C"]
+			id: "786BAC54D522E026"
+			tasks: [{
+				id: "72F99CF8FABBF650"
+				item: { count: 1, id: "northstar:titanium_tetrachloride_bucket" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"540A9AE43BDAB4CB"
+				"6F74B0DE5A5A891C"
+				"3A20C086D168DEEB"
+			]
+			id: "1A48EE3942A09B2D"
+			rewards: [{
+				count: 5
+				id: "206FAAB6D08FF171"
+				item: {
+					count: 1
+					id: "northstar:hardened_precision_mechanism"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AA6A5C6F3E5B1ED"
+				item: { count: 1, id: "northstar:hardened_precision_mechanism" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["23ECA5E8A43E1951"]
+			id: "3A20C086D168DEEB"
+			tasks: [{
+				id: "7EB345F8D916B9BD"
+				item: { count: 1, id: "northstar:titanium_nugget" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"72E2980E3912DE61"
+				"19F6A6C38C6C451D"
+			]
+			id: "6F74B0DE5A5A891C"
+			tasks: [{
+				id: "7D2DD5FA35982268"
+				item: { count: 1, id: "northstar:iron_cogwheel" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["23ECA5E8A43E1951"]
+			id: "7A5B08BD8FD10384"
+			tasks: [{
+				id: "58262AE22A0FE16A"
+				item: { count: 1, id: "northstar:titanium_sheet" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"598A1B2F023B3C6A"
+				"540A9AE43BDAB4CB"
+				"474D63F0D24841E8"
+				"7A5B08BD8FD10384"
+				"5985502E964A105D"
+			]
+			id: "1980B65CF117D3DA"
+			tasks: [{
+				id: "45EFB027C4E200A0"
+				item: { count: 1, id: "northstar:circuit_engraver" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1980B65CF117D3DA"]
+			id: "0F91386334BFA472"
+			tasks: [{
+				id: "45F5043AECB34552"
+				item: { count: 1, id: "northstar:circuit" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			hide_dependency_lines: true
+			id: "21014BAB42B1CC3D"
+			tasks: [{
+				id: "0D93FF2EAC1C5128"
+				item: { count: 1, id: "northstar:polished_diamond" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"0F91386334BFA472"
+				"21014BAB42B1CC3D"
+			]
+			id: "6E6FA51C9ADFD614"
+			tasks: [{
+				id: "01C153111B379153"
+				item: { count: 1, id: "northstar:targeting_computer" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			hide_dependency_lines: true
+			id: "1D820A26875A479F"
+			tasks: [{
+				id: "28C7A9F4E2A08B83"
+				item: { count: 1, id: "northstar:polished_amethyst" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1D820A26875A479F"]
+			id: "5985502E964A105D"
+			tasks: [{
+				id: "4D882DC3769D6C8F"
+				item: { count: 1, id: "northstar:amethyst_crystal" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"0F91386334BFA472"
+				"1A48EE3942A09B2D"
+				"6E6FA51C9ADFD614"
+			]
+			id: "5B7191B863EA63E3"
+			tasks: [{
+				id: "167E775521A2388A"
+				item: { count: 1, id: "northstar:rocket_station" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			id: "19F6A6C38C6C451D"
+			tasks: [{
+				id: "47B8B60C23158E23"
+				item: { count: 1, id: "create:industrial_iron_block" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"0F91386334BFA472"
+				"7A5B08BD8FD10384"
+			]
+			id: "5C17122EE826FAF7"
+			tasks: [{
+				id: "60CFD33F80E665DB"
+				item: { count: 1, id: "northstar:rocket_controls" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			id: "5A83B484137D15D2"
+			tasks: [{
+				id: "1285A0B6DB5FFB8E"
+				item: { count: 1, id: "northstar:oxygen_separator" }
+				type: "item"
+			}]
+			x: -21.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["5A83B484137D15D2"]
+			id: "342E2474F1D4E7B8"
+			tasks: [{
+				id: "0E497163A3C0C96E"
+				item: { count: 1, id: "northstar:rocket_combustion_chamber" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["342E2474F1D4E7B8"]
+			id: "568DB57BB663F6D1"
+			tasks: [{
+				id: "38142C56EE0521C5"
+				item: { count: 1, id: "northstar:jet_engine" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6E6FA51C9ADFD614"]
+			id: "36BB27BC048687F6"
+			tasks: [{
+				id: "0162BB562BA46CFD"
+				item: { count: 1, id: "northstar:computer_rack" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			id: "669495C3E24B44CA"
+			tasks: [{
+				id: "760CCBA0C272F916"
+				item: { count: 1, id: "northstar:durable_fabric" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["669495C3E24B44CA"]
+			id: "2AE3BA0ADF1A5909"
+			tasks: [
+				{
+					id: "0CBA010C7487CFFE"
+					item: { count: 1, id: "northstar:iron_space_suit_helmet" }
+					type: "item"
+				}
+				{
+					id: "3CEA95B253A7A2D5"
+					item: { count: 1, id: "northstar:iron_space_suit_chestpiece" }
+					type: "item"
+				}
+				{
+					id: "6F67FA1029A46460"
+					item: { count: 1, id: "northstar:iron_space_suit_leggings" }
+					type: "item"
+				}
+				{
+					id: "39868857D26037F3"
+					item: { count: 1, id: "northstar:iron_space_suit_boots" }
+					type: "item"
+				}
+			]
+			x: -15.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["5A83B484137D15D2"]
+			id: "2E176A99FA658727"
+			tasks: [{
+				id: "5AC5A19104E095D2"
+				item: { count: 1, id: "northstar:atmospheric_concentrator" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: 11.5d
+		}
+		{
+			dependencies: [
+				"2E176A99FA658727"
+				"2AE3BA0ADF1A5909"
+			]
+			id: "7919183D991FD42A"
+			tasks: [{
+				id: "5760FBDFAEC1E095"
+				item: { count: 1, id: "northstar:oxygen_filler" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["1230CECA5C89FBF1"]
+			id: "6564DC099230C05E"
+			tasks: [{
+				id: "6EF2ADFFCED75EE7"
+				item: { count: 1, id: "northstar:hydrocarbon_bucket" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["140D751D5F395186"]
+			id: "26D6FCC84B3DF501"
+			tasks: [{
+				id: "692FE5CBAA845380"
+				item: { count: 1, id: "northstar:biofuel_bucket" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6A75E98D6A1B88F0"]
+			id: "140D751D5F395186"
+			tasks: [{
+				id: "6868098A66E2C061"
+				item: { count: 1, id: "northstar:dry_plant_fiber" }
+				type: "item"
+			}]
+			x: -21.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"6564DC099230C05E"
+				"26D6FCC84B3DF501"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "minecraft:bucket"
+			}
+			id: "15EDFF663FEBA047"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C70DCF0A9DA85E1"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5802082073E07AC8"
+				type: "checkmark"
+			}]
+			x: -17.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"36BB27BC048687F6"
+				"568DB57BB663F6D1"
+				"5B7191B863EA63E3"
+				"7919183D991FD42A"
+				"511E577C7FADFABA"
+			]
+			icon: {
+				id: "minecraft:firework_rocket"
+			}
+			id: "1BC3834D6AC669E9"
+			tasks: [{
+				id: "26C2291A6A720780"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["1BC3834D6AC669E9"]
+			id: "17AF412F52D8138E"
+			tasks: [{
+				id: "5491F6227DEA7275"
+				item: { count: 1, id: "northstar:lunar_sapphire_shard" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["17AF412F52D8138E"]
+			id: "3666B786BD82F395"
+			tasks: [{
+				id: "3D95CA33188E447A"
+				item: { count: 1, id: "northstar:auto_lander" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["17AF412F52D8138E"]
+			id: "12D484260673511E"
+			tasks: [{
+				id: "7D40E1D5935B3738"
+				item: { count: 1, id: "northstar:interplanetary_navigator" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["17AF412F52D8138E"]
+			id: "1AAB421E6AE3F63E"
+			tasks: [{
+				id: "2A9F4E2990856123"
+				item: { count: 1, id: "northstar:electrolysis_machine" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["17AF412F52D8138E"]
+			id: "2DCD81DDADEB989E"
+			tasks: [{
+				id: "58F5FD8BD0D4CB0E"
+				item: { count: 1, id: "northstar:oxygen_sealer" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["17AF412F52D8138E"]
+			id: "2468A6DFAEBCC55A"
+			tasks: [{
+				id: "47DF4845BD2E2D82"
+				item: { count: 1, id: "northstar:temperature_regulator" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["17AF412F52D8138E"]
+			id: "12E6D997A96FCECC"
+			tasks: [{
+				id: "69598A756C54B1FB"
+				item: { count: 1, id: "northstar:large_fan" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 12.5d
+		}
+		{
+			dependencies: [
+				"12E6D997A96FCECC"
+				"2468A6DFAEBCC55A"
+				"2DCD81DDADEB989E"
+				"1AAB421E6AE3F63E"
+			]
+			icon: {
+				id: "northstar:titanium_space_door"
+			}
+			id: "5F0DD0FEFFE0D73C"
+			tasks: [{
+				id: "4F7FD5A3D255004B"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["12D484260673511E"]
+			id: "63EEC7F8CB2AB0A4"
+			tasks: [{
+				id: "4325948EC30FA0B5"
+				item: { count: 1, id: "northstar:raw_tungsten_ore" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["12D484260673511E"]
+			id: "4444A660ED68C3ED"
+			tasks: [{
+				id: "45174B0BB1E63E36"
+				item: { count: 1, id: "northstar:raw_martian_iron_ore" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["12D484260673511E"]
+			id: "5F19F5922690685D"
+			tasks: [{
+				id: "115E752BE9D0FEA8"
+				item: { count: 1, id: "northstar:raw_glowstone_ore" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["12D484260673511E"]
+			id: "6811D864D4D13CD4"
+			tasks: [{
+				id: "74CB8BCC3F0E829C"
+				item: { count: 1, id: "northstar:volcanic_ash_item" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 11.5d
+		}
+		{
+			dependencies: [
+				"6811D864D4D13CD4"
+				"4444A660ED68C3ED"
+			]
+			id: "7CB6118034A1F83C"
+			tasks: [{
+				id: "0D9A9035077EE87B"
+				item: { count: 1, id: "northstar:martian_steel" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["1BC3834D6AC669E9"]
+			icon: {
+				id: "northstar:moon_sand"
+			}
+			id: "64FD738154770264"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12D545A692459A9B"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "57A5A6B2C4AD58BC"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["17AF412F52D8138E"]
+			id: "7EDA26EA8C44864D"
+			tasks: [{
+				id: "3FD232D6E4B3F1F6"
+				item: { count: 1, id: "northstar:ice_box" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.0d
+		}
+	]
+}

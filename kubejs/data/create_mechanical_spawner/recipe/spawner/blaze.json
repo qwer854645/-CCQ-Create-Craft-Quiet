@@ -1,0 +1,24 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+    {
+     "count": 2,
+      "id": "minecraft:blaze_rod"
+    },
+    {
+      "chance": 0.25,
+      "count": 2,
+      "id": "minecraft:blaze_rod"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_blaze"
+  },
+  "output": "minecraft:blaze",
+  "processingTime": 3000
+}

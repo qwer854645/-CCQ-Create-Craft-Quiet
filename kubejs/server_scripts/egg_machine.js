@@ -1,0 +1,49 @@
+ServerEvents.recipes(event => {
+    const create = event.recipes.create
+    const farmer = event.recipes.farmersdelight
+    event.remove('createeggproduction:empty_egg_collector_block')
+    event.remove('createeggproduction:incubator')
+    create.mechanical_crafting(
+        'createeggproduction:empty_egg_collector_block',
+        [
+            'ggggg',
+            'ggrgg',
+            'aasaa'
+        ],
+        {
+            r:'create_integrated_farming:roost',
+            g:'#createbigcannons:glass',
+            s:'create:shaft',
+            a:'create:andesite_casing'
+        }
+    ).id('ccq_core:empty_egg_collector_block')
+    create.mechanical_crafting(
+        'createeggproduction:egg_collector_block',
+        [
+            'ggggg',
+            'ggrgg',
+            'aasaa'
+        ],
+        {
+            r:'create_integrated_farming:chicken_roost',
+            g:'#createbigcannons:glass',
+            s:'create:shaft',
+            a:'create:andesite_casing'
+        }
+    ).id('ccq_core:egg_collector_block')
+    create.mechanical_crafting(
+        'createeggproduction:incubator',
+        [
+            'ggggg',
+            'ssrss',
+            'bbabb'
+        ],
+        {
+            r:'create_integrated_farming:roost',
+            g:'#createbigcannons:glass',
+            a:'create:shaft',
+            s:'create:copper_sheet',
+            b:'create:brass_casing'
+        }
+    ).id('ccq_core:incubator')
+})

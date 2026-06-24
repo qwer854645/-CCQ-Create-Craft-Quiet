@@ -1,0 +1,26 @@
+﻿{
+    "type":  "vintageimprovements:pressurizing",
+    "secondary_fluid_input":  0,
+    "ingredients":  [
+                        {
+                            "amount":  500,
+                            "fluid":  "minecraft:lava",
+                            "type":  "neoforge:single"
+                        },
+                        {
+                            "count":  1,
+                            "item":  "ccq_core:crushing_andesite"
+                        },
+                        {
+                            "count":  1,
+                            "item":  "ccq_core:crushing_andesite"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "id":  "create:ochrum"
+                    }
+                ],
+    "processing_time":  500
+}
+

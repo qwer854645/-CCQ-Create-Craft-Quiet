@@ -1,0 +1,14 @@
+{
+      "type": "northstar:engraving",
+      "ingredients": [
+        {
+          "item": "createaddition:electrum_sheet"
+        }
+      ],
+      "processing_time": 200,
+      "results": [
+        {
+          "id": "ccq_core:totem_unable"
+        }
+      ]
+    }

@@ -1,0 +1,24 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+    {
+     "count": 2,
+      "id": "minecraft:gunpowder"
+    },
+    {
+      "chance": 0.75,
+      "count": 2,
+      "id": "minecraft:gunpowder"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_creeper"
+  },
+  "output": "minecraft:creeper",
+  "processingTime": 1600
+}

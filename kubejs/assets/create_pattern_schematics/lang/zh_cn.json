@@ -1,0 +1,10 @@
+{
+    "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.behaviour1": "使用_右键点击_选择两个_角落点_.按住_Ctrl_并滚动鼠标可在半空中选择位置.",
+    "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.condition2": "调整与保存中",
+    "tag.item.create_pattern_schematics.pattern_schematic_paper_substitutes": "图案示意图纸张替代品",
+    "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.condition1": "创建选区中",
+    "item.create_pattern_schematics.pattern_schematic_and_quill": "图案示意图与羽毛笔",
+    "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.summary": "用于将世界中的_建筑结构_保存为_.nbt文件_或直接打印成_图案示意图_.",
+    "tag.item.create_pattern_schematics.schematic_paper_substitutes": "示意图纸张替代品",
+    "item.create_pattern_schematics.pattern_schematic_and_quill.tooltip.behaviour2": "在面上使用_Ctrl+滚动_调整尺寸,然后再次右键点击保存."
+}

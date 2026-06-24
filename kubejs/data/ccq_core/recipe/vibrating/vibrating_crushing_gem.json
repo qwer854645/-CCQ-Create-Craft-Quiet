@@ -1,0 +1,30 @@
+﻿{
+    "type":  "vintageimprovements:vibrating",
+    "ingredients":  [
+                        {
+                            "count":  1,
+                            "item":  "ccq_core:crushing_raw_gem"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "createoreexcavation:raw_diamond"
+                    },
+                    {
+                        "count":  2,
+                        "id":  "createoreexcavation:raw_emerald"
+                    },
+                    {
+                        "chance": 0.8,
+                        "count":  1,
+                        "id":  "createoreexcavation:raw_emerald"
+                    },
+                    {
+                        "chance": 0.5,
+                        "count":  1,
+                        "id":  "createoreexcavation:raw_diamond"
+                    }
+                ],
+    "processing_time":  800
+}

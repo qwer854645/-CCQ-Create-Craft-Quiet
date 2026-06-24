@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create:brass_sheet"
+  },
+  "result": {
+    "count": 4,
+    "id": "createimmersivetacz:gernade_casing"
+  }
+}

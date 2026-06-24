@@ -1,0 +1,21 @@
+{
+  "item.create_aeronautics_throwable_rope_connector.throwable_rope_connector": "可投掷绳索连接器",
+  "item.create_aeronautics_throwable_rope_connector.rope_connector_launcher": "绳索连接器发射器",
+  "message.create_aeronautics_throwable_rope_connector.no_valid_anchor_point": "没有有效的锚点",
+  "message.create_aeronautics_throwable_rope_connector.target_too_far": "目标太远",
+  "message.create_aeronautics_throwable_rope_connector.cannot_attach_there": "无法附着在那里",
+  "message.create_aeronautics_throwable_rope_connector.missing_simulated": "Create Simulated 集成不可用",
+  "message.create_aeronautics_throwable_rope_connector.offhand_ammo_required": "请将可投掷绳索连接器放在另一只手上",
+  "create_aeronautics_throwable_rope_connector.configuration.title": "可投掷绳索连接器配置",
+  "create_aeronautics_throwable_rope_connector.configuration.section.create_aeronautics_throwable_rope_connector-common.toml": "可投掷绳索连接器",
+  "create_aeronautics_throwable_rope_connector.configuration.section.create_aeronautics_throwable_rope_connector-common.toml.title": "可投掷绳索连接器",
+  "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.maxThrowDistance": "最大投掷距离",
+  "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.throwVelocity": "投掷速度",
+  "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.launcherMaxDistance": "发射器最大距离",
+  "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.consumeOnSuccessOnly": "仅在成功时消耗",
+  "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.cooldownTicks": "冷却刻数",
+  "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.playParticles": "播放粒子效果",
+  "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.showFailureMessages": "显示失败消息",
+  "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.showProjectileRopeTrail": "显示投射物绳索拖尾",
+  "create_aeronautics_throwable_rope_connector.configuration.throwable_rope_connector.projectileRopeTrailWidth": "投射物绳索拖尾宽度"
+}

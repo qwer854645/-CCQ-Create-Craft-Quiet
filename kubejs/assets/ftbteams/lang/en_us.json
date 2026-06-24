@@ -1,0 +1,14 @@
+{
+    "ftbteams.message.parse_failed": "数值解析失败:%s",
+    "ftbteams.click_show_info": "点击查看团队信息",
+    "ftbteams.message.property_not_editable": "属性 %s 不可编辑!",
+    "ftbteams.message.team_stages_header": "此队伍的 %s 个队伍阶段:",
+    "ftbteams.message.set_property": "已将属性 %s 设置为 %s",
+    "ftbteams.message.added_stage": "已添加队伍阶段:%s",
+    "ftbteams.gui.toggle_chat": "点击切换",
+    "ftbteams.team_already_exists": "队伍 %s 已存在!",
+    "ftbteams.message.chat_redirected.off": "聊天消息将发送至原版聊天频道",
+    "ftbteams.message.no_team_stages": "此队伍暂无任何阶段",
+    "ftbteams.message.chat_redirected.on": "聊天消息已重定向至队伍频道",
+    "ftbteams.message.removed_stage": "已移除队伍阶段:%s"
+}

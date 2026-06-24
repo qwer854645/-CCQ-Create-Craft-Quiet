@@ -1,0 +1,39 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ae"
+	group: "40D9AA552FD9F863"
+	icon: {
+		id: "ae2:drive"
+	}
+	id: "29FE0359F6EE0D7C"
+	order_index: 7
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["1BC3834D6AC669E9"]
+		icon: {
+			id: "ae2:certus_quartz_crystal"
+		}
+		id: "5F94B429C36800F6"
+		rewards: [{
+			id: "7347D1E2D1438471"
+			item: {
+				count: 1
+				id: "minecraft:netherite_pickaxe"
+			}
+			type: "item"
+		}]
+		shape: "gear"
+		size: 1.5d
+		tasks: [{
+			icon: {
+				id: "ae2:certus_quartz_crystal"
+			}
+			id: "247A2B0EA961C146"
+			structure: "ae2:meteorite"
+			type: "structure"
+		}]
+		x: -2.5d
+		y: 0.0d
+	}]
+}

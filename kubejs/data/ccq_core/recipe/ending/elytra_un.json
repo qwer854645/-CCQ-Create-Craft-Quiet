@@ -1,0 +1,13 @@
+{
+  "type": "create_dragons_plus:ending",
+  "ingredients": [
+    {
+      "item": "create:bound_cardboard_block"
+    }
+  ],
+  "results": [
+    {
+      "id": "ccq_core:elytra_unable"
+    }
+  ]
+}

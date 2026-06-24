@@ -1,0 +1,361 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "17685888EF8804CA"
+	group: "09B1E2D6583BAF08"
+	icon: {
+		id: "minecraft:iron_chestplate"
+	}
+	id: "17685888EF8804CA"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4EF1E10B0DE75887"]
+			icon: {
+				id: "minecraft:iron_helmet"
+			}
+			id: "1039F8170C34D92B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D4D72A01D3B6436"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "011890AC893D30E5"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			icon: {
+				id: "minecraft:slime_ball"
+			}
+			id: "274F08C4ECE07659"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C02860A62E90F67"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "4027F55C74DB3A4B"
+					item: { count: 1, id: "create_sa:slime_boots" }
+					type: "item"
+				}
+				{
+					id: "1EDA14A7389C567A"
+					item: { count: 1, id: "create_sa:slime_helmet" }
+					type: "item"
+				}
+				{
+					id: "1DCFE22CB0F6A295"
+					item: { components: { "ftbquests:missing_item": "create_things_and_misc:sticky_boots_boots" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"1039F8170C34D92B"
+				"43781CCBE88A89D3"
+			]
+			icon: {
+				id: "create:cardboard"
+			}
+			id: "339BD3564529C8D4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B1B897858B4FC85"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "3F966F0F6E44E717"
+					item: { count: 1, id: "create:cardboard_helmet" }
+					type: "item"
+				}
+				{
+					id: "658EB78A1432C047"
+					item: { count: 1, id: "create:cardboard_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5B6B5CB6FF1A73C4"
+					item: { count: 1, id: "create:cardboard_leggings" }
+					type: "item"
+				}
+				{
+					id: "32C34086EAB65B82"
+					item: { count: 1, id: "create:cardboard_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1039F8170C34D92B"]
+			icon: {
+				id: "minecraft:armor_stand"
+			}
+			id: "652DC075441329A5"
+			shape: "rsquare"
+			tasks: [{
+				id: "3696C2398BA2E3BB"
+				type: "checkmark"
+			}]
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			icon: {
+				id: "create:copper_diving_helmet"
+			}
+			id: "7916B01706B82413"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4398F6B7F203E8F3"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "206F941DE8AE1C51"
+					item: { count: 1, id: "create:copper_diving_helmet" }
+					type: "item"
+				}
+				{
+					id: "543A9ED414225DC6"
+					item: { count: 1, id: "createfisheryindustry:copper_diving_leggings" }
+					type: "item"
+				}
+				{
+					id: "62FD77E8928027BB"
+					item: { count: 1, id: "create:copper_diving_boots" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7916B01706B82413"]
+			icon: {
+				id: "create:netherite_diving_helmet"
+			}
+			id: "72A4EDCDB9DCB67A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0F0174541F6CCF14"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "3C35E57F5E582C94"
+					item: { count: 1, id: "create:netherite_diving_helmet" }
+					type: "item"
+				}
+				{
+					id: "69C8FD66C2146E9E"
+					item: { count: 1, id: "createfisheryindustry:netherite_diving_leggings" }
+					type: "item"
+				}
+				{
+					id: "131340AB05ED8BA0"
+					item: { count: 1, id: "create:netherite_diving_boots" }
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "6B7D67B91B250CB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7697D43D4FB7F1EA"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1425AA33D17D38E6"
+				item: { components: { "create:banktank_air": 900 }, count: 1, id: "create_jetpack:jetpack" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6B7D67B91B250CB5"]
+			id: "5A30DE70E019A47E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4881806C892CBC9C"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "58493A02B82CBFE1"
+				item: { components: { "create:banktank_air": 900 }, count: 1, id: "create_jetpack:netherite_jetpack" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "487B8A7B1737EB80"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6563DD82ACE7C22D"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1234712A9E34D174"
+				item: { count: 1, id: "create_sa:andesite_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "60074E20842DA3CF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "578BC82FA581C0E6"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "75FC44360A9884BC"
+				item: { count: 1, id: "create_sa:copper_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"60074E20842DA3CF"
+				"487B8A7B1737EB80"
+			]
+			id: "28D99A953A14913C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "313DE2F88E0FF473"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "47EED8E32C4FBDFD"
+				item: { count: 1, id: "create_sa:brass_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["28D99A953A14913C"]
+			id: "20EB2219294A527C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B02F42E2EEE9692"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0DE2BA51326F9C46"
+				item: { count: 1, id: "create_sa:netherite_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "69CCE57A6AAB9823"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DDA1C0943527017"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "43C8CA0808EC2BF9"
+				item: { count: 1, id: "create_sa:andesite_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "1D1D7F8B10D5845F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "664A04E267742EF7"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7F56BB6712F3DB97"
+				item: { count: 1, id: "create_sa:copper_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"69CCE57A6AAB9823"
+				"1D1D7F8B10D5845F"
+			]
+			id: "648624CE5B55C071"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11FDE8183133FEA5"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1DC44EFC9762537D"
+				item: { count: 1, id: "create_sa:brass_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1039F8170C34D92B"]
+			id: "29BD8740298436C1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "134AD3ECA67E065A"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "78A6072A409C7613"
+				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+	]
+}

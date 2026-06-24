@@ -1,0 +1,9 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_villager"
+  },
+  "output": "minecraft:villager",
+  "processingTime": 6000
+}

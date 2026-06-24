@@ -1,0 +1,117 @@
+#Percentage of locally received stress consumed by the void motor input.
+#The remainder is injected into the voidway channel.
+# Default: 10
+# Range: 0 ~ 100
+voidMotorInputLocalStressPercent = 10
+#Percentage of channel stress contribution consumed as void transfer fluid each tick.
+#The actual drain is the greater of this value and voidMotorInputTransferFluidDrainMinMbPerTick.
+#For example, 1 means 500 SU contributed drains 5 mB per tick.
+# Default: 1
+# Range: 0 ~ 100
+voidMotorInputTransferFluidDrainPercent = 1
+#Minimum void transfer fluid drained per tick while the input is relaying.
+# Default: 5
+# Range: 0 ~ 10000
+voidMotorInputTransferFluidDrainMinMbPerTick = 5
+#Stress demand (SU) for void chest input and output when the linked channel is empty.
+#Demand scales linearly with occupied inventory slots up to voidChestStressAtFullChannel.
+# Default: 256
+# Range: 0 ~ 1000000
+voidChestStressBase = 256
+#Stress demand (SU) for void chest input and output when all channel slots are occupied.
+# Default: 8192
+# Range: 0 ~ 1000000
+voidChestStressAtFullChannel = 8192
+#Void transfer fluid drained per tick while a void chest is operating.
+# Default: 1
+# Range: 0 ~ 10000
+voidChestTransferFluidDrainMbPerTick = 1
+#Stress demand (SU) for void battery input and output when the linked channel is empty.
+#Demand scales linearly with stored energy up to voidBatteryStressAtFullChannel.
+# Default: 256
+# Range: 0 ~ 1000000
+voidBatteryStressBase = 256
+#Stress demand (SU) for void battery input and output when the channel battery is full.
+# Default: 8192
+# Range: 0 ~ 1000000
+voidBatteryStressAtFullChannel = 8192
+#Void transfer fluid drained per tick while a void battery is operating.
+# Default: 1
+# Range: 0 ~ 10000
+voidBatteryTransferFluidDrainMbPerTick = 1
+#Stress demand (SU) for void tank input and output when the linked channel is empty.
+#Demand scales linearly with stored fluid up to voidTankStressAtFullChannel.
+# Default: 256
+# Range: 0 ~ 1000000
+voidTankStressBase = 256
+#Stress demand (SU) for void tank input and output when the channel tank is full.
+# Default: 8192
+# Range: 0 ~ 1000000
+voidTankStressAtFullChannel = 8192
+#Void transfer fluid drained per tick while a void tank is operating.
+# Default: 1
+# Range: 0 ~ 10000
+voidTankTransferFluidDrainMbPerTick = 1
+#Ticks entities must stand on a paired void teleport pad before a batch teleport.
+# Default: 60
+# Range: 1 ~ 6000
+voidTeleportChargeTicks = 60
+#Void transfer fluid consumed per living entity in a batch teleport.
+# Default: 500
+# Range: 0 ~ 100000
+voidTeleportLivingFluidCostMb = 500
+#Void transfer fluid consumed per item entity in a batch teleport.
+# Default: 50
+# Range: 0 ~ 100000
+voidTeleportItemFluidCostMb = 50
+#Base stress demand (SU) added to the distance-scaled portion of a void teleport pad link.
+# Default: 64
+# Range: 0 ~ 1000000
+voidTeleportStressBase = 64
+#Additional stress demand (SU) per block of link distance between paired pads.
+# Default: 12
+# Range: 0 ~ 1000000
+voidTeleportStressPerBlock = 12
+#Minimum stress demand (SU) for a void teleport pad link.
+# Default: 128
+# Range: 0 ~ 1000000
+voidTeleportStressMin = 128
+#Maximum stress demand (SU) for a void teleport pad link, regardless of distance.
+# Default: 8192
+# Range: 0 ~ 1000000
+voidTeleportStressMax = 8192
+#Void transfer fluid moved per tick from the fuller paired pad to the emptier one while rotating.
+#Set to 0 to disable paired fluid balancing.
+# Default: 0
+# Range: 0 ~ 10000
+voidTeleportFluidShareMbPerTick = 0
+#Internal void transfer fluid tank capacity (mB) for void teleport pads.
+# Default: 1000
+# Range: 1 ~ 1000000
+voidTeleportFluidCapacity = 1000
+#Base multiplier for void node terminal stress demand.
+#Demand = this value x terminal count x dimension count x farthest same-dimension terminal distance.
+#If the current dimension has only one terminal, the distance factor is treated as 1.
+# Default: 64
+# Range: 0 ~ 1000000
+voidNodeTerminalStressDemand = 64
+#Maximum stress demand (SU) for a void node terminal after dynamic scaling.
+# Default: 16384
+# Range: 0 ~ 1000000
+voidNodeTerminalStressMax = 16384
+#Void transfer fluid drained per tick while a void node terminal is operating.
+# Default: 1
+# Range: 0 ~ 10000
+voidNodeTerminalTransferFluidDrainMbPerTick = 1
+#Void transfer fluid consumed when teleporting through a void node terminal.
+# Default: 500
+# Range: 0 ~ 100000
+voidNodeTerminalTeleportFluidCostMb = 500
+#Void transfer fluid consumed from the destination void node terminal when teleporting via a portable void terminal.
+# Default: 4000
+# Range: 0 ~ 100000
+portableVoidTerminalTeleportFluidCostMb = 4000
+#Seconds a void node terminal cannot send or receive teleports after a portable void terminal teleport.
+# Default: 20
+# Range: 0 ~ 3600
+portableVoidTerminalCooldownSeconds = 20

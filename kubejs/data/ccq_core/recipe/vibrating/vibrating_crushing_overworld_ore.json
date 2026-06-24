@@ -1,0 +1,30 @@
+﻿{
+    "type":  "vintageimprovements:vibrating",
+    "ingredients":  [
+                        {
+                            "count":  1,
+                            "item":  "ccq_core:crushing_raw_overworld_ore"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "minecraft:raw_gold"
+                    },
+                    {
+                        "count":  2,
+                        "id":  "create:raw_zinc"
+                    },
+                    {
+                        "chance": 0.8,
+                        "count":  1,
+                        "id":  "create:raw_zinc"
+                    },
+                    {
+                        "chance": 0.5,
+                        "count":  1,
+                        "id":  "minecraft:raw_gold"
+                    }
+                ],
+    "processing_time":  800
+}

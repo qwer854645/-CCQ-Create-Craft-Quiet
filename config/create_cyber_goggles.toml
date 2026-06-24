@@ -1,0 +1,176 @@
+# 边框渲染
+[outliner]
+	# 更好的连接线
+	# 优化部分渲染连接线
+	betterLine = true
+	# 向内颜色
+	# 模拟盒向内时显示的颜色
+	inColor = 8375776
+	# 彩虹调试
+	# 启用彩虹调试模式
+	rainbowDebug = false
+	# 延时渲染时长
+	# 模拟盒继续渲染的时长 [Ticks]
+	delayRenderDuration = 60
+	# 向外颜色
+	# 模拟盒向外时显示的颜色
+	outColor = 14532966
+	# 渲染模拟盒
+	# 渲染各种方块显示的模拟盒
+	renderAnalogBox = true
+
+# 叠加层
+[overlay]
+	# 边框底部颜色
+	# 自定义的边框底部颜色
+	borderBottomColor = 0
+	# 使用自定义颜色
+	# 为物品信息叠加层启用自定义颜色
+	useCustomColor = false
+	# 背景颜色
+	# 自定义的背景颜色
+	backgroundColor = 0
+	# 渲染物品信息叠加层
+	# 允许渲染方块上的物品信息叠加层
+	renderItemOverlay = true
+	# 提示框主题
+	# 选择提示框的主题样式
+	tooltipTheme = "Default"
+	# 叠加层垂直偏移
+	# 物品信息叠加层的垂直偏移量
+	# 正数向下，负数向上
+	overlayOffsetY = 0
+	# 叠加层水平偏移
+	# 物品信息叠加层的水平偏移量
+	# 正数向右，负数向左
+	overlayOffsetX = 0
+	# 提示框类型
+	# 选择提示框的显示类型
+	tooltipFlagType = "Default"
+	# 边框顶部颜色
+	# 自定义的边框顶部颜色
+	borderTopColor = 0
+
+# 护目镜
+[goggles]
+	# 额外物品工具提示
+	# 在物品工具提示中显示额外信息
+	extraItemTooltip = true
+	# 高级信息显示
+	# 让护目镜显示更多信息
+	enhancedInfo = true
+	# 隐藏静态旋转信息
+	# 在护目镜中隐藏静态方块的旋转信息
+	hideStaticKineticInfo = false
+	# 禁用界面内护目镜
+	# 任意界面出现时禁用护目镜显示
+	disableScreenGoggles = true
+	# 允许值框出现时渲染
+	# 出现值框时允许渲染护目镜工具提示
+	canRenderOnValueBox = false
+	# 渲染旋转粒子
+	# 渲染目标方块的旋转粒子效果
+	enableKineticEffect = true
+	# 更好的商店信息
+	# 优化桌布商店信息显示以及操作逻辑
+	betterStoreInfo = true
+	# 精确数值
+	# 显示更加精确的数值信息
+	preciseNumber = true
+
+# 锁链传动轮
+[chainConveyor]
+	# 阻止自动分离
+	# 阻止在锁链传动轮上因为障碍物而自动分离
+	preventFalling = false
+	# 自动打包自己
+	# 挂上锁链时自动变成纸箱
+	cardBoardedYourself = false
+	# 始终允许悬挂
+	# 无需扳手即可悬挂在锁链传动轮上
+	alwaysAllowRiding = false
+	# 增强型连接
+	# 移除锁链传动轮的最小距离和最大倾角限制
+	enhancedConnection = true
+
+# 游戏模式
+[gameMode]
+	# 创造模式启用
+	# 在创造模式下始终启用护目镜
+	enableInCreative = true
+	# 生存模式启用
+	# 在生存模式下始终启用护目镜
+	enableInSurvival = false
+	# 冒险模式启用
+	# 在冒险模式下始终启用护目镜
+	enableInAdventure = true
+	# 启用护目镜
+	# 护目镜主开关
+	enableGoggles = true
+	# 旁观模式启用
+	# 在旁观模式下始终启用护目镜
+	enableInSpectator = true
+
+# 扳手
+[wrench]
+	# 增强的旋转菜单
+	# 允许方块旋转菜单修改更多方块属性
+	# §c警告：在服务器上可能被视为作弊
+	enchancedRotationMenu = false
+	# 更好的齿轮箱
+	# 空手时允许右键切换齿轮箱的开关状态
+	betterEncasedCogwheel = true
+	# 更好的底盘
+	# 空手时允许右键切换底盘的胶粘状态
+	betterChassis = true
+	# 移除冷却
+	# 移除方块旋转菜单的冷却时间
+	removeCooldown = true
+	# 左键快速拆除
+	# 使用左键单击立即拆除组件
+	leftClickFastDismantle = true
+	# 始终允许旋转方块
+	# 无需扳手即可通过快捷键旋转方块
+	alwaysAllowRotating = true
+	# 更好的管道箱
+	# 空手时允许右键切换管道箱的开关状态
+	betterEncasedPipe = true
+	# 始终显示滚动值
+	# 始终在方块上显示滚动值
+	alwaysShowScrollValue = true
+
+# 杂项
+[misc]
+	# 移除纸板套视线遮挡
+	# 移除纸板套在潜行时的视线遮挡
+	removeCardboardOverlay = true
+	# 移除动力臂限制
+	# 移除动力臂的距离限制
+	removeMechanicalArmLimit = false
+	# 允许潜水靴
+	# 潜水靴的功能，禁用以使它们像普通的靴子一样
+	allowDivingBoot = true
+	# 移除第一人称背罐渲染
+	# 移除下界合金背罐的第一人称渲染效果
+	removeNetheriteFirstPerson = false
+	# 防止选区丢弃
+	# 防止在切换物品时丢弃选区
+	preventSelectionDiscard = true
+	# 修复蓝图名称
+	# 保存蓝图时可以使用非 ASCII 字符
+	fixSchematicName = true
+	# NBT 修复
+	# 修复 NBT 过长而导致的崩溃，可能导致卡顿
+	nbtFix = false
+	# 强制飞轮优化
+	# 强制启用飞轮渲染后端（与着色器冲突，除非你知道你在做什么）
+	forcedBackend = false
+	# 显示废料内容
+	# 显示序列组装中随机废料的具体内容
+	showScrapContent = true
+	# 移除请求限制
+	# 移除工厂仪表和红石请求器的请求数量限制并优化快速滚动
+	removeRequestLimit = true
+	# 无限编辑框长度
+	# 无限编辑框长度（实际上是 2^31 -1）
+	infEditBoxLength = false

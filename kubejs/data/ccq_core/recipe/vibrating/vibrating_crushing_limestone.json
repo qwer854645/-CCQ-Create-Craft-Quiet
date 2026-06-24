@@ -1,0 +1,21 @@
+﻿{
+    "type":  "vintageimprovements:vibrating",
+    "ingredients":  [
+                        {
+                            "count":  1,
+                            "item":  "ccq_core:crushing_limestone"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "createnuclear:lead_nugget"
+                    },
+                    {
+                        "chance": 0.8,
+                        "count":  1,
+                        "id":  "create:zinc_nugget"
+                    }
+                ],
+    "processing_time":  800
+}

@@ -1,0 +1,22 @@
+﻿{
+    "type":  "vintageimprovements:centrifugation",
+    "ingredients":  [
+                        {
+                            "count":  2,
+                            "item":  "ccq_core:crushing_shale"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  2,
+                        "chance": 0.8,
+                        "id":  "ccq_core:raw_lapis"
+                    },
+                    {
+                        "count":  1,
+                        "id":  "minecraft:coal"
+                    }
+                ],
+    "processing_time":  800
+}
+

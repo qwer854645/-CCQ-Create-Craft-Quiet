@@ -1,0 +1,53 @@
+# Runtime / local game data
+saves/
+logs/
+crash-reports/
+screenshots/
+schematics/
+simplebackups/
+downloads/
+debug/
+local/
+oei/
+xaero/
+XaeroWaypoints_BACKUP*/
+tacz_backup*/
+CustomSkinLoader/
+
+# Generated caches
+.mixin.out/
+.sable/
+.gunsmithlib/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+moonlight-global-datapacks/
+fancymenu_data/
+natives-windows-x86_64/
+patchouli_books/
+
+# Mod binaries (see modlist.txt; install via launcher or scripts)
+mods/
+*.jar
+!modlist.txt
+
+# Player-specific / session files
+options.txt
+servers.dat
+servers.dat_old
+usercache.json
+usernamecache.json
+command_history.txt
+authlib-injector.log
+imgui.ini
+cherishedworlds-favorites.dat
+patchouli_data.json
+ponders_watched.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/

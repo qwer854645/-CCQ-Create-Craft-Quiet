@@ -1,0 +1,17 @@
+{
+  "compatibleMode": false,
+  "blackList": [
+    "minecraft:chat_command_signed",
+    "minecraft:player_info_remove",
+    "minecraft:player_info_update",
+    "minecraft:command_suggestion",
+    "minecraft:commands",
+    "minecraft:chat_command",
+    "minecraft:command_suggestions"
+  ],
+  "debugLog": false,
+  "contextLevel": 23,
+  "dccSizeLimit": 200,
+  "dccDistance": 15,
+  "dccTimeout": 60
+}

@@ -1,0 +1,15 @@
+﻿{
+    "type":  "vintageimprovements:vacuumizing",
+    "ingredients":  [
+                        {
+                            "item":  "create:limestone"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "quark:limestone"
+                    }
+                ],
+    "processing_time":  600
+}

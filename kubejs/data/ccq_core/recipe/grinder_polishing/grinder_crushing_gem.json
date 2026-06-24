@@ -1,0 +1,16 @@
+﻿{
+    "type":  "vintageimprovements:polishing",
+    "ingredients":  [
+                        {
+                            "item":  "ccq_core:crushing_raw_gem"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  2,
+                        "id":  "ccq_core:raw_amethyst"
+                    }
+                ],
+    "processing_time":  50,
+    "speed_limits":  2
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+  {
+    "chance": 0.2,
+    "count": 1,
+    "id": "minecraft:copper_ingot"
+  },
+{
+      "chance": 0.05,
+      "count": 1,
+      "id": "minecraft:trident"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_drowned"
+  },
+  "output": "minecraft:drowned",
+  "processingTime": 1600
+}

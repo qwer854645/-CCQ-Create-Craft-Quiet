@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "pattern": [
+    "FDL",
+    " CR"
+  ],
+  "key": {
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "D": {
+      "item": "create:deployer"
+    },
+    "F": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "L": {
+      "item": "create:large_cogwheel"
+    },
+    "R": {
+      "item": "create:rotation_speed_controller"
+    }
+  },
+  "result": {
+    "item": "createimmersivetacz:firing_mechanism"
+  }
+}

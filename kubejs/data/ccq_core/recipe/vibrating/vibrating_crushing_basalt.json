@@ -1,0 +1,21 @@
+﻿{
+    "type":  "vintageimprovements:vibrating",
+    "ingredients":  [
+                        {
+                            "count":  2,
+                            "item":  "ccq_core:crushing_basalt"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "chance": 0.8,
+                        "count":  1,
+                        "id":  "vintageimprovements:vanadium_nugget"
+                    },
+                    {
+                        "count":  2,
+                        "id":  "minecraft:iron_nugget"
+                    }
+                ],
+    "processing_time":  800
+}

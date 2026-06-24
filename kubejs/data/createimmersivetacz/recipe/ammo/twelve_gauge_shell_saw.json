@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create:brass_sheet"
+  },
+  "result": {
+    "count": 12,
+    "id": "createimmersivetacz:twelve_gauge_shell"
+  }
+}

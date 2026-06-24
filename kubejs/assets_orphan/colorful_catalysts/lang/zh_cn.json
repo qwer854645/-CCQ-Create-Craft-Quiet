@@ -1,0 +1,24 @@
+{
+  "itemGroup.create_colorful_catalysts.main": "Create: 多彩触媒",
+
+  "block.colorful_catalysts.fan_dyeing_white_catalyst": "白色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_light_gray_catalyst": "淡灰色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_gray_catalyst": "灰色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_black_catalyst": "黑色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_brown_catalyst": "棕色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_red_catalyst": "红色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_orange_catalyst": "橙色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_yellow_catalyst": "黄色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_lime_catalyst": "黄绿色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_green_catalyst": "绿色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_cyan_catalyst": "青色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_light_blue_catalyst": "淡蓝色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_blue_catalyst": "蓝色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_purple_catalyst": "紫色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_magenta_catalyst": "品红色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_pink_catalyst": "粉红色鼓风机染色触媒",
+  "block.colorful_catalysts.fan_dyeing_rainbow_catalyst": "彩虹色鼓风机染色触媒",
+  "block.colorful_catalysts.concrete_powder": "混凝土粉末",
+
+  "tag.item.colorful_catalysts.dyed_catalysts": "染色鼓风机触媒"
+}

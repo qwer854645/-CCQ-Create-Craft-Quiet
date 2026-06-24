@@ -1,0 +1,15 @@
+﻿{
+    "type":  "vintageimprovements:vacuumizing",
+    "ingredients":  [
+                        {
+                            "item":  "ccq_core:crushing_raw_nether_ore"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "minecraft:ancient_debris"
+                    }
+                ],
+    "processing_time":  600
+}

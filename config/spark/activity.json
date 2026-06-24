@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "xiao_su_ban",
+      "uniqueId": "c744cd33-2147-3017-ac6c-11997b3b36a0"
+    },
+    "time": 1777387117649,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/oEiP3pVfy3"
+    }
+  }
+]

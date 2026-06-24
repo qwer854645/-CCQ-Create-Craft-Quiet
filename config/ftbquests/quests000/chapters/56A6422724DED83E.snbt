@@ -1,0 +1,248 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "56A6422724DED83E"
+	group: ""
+	icon: {
+		id: "minecraft:iron_pickaxe"
+	}
+	id: "56A6422724DED83E"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["79E41F003C72BBE1"]
+			icon: {
+				id: "minecraft:oak_door"
+			}
+			id: "2C210E04CA9AEFB1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "45D16E2AB05DBC0D"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7D64F7C7303AD0AD"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"2C210E04CA9AEFB1"
+				"62B6B37A640F05D2"
+			]
+			icon: {
+				id: "create:mechanical_drill"
+			}
+			id: "01D65E45F61EDDB1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5395B489A831F04E"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "77A1662A098720EB"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["01D65E45F61EDDB1"]
+			icon: {
+				id: "minecraft:iron_nugget"
+			}
+			id: "5464EB4F8CEC7B9F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "005B254D4A4EF1AD"
+					table_id: 4474537204862423356L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6866BEE57E501F35"
+					table_id: 3011077829130444474L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "3FA3E0A13C213D0F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4EF1E10B0DE75887"]
+			icon: {
+				id: "minecraft:raw_iron"
+			}
+			id: "62B6B37A640F05D2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A718AB4B15B2CB1"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "586A028D066DA8CB"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["01D65E45F61EDDB1"]
+			icon: {
+				id: "minecraft:oak_sapling"
+			}
+			id: "48D088A8E44A9030"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0502C25C1122F145"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "24CA45B66C827116"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"5464EB4F8CEC7B9F"
+				"48D088A8E44A9030"
+			]
+			icon: {
+				id: "minecraft:lava_bucket"
+			}
+			id: "5A17E1D3A01B51BB"
+			rewards: [{
+				id: "355E714C64344635"
+				item: {
+					count: 1
+					id: "quark:grate"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "14267FE54890B622"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5A17E1D3A01B51BB"]
+			id: "4B502AA5C094E24A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67F11A0583EAE7B0"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "011D385F6BC09299"
+				item: { count: 1, id: "minecraft:andesite" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4B502AA5C094E24A"]
+			id: "2D4C9B61E40C81CF"
+			rewards: [{
+				count: 12
+				id: "3FFC7918A7D02802"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7333CD7DE3D434D6"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2D4C9B61E40C81CF"]
+			id: "1988217B05A87186"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5232BE935B33CE50"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4C50CE2209518CF1"
+				item: { count: 1, id: "create:brass_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1988217B05A87186"]
+			id: "14420A7D72D09676"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22828498F82637E6"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "493CC154EFC4EDE2"
+				item: { count: 1, id: "minecraft:dragon_egg" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"20D34C6CA7AFC843"
+				"14420A7D72D09676"
+			]
+			icon: {
+				id: "northstar:enriched_glowstone_ore"
+			}
+			id: "195DF8007C7C31CC"
+			tasks: [{
+				id: "2B5F0AD1F8198856"
+				type: "checkmark"
+			}]
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["14420A7D72D09676"]
+			id: "318ADC29FC1BDE88"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "73FF46038802A019"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "23717ACD07BB7F91"
+				item: { count: 1, id: "minecraft:elytra" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.5d
+		}
+	]
+}

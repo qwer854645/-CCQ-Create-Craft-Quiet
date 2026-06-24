@@ -1,0 +1,6 @@
+{
+    "stat.northstar.rocket_crashes": "火箭坠毁次数",
+    "northstar.generic.unit.gigajoules_per_millibuckets": "千兆焦耳/毫桶",
+    "northstar.generic.unit.millibuckets_per_tick": "毫桶/刻",
+    "northstar.gui.combustion_engine.rpm": "转速:"
+}

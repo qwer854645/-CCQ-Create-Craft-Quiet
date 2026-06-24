@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "frozen",
+  "ingredients": [
+    {
+      "item": "northstar:venus_stone"
+    },
+    {
+      "type": "fluid_stack",
+      "fluid": "minecraft:water",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "northstar:venus_stone"
+      }
+    },
+    {
+      "item": {
+        "id": "northstar:venus_stone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "59EEAB2A5999EAC7"
+	group: "09B1E2D6583BAF08"
+	icon: {
+		id: "tacz:target"
+	}
+	id: "59EEAB2A5999EAC7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6243D7E700696BE8"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"minecraft:custom_data": {
+						AmmoId: "create_armorer:melee_weapon"
+					}
+					"minecraft:max_stack_size": 1
+				}
+				id: "tacz:ammo"
+			}
+			id: "129933F0EF0C09A4"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "4B0B0AD1F30B63D5"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "0F7677B08353988E"
+			rewards: [{
+				id: "27FF7FE391F9D018"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "4685294616558577"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 4, GunFireMode: "SEMI", GunId: "create_armorer:pistol_revolver_torque", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "5CA0E82C4A1073A1"
+			rewards: [{
+				id: "348D453A011B6FCD"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "620E1ACF5CD196B6"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 16, GunFireMode: "SEMI", GunId: "create_armorer:pistol_auto_stress", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "0A6E8C0B6F553566"
+			tasks: [{
+				id: "214455A790541C6C"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 17, GunFireMode: "SEMI", GunId: "applied_armorer:niklas_pistol_semi_union", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "0939C4F5EA0C77E7"
+			tasks: [{
+				id: "5AC76ED3E1839685"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 17, GunFireMode: "SEMI", GunId: "applied_armorer:niklas_pistol_semi_right", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "04614E004DF2F0ED"
+			tasks: [{
+				id: "12B8BB6CDCC26B9D"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 10, GunFireMode: "SEMI", GunId: "applied_armorer:niklas_pistol_semi_pride", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "409D762CB93A1CF8"
+			tasks: [{
+				id: "6F39D61FBE8D99EE"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 34, GunFireMode: "SEMI", GunId: "applied_armorer:niklas_pistol_double_win_win", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "0A36F1991DDF3265"
+			tasks: [{
+				id: "08BE63FC6CC25F4D"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 200, GunFireMode: "SEMI", GunId: "ars_armorer:pistol_source_ejector", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "64412370D7FA1CFD"
+			tasks: [{
+				id: "3A9E7C4BDEFE1BA6"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 8, GunFireMode: "SEMI", GunId: "create_armorer:sniper_semi_clockwork", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "4CE1CD84E4E7BAFE"
+			tasks: [{
+				id: "7E7402777664515C"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 30, GunFireMode: "AUTO", GunId: "create_armorer:smg_auto_crank", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "42BDB49E87C6C4B4"
+			tasks: [{
+				id: "59F2AB7DB184B953"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 8, GunFireMode: "SEMI", GunId: "create_armorer:sniper_semi_m1", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "65C92497AE0DB098"
+			tasks: [{
+				id: "5A144C34834B5455"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 10, GunFireMode: "AUTO", GunId: "create_armorer:rifle_assult_roller", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "500FD1C9AB2C042E"
+			tasks: [{
+				id: "13A318F0DADAA9D2"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 10, GunFireMode: "AUTO", GunId: "create_armorer:rifle_assult_crane", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "653B0800AE381AF2"
+			tasks: [{
+				id: "31E3ECFB0A5E902C"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 4, GunFireMode: "SEMI", GunId: "create_armorer:shotgun_pump_bearing", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "798A54C50461506E"
+			tasks: [{
+				id: "6C88625AEC020EB9"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 2, GunFireMode: "SEMI", GunId: "create_armorer:shotgun_db_stone", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "28361ADB44D7E401"
+			tasks: [{
+				id: "1DE3A1AEFF648077"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 50, GunFireMode: "AUTO", GunId: "create_armorer:mg_platemag_flywheel", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "4DAE6428B369C618"
+			tasks: [{
+				id: "3D88EE1582F8A7A7"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 1, GunFireMode: "SEMI", GunId: "create_armorer:cannon_40mm_salamander", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "2E7A06AA2E9523A8"
+			tasks: [{
+				id: "24EC901DE0B521E0"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 8, GunFireMode: "SEMI", GunId: "create_armorer:gl_revolver_devastator", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "5CAF8971E761766E"
+			tasks: [{
+				id: "6C09382D471918AE"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 20, GunFireMode: "AUTO", GunId: "applied_armorer:moritz_rifle_ar77", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "3C3E78FC2FA53A4A"
+			tasks: [{
+				id: "45D6FF777C7980A4"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 7, GunFireMode: "SEMI", GunId: "applied_armorer:moritz_sniper_semi_k30", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "0964F66640296787"
+			tasks: [{
+				id: "45E4D98001909F44"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 3, GunFireMode: "SEMI", GunId: "applied_armorer:moritz_gernade_gl3", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "7B7DFEC926341B36"
+			tasks: [{
+				id: "23705F30102168EB"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 80, GunFireMode: "AUTO", GunId: "applied_armorer:moritz_mg_hmg22", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "00F74E3326603BB1"
+			tasks: [{
+				id: "388F68E5E4AD65B1"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 5, GunFireMode: "AUTO", GunId: "applied_armorer:moritz_shotgun_sg914", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "6E92158514F31F30"
+			tasks: [{
+				id: "23A2986032AA83E8"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 11, GunFireMode: "SEMI", GunId: "applied_armorer:niklas_lever_vigenere", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "24CFF485AED99D81"
+			tasks: [{
+				id: "1F9EC8D4DB9C0107"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 17, GunFireMode: "AUTO", GunId: "applied_armorer:niklas_smg_freedom", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "1A7209E76EABF6F1"
+			tasks: [{
+				id: "7ED9F243203AE1A8"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 100, GunFireMode: "AUTO", GunId: "applied_armorer:moritz_mg_emg_prototype", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "614CBB444A909B94"
+			tasks: [{
+				id: "0252EFAEE6C688D7"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 1, GunFireMode: "SEMI", GunId: "applied_armorer:special_melee_task_manager", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "7103E39585CFCA5B"
+			tasks: [{
+				id: "4AA17D864A801CAF"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 1, GunFireMode: "SEMI", GunId: "create_armorer:special_melee_wrench", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "33F9296189CD43BA"
+			tasks: [{
+				id: "6E39CAB73C39EB79"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 280, GunFireMode: "SEMI", GunId: "ars_armorer:sniper_distance_ejector", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "53714A3280405492"
+			tasks: [{
+				id: "1F187A1855D1DB4B"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 400, GunFireMode: "AUTO", GunId: "ars_armorer:auto_rifle_stream_ejector", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "433BBF191E813220"
+			tasks: [{
+				id: "6E81496B151EFC33"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 250, GunFireMode: "SEMI", GunId: "ars_armorer:shotgun_splash_ejector", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "251C546C36107021"
+			tasks: [{
+				id: "12B0AE95C1E1400B"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 350, GunFireMode: "AUTO", GunId: "ars_armorer:shotgun_jet_ejector", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "591834B5E50FAAA0"
+			tasks: [{
+				id: "5B2E7D821B081C35"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 400, GunFireMode: "SEMI", GunId: "ars_armorer:mortar_source_thrower", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "315F9483FB5C7C81"
+			tasks: [{
+				id: "5E0B9B6F708F849B"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 6, GunFireMode: "SEMI", GunId: "ars_armorer:special_source_flying_blade", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "4D399CB4E5447486"
+			tasks: [{
+				id: "3A918E10081FE191"
+				item: { components: { "minecraft:custom_data": { GunCurrentAmmoCount: 200, GunFireMode: "BURST", GunId: "ars_armorer:special_miner_drill", HasBulletInBarrel: 1b } }, count: 1, id: "tacz:modern_kinetic_gun" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			icon: {
+				components: {
+					"minecraft:custom_data": {
+						AttachmentId: "ars_armorer:trigger_high_speed"
+					}
+				}
+				id: "tacz:attachment"
+			}
+			id: "5AB8D2D4A64EC8AF"
+			tasks: [{
+				id: "6DCCEF3B2BC3FABD"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			icon: {
+				components: {
+					"minecraft:custom_data": {
+						AttachmentId: "ars_armorer:mod_conflux_accelerator"
+					}
+				}
+				id: "tacz:attachment"
+			}
+			id: "59D6D2C78C81C66D"
+			tasks: [{
+				id: "1E27B153C442F49D"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			icon: {
+				components: {
+					"minecraft:custom_data": {
+						AttachmentId: "ars_armorer:spell_explode"
+					}
+				}
+				id: "tacz:attachment"
+			}
+			id: "2E8CCC5675CC4D40"
+			tasks: [{
+				id: "091CC0CA146BF6F5"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			icon: {
+				components: {
+					"minecraft:custom_data": {
+						AttachmentId: "ars_armorer:mana_mag_1"
+					}
+				}
+				id: "tacz:attachment"
+			}
+			id: "79D849B44E088706"
+			tasks: [{
+				id: "7827E798080E7CB2"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "08E4E229BF1D12A1"
+			tasks: [{
+				id: "6ADD3C6B24EBA76B"
+				item: { components: { "minecraft:custom_data": { BlockId: "applied_armorer:worckbench_applied_armorer" } }, count: 1, id: "tacz:workbench_c" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["129933F0EF0C09A4"]
+			id: "4A25B5A704013EBD"
+			tasks: [{
+				id: "5806727B0165B80A"
+				item: { components: { "minecraft:custom_data": { BlockId: "ars_armorer:ars_workbench" } }, count: 1, id: "tacz:workbench_b" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+	]
+}

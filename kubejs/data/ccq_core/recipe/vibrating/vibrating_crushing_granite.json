@@ -1,0 +1,21 @@
+﻿{
+    "type":  "vintageimprovements:vibrating",
+    "ingredients":  [
+                        {
+                            "count":  3,
+                            "item":  "ccq_core:crushing_granite"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "chance": 0.8,
+                        "count":  1,
+                        "id":  "createnuclear:uranium_powder"
+                    },
+                    {
+                        "count":  1,
+                        "id":  "minecraft:red_sand"
+                    }
+                ],
+    "processing_time":  800
+}

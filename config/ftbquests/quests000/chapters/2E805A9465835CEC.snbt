@@ -1,0 +1,71 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2E805A9465835CEC"
+	group: "40D9AA552FD9F863"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "create_mechanical_spawner:spawn_fluid_zombie_bucket"
+	}
+	id: "2E805A9465835CEC"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["764BEECDDC25F8B1"]
+			id: "4C9614584743075A"
+			rewards: [
+				{
+					count: 2
+					id: "2632292DB434D393"
+					item: {
+						count: 1
+						id: "create_mechanical_spawner:spawn_fluid_random_bucket"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "157DC68DE2A324BD"
+					table_id: 2043142924174394531L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "478B1DB33AB7E8A4"
+				item: { count: 1, id: "create_mechanical_spawner:spawn_fluid_random_bucket" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["558A27EFA676506C"]
+			id: "764BEECDDC25F8B1"
+			tasks: [{
+				id: "35D84F31B5F30232"
+				item: { count: 1, id: "create_mechanical_spawner:mechanical_spawner" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "558A27EFA676506C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "791E2BAD546AC086"
+				table_id: 2043142924174394531L
+				type: "random"
+			}]
+			tasks: [{
+				count: 16L
+				id: "2717AB8D14568FC0"
+				item: { count: 1, id: "create_mechanical_spawner:spawn_fluid_blaze_bucket" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+	]
+}

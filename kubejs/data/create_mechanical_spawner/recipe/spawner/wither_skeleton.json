@@ -1,0 +1,25 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+    {
+    "chance": 0.8,
+      "count": 2,
+      "id": "minecraft:coal"
+    },
+    {
+      "chance": 0.02,
+      "count": 1,
+      "id": "minecraft:wither_skeleton_skull"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 200,
+    "fluid": "create_mechanical_spawner:spawn_fluid_wither_skeleton"
+  },
+  "output": "minecraft:wither_skeleton",
+  "processingTime": 5000
+}

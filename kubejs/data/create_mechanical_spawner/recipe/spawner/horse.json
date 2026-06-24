@@ -1,0 +1,24 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+ "customLoot": [
+{
+      "count": 1,
+      "id": "minecraft:sniffer_egg"
+    },
+    {
+      "chance": 0.8,
+      "count": 1,
+      "id": "minecraft:sniffer_egg"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 200,
+    "fluid": "create_mechanical_spawner:spawn_fluid_horse"
+  },
+  "output": "minecraft:sniffer",
+  "processingTime": 3000
+}

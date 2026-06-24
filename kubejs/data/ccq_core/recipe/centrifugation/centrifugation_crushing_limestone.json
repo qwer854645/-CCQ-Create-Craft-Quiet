@@ -1,0 +1,22 @@
+﻿{
+    "type":  "vintageimprovements:centrifugation",
+    "ingredients":  [
+                        {
+                            "count":  1,
+                            "item":  "ccq_core:crushing_limestone"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "count":  1,
+                        "chance": 0.05,
+                        "id":  "create_aquatic_ambitions:suspicious_rock"
+                    },
+                    {
+                        "count":  1,
+                        "id":  "create_aquatic_ambitions:calcium_rich_powder"
+                    }
+                ],
+    "processing_time":  1000
+}
+

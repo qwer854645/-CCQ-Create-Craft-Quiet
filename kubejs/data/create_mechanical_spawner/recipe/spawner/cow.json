@@ -1,0 +1,20 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+    {
+      "chance": 0.5,
+      "count": 1,
+      "id": "minecraft:sand"
+    },
+{
+      "count": 8,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_cow"
+  },
+  "output": "minecraft:husk",
+  "processingTime": 1200
+}

@@ -1,0 +1,29 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+    {
+      "chance": 0.1,
+     "count": 1,
+      "id": "minecraft:turtle_scute"
+    },
+    {
+      "chance": 0.8,
+      "count": 1,
+      "id": "minecraft:turtle_egg"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:turtle_egg"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_chicken"
+  },
+  "output": "minecraft:turtle",
+  "processingTime": 800
+}

@@ -1,0 +1,7 @@
+{
+    "text.entityculling.forceDisplayCulling.tooltip": "开启时,没有碰撞箱的展示实体将被分配一个默认碰撞箱以进行剔除.这可以改善未正确配置其展示实体的地图/服务器的性能,但可能导致视觉问题.",
+    "text.entityculling.forceDisplayCulling": "强制显示剔除",
+    "text.entityculling.title": "实体渲染优化",
+    "text.entityculling.blockEntityFrustumCulling.tooltip": "启用时,方块实体状态提取将基于相机视锥进行剔除.若您的模组加载器/其他模组尚未实现此功能,可提升游戏性能.",
+    "text.entityculling.blockEntityFrustumCulling": "方块实体视锥剔除"
+}

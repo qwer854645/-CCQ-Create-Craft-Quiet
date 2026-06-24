@@ -1,0 +1,237 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "60CB9EFB2388C32E"
+	group: "40D9AA552FD9F863"
+	icon: {
+		id: "create_classic_blaze_enchanter:blazes_enchanting_handbook"
+	}
+	id: "60CB9EFB2388C32E"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7F2EBC47E32573D6"]
+			icon: {
+				id: "create_sa:heap_of_experience"
+			}
+			id: "67DD20F0FF259EDF"
+			rewards: [{
+				id: "1FC52D5763414B1F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "376A6CDDFEF3CF2E"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67DD20F0FF259EDF"]
+			id: "063B00BDE1A4978F"
+			rewards: [{
+				id: "72E40CF75FEB6AB6"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "23569C34784F7DDE"
+				item: { count: 1, id: "create:experience_nugget" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["67DD20F0FF259EDF"]
+			id: "1E7809BCE998B215"
+			rewards: [{
+				id: "26B0E613EB05B735"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "1732272A3B7B4F3E"
+				item: { count: 1, id: "create_enchantment_industry:experience_hatch" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67DD20F0FF259EDF"]
+			id: "03C5C2C54BCCCEC0"
+			rewards: [{
+				id: "1E6BDD7DABE3F3C1"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "2B791E2862B5CDC0"
+				item: { count: 1, id: "create_enchantment_industry:experience_lantern" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"1E7809BCE998B215"
+				"03C5C2C54BCCCEC0"
+				"063B00BDE1A4978F"
+			]
+			dependency_requirement: "one_completed"
+			id: "3A66BE5BB4A5562D"
+			rewards: [{
+				id: "5FFE23DAD7DB792B"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "0DEDD0D6AE5C8B0F"
+				item: { count: 1, id: "create_enchantment_industry:enchanting_template" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3A66BE5BB4A5562D"]
+			dependency_requirement: "all_started"
+			id: "5E35B1920EA657D7"
+			rewards: [{
+				id: "5D0E18AF4D4CA13B"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "416A682AFA260251"
+				item: { count: 1, id: "create_enchantment_industry:printer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3A66BE5BB4A5562D"]
+			id: "739F534E34B85177"
+			rewards: [{
+				id: "074989738DD8D2D3"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "1D4F4695533EF8ED"
+				item: { count: 1, id: "create_enchantment_industry:blaze_enchanter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3A66BE5BB4A5562D"]
+			id: "7D8D17FABEDA0F9F"
+			rewards: [{
+				id: "7BE639371067FD12"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "037289443E16AFF4"
+				item: { count: 1, id: "create_enchantment_industry:blaze_forger" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3A66BE5BB4A5562D"]
+			id: "5A4BA33D5B5EB047"
+			rewards: [{
+				id: "4FF6532EF5F404E3"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "723B93368320FCBF"
+				item: { count: 1, id: "create_classic_blaze_enchanter:classic_blaze_enchanter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3A7B5507339CE8EF"]
+			id: "5D509785F1FA2FD7"
+			rewards: [{
+				id: "0A16503F5E6E85D2"
+				type: "xp_levels"
+				xp_levels: 12
+			}]
+			tasks: [{
+				id: "4771F973B6E01756"
+				item: { count: 1, id: "create_enchantment_industry:super_enchanting_template" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3A7B5507339CE8EF"]
+			id: "767883F8160D9F69"
+			rewards: [{
+				id: "15D9F288B631C43E"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "6660DCDC826426FD"
+				item: { count: 1, id: "create_enchantment_industry:experience_cake" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"7D8D17FABEDA0F9F"
+				"739F534E34B85177"
+				"5A4BA33D5B5EB047"
+			]
+			dependency_requirement: "one_completed"
+			id: "3A7B5507339CE8EF"
+			rewards: [{
+				id: "086748A8FBB2F829"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "62E3CDE58E73E4A5"
+				item: { count: 1, id: "create_enchantment_industry:super_experience_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["67DD20F0FF259EDF"]
+			id: "58F2D601E3E70F8D"
+			rewards: [{
+				id: "2671C9EBBE0ACAD3"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "3C22DF0A0CE6985C"
+				item: { count: 1, id: "create_enchantment_industry:mechanical_grindstone" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.0d
+		}
+	]
+}

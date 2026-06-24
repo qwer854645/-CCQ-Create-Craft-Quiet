@@ -1,0 +1,29 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+"customLoot": [
+    {
+     "count": 1,
+      "id": "mynethersdelight:hoglin_loin"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "id": "mynethersdelight:hoglin_loin"
+    },
+{
+      "chance": 0.5,
+      "count": 1,
+      "id": "minecraft:porkchop"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_slime"
+  },
+  "output": "minecraft:hoglin",
+  "processingTime": 1200
+}

@@ -1,0 +1,19 @@
+[visuals]
+	#Chance of fireworks after creeper explosion.
+	#Range: 0 ~ 100
+	fireworksChance = 100
+	#Colors to use in fireworks. Requires hex formatted colors.
+	#Default: ["#3B511A", "#41CD34"]
+	colors = ["#3B511A", "#41CD34"]
+	#Fireworks flicker setting as it relates to Minecraft fireworks.
+	fireworksFlicker = true
+	#Fireworks trail setting as it relates to Minecraft fireworks.
+	fireworksTrail = true
+	#Fireworks shape setting as it relates to Minecraft fireworks.
+	#One of: [SMALL_BALL, LARGE_BALL, STAR, CREEPER, BURST]
+	#Allowed Values: SMALL_BALL, LARGE_BALL, STAR, CREEPER, BURST
+	fireworksShape = "CREEPER"
+	#Height above creeper that fireworks explode.
+	#Default 5
+	#Range: 0 ~ 32
+	fireworksHeight = 5

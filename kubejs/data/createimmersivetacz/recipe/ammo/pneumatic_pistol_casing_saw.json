@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create:brass_sheet"
+  },
+  "result": {
+    "count": 32,
+    "id": "createimmersivetacz:pneumatic_pistol_casing"
+  }
+}

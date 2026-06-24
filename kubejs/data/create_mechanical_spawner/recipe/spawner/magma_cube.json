@@ -1,0 +1,24 @@
+{
+  "type": "create_mechanical_spawner:spawner",
+  "customLoot": [
+    {
+      "count": 2,
+      "id": "minecraft:magma_cream"
+    },
+    {
+      "chance": 0.2,
+      "count": 1,
+      "id": "minecraft:magma_cream"
+    },
+{
+      "count": 2,
+      "id": "create:experience_nugget"
+    }
+  ],
+  "input": {
+    "amount": 100,
+    "fluid": "create_mechanical_spawner:spawn_fluid_magma_cube"
+  },
+  "output": "minecraft:magma_cube",
+  "processingTime": 2000
+}

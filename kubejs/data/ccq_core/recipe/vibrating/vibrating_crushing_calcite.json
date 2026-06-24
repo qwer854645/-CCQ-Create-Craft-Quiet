@@ -1,0 +1,21 @@
+﻿{
+    "type":  "vintageimprovements:vibrating",
+    "ingredients":  [
+                        {
+                            "count":  2,
+                            "item":  "ccq_core:crushing_calcite"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "chance": 0.8,
+                        "count":  1,
+                        "id":  "ccq_core:raw_amethyst"
+                    },
+                    {
+                        "count":  1,
+                        "id":  "minecraft:bone_meal"
+                    }
+                ],
+    "processing_time":  800
+}

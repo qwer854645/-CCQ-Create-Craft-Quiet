@@ -1,0 +1,49 @@
+{
+	icon: {
+		id: "minecraft:iron_block"
+	}
+	id: "29C97F550C5FDEBA"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			id: "6D707AF3FEC1D8D1"
+			type: "xp"
+			weight: 0.85f
+			xp: 2
+		}
+		{
+			count: 2
+			id: "7F50A9BD4AEC041E"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 2
+			id: "3608540E081C52C3"
+			item: {
+				count: 1
+				id: "minecraft:iron_block"
+			}
+		}
+		{
+			count: 2
+			id: "34F2D7E1B20313EB"
+			item: {
+				count: 1
+				id: "create:andesite_alloy_block"
+			}
+		}
+		{
+			id: "28BCA1AF5DC0F4CE"
+			item: {
+				count: 1
+				id: "create:brass_block"
+			}
+			weight: 0.75f
+		}
+	]
+}

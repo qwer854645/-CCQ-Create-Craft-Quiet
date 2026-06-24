@@ -1,0 +1,1432 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "4E10E9617CAF0C75"
+	group: "09B1E2D6583BAF08"
+	icon: {
+		id: "spartan_weaponry_unofficial:diamond_battleaxe"
+	}
+	id: "4E10E9617CAF0C75"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "30B5164E86A01430"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "05CAC6675AC3FB65"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:dagger"
+				criterion: ""
+				id: "51739039C821D480"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4EF1E10B0DE75887"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "73BDCB5E544B5613"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "7E38C0B432BB84D4"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["73BDCB5E544B5613"]
+			icon: {
+				id: "spartan_weaponry_unofficial:diamond_glaive"
+			}
+			id: "42AC89DA5CEC0935"
+			shape: "square"
+			tasks: [{
+				id: "2A6C9EADBE00B284"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "459F41C82F7384E6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33B1F01067BDED0D"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:parrying_dagger"
+				criterion: ""
+				id: "62D338809AD3D4C4"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "4622C89D8EFA8C63"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51C91BFD4E0AC970"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:longsword"
+				criterion: ""
+				id: "0DCEC255E31F6B5C"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "27657C55237E0196"
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:katana"
+				criterion: ""
+				id: "73FDE3225224A734"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "2CC26F31F56583B9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C700A9E54C188E8"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:saber"
+				criterion: ""
+				id: "51F92ADA252A9C8A"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "04C3225ADF0DE32C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "710EB4AFE4811CC7"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:rapier"
+				criterion: ""
+				id: "005AE3ADBA2DFF1A"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "0991CD7A79ADCD85"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6FF95F76F1A1B1C8"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:greatsword"
+				criterion: ""
+				id: "426F50CCE659CEBF"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "35639873084AD1D8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4ED8ABB8A77D7AF3"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:battle_hammer"
+				criterion: ""
+				id: "381BFA6C432FBC26"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "180A89E8A10D334A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BCA2935D7495BC4"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:warhammer"
+				criterion: ""
+				id: "7E14EFD75BE41BC0"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "7DDD8558D2895019"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "189CEBD335E35A7A"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:spear"
+				criterion: ""
+				id: "46B6D18ACD0CB8FA"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "26EF843E680FFDF9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "63D19251F47EF783"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:halberd"
+				criterion: ""
+				id: "27DB6863E8C82B4F"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "094306DD906A878F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B972B8D4814ABFD"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:pike"
+				criterion: ""
+				id: "0F89EAC76C2C2E29"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "7F41ADCA8B7F5E27"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7EA059B66B43F651"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:lance"
+				criterion: ""
+				id: "54D7F4C42A914506"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "5D3C0AFCB0854EA7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37518F859D9460F2"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:throwing_knife"
+				criterion: ""
+				id: "1CA5FEDBA60F1D94"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "49CA1F0DF2BF4400"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67E9AB2625FCDB63"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:javelin"
+				criterion: ""
+				id: "44172DF1087B07E5"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "7CAF074D3FD66F51"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D9765FC950746EE"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:boomerang"
+				criterion: ""
+				id: "4761323F86022DA5"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "180BE00A58207844"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22A8958FB3DB3D43"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:tomahawk"
+				criterion: ""
+				id: "704CC206C1B4730C"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "399426CA4F0BDE0D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "720D8BB797EBD670"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:longbow"
+				criterion: ""
+				id: "7B2CCF422101F565"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "3C0B37EDD4FAF688"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0AEAE79DD56C598E"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:heavy_crossbow"
+				criterion: ""
+				id: "6074B7780B1E52A8"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "53BD49CD04FE60DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "014BD0214CA5AD6F"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:battleaxe"
+				criterion: ""
+				id: "5A8DE6009E593F63"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "4C522BA68F380CEB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23491A0F4C0DA1FB"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:flanged_mace"
+				criterion: ""
+				id: "099D8E8DE2C7E6B7"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "5ADE3D5C6E9317E1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B1201A63DA8E540"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:glaive"
+				criterion: ""
+				id: "441A3A6DDFE23EA3"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "19BBE109F6E55D1D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "478DB7B85E6C9C42"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:quarterstaff"
+				criterion: ""
+				id: "068A73BBD080A9C7"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "5B46AF684EA73444"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79C0ECB00333994A"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:scythe"
+				criterion: ""
+				id: "5A6C07B203F22298"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"399426CA4F0BDE0D"
+				"3C0B37EDD4FAF688"
+			]
+			id: "3E7868AC3E9FD7C4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E5DE9241C6B90FB"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:small_quiver"
+				criterion: ""
+				id: "7BA6D548FCF86EA0"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "2E6E5B2379056B90"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AE0D6E04BF2C054"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:cestus"
+				criterion: ""
+				id: "3A0BFAEB2A5BB508"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["42AC89DA5CEC0935"]
+			id: "765F962733F00500"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "318E67E01CD79E03"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				advancement: "spartan_weaponry_unofficial:club"
+				criterion: ""
+				id: "4B537345793EB3FF"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["73BDCB5E544B5613"]
+			id: "361091BA57E0E44B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C98C06578505FFC"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "562D1DE34EE801CD"
+				item: { count: 1, id: "spartan_weaponry_unofficial:dynamite" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["73BDCB5E544B5613"]
+			id: "6105357FD690E03E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24C7E6A741CAA2AD"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3E7C667C9D4D51C5"
+				item: { count: 1, id: "quark:torch_arrow" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["73BDCB5E544B5613"]
+			id: "1063A36552E672F3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79A3BCD3F93EB67F"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "408AE7F86BE68D79"
+				item: { count: 1, id: "createfisheryindustry:harpoon" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1063A36552E672F3"]
+			id: "0F250DEEA6E923CA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5582BD449CEFA279"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "78548C0A457738D1"
+				item: { count: 1, id: "createfisheryindustry:pneumatic_harpoon_gun" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["73BDCB5E544B5613"]
+			id: "66956C00D095A737"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "675EBE46719328FF"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "570634B353D246C5"
+				item: { count: 1, id: "quark:pickarang" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["66956C00D095A737"]
+			id: "5C475048621E8674"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "790D191B6B97943D"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1D54FE5A12CCD922"
+				item: { count: 1, id: "quark:flamerang" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4EF1E10B0DE75887"]
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+			}
+			id: "19EF1E8C0E100513"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "6A817B814C45317A"
+				type: "checkmark"
+			}]
+			x: -18.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"19EF1E8C0E100513"
+				"73BDCB5E544B5613"
+			]
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "6000E7C143F28A4B"
+			shape: "square"
+			tasks: [{
+				id: "17B02992032700E6"
+				type: "checkmark"
+			}]
+			x: -13.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			icon: {
+				id: "northstar:martian_steel"
+			}
+			id: "4631B55C696046A4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "660DF7A83CB749F1"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "3DB3BE572108CFD7"
+					item: { count: 1, id: "northstar:martian_sword" }
+					type: "item"
+				}
+				{
+					id: "68F75E3090A270AF"
+					item: { count: 1, id: "northstar:martian_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "2991A45071356320"
+					item: { count: 1, id: "northstar:martian_shovel" }
+					type: "item"
+				}
+				{
+					id: "35E759DC25A1D5D8"
+					item: { count: 1, id: "northstar:martian_axe" }
+					type: "item"
+				}
+				{
+					id: "0EECFE8E6E17633A"
+					item: { count: 1, id: "northstar:martian_hoe" }
+					type: "item"
+				}
+			]
+			x: -13.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			icon: {
+				id: "minecraft:quartz"
+			}
+			id: "0140BFB7E5DEDBC0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0E7516269BAD5A8F"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "6DDD51A8F1C50C35"
+					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_axe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "271D03629A4ACE51"
+					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_hoe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "01ABCC9ABA1BB001"
+					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "29425771E7C2365B"
+					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_shovel" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4406E7AD66AF021C"
+					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -14.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			icon: {
+				components: {
+					"ftbquests:missing_item": "ae2:certus_quartz_crystal"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "1ABC6B2D39675303"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3113F082334ACAF1"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "1B7C9BE13ABCBACD"
+					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_axe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2DA9B5DF8A784084"
+					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_shovel" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "17F96B0F52A3923D"
+					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_hoe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1E520FF42893820F"
+					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1471E8FCD5E09775"
+					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -13.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			icon: {
+				components: {
+					"ftbquests:missing_item": "ae2:fluix_crystal"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "370814A4365D7D26"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4612E76ED93D1DC7"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "666AEB4BED0934D1"
+					item: { components: { "ftbquests:missing_item": "ae2:fluix_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5DFEAF603886EC90"
+					item: { components: { "ftbquests:missing_item": "ae2:fluix_hoe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "46C7D0AF2911EA83"
+					item: { components: { "ftbquests:missing_item": "ae2:fluix_axe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "24DBE5E010199180"
+					item: { components: { "ftbquests:missing_item": "ae2:fluix_shovel" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "394FBA8E038C554D"
+					item: { components: { "ftbquests:missing_item": "ae2:fluix_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"1ABC6B2D39675303"
+				"0140BFB7E5DEDBC0"
+			]
+			id: "32AD5FC3975A1E9C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A27164B708FB3E7"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "23D770256058C32F"
+					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_cutting_knife" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "21B371903FE7C157"
+					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_cutting_knife" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -13.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["370814A4365D7D26"]
+			id: "20769FC1CF79EFFE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7CFE22670BFBD896"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3C5AD913B26D93DE"
+				item: { components: { "ftbquests:missing_item": "ae2:entropy_manipulator" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"1ABC6B2D39675303"
+				"0140BFB7E5DEDBC0"
+			]
+			id: "0C217C1FA20B1516"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "300FD661FFD19F02"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "14E45870FBB40547"
+					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_wrench" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "51FAA873E27DEA5D"
+					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_wrench" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -14.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			icon: {
+				id: "minecraft:blaze_rod"
+			}
+			id: "0D354763866FBBC4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "081D05C723C68B18"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "00CE7915570BA991"
+					item: { count: 1, id: "create_sa:blazing_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "733F3807AE756CCE"
+					item: { count: 1, id: "create_sa:blazing_shovel" }
+					type: "item"
+				}
+				{
+					id: "4D2388E5A47D7951"
+					item: { count: 1, id: "create_sa:blazing_axe" }
+					type: "item"
+				}
+				{
+					id: "49FCEB76F4F3E31A"
+					item: { count: 1, id: "create_sa:blazing_cleaver" }
+					type: "item"
+				}
+			]
+			x: -14.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			icon: {
+				id: "create:polished_rose_quartz"
+			}
+			id: "5D314ECFDF8D2F41"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1425ADBB13425DB6"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "4232E2634DE90A8A"
+					item: { count: 1, id: "create_sa:rose_quartz_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "5898DBEA25D6E77A"
+					item: { count: 1, id: "create_sa:rose_quartz_axe" }
+					type: "item"
+				}
+				{
+					id: "5CBC4D858259E9AB"
+					item: { count: 1, id: "create_sa:rose_quartz_sword" }
+					type: "item"
+				}
+				{
+					id: "2895FBCCE9056F6D"
+					item: { count: 1, id: "create_sa:rose_quartz_shovel" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			icon: {
+				id: "create_sa:heap_of_experience"
+			}
+			id: "49BEFD3F03BC2E68"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5A22B9DFCB0263F0"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "4DE7CCC99C642AD4"
+					item: { count: 1, id: "create_sa:experience_sword" }
+					type: "item"
+				}
+				{
+					id: "2C1251011244E490"
+					item: { count: 1, id: "create_sa:experience_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "206E23F3DECCBB2F"
+					item: { count: 1, id: "create_sa:experience_shovel" }
+					type: "item"
+				}
+				{
+					id: "541BE84B490A996B"
+					item: { count: 1, id: "create_sa:experience_axe" }
+					type: "item"
+				}
+			]
+			x: -14.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			id: "530BD8D53E8B030C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24CDC9DD506788C9"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0864EABAC72E453F"
+				item: { count: 1, id: "advancednetherite:netherite_iron_ingot" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["530BD8D53E8B030C"]
+			id: "1F84D648C07183DE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "478FF5BCB227F21C"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "167A25354C5F2630"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "57C9DC8465CD1DEF"
+				item: { count: 1, id: "advancednetherite:netherite_gold_ingot" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1F84D648C07183DE"]
+			id: "4AC10749AA6072B6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6AF403C26E6A504D"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "30B5000C0C8193C4"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "19529CD4828BEA45"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "52EB73FFF149F379"
+				item: { count: 1, id: "advancednetherite:netherite_emerald_ingot" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4AC10749AA6072B6"]
+			id: "4842F4F459AAF616"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "40E89182DE7C65EE"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1CFDCE2296080105"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4F9E4D30D5876C09"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A8E4E426530D974"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "0D992C59B3C7ABC4"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_ingot" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["19EF1E8C0E100513"]
+			id: "1B7A1A6313E88E36"
+			rewards: [{
+				id: "4D44229F56EC7533"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "5AC7B20CC6CA6D70"
+				item: { count: 1, id: "createdieselgenerators:wire_cutters" }
+				type: "item"
+			}]
+			x: -20.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["19EF1E8C0E100513"]
+			id: "0FF18BFB6C3A2B19"
+			rewards: [{
+				id: "79953D27A146073A"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "1AD784823DCF8971"
+				item: { count: 1, id: "createdieselgenerators:hammer" }
+				type: "item"
+			}]
+			x: -19.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["19EF1E8C0E100513"]
+			id: "74FF465A59386DCA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AA6BA37EEE14C40"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "07E86E77075BD87B"
+				item: { count: 1, id: "create_fantasizing:tree_cutter" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["19EF1E8C0E100513"]
+			id: "12C0C5EC77F8D416"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19E86CA366F9D6F4"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "11D8A3D93811EEC2"
+					table_id: 4474537204862423356L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "6E2F62261987EB82"
+				item: { count: 1, id: "create_fantasizing:block_placer" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			icon: {
+				id: "create_confectionery:candy_cane"
+			}
+			id: "78F25829BA51AE01"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CB36D385818623E"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "38BAC9D35DF2C357"
+					item: { count: 1, id: "create_confectionery:candy_cane_axe" }
+					type: "item"
+				}
+				{
+					id: "7E1ABFBA4042041A"
+					item: { count: 1, id: "create_confectionery:candy_cane_sword" }
+					type: "item"
+				}
+				{
+					id: "151C7E5675852F10"
+					item: { count: 1, id: "create_confectionery:candy_cane_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "764A82CA5D7D3511"
+					item: { count: 1, id: "create_confectionery:candy_cane_shovel" }
+					type: "item"
+				}
+				{
+					id: "68A09A62AB60E714"
+					item: { count: 1, id: "create_confectionery:candy_cane_hoe" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["19EF1E8C0E100513"]
+			id: "4D7FBFD524E8DEAE"
+			tasks: [{
+				id: "06CBFF7C45F16984"
+				item: { count: 1, id: "create_sa:small_filling_tank" }
+				type: "item"
+			}]
+			x: -22.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["19EF1E8C0E100513"]
+			id: "7CCCDA56C3D8B94B"
+			tasks: [{
+				id: "1BC0C198A33DE646"
+				item: { count: 1, id: "create_sa:small_fueling_tank" }
+				type: "item"
+			}]
+			x: -22.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4D7FBFD524E8DEAE"]
+			id: "2D0DA661A722AC36"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D1EEFB011AC7AD6"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "15F7CF637C5FAE9B"
+				item: { count: 1, id: "create_sa:block_picker" }
+				type: "item"
+			}]
+			x: -22.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7CCCDA56C3D8B94B"]
+			id: "67A2F8190D110ADB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "112D74398626C46C"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5BBAE1FEAD8C7E7D"
+				item: { count: 1, id: "create_sa:flamethrower" }
+				type: "item"
+			}]
+			x: -22.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7CCCDA56C3D8B94B"]
+			id: "5736E849573EA60C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2F4B32306B3EDA6D"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7399E27F27F0D2E6"
+				item: { count: 1, id: "create_sa:grapplin_whisk" }
+				type: "item"
+			}]
+			x: -21.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"7CCCDA56C3D8B94B"
+				"4D7FBFD524E8DEAE"
+			]
+			id: "192D906A5BAC176F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D7E07402C5750EA"
+					table_id: 3011077829130444474L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "57A513B729D70E88"
+					table_id: 7750470488300715103L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "1A474BE6FC785BA5"
+				item: { count: 1, id: "create_sa:portable_drill" }
+				type: "item"
+			}]
+			x: -24.0d
+			y: -0.25d
+		}
+		{
+			dependencies: ["73BDCB5E544B5613"]
+			id: "4E3F836FCC472C53"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D7A18949AB10B9D"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3A900557E4D10251"
+				item: { count: 1, id: "create:potato_cannon" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["19EF1E8C0E100513"]
+			id: "6AA41BCCC3A0D0ED"
+			tasks: [{
+				id: "07FCB301B9776955"
+				item: { count: 1, id: "create:extendo_grip" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["19EF1E8C0E100513"]
+			id: "7B708BFB812468C1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0F2EEF200E2400F3"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "04CDEBC12944F0B1"
+				item: { components: { "ftbquests:missing_item": "ae2:color_applicator" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["73BDCB5E544B5613"]
+			id: "2205E612ACB259A0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3510EF376E04A085"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "533FB05BB1A827C8"
+				item: { components: { "ftbquests:missing_item": "ae2:matter_cannon" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6000E7C143F28A4B"]
+			icon: {
+				id: "createnetherindustry:soul_blaze_rod"
+			}
+			id: "31BB1BE916EB010C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BCECD391F012653"
+				table_id: 7750470488300715103L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "2BD32F02C6B9B88E"
+					item: { count: 1, id: "createnetherindustry:soul_blaze_axe" }
+					type: "item"
+				}
+				{
+					id: "2E718B9B8763D076"
+					item: { count: 1, id: "createnetherindustry:soul_blaze_pickaxe" }
+					type: "item"
+				}
+			]
+			x: -14.5d
+			y: 0.5d
+		}
+	]
+}

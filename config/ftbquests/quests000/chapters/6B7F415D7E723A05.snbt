@@ -1,0 +1,144 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6B7F415D7E723A05"
+	group: ""
+	icon: {
+		id: "create:creative_motor"
+	}
+	id: "6B7F415D7E723A05"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "48CC21028F0C5CE1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "300CAAF306FD68B1"
+				table_id: 302785246913196155L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "6E62ABAFD2E40461"
+				item: { count: 1, id: "numismatics:spur" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "7A70885FA4015020"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D01E890FBD4558F"
+				table_id: 942976547557982453L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 20L
+				id: "0C5C979A581FEB65"
+				item: { count: 1, id: "numismatics:bevel" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "10DD1479E771A68A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "10F91E2C7EBF6D17"
+				table_id: 5341364851492373619L
+				type: "random"
+			}]
+			tasks: [{
+				count: 20L
+				id: "23EAC80A7397202A"
+				item: { count: 1, id: "numismatics:sprocket" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			id: "55E55C06939070D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07C4782A80E27149"
+				table_id: 7053745969338943503L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "36F3CC200A0B5B13"
+				item: { count: 1, id: "numismatics:cog" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			id: "1FCD6B2D4EC8226D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2866BA4216CF21C1"
+				table_id: 8707021958757283144L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "12EA6B7037E6BBB3"
+				item: { count: 1, id: "numismatics:crown" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			can_repeat: true
+			dependency_requirement: "one_completed"
+			id: "2E54E6D484BE2B59"
+			rewards: [{
+				id: "4ABC54C4B9D43E39"
+				table_id: 7885057498005319601L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "12FDAD1DED81BD24"
+				item: { count: 1, id: "numismatics:sun" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			can_repeat: true
+			id: "2743B947717566F7"
+			rewards: [{
+				id: "55A886FEED1B63FD"
+				table_id: 8192263020950121062L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "153E55F4780BDC50"
+				item: { count: 1, id: "numismatics:sun" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "northstar:engraving",
+  "ingredients": [
+    {
+      "item": "ccq_core:crushing_raw_nether_ore"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "id": "vintageimprovements:vanadium_ingot"
+    }
+  ]
+}
