@@ -10,7 +10,7 @@
   "block.radiologistics.antenna": "天线",
   "block.radiologistics.jammer": "干扰器",
   "block.radiologistics.audio_module": "音频模块",
-  "itemGroup.radiologistics_tab": "Create：无线电物流",
+  "itemGroup.radiologistics_tab": "机械动力：无线电物流",
   "itemGroup.vista_tab": "Vista",
   "tooltip.radiologistics.hold_shift": "按住 Shift 查看详情",
   "tooltip.radiologistics.main_computer": "网络中央处理器。\n§6节点：§r所有基础数学、逻辑、文本和变量操作。\n- 右键打开节点编程 GUI。",

@@ -1,0 +1,16 @@
+{
+  "advancements.eternalnether.rescue_piglin_prisoner.description": "Спасти пленника Пиглина",
+  "advancements.eternalnether.rescue_piglin_prisoner.title": "Спасение частной свиньи",
+  "block.eternalnether.netherite_bell": "Незеритовый колокол",
+  "item.eternalnether.gilded_netherite_shield": "Позолоченный незеритовый щит",
+  "subtitles.entity.warped_enderman.ambient": "Искажённый Эндермен, упс",
+  "subtitles.entity.warped_enderman.death": "Искажённый Эндермен умирает",
+  "subtitles.entity.warped_enderman.hurt": "Извращенный Эндермен причиняет боль",
+  "subtitles.entity.warped_enderman.scream": "Искажённый Эндермен кричит",
+  "subtitles.entity.warped_enderman.stare": "Искажённый Эндермен кричит",
+  "subtitles.entity.warped_enderman.teleport": "Искажённый Эндермен телепортируется",
+  "subtitles.entity.wex.ambient": "Иссушающее раздражение: бормотание",
+  "subtitles.entity.wex.charge": "Векс визжит",
+  "subtitles.entity.wex.death": "Векс умирает",
+  "subtitles.entity.wex.hurt": "Векс болит"
+}

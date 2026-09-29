@@ -1,0 +1,12 @@
+{
+  "item.integrated_stronghold.disc_fragment_sight": "光盘碎片",
+  "item.integrated_stronghold.disc_fragment_sight.desc": "音乐光盘 - sight",
+  "item.integrated_stronghold.music_disc_forlorn": "音乐光盘",
+  "item.integrated_stronghold.music_disc_forlorn.desc": "Cama - 凄凉",
+  "item.integrated_stronghold.music_disc_sight": "音乐光盘",
+  "item.integrated_stronghold.music_disc_sight.desc": "床 - 视力",
+  "itemGroup.integrated_stronghold": "综合堡垒",
+  "jukebox_song.integrated_stronghold.forlorn": "Cama - 凄凉",
+  "jukebox_song.integrated_stronghold.sight": "床 - 视力",
+  "structure.integrated_stronghold.stronghold": "整合要塞"
+}

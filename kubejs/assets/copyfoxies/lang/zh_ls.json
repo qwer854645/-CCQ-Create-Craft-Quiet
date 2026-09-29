@@ -1,0 +1,16 @@
+{
+  "block.copyfoxies.copyfox_center_variable_cube": "克欧普伊佛克斯 色恩特尔 弗阿里诶布 克乌布",
+  "block.copyfoxies.copyfox_centered_half_panel": "克欧普伊佛克斯 色恩特尔德 哈尔弗 潘厄尔",
+  "block.copyfoxies.copyfox_centered_variable_slope": "克欧普伊佛克斯 色恩特尔德 弗阿里诶布 斯尔普",
+  "block.copyfoxies.copyfox_corner_variable_cube": "克欧普伊佛克斯 克欧勒尔 弗阿里诶布 克乌布",
+  "block.copyfoxies.copyfox_dual_half_column": "克欧普伊佛克斯 杜尔 哈尔弗 克欧卢门",
+  "block.copyfoxies.copyfox_dual_half_layer": "克欧普伊佛克斯 杜尔 哈尔弗 尔诶尔",
+  "block.copyfoxies.copyfox_edge_cut_centered_prism": "克欧普伊佛克斯 厄基-克乌特 色恩特尔德 普尔伊兹穆",
+  "block.copyfoxies.copyfox_edge_cut_prism": "克欧普伊佛克斯 厄基-克乌特 普尔伊兹穆",
+  "block.copyfoxies.copyfox_quarter_panel": "克欧普伊佛克斯 克维阿尔特尔 潘厄尔",
+  "block.copyfoxies.copyfox_three_band_panel": "克欧普伊佛克斯 斯里 班德 潘厄尔",
+  "block.copyfoxies.copyfox_variable_slope": "克欧普伊佛克斯 弗阿里诶布 斯尔普",
+  "item.copyfoxies.copyfox_centered_variable_slope_helper": "克欧普伊佛克斯 色恩特尔德 弗阿里诶布 斯尔普 赫尔普尔",
+  "item.copyfoxies.copyfox_variable_slope_helper": "克欧普伊佛克斯 弗阿里诶布 斯尔普 赫尔普尔",
+  "itemGroup.copyfoxies.main": "克欧普伊佛克斯伊"
+}

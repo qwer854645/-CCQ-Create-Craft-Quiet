@@ -1,0 +1,6 @@
+{
+  "tooltip.create_easyfilling.restart_required": "Changing capacity via config requires restarting Minecraft.",
+  "tooltip.create_easyfilling.spout.lava": "Place under a Spout to fill with Lava.",
+  "tooltip.create_easyfilling.spout.water": "Place under a Spout to fill with Water.",
+  "tooltip.create_easyfilling.spout_header": "Also refillable via Spout"
+}

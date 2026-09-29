@@ -1,12 +1,13 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "4E10E9617CAF0C75"
+	filename: "4e10e9617caf0c75"
 	group: "09B1E2D6583BAF08"
 	icon: {
 		id: "spartan_weaponry_unofficial:diamond_battleaxe"
 	}
 	id: "4E10E9617CAF0C75"
+	images: [ ]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -16,7 +17,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "05CAC6675AC3FB65"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -63,7 +63,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "33B1F01067BDED0D"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -81,7 +80,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "51C91BFD4E0AC970"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -111,7 +109,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "1C700A9E54C188E8"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -129,7 +126,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "710EB4AFE4811CC7"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -147,7 +143,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "6FF95F76F1A1B1C8"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -165,7 +160,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "4ED8ABB8A77D7AF3"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -183,7 +177,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "1BCA2935D7495BC4"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -201,7 +194,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "189CEBD335E35A7A"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -219,7 +211,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "63D19251F47EF783"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -237,7 +228,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "6B972B8D4814ABFD"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -255,7 +245,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "7EA059B66B43F651"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -273,7 +262,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "37518F859D9460F2"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -291,7 +279,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "67E9AB2625FCDB63"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -309,7 +296,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "1D9765FC950746EE"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -327,7 +313,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "22A8958FB3DB3D43"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -345,7 +330,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "720D8BB797EBD670"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -363,7 +347,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "0AEAE79DD56C598E"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -381,7 +364,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "014BD0214CA5AD6F"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -399,7 +381,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "23491A0F4C0DA1FB"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -417,7 +398,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "6B1201A63DA8E540"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -435,7 +415,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "478DB7B85E6C9C42"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -453,7 +432,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "79C0ECB00333994A"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -474,7 +452,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "7E5DE9241C6B90FB"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -492,7 +469,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "6AE0D6E04BF2C054"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -510,7 +486,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "318E67E01CD79E03"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -528,7 +503,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "2C98C06578505FFC"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -545,7 +519,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "24C7E6A741CAA2AD"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -562,7 +535,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "79A3BCD3F93EB67F"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -579,7 +551,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "5582BD449CEFA279"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -596,7 +567,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "675EBE46719328FF"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -613,7 +583,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "790D191B6B97943D"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -643,6 +612,7 @@
 			dependencies: [
 				"19EF1E8C0E100513"
 				"73BDCB5E544B5613"
+				"1039F8170C34D92B"
 			]
 			icon: {
 				id: "minecraft:iron_ingot"
@@ -659,13 +629,12 @@
 		{
 			dependencies: ["6000E7C143F28A4B"]
 			icon: {
-				id: "northstar:martian_steel"
+				id: "northstar:martian_steel_ingot"
 			}
 			id: "4631B55C696046A4"
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "660DF7A83CB749F1"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [
@@ -701,205 +670,43 @@
 		{
 			dependencies: ["6000E7C143F28A4B"]
 			icon: {
-				id: "minecraft:quartz"
+				id: "create_sa:zinc_sword"
 			}
 			id: "0140BFB7E5DEDBC0"
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "0E7516269BAD5A8F"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [
 				{
 					id: "6DDD51A8F1C50C35"
-					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_axe" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "create_sa:zinc_axe" }
 					type: "item"
 				}
 				{
 					id: "271D03629A4ACE51"
-					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_hoe" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "create_sa:zinc_hoe" }
 					type: "item"
 				}
 				{
 					id: "01ABCC9ABA1BB001"
-					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "create_sa:zinc_pickaxe" }
 					type: "item"
 				}
 				{
 					id: "29425771E7C2365B"
-					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_shovel" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "create_sa:zinc_shovel" }
 					type: "item"
 				}
 				{
 					id: "4406E7AD66AF021C"
-					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_sword" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "create_sa:zinc_sword" }
 					type: "item"
 				}
 			]
-			x: -14.5d
+			x: -12.0d
 			y: -2.0d
-		}
-		{
-			dependencies: ["6000E7C143F28A4B"]
-			icon: {
-				components: {
-					"ftbquests:missing_item": "ae2:certus_quartz_crystal"
-				}
-				id: "ftbquests:missing_item"
-			}
-			id: "1ABC6B2D39675303"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3113F082334ACAF1"
-				table_id: 7750470488300715103L
-				type: "loot"
-			}]
-			tasks: [
-				{
-					id: "1B7C9BE13ABCBACD"
-					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_axe" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "2DA9B5DF8A784084"
-					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_shovel" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "17F96B0F52A3923D"
-					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_hoe" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "1E520FF42893820F"
-					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "1471E8FCD5E09775"
-					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_sword" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
-			x: -13.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["6000E7C143F28A4B"]
-			icon: {
-				components: {
-					"ftbquests:missing_item": "ae2:fluix_crystal"
-				}
-				id: "ftbquests:missing_item"
-			}
-			id: "370814A4365D7D26"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "4612E76ED93D1DC7"
-				table_id: 7750470488300715103L
-				type: "loot"
-			}]
-			tasks: [
-				{
-					id: "666AEB4BED0934D1"
-					item: { components: { "ftbquests:missing_item": "ae2:fluix_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "5DFEAF603886EC90"
-					item: { components: { "ftbquests:missing_item": "ae2:fluix_hoe" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "46C7D0AF2911EA83"
-					item: { components: { "ftbquests:missing_item": "ae2:fluix_axe" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "24DBE5E010199180"
-					item: { components: { "ftbquests:missing_item": "ae2:fluix_shovel" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "394FBA8E038C554D"
-					item: { components: { "ftbquests:missing_item": "ae2:fluix_sword" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
-			x: -11.5d
-			y: -2.0d
-		}
-		{
-			dependencies: [
-				"1ABC6B2D39675303"
-				"0140BFB7E5DEDBC0"
-			]
-			id: "32AD5FC3975A1E9C"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "6A27164B708FB3E7"
-				table_id: 7750470488300715103L
-				type: "loot"
-			}]
-			tasks: [
-				{
-					id: "23D770256058C32F"
-					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_cutting_knife" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "21B371903FE7C157"
-					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_cutting_knife" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
-			x: -13.0d
-			y: -3.5d
-		}
-		{
-			dependencies: ["370814A4365D7D26"]
-			id: "20769FC1CF79EFFE"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7CFE22670BFBD896"
-				table_id: 7750470488300715103L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "3C5AD913B26D93DE"
-				item: { components: { "ftbquests:missing_item": "ae2:entropy_manipulator" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -11.5d
-			y: -3.5d
-		}
-		{
-			dependencies: [
-				"1ABC6B2D39675303"
-				"0140BFB7E5DEDBC0"
-			]
-			id: "0C217C1FA20B1516"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "300FD661FFD19F02"
-				table_id: 7750470488300715103L
-				type: "loot"
-			}]
-			tasks: [
-				{
-					id: "14E45870FBB40547"
-					item: { components: { "ftbquests:missing_item": "ae2:nether_quartz_wrench" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "51FAA873E27DEA5D"
-					item: { components: { "ftbquests:missing_item": "ae2:certus_quartz_wrench" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
-			x: -14.5d
-			y: -3.5d
 		}
 		{
 			dependencies: ["6000E7C143F28A4B"]
@@ -910,7 +717,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "081D05C723C68B18"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [
@@ -935,8 +741,8 @@
 					type: "item"
 				}
 			]
-			x: -14.5d
-			y: -1.0d
+			x: -14.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["6000E7C143F28A4B"]
@@ -947,7 +753,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "1425ADBB13425DB6"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [
@@ -984,7 +789,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "5A22B9DFCB0263F0"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [
@@ -1018,7 +822,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "24CDC9DD506788C9"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -1036,13 +839,11 @@
 				{
 					exclude_from_claim_all: true
 					id: "478FF5BCB227F21C"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "167A25354C5F2630"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 			]
@@ -1061,19 +862,16 @@
 				{
 					exclude_from_claim_all: true
 					id: "6AF403C26E6A504D"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "30B5000C0C8193C4"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "19529CD4828BEA45"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 			]
@@ -1092,25 +890,21 @@
 				{
 					exclude_from_claim_all: true
 					id: "40E89182DE7C65EE"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "1CFDCE2296080105"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "4F9E4D30D5876C09"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 				{
 					exclude_from_claim_all: true
 					id: "2A8E4E426530D974"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 			]
@@ -1160,7 +954,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "6AA6BA37EEE14C40"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -1178,7 +971,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "19E86CA366F9D6F4"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 				{
@@ -1205,7 +997,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "5CB36D385818623E"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [
@@ -1266,7 +1057,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "7D1EEFB011AC7AD6"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -1283,7 +1073,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "112D74398626C46C"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -1300,7 +1089,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "2F4B32306B3EDA6D"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -1327,7 +1115,6 @@
 				{
 					exclude_from_claim_all: true
 					id: "57A513B729D70E88"
-					table_id: 7750470488300715103L
 					type: "loot"
 				}
 			]
@@ -1364,42 +1151,8 @@
 				item: { count: 1, id: "create:extendo_grip" }
 				type: "item"
 			}]
-			x: -17.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["19EF1E8C0E100513"]
-			id: "7B708BFB812468C1"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0F2EEF200E2400F3"
-				table_id: 7750470488300715103L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "04CDEBC12944F0B1"
-				item: { components: { "ftbquests:missing_item": "ae2:color_applicator" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
 			x: -18.5d
-			y: -3.0d
-		}
-		{
-			dependencies: ["73BDCB5E544B5613"]
-			id: "2205E612ACB259A0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "3510EF376E04A085"
-				table_id: 4474537204862423356L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "533FB05BB1A827C8"
-				item: { components: { "ftbquests:missing_item": "ae2:matter_cannon" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -6.0d
-			y: -2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["6000E7C143F28A4B"]
@@ -1410,7 +1163,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "1BCECD391F012653"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [
@@ -1427,6 +1179,336 @@
 			]
 			x: -14.5d
 			y: 0.5d
+		}
+		{
+			dependencies: ["73BDCB5E544B5613"]
+			id: "04DEAB47F0BA74B8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F639EAC1299727B"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "759B0154145BEACF"
+				item: { count: 1, id: "quark:pickarang" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4EF1E10B0DE75887"]
+			icon: {
+				id: "minecraft:iron_helmet"
+			}
+			id: "1039F8170C34D92B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D4D72A01D3B6436"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "011890AC893D30E5"
+				type: "checkmark"
+			}]
+			x: -13.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			icon: {
+				id: "minecraft:slime_ball"
+			}
+			id: "274F08C4ECE07659"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C02860A62E90F67"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "4027F55C74DB3A4B"
+					item: { count: 1, id: "create_sa:slime_boots" }
+					type: "item"
+				}
+				{
+					id: "1EDA14A7389C567A"
+					item: { count: 1, id: "create_sa:slime_helmet" }
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"1039F8170C34D92B"
+				"43781CCBE88A89D3"
+			]
+			icon: {
+				id: "create:cardboard"
+			}
+			id: "339BD3564529C8D4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B1B897858B4FC85"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "3F966F0F6E44E717"
+					item: { count: 1, id: "create:cardboard_helmet" }
+					type: "item"
+				}
+				{
+					id: "658EB78A1432C047"
+					item: { count: 1, id: "create:cardboard_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5B6B5CB6FF1A73C4"
+					item: { count: 1, id: "create:cardboard_leggings" }
+					type: "item"
+				}
+				{
+					id: "32C34086EAB65B82"
+					item: { count: 1, id: "create:cardboard_boots" }
+					type: "item"
+				}
+			]
+			x: -15.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1039F8170C34D92B"]
+			icon: {
+				id: "minecraft:armor_stand"
+			}
+			id: "652DC075441329A5"
+			shape: "rsquare"
+			tasks: [{
+				id: "3696C2398BA2E3BB"
+				type: "checkmark"
+			}]
+			x: -9.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			icon: {
+				id: "create:copper_diving_helmet"
+			}
+			id: "7916B01706B82413"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4398F6B7F203E8F3"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "206F941DE8AE1C51"
+					item: { count: 1, id: "create:copper_diving_helmet" }
+					type: "item"
+				}
+				{
+					id: "543A9ED414225DC6"
+					item: { count: 1, id: "createfisheryindustry:copper_diving_leggings" }
+					type: "item"
+				}
+				{
+					id: "62FD77E8928027BB"
+					item: { count: 1, id: "create:copper_diving_boots" }
+					type: "item"
+				}
+			]
+			x: -11.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["7916B01706B82413"]
+			icon: {
+				id: "create:netherite_diving_helmet"
+			}
+			id: "72A4EDCDB9DCB67A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0F0174541F6CCF14"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "3C35E57F5E582C94"
+					item: { count: 1, id: "create:netherite_diving_helmet" }
+					type: "item"
+				}
+				{
+					id: "69C8FD66C2146E9E"
+					item: { count: 1, id: "createfisheryindustry:netherite_diving_leggings" }
+					type: "item"
+				}
+				{
+					id: "131340AB05ED8BA0"
+					item: { count: 1, id: "create:netherite_diving_boots" }
+					type: "item"
+				}
+			]
+			x: -12.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "6B7D67B91B250CB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7697D43D4FB7F1EA"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1425AA33D17D38E6"
+				item: { components: { "create:banktank_air": 900 }, count: 1, id: "create_jetpack:jetpack" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["6B7D67B91B250CB5"]
+			id: "5A30DE70E019A47E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4881806C892CBC9C"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "58493A02B82CBFE1"
+				item: { components: { "create:banktank_air": 900 }, count: 1, id: "create_jetpack:netherite_jetpack" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "487B8A7B1737EB80"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6563DD82ACE7C22D"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1234712A9E34D174"
+				item: { count: 1, id: "create_sa:andesite_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "60074E20842DA3CF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "578BC82FA581C0E6"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "75FC44360A9884BC"
+				item: { count: 1, id: "create_sa:copper_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"60074E20842DA3CF"
+				"487B8A7B1737EB80"
+			]
+			id: "28D99A953A14913C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "313DE2F88E0FF473"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "47EED8E32C4FBDFD"
+				item: { count: 1, id: "create_sa:brass_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["28D99A953A14913C"]
+			id: "20EB2219294A527C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B02F42E2EEE9692"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0DE2BA51326F9C46"
+				item: { count: 1, id: "create_sa:netherite_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "69CCE57A6AAB9823"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DDA1C0943527017"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "43C8CA0808EC2BF9"
+				item: { count: 1, id: "create_sa:andesite_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["652DC075441329A5"]
+			id: "1D1D7F8B10D5845F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "664A04E267742EF7"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7F56BB6712F3DB97"
+				item: { count: 1, id: "create_sa:copper_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"69CCE57A6AAB9823"
+				"1D1D7F8B10D5845F"
+			]
+			id: "648624CE5B55C071"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11FDE8183133FEA5"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1DC44EFC9762537D"
+				item: { count: 1, id: "create_sa:brass_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -10.5d
 		}
 	]
 }

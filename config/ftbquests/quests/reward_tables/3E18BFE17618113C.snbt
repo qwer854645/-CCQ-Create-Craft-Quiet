@@ -13,7 +13,7 @@
 		string_id: "_"
 	}
 	loot_size: 1
-	order_index: 2
+	order_index: 1
 	rewards: [
 		{ id: "16CE431C79FF581D", item: { count: 1, id: "minecraft:iron_shovel" } }
 		{ id: "4841980B16CB61AF", item: { count: 1, id: "minecraft:iron_pickaxe" } }

@@ -144,6 +144,12 @@
 		# Default: 0.5
 		# Range: 0.1 ~ 0.9
 		doubleHeartChainShareRatio = 0.5
+		#双心链生效距离 (默认: 32.0)
+		#女仆与主人距离超过此值(方块)时，伤害不再分摊给主人
+		#Double Heart Chain effective distance (blocks)
+		# Default: 32.0
+		# Range: 4.0 ~ 128.0
+		doubleHeartChainMaxDistance = 32.0
 
 	#功能相关饰品配置
 	#Utility-related bauble configurations
@@ -349,3 +355,14 @@
 	#仅在 allowMobSpawnsInRetreat=true 时生效
 	#Whether to allow hostile mob spawns in The Retreat (default: false)
 	allowHostileMobSpawnsInRetreat = false
+
+#兼容性相关配置
+#Compatibility configurations
+[compat]
+	#是否在启动时自动安装/更新内置的车万女仆兼容模型包 (默认: true)
+	#true: 每次启动都会把 jar 内置的 tlm_custom_pack 模型包写入游戏目录（覆盖同名文件），以确保模型/动画为最新修复版本
+	#false: 不自动安装，整合包作者或玩家可自行管理 tlm_custom_pack 目录下的模型包
+	#Whether to auto-install/update the bundled Touhou Little Maid compatibility model pack on startup (default: true)
+	#true: The bundled pack is written into the game directory on every launch (overwriting same-named files), keeping models/animations up to date
+	#false: No auto-install; pack authors or players manage the tlm_custom_pack directory themselves
+	autoInstallTlmModelPack = true

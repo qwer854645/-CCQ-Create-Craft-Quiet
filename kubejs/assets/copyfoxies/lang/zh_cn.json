@@ -1,0 +1,16 @@
+{
+  "itemGroup.copyfoxies.main": "机械动力：复制狐",
+  "block.copyfoxies.copyfox_dual_half_layer": "复制狐：双半层",
+  "block.copyfoxies.copyfox_dual_half_column": "复制狐：双半柱",
+  "block.copyfoxies.copyfox_centered_half_panel": "复制狐：居中半板",
+  "block.copyfoxies.copyfox_quarter_panel": "复制狐：四分之一板",
+  "block.copyfoxies.copyfox_corner_variable_cube": "复制狐：转角可变方块",
+  "block.copyfoxies.copyfox_center_variable_cube": "复制狐：居中可变方块",
+  "block.copyfoxies.copyfox_variable_slope": "复制狐：可变斜坡",
+  "block.copyfoxies.copyfox_centered_variable_slope": "复制狐：居中可变斜坡",
+  "block.copyfoxies.copyfox_three_band_panel": "复制狐：三节板",
+  "item.copyfoxies.copyfox_variable_slope_helper": "复制狐：可变斜坡辅助",
+  "item.copyfoxies.copyfox_centered_variable_slope_helper": "复制狐：居中可变斜坡辅助",
+  "block.copyfoxies.copyfox_edge_cut_prism": "复制狐：切棱棱柱",
+  "block.copyfoxies.copyfox_edge_cut_centered_prism": "复制狐：切棱居中棱柱"
+}

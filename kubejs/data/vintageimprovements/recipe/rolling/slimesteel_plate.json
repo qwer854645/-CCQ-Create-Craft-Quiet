@@ -1,0 +1,24 @@
+﻿{
+    "type": "createaddition:rolling",
+    "ingredients": [
+        {
+            "tag": "c:plates/slimesteel"
+        }
+    ],
+    "results": [
+        {
+            "count": 2,
+            "id": "vintageimprovements:slimesteel_wire"
+        }
+    ],
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "createaddition"
+        },
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "tconstruct"
+        }
+    ]
+}

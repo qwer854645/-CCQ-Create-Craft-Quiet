@@ -1,0 +1,20 @@
+{
+  "type": "cmr:block_spouting",
+  "ingredients": [
+    {
+      "item": "farmersdelight:organic_compost"
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 500,
+      "fluid": "ccq_core:mob_essence"
+    }
+  ],
+  "results": [
+    {
+      "item":{
+        "id": "farmersdelight:rich_soil"
+      }
+    }
+  ]
+}

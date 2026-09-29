@@ -7,6 +7,7 @@
 		id: "create:large_cogwheel"
 	}
 	id: "59A7C4CAE9E5E505"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -192,7 +193,7 @@
 				id: "0D8D4EFFF5519C32"
 				type: "checkmark"
 			}]
-			x: 4.5d
+			x: 3.0d
 			y: -2.5d
 		}
 		{

@@ -1,0 +1,14 @@
+{
+  "moonlight.configuration.test_date": "测试日期",
+  "moonlight.configuration.test_date.day": "日",
+  "moonlight.configuration.test_date.month": "月",
+  "moonlight.configuration.test_time": "测试时间",
+  "moonlight.configuration.test_time.hour": "时",
+  "moonlight.configuration.test_time.minute": "分",
+  "moonlight.configuration.test_category.test_date": "测试日期",
+  "moonlight.configuration.test_category.test_time": "测试时间",
+  "moonlight.configuration.test_category.test_schema_advanced": "测试高级 Schema",
+  "moonlight.configuration.test_category.test_schema_advanced.description": "Schema 表单：长整型、十六进制颜色、正则、可选值、有界列表、键值对、分发、二选一、分发映射、递归、原始值",
+  "moonlight.configuration.test_category.test_schema_map": "测试 Schema 映射",
+  "moonlight.configuration.test_category.test_schema_map.description": "Schema 映射"
+}

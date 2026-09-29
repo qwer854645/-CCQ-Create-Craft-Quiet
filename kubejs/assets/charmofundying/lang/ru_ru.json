@@ -1,0 +1,12 @@
+{
+  "charmofundying.networking.failed": "Очарование бессмертного сетевого сбоя",
+  "gui.charmofundying.config.renderTotem.description": "Если включено, отображает экипированный тотем на игроках.",
+  "gui.charmofundying.config.renderTotem.name": "Рендеринг оборудованного тотема",
+  "gui.charmofundying.config.xOffset.description": "Горизонтальное смещение для рендеринга тотема на игроке.",
+  "gui.charmofundying.config.xOffset.name": "Смещение горизонтального рендеринга",
+  "gui.charmofundying.config.yOffset.description": "Вертикальное смещение для рендеринга тотема на игроке.",
+  "gui.charmofundying.config.yOffset.name": "Смещение вертикальной отрисовки",
+  "gui.charmofundying.config.zOffset.description": "Смещение по оси Z для рендеринга тотема на игроке.",
+  "gui.charmofundying.config.zOffset.name": "Смещение рендеринга по оси Z",
+  "trinkets.slot.charm.charm": "Амулет"
+}

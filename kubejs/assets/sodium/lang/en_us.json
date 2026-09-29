@@ -1,5 +1,5 @@
 {
-    "sodium.console.config_not_loaded": "Sodium的配置文件已损坏或当前无法读取.某些选项已被临时重置为默认值.请打开视频设置屏幕以解决此问题.",
-    "sodium.options.fullscreen_resolution.tooltip": "全屏模式下使用的显示器分辨率和刷新率.更改此选项可能会干扰其他应用程序,并在应用程序之间切换时导致延迟.\n\n此功能仅支持Windows操作系统.",
-    "sodium.console.config_file_was_reset": "配置文件已重置为已知的好默认值."
+  "sodium.console.config_file_was_reset": "Config file was reset",
+  "sodium.console.config_not_loaded": "Config not loaded",
+  "sodium.options.fullscreen_resolution.tooltip": "Tooltip"
 }

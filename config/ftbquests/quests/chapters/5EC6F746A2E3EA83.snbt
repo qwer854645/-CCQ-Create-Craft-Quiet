@@ -1,12 +1,13 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "5EC6F746A2E3EA83"
+	filename: "5ec6f746a2e3ea83"
 	group: "40D9AA552FD9F863"
 	icon: {
 		id: "createaddition:electric_motor"
 	}
 	id: "5EC6F746A2E3EA83"
+	images: [ ]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
@@ -161,51 +162,6 @@
 			}]
 			x: 4.0d
 			y: -3.5d
-		}
-		{
-			dependencies: ["2D9313E4777DA5E7"]
-			id: "171E879D59AFBC4F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "782B39ADA6804819"
-				table_id: 742263138327196441L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "69F1FECF1772C9B8"
-				item: { components: { "ftbquests:missing_item": "createthrusters:alternator" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["171E879D59AFBC4F"]
-			id: "718B5828A12C9BED"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5C04F9A6BFBD85DA"
-				table_id: 7750470488300715103L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "58044CF7DE6B1BBF"
-				item: { components: { "ftbquests:missing_item": "createthrusters:industrial_motor" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -2.0d
-		}
-		{
-			dependencies: ["718B5828A12C9BED"]
-			id: "6E733250B187DBD4"
-			tasks: [{
-				id: "2E2C9CA81F509EEE"
-				item: { components: { "ftbquests:missing_item": "createthrusters:andesite_cable" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: -2.0d
 		}
 	]
 }

@@ -1,12 +1,13 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "59EEAB2A5999EAC7"
+	filename: "59eeab2a5999eac7"
 	group: "09B1E2D6583BAF08"
 	icon: {
 		id: "tacz:target"
 	}
 	id: "59EEAB2A5999EAC7"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

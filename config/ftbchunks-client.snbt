@@ -138,77 +138,86 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:spider": true
+			"minecraft:mule": true
 			"quark:stoneling": true
-			"minecraft:turtle": true
-			"minecraft:strider": true
-			"minecraft:tropical_fish": false
-			"minecraft:pillager": true
-			"minecraft:hoglin": true
-			"minecraft:piglin": true
-			"quark:crab": true
-			"minecraft:wolf": true
-			"minecraft:enderman": true
-			"minecraft:zombified_piglin": true
-			"minecraft:pufferfish": false
-			"minecraft:sheep": true
-			"minecraft:villager": true
-			"minecraft:magma_cube": true
-			"minecraft:pig": true
-			"minecraft:zombie": true
-			"minecraft:wandering_trader": true
-			"minecraft:frog": true
-			"minecraft:squid": true
-			"minecraft:trader_llama": true
-			"touhou_little_maid:fairy": true
-			"quark:shiba": true
-			"minecraft:chicken": true
-			"minecraft:stray": true
 			"minecraft:zombie_villager": true
-			"minecraft:iron_golem": true
-			"minecraft:witch": true
-			"minecraft:vindicator": true
-			"minecraft:wither_skeleton": true
-			"minecraft:cow": true
-			"minecraft:skeleton": true
-			"northstar:frozen_zombie": true
-			"quark:toretoise": true
-			"minecraft:fox": true
-			"touhou_little_maid:maid": true
-			"ars_nouveau:whirlisprig": true
-			"minecraft:cod": false
-			"quark:forgotten": true
-			"minecraft:llama": true
-			"minecraft:piglin_brute": true
-			"minecraft:axolotl": true
-			"minecraft:rabbit": true
-			"minecraft:skeleton_horse": true
-			"minecraft:blaze": true
-			"create_bic_bit:herring": true
-			"northstar:mars_moth": true
 			"minecraft:salmon": false
-			"ars_nouveau:starbuncle": true
+			"minecraft:chicken": true
 			"minecraft:silverfish": true
-			"minecraft:drowned": true
-			"minecraft:dolphin": true
-			"ars_nouveau:drygmy": true
 			"minecraft:slime": true
-			"northstar:mars_toad": true
-			"minecraft:cat": true
-			"northstar:mars_worm": true
-			"minecraft:cave_spider": true
-			"minecraft:bat": true
+			"minecraft:sheep": true
+			"minecraft:turtle": true
+			"northstar:frozen_zombie": true
 			"minecraft:donkey": true
-			"minecraft:bogged": true
-			"minecraft:sniffer": true
-			"minecraft:bee": true
-			"minecraft:glow_squid": true
+			"minecraft:shulker": true
+			"northstar:mars_toad": true
+			"minecraft:armadillo": true
+			"minecraft:axolotl": true
+			"minecraft:iron_golem": true
+			"minecraft:cave_spider": true
+			"touhou_little_maid:maid": true
+			"ars_nouveau:drygmy": true
+			"northstar:mars_moth": true
 			"northstar:mars_cobra": true
+			"minecraft:frog": true
+			"minecraft:bat": true
+			"minecraft:cow": true
+			"minecraft:magma_cube": true
+			"eternalnether:wither_skeleton_horse": true
+			"minecraft:bogged": true
+			"minecraft:phantom": true
+			"minecraft:bee": true
+			"quark:crab": true
+			"create_bic_bit:herring": true
+			"minecraft:trader_llama": true
+			"minecraft:wither_skeleton": true
+			"minecraft:skeleton": true
+			"minecraft:camel": true
+			"minecraft:zombified_piglin": true
+			"ars_nouveau:whirlisprig": true
+			"minecraft:vindicator": true
+			"minecraft:skeleton_horse": true
+			"minecraft:fox": true
+			"minecraft:rabbit": true
+			"minecraft:sniffer": true
+			"minecraft:spider": true
 			"minecraft:horse": true
+			"minecraft:cat": true
 			"minecraft:creeper": true
+			"minecraft:pufferfish": false
+			"minecraft:villager": true
 			"minecraft:ghast": true
-			"quark:foxhound": true
+			"minecraft:squid": true
+			"minecraft:llama": true
+			"touhou_little_maid:fairy": true
+			"minecraft:dolphin": true
+			"minecraft:strider": true
+			"minecraft:zombie": true
+			"minecraft:tropical_fish": false
+			"minecraft:witch": true
+			"minecraft:cod": false
+			"northstar:mars_worm": true
+			"minecraft:glow_squid": true
+			"minecraft:blaze": true
+			"quark:forgotten": true
+			"ars_nouveau:starbuncle": true
+			"minecraft:hoglin": true
+			"minecraft:wandering_trader": true
+			"minecraft:husk": true
+			"quark:toretoise": true
+			"minecraft:pig": true
 			"ars_nouveau:alakarkinos": true
+			"minecraft:stray": true
+			"quark:foxhound": true
+			"minecraft:wolf": true
+			"minecraft:drowned": true
+			"minecraft:enderman": true
+			"quark:shiba": true
+			"minecraft:pillager": true
+			"minecraft:evoker": true
+			"minecraft:piglin": true
+			"minecraft:piglin_brute": true
+			"minecraft:parrot": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

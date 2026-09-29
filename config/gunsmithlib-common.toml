@@ -26,3 +26,7 @@ enable_remove_interception = true
 #
 #Added in version 5.9.3
 improve_tracer_rotation_stability = true
+#If true, projectile explosion will bypass targets' i-frame.
+#
+#Added in version 6.4.0
+remove_explosion_iframe = true

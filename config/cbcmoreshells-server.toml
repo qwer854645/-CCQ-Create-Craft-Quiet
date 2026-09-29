@@ -16,6 +16,8 @@
 	# Default: 2
 	# Range: 0 ~ 16
 	extinguisherRange = 2
+	#.
+	notifyOnHit = true
 
 		#.
 		#.

@@ -1,0 +1,70 @@
+{
+  "creativetab.fungidelight_tab": "真菌乐事",
+
+  "item.fungidelight.cleaned_cap": "洗净的墨汁鬼伞",
+  "item.fungidelight.cooked_cleaned_cap": "烤墨汁鬼伞",
+  "item.fungidelight.truffle": "松露",
+  "item.fungidelight.truffle_slice": "松露片",
+
+  "item.fungidelight.inky_caps_salad": "墨汁鬼伞沙拉",
+  "item.fungidelight.creamy_morel_soup": "奶油羊肚菌汤",
+  "item.fungidelight.truffle_ice_cream": "松露冰淇淋",
+
+  "item.fungidelight.inky_cap_scrambled_eggs": "墨汁鬼伞炒蛋",
+  "item.fungidelight.truffle_pasta": "松露意面",
+  "item.fungidelight.stuffed_morels": "酿羊肚菌",
+  "item.fungidelight.steak_with_mushrooms": "蘑菇牛排",
+  "item.fungidelight.mutton_chops_with_truffle": "松露羊排",
+  "item.fungidelight.rabbit_with_morels": "羊肚菌兔肉",
+  "item.fungidelight.pork_marsala_with_mushrooms": "蘑菇马萨拉猪肉",
+
+  "item.minecraft.potion.effect.burrowing": "掘地药水",
+  "item.minecraft.splash_potion.effect.burrowing": "喷溅型掘地药水",
+  "item.minecraft.lingering_potion.effect.burrowing": "滞留型掘地药水",
+  "item.minecraft.tipped_arrow.effect.burrowing": "掘地之箭",
+  "item.minecraft.potion.effect.long_burrowing": "掘地药水",
+  "item.minecraft.splash_potion.effect.long_burrowing": "喷溅型掘地药水",
+  "item.minecraft.lingering_potion.effect.long_burrowing": "滞留型掘地药水",
+  "item.minecraft.tipped_arrow.effect.long_burrowing": "掘地之箭",
+  "item.minecraft.potion.effect.strong_burrowing": "掘地药水",
+  "item.minecraft.splash_potion.effect.strong_burrowing": "喷溅型掘地药水",
+  "item.minecraft.lingering_potion.effect.strong_burrowing": "滞留型掘地药水",
+  "item.minecraft.tipped_arrow.effect.strong_burrowing": "掘地之箭",
+
+  "item.fungidelight.inky_cap_cow_spawn_egg": "墨汁鬼伞牛刷怪蛋",
+  "item.fungidelight.morel_cow_spawn_egg": "羊肚菌牛刷怪蛋",
+
+  "block.fungidelight.inky_cap_mushroom": "墨汁鬼伞",
+  "block.fungidelight.morel_mushroom": "羊肚菌",
+
+  "block.fungidelight.inky_cap_mushroom_block": "墨汁鬼伞菌盖方块",
+  "block.fungidelight.inky_cap_mushroom_stem": "墨汁鬼伞菌柄",
+  "block.fungidelight.inky_cap_mushroom_edge": "墨汁鬼伞菌褶",
+  "block.fungidelight.inky_goo_veil": "墨色粘液帷幕",
+  "block.fungidelight.morel_mushroom_block": "羊肚菌菌盖方块",
+  "block.fungidelight.morel_mushroom_stem": "羊肚菌菌柄",
+
+  "block.fungidelight.inky_cap_mushroom_colony": "墨汁鬼伞菌落",
+  "block.fungidelight.morel_mushroom_colony": "羊肚菌菌落",
+
+  "block.fungidelight.brown_mushroom_crate": "棕色蘑菇箱",
+  "block.fungidelight.inky_cap_mushroom_crate": "墨汁鬼伞箱",
+  "block.fungidelight.morel_mushroom_crate": "羊肚菌箱",
+  "block.fungidelight.red_mushroom_crate": "红色蘑菇箱",
+  "block.fungidelight.truffle_crate": "松露箱",
+
+  "block.fungidelight.truffle_dirt": "松露泥土",
+
+  "effect.fungidelight.burrowing": "掘地",
+  "tooltip.fungidelight.burrowing_desc": "在泥土上 +%s 挖掘速度",
+  "effect.fungidelight.weak_stomach": "胃弱",
+  "tooltip.fungidelight.weak_stomach_desc": "引起胃弱",
+
+  "subtitles.fungidelight.pig_happy": "猪快乐地哼哼",
+  "subtitles.fungidelight.pig_dig": "猪刨土",
+  "subtitles.fungidelight.pig_drop": "松露弹出",
+
+  "subtitles.fungidelight.dog_sniff_truffle": "狗嗅到松露",
+  "subtitles.fungidelight.dog_found_truffle": "狗捕捉到气味",
+  "subtitles.fungidelight.dog_alert_truffle": "狗找到松露"
+}

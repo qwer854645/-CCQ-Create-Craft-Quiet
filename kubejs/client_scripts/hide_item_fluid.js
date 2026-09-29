@@ -20,7 +20,12 @@ RecipeViewerEvents.removeEntries('item', event => {
       'create_fantasizing:diamond_fluid_barrel',
       'create_fantasizing:yin_yang_engine',
 
+      'functionalstorage:ender_drawer',
+
       'createdieselgenerators:plant_oil_bucket',
+
+      //飞行戒指
+      'balancedflight:ascended_flight_ring',
       
       'ars_nouveau:planarium_projector',
 
@@ -235,4 +240,5 @@ RecipeViewerEvents.addEntries('item', event => {
   event.add('create:refined_radiance')
   event.add('create:shadow_steel_casing')
   event.add('create:refined_radiance_casing')
+  event.add('ccq_core:storage_bridge')
 })

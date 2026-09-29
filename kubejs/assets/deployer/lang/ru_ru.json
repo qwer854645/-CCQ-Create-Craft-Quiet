@@ -1,0 +1,17 @@
+{
+  "deployer.factory_panel.no_connection_available": "Для этих панелей нет подключения",
+  "deployer.factory_panel.transferring": "Передача %s",
+  "deployer.factory_panel.transferring_switch": "Сейчас переношу %s",
+  "deployer.gui.factory_panel.not_affecting_recipe_tip_0": "Этот датчик не повлияет",
+  "deployer.gui.factory_panel.not_affecting_recipe_tip_1": "рецепт",
+  "deployer.panel.panels_connected": "Панели подключены",
+  "panel_connection.deployer.display": "Отображение данных",
+  "panel_connection.deployer.numbers": "Числа",
+  "panel_connection.deployer.redstone": "Редстоун",
+  "panel_connection.deployer.stock_connection": "Заказы",
+  "panel_connection.deployer.string": "Струны",
+  "stock_inventory_type.items": "Предметы",
+  "stock_inventory_type.unfinished_order": "Незавершенный заказ",
+  "stock_inventory_type.unfinished_order_line_1": "Все невыполненные заказы будут отправлены.",
+  "stock_inventory_type.unfinished_order_line_2": "одновременно при нажатии отправить"
+}

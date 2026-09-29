@@ -1,0 +1,24 @@
+﻿{
+    "type": "createaddition:rolling",
+    "ingredients": [
+        {
+            "tag": "c:plates/desh"
+        }
+    ],
+    "results": [
+        {
+            "count": 2,
+            "id": "vintageimprovements:desh_wire"
+        }
+    ],
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "createaddition"
+        },
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ad_astra"
+        }
+    ]
+}

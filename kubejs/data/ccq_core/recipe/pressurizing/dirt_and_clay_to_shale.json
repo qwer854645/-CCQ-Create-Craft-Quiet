@@ -1,27 +1,24 @@
 ﻿{
-    "type":  "vintageimprovements:pressurizing",
-    "secondary_fluid_input":  0,
-    "ingredients":  [
-                        {
-                            "amount":  500,
-                            "fluid":  "minecraft:lava",
-                            "type":  "neoforge:single"
-                        },
-                        {
-                            "count":  1,
-                            "item":  "minecraft:dirt"
-                        },
-                        {
-                            "count":  1,
-                            "item":  "minecraft:clay"
-                        }
-                    ],
-    "results":  [
-                    {
-                        "count": 2,
-                        "id":  "quark:shale"
-                    }
-                ],
+    "type": "vintageimprovements:pressurizing",
+    "secondary_fluid_input": {
+        "id": "minecraft:lava",
+        "amount": 500
+    },
+    "ingredients": [
+        {
+            "count": 1,
+            "item": "minecraft:dirt"
+        },
+        {
+            "count": 1,
+            "item": "minecraft:clay"
+        }
+    ],
+    "results": [
+        {
+            "count": 2,
+            "id": "quark:shale"
+        }
+    ],
     "processing_time": 1000
 }
-

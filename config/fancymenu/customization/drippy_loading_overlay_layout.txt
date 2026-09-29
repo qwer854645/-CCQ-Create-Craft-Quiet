@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1780298297338
+  last_edited_time = 1789117723335
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:3109da7d-7c17-4724-91b4-5a2cb59c671d-1780298276597] = [groups:][instances:]
+  [loading_requirement_container_meta:fcbd567b-5a5b-4fc6-af68-5502f3647e53-1789117682192] = [groups:][instances:]
 }
 
 menu_background {
@@ -60,8 +60,8 @@ menu_background {
 }
 
 menu_background {
-  instance_identifier = 0f5bdac1-4dd6-427c-9eed-7df1da91acea-1780298264679
-  background_type = video_mcef
+  instance_identifier = fa65e0bf-b539-4144-a4a7-8693b018b30b-1789117682192
+  background_type = video_rinku
   show_background = false
   loop = false
   volume = 1.0
@@ -127,13 +127,6 @@ menu_background {
   mouse_position_requires_hold = false
   opacity_multiplier = 1.0
   show_compile_errors = true
-}
-
-menu_background {
-  instance_identifier = 95a5c0bb-7577-4e3b-a034-80f8b35822d6-1780298264679
-  background_type = drippy_color_background
-  show_background = false
-  color = #FD5757FF
 }
 
 decoration_overlay {

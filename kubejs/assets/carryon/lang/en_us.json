@@ -1,13 +1,14 @@
 {
-    "carryon.category.custompickupconditions": "自定义抱起时获得的状态(高级)",
-    "carryon.general.modeloverrides.modeloverrides": "覆写模型",
-    "carryon.category.custompickupconditions.custompickupconditionsblocks": "自定义抱起方块时获得的状态",
-    "key.carry.desc": "抱起实体",
-    "carryon.category.settings": "设置",
-    "carryon.category.whitelist": "白名单",
-    "carryon.general.blacklist.forbiddentiles": "不允许玩家抱起的方块",
-    "carryon.general.blacklist.forbiddenentities": "不允许玩家抱起的实体",
-    "carryon.category.modeloverrides": "覆写模型(高级)",
-    "carryon.category.blacklist": "黑名单",
-    "carryon.category.custompickupconditions.custompickupconditionsentities": "自定义抱起实体时获得的状态"
+  "carryon.category.blacklist": "Blacklist",
+  "carryon.category.custompickupconditions": "Custom Pickup Conditions (Advanced)",
+  "carryon.category.custompickupconditions.custompickupconditionsblocks": "Custom Block Pickup Conditions",
+  "carryon.category.custompickupconditions.custompickupconditionsentities": "Custom Entity Pickup Conditions",
+  "carryon.category.modeloverrides": "Model Overrides (Advanced)",
+  "carryon.category.settings": "Settings",
+  "carryon.category.whitelist": "Whitelist",
+  "carryon.general.blacklist.forbiddenentities": "Entities that the Player cannot pick up",
+  "carryon.general.blacklist.forbiddentiles": "Blocks that the Player cannot pick up",
+  "carryon.general.modeloverrides.modeloverrides": "Model Overrides",
+  "key.carry.category": "Carry On",
+  "key.carry.desc": "Carry"
 }

@@ -1,0 +1,428 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a60c0000000000a1"
+	group: "40D9AA552FD9F863"
+	icon: {
+		id: "create:railway_casing"
+	}
+	id: "16C2CCA70A135DD5"
+	images: [ ]
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["637D679A5F9512C7"]
+			icon: {
+				id: "create:railway_casing"
+			}
+			id: "2CA5E5872087333F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "509DA12A614029E5"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "7E192B16ED6640CB"
+				type: "checkmark"
+			}]
+			x: -5.25d
+			y: 0.0d
+		}
+		{
+			id: "5AA3988085E7BE42"
+			tasks: [{
+				id: "378ABD4279D9D052"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "6A34C1AE519CD3F9"
+			tasks: [{
+				id: "4988D3BDD2C0A344"
+				item: { count: 1, id: "create:railway_casing" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "34EA734CA95B27E6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31795BAEC408D5D2"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "500ECCE968B14DB3"
+				item: { count: 1, id: "create:track_station" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "6BD78AFD61647E16"
+			tasks: [{
+				id: "6DE2EE00D1A132B1"
+				item: { count: 1, id: "create:controls" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "7ADE3CB5C997AD37"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75339C155D2A705B"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "184841DFA87B7A97"
+				item: { count: 1, id: "create:schedule" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			id: "0001105918793595"
+			tasks: [
+				{
+					id: "2AF44CC739E107B0"
+					item: { count: 1, id: "create:track_signal" }
+					type: "item"
+				}
+				{
+					id: "7C3FF35739C43F75"
+					item: { count: 1, id: "create:track_observer" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			id: "1EE54BA237936373"
+			tasks: [
+				{
+					id: "61E151E758F1EED0"
+					item: { count: 1, id: "create:train_door" }
+					type: "item"
+				}
+				{
+					id: "6C396B3A8D9BBECA"
+					item: { count: 1, id: "create:train_trapdoor" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			id: "042FD031E4F18096"
+			tasks: [{
+				id: "739E9B10B3240C19"
+				item: { count: 1, id: "railways:track_create_andesite_narrow" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "42E5387B1E12C77B"
+			tasks: [{
+				id: "494FA22D1BBEE35D"
+				item: { count: 1, id: "railways:track_create_andesite_wide" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "44C417DDD2382636"
+			tasks: [{
+				id: "74B6120885D0CCC0"
+				item: { count: 1, id: "railways:track_monorail" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			id: "35369C2045AE7562"
+			tasks: [
+				{
+					id: "7BFC3C143D46EC24"
+					item: { count: 1, id: "railways:track_phantom" }
+					type: "item"
+				}
+				{
+					id: "3F47412A71831742"
+					item: { count: 1, id: "railways:track_tieless" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "0E86F3E8D08CDEE9"
+			tasks: [
+				{
+					id: "6ED1927405647419"
+					item: { count: 1, id: "railways:track_switch_andesite" }
+					type: "item"
+				}
+				{
+					id: "770C0D72BD513C9F"
+					item: { count: 1, id: "railways:track_switch_brass" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "77CE1891232647C0"
+			tasks: [{
+				id: "4FCE7B504F71A89E"
+				item: { count: 1, id: "railways:track_coupler" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "616E7E5A2B514160"
+			tasks: [{
+				id: "5000E3372D64DE43"
+				item: { count: 1, id: "railways:buffer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "71AA4364C56015DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3097E9C59B22BDC9"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "71DAFA6C2794BE0A"
+				item: { count: 1, id: "railways:semaphore" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			id: "264668CDE04ECD65"
+			tasks: [
+				{
+					id: "783FFA9BC5BB3E7C"
+					item: { count: 1, id: "railways:fuel_tank" }
+					type: "item"
+				}
+				{
+					id: "25212E4CA1E02A96"
+					item: { count: 1, id: "railways:portable_fuel_interface" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "547B758662A3A517"
+			tasks: [
+				{
+					id: "763CEAA013AA60D2"
+					item: { count: 1, id: "railways:white_conductor_cap" }
+					type: "item"
+				}
+				{
+					id: "6A825F01C4174BA0"
+					item: { count: 1, id: "railways:conductor_whistle" }
+					type: "item"
+				}
+				{
+					id: "6172DAC9438A2F2C"
+					item: { count: 1, id: "railways:conductor_vent" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "03F8A778EFB43B08"
+			tasks: [{
+				id: "604FA042B941F7B6"
+				item: { count: 1, id: "railways:handcar" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			id: "7DB0E19DCBAAE481"
+			tasks: [{
+				id: "3AFBCA68CB89810C"
+				item: { count: 1, id: "railways:remote_lens" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "67BB78AE8DE03179"
+			tasks: [
+				{
+					id: "6AB19D5FE23A90A2"
+					item: { count: 1, id: "railways:slashed_locometal" }
+					type: "item"
+				}
+				{
+					id: "647761E155A5BA79"
+					item: { count: 1, id: "railways:locometal_boiler" }
+					type: "item"
+				}
+				{
+					id: "24EE99FEB1E2F135"
+					item: { count: 1, id: "railways:locometal_smokebox" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			id: "06FE4B87FB29D7C9"
+			tasks: [{
+				id: "174C8E3FEAA3DE6B"
+				item: { count: 1, id: "railways:smokestack_coalburner" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			id: "4EE6A27D96668365"
+			tasks: [
+				{
+					id: "2DD16F867B6E7AC3"
+					item: { count: 1, id: "railways:link_and_pin" }
+					type: "item"
+				}
+				{
+					id: "710AB494180F72CE"
+					item: { count: 1, id: "railways:wooden_headstock" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			id: "0D5E6E70264977E5"
+			tasks: [{
+				id: "7CCC4FA15D68C71D"
+				item: { count: 1, id: "railways:paint_brush" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			id: "61270A93562D2C83"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1402CD00F56CF91C"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5663FEA95EECECE0"
+				item: { count: 1, id: "createrailwaysnavigator:navigator" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			id: "4F830F868F03761D"
+			tasks: [{
+				id: "0782FE31161D4BCE"
+				item: { count: 1, id: "createrailwaysnavigator:advanced_display" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			id: "27E55CBBA61068A4"
+			tasks: [{
+				id: "156D43F7B4080A85"
+				item: { count: 1, id: "createrailwaysnavigator:train_station_clock" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			id: "1467AE5FEE039703"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7B187A447FFA929E"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "07EF9B0A501CD22D"
+				item: { count: 1, id: "createdieselgenerators:track_layers_bag" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "58BA75CDC675D565"
+			tasks: [
+				{
+					id: "526D904D829DF66D"
+					item: { count: 1, id: "netmusic:music_player" }
+					type: "item"
+				}
+				{
+					id: "41DCEEFDCB12D2DC"
+					item: { count: 1, id: "netmusic:music_cd" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			id: "66F539160E8CE470"
+			tasks: [{
+				id: "16344960002C5852"
+				item: { count: 1, id: "dndesires:hydraulic_press" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+	]
+}

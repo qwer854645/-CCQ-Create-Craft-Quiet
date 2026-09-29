@@ -1,0 +1,13 @@
+{
+  "flightlib.subtitle.whoosh": "基特帕克 乌乌石伊",
+  "key.categories.movement.jetpack": "基特帕克",
+  "key.jetpack.activate_elytra.description": "艾克提夫 厄尔伊特拉",
+  "key.jetpack.toggle_active.description": "特格格勒 基特帕克 恩金",
+  "key.jetpack.toggle_hover.description": "特格格勒 赫弗尔 莫德",
+  "message.flightlib.control.off": "奥夫",
+  "message.flightlib.control.on": "昂",
+  "message.flightlib.control.toggle_active": "图勒德 基特帕克 恩金 %s",
+  "message.flightlib.control.toggle_hover": "图勒德 基特帕克 赫弗尔 莫德 %s",
+  "overlay.flightlib.control.toggle_active": "艾克提夫",
+  "overlay.flightlib.control.toggle_hover": "赫弗尔"
+}

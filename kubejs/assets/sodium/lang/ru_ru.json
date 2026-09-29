@@ -1,0 +1,5 @@
+{
+  "sodium.console.config_file_was_reset": "Конфигурационный файл был сброшен",
+  "sodium.console.config_not_loaded": "Конфигурация не загружена",
+  "sodium.options.fullscreen_resolution.tooltip": "Подсказка"
+}

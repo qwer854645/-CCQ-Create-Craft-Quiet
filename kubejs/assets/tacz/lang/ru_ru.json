@@ -1,0 +1,20 @@
+{
+  "itemGroup.tab.tacz.ammo": "TAC | Патроны",
+  "itemGroup.tab.tacz.other": "Вневременное и классическое оружие: ноль",
+  "tacz.type.ammo.name": "Патроны",
+  "tacz.type.extended_mag.name": "Расширенный магазин",
+  "tacz.type.grip.name": "Рукоятка",
+  "tacz.type.laser.name": "Лазер",
+  "tacz.type.mg.name": "Пулемёт",
+  "tacz.type.misc.name": "Прочее",
+  "tacz.type.muzzle.name": "Дуло",
+  "tacz.type.pistol.name": "Пистолет",
+  "tacz.type.rifle.name": "Винтовка",
+  "tacz.type.rpg.name": "Тяжёлое оружие",
+  "tacz.type.scope.name": "Прицел",
+  "tacz.type.shotgun.name": "Дробовик",
+  "tacz.type.smg.name": "Пистолет-пулемёт",
+  "tacz.type.sniper.name": "Снайперская винтовка",
+  "tacz.type.stock.name": "Приклад",
+  "tacz.type.unknown.name": "Не назван"
+}

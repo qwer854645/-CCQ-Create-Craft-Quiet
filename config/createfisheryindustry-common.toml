@@ -12,7 +12,7 @@
 	#Enable lava fishing functionality (requires lava environment)
 	enableLavaFishing = true
 	#Use Nether Depths Upgrade loot tables for lava fishing when available
-	#If false or NDU is not installed, will fall back to default fishing loot table
+	#If false or NDU is not installed, NDU contributes no lava-fishing loot
 	useNDULootTables = true
 
 #Diving Equipment settings
@@ -79,3 +79,10 @@
 		# Default: 1.01
 		# Range: 1.0 ~ 2.0
 		sprintFovMultiplier = 1.01
+
+#Optional Sable compatibility settings
+[sableCompatibility]
+	#Fixed world-space force used when a sneaking pneumatic harpoon pulls a Sable sublevel
+	# Default: 61.0
+	# Range: 0.0 ~ 65536.0
+	harpoonPullForce = 61.0

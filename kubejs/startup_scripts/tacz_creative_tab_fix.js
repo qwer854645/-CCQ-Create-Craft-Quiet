@@ -1,4 +1,8 @@
-/** @type {string[]} */
+/**
+ * TACZ creative tabs hardcode icons from the default gunpack (glock_17, ak47, ...).
+ * CCQ replaces that pack, so icons break - force a vanilla icon on every TACZ tab.
+ * IDs match ModCreativeTabs.register(...) in tacz 1.1.8-hotfix-r4.
+ */
 const TACZ_CREATIVE_TABS = [
   'tacz:other',
   'tacz:ammo',

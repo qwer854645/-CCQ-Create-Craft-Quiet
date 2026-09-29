@@ -7,6 +7,8 @@ StartupEvents.registry('item', event => {
 	event.create('ccq_core:elytra', 'create:sequenced_assembly').texture('minecraft:item/elytra')
 	//沉重核心
 	event.create('ccq_core:heavy_core_u', 'create:sequenced_assembly').texture('minecraft:item/iron_ingot')
+	//附魔金苹果（序列组装中间产物）
+	event.create('ccq_core:incomplete_enchanted_golden_apple', 'create:sequenced_assembly').texture('minecraft:item/golden_apple')
   	//星际航行基础(书)
   	event.create("ccq_core:interplanetary_navigation")
 
@@ -32,3 +34,11 @@ StartupEvents.registry('item', event => {
 })
 
 Platform.mods.kubejs.name = 'ccq_core'
+
+//存储桥接器未加入任何创造栏，JEI 默认不收
+StartupEvents.modifyCreativeTab('create:base', event => {
+  event.add('ccq_core:storage_bridge')
+})
+StartupEvents.modifyCreativeTab('functionalstorage:functionalstorage', event => {
+  event.add('ccq_core:storage_bridge')
+})

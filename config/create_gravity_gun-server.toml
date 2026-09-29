@@ -1,0 +1,34 @@
+#Gravity Gun behavior tuning. Defaults match Half-Life 2 Source SDK 2013.
+[gravity_gun]
+	#Maximum distance at which the gun can pick up a target, in blocks. HL2 default: 24.
+	# Default: 24.0
+	# Range: 1.0 ~ 128.0
+	grab_range = 24.0
+	#Minimum carry distance when scrolling toward you, in blocks. HL2 default: 1.5.
+	# Default: 1.5
+	# Range: 0.5 ~ 32.0
+	min_hold_distance = 1.5
+	#Maximum carry distance when scrolling away, in blocks. HL2 default: 12.
+	# Default: 12.0
+	# Range: 1.0 ~ 64.0
+	max_hold_distance = 12.0
+	#Maximum carry velocity in blocks per second while reeling a target to the hold point. HL2 default: 25.4.
+	# Default: 25.4
+	# Range: 0.1 ~ 200.0
+	carry_max_speed = 25.4
+	#Impulse velocity applied on punt (left click), in blocks per second. HL2 default: 38.1.
+	# Default: 38.1
+	# Range: 0.1 ~ 400.0
+	punt_velocity = 38.1
+	#Maximum sub-level mass that the gun can lift. HL2 default: 250 (physcannon_maxmass).
+	# Default: 250.0
+	# Range: 0.0 ~ 1.0E9
+	max_pickup_mass = 250.0
+	#Minimum ticks between successive too-heavy / failed-pickup sounds.
+	# Default: 20
+	# Range: 0 ~ 200
+	deny_sound_cooldown_ticks = 20
+	#Hold-distance change per scroll step, in blocks.
+	# Default: 0.5
+	# Range: 0.05 ~ 5.0
+	scroll_sensitivity = 0.5

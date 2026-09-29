@@ -14,7 +14,7 @@
   "item.repackaged.rare_bottle.rare_large_weathered_copper": "稀有大型锈蚀铜瓶",
   "item.repackaged.rare_bottle.rare_oxidized_copper": "稀有氧化铜瓶",
   "item.repackaged.rare_bottle.rare_weathered_copper": "稀有锈蚀铜瓶",
-  "itemGroup.repackaged": "Create：重新打包",
+  "itemGroup.repackaged": "机械动力：重新打包",
   "repackaged.gui.battery_charger.info_header": "电池充电器",
   "repackaged.gui.battery_charger.progress": "进度：",
   "repackaged.gui.battery_charger.status": "状态：",

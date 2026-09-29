@@ -1,0 +1,17 @@
+{
+  "deployer.factory_panel.no_connection_available": "这些面板没有可用连接",
+  "deployer.factory_panel.transferring": "正在传输 %s",
+  "deployer.factory_panel.transferring_switch": "正在传输 %s",
+  "deployer.gui.factory_panel.not_affecting_recipe_tip_0": "这个测量仪不会影响",
+  "deployer.gui.factory_panel.not_affecting_recipe_tip_1": "食谱",
+  "deployer.panel.panels_connected": "面板已连接",
+  "panel_connection.deployer.display": "显示数据",
+  "panel_connection.deployer.numbers": "数字",
+  "panel_connection.deployer.redstone": "红石",
+  "panel_connection.deployer.stock_connection": "订单",
+  "panel_connection.deployer.string": "字符串",
+  "stock_inventory_type.items": "物品",
+  "stock_inventory_type.unfinished_order": "未完成的订单",
+  "stock_inventory_type.unfinished_order_line_1": "所有未完成的订单将被发送",
+  "stock_inventory_type.unfinished_order_line_2": "点击发送时同时"
+}

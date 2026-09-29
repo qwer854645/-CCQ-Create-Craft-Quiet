@@ -1,0 +1,14 @@
+{
+  "itemGroup.create_qbp": "机械动力：量化蓝图",
+  "gui.create_qbp.no_blueprint": "物品栏中无有效蓝图物品",
+  "gui.create_qbp.empty_blueprint": "蓝图无材料",
+  "gui.create_qbp.materials": "材料清单",
+  "key.create_qbp.move": "切换编辑模式",
+  "key.categories.create_qbp": "机械动力：量化蓝图",
+  "key.create_qbp.move_up": "按钮上移",
+  "key.create_qbp.move_down": "按钮下移",
+  "key.create_qbp.move_left": "按钮左移",
+  "key.create_qbp.move_right": "按钮右移",
+  "config.create_qbp.button.movePanelX": "水平移动按钮时的偏移",
+  "config.create_qbp.button.movePanelY": "垂直移动按钮时的偏移"
+}

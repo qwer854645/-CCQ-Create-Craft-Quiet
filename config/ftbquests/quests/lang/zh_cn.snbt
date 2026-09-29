@@ -1,15 +1,18 @@
 {
 	chapter.1538492370F8FA55.chapter_subtitle: ["机械动力入门指南"]
 	chapter.1538492370F8FA55.title: "机械动力！"
-	chapter.17685888EF8804CA.title: "盔甲"
 	chapter.20D34C6CA7AFC843.chapter_subtitle: ["来自地底的宝藏"]
 	chapter.20D34C6CA7AFC843.title: "地下资源"
-	chapter.265F8BAF9D60AE90.title: "农夫乐事与森罗物语"
 	chapter.284309B13402547E.chapter_subtitle: ["当日达！"]
-	chapter.284309B13402547E.title: "物流系统"
+	chapter.284309B13402547E.title: "物流与仓储"
+	chapter.2B223FCB525AC6E2.chapter_subtitle: ["只写了一点（"]
+	chapter.2B223FCB525AC6E2.title: "商店"
+	chapter.3A4FA5E891B37E2F.chapter_subtitle: ["农夫乐事、森罗物语与更多厨房"]
 	chapter.3A4FA5E891B37E2F.title: "银河系大厨！"
+	chapter.422DA4380E4DCEBC.title: "感谢任务~"
+	chapter.44D3C80E145F2898.title: "物理！"
 	chapter.4E10E9617CAF0C75.chapter_subtitle: ["这么多？"]
-	chapter.4E10E9617CAF0C75.title: "工具与武器"
+	chapter.4E10E9617CAF0C75.title: "盔甲、工具与武器"
 	chapter.56A6422724DED83E.title: "新手引导"
 	chapter.59A7C4CAE9E5E505.title: "欢迎来到CCQ"
 	chapter.59EEAB2A5999EAC7.chapter_subtitle: ["这才是真正的武器"]
@@ -18,11 +21,18 @@
 	chapter.5EC6F746A2E3EA83.title: "电力系统"
 	chapter.60CB9EFB2388C32E.chapter_subtitle: ["论极品装备的诞生"]
 	chapter.60CB9EFB2388C32E.title: "附魔工业"
-	chapter.6B7F415D7E723A05.title: "成为一名赌徒"
 	chapter.7BE48D7A1D17519F.chapter_subtitle: ["都很有趣，不是吗"]
-	chapter.7BE48D7A1D17519F.title: "其他物品"
+	chapter.7BE48D7A1D17519F.title: "机械动力扩展"
 	chapter.7E4525E2F4697F2C.chapter_subtitle: ["人类不能永远待在摇篮里"]
 	chapter.7E4525E2F4697F2C.title: "火箭与太空"
+	chapter.A50C0000000000A1.chapter_subtitle: ["起飞，远航"]
+	chapter.A50C0000000000A1.title: "航空器"
+	chapter.A60C0000000000A1.chapter_subtitle: ["准点发车"]
+	chapter.A60C0000000000A1.title: "铁路"
+	chapter.A70C0000000000A1.chapter_subtitle: ["口径即正义"]
+	chapter.A70C0000000000A1.title: "大炮"
+	chapter.A80C0000000000A1.chapter_subtitle: ["先有源，后有术"]
+	chapter.A80C0000000000A1.title: "魔艺"
 	chapter_group.09B1E2D6583BAF08.title: "武器与装备"
 	chapter_group.40D9AA552FD9F863.title: "科技"
 	chapter_group.7446D161BCAFA84C.title: "农业"
@@ -69,7 +79,7 @@
 	quest.006B41D3A43DF5BF.quest_desc: ["铜龙头是方便的液体处理原件，可以让你从流体储罐中直接提取流体"]
 	quest.006B41D3A43DF5BF.title: "水龙头？"
 	quest.007396F8DA6237CA.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:orange_slashed_locometal\"},count:1,id:\"ae2:facade\"}"
-	quest.00757615C2FD7ADF.quest_desc: ["农业以农夫乐事为主，提供种类丰富的食品，并可以配合机械动力实现自动化生产，添加生活调味料模组鼓励玩家进食不同食物。详细信息见农业部分"]
+	quest.00757615C2FD7ADF.quest_desc: ["加入农夫乐事与森罗物语，提供丰富的食物，享受你的大厨生活！"]
 	quest.007F81105CDC1A49.quest_subtitle: "{count:1,id:\"createdeco:brass_door\"}"
 	quest.00850E87CB0565BD.quest_subtitle: "{count:1,id:\"culturaldelights:avocado_wood\"}"
 	quest.008607B325DED969.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":3}}},count:1,id:\"minecraft:enchanted_book\"}"
@@ -142,8 +152,8 @@
 	quest.0135B215008F8183.quest_subtitle: "{count:1,id:\"createbigcannons:cast_iron_quickfiring_breech\"}"
 	quest.0139A7BD69D69C17.quest_subtitle: "{components:{\"ae2:facade_item\":\"colorful_catalysts:fan_dyeing_pink_catalyst\"},count:1,id:\"ae2:facade\"}"
 	quest.0140A64DF89B7C2A.quest_subtitle: "{count:1,id:\"northstar:mars_cobra_spawn_egg\"}"
-	quest.0140BFB7E5DEDBC0.quest_desc: ["与铁完全相同"]
-	quest.0140BFB7E5DEDBC0.title: "下界石英"
+	quest.0140BFB7E5DEDBC0.quest_desc: ["锌做的工具，与铁完全相同，但更闪"]
+	quest.0140BFB7E5DEDBC0.title: "闪锌工具"
 	quest.0144F7825DFB2B3D.quest_subtitle: "{count:1,id:\"createdeco:corner_verdant_brick_slab\"}"
 	quest.014876CEB51DB0F0.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:sweet_and_sour_ender_pearls\"}"
 	quest.0149AE477E6175DB.quest_subtitle: "{count:1,id:\"railways:blue_copper_wrapped_locometal\"}"
@@ -249,6 +259,9 @@
 	quest.0229610645350F1F.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:crafting_table\"},count:1,id:\"ae2:facade\"}"
 	quest.0229E31788EF899E.quest_subtitle: "{count:1,id:\"cbcmoreshells:reinforced_short_range_torpedo\"}"
 	quest.022BD9C7B4E48250.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minersdelight:mining_fatigue\"}},count:1,id:\"minecraft:potion\"}"
+	quest.023252FF8423D07B.quest_desc: [""]
+	quest.023252FF8423D07B.quest_subtitle: "基于sable的物理化过山车~"
+	quest.023252FF8423D07B.title: "过山车"
 	quest.023312732C8E3E66.quest_subtitle: "{count:1,id:\"minecraft:leather_leggings\"}"
 	quest.023BA80ECD6580F8.quest_subtitle: "{components:{\"ae2:facade_item\":\"cratedelight:cod_crate\"},count:1,id:\"ae2:facade\"}"
 	quest.023E5276399B2647.quest_subtitle: "{count:1,id:\"minecraft:green_concrete_powder\"}"
@@ -460,6 +473,7 @@
 	quest.04817C4EA97B1BFF.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:oxidized_copper_tiles\"},count:1,id:\"ae2:facade\"}"
 	quest.04855EBC7F2E8B2E.quest_subtitle: "{count:1,id:\"ae2:crank\"}"
 	quest.048FAB329BAFC6E7.quest_subtitle: "{count:1,id:\"cbcmoreshells:large_slate_alloy_single_cannon_barrel\"}"
+	quest.04907FBC8ED47223.quest_desc: ["使用存储控制器，对抽屉进行无线控制"]
 	quest.049A8026148D0359.quest_subtitle: "{count:1,id:\"arsdelight:frostaya_pie\"}"
 	quest.049B4D9A5126E9E7.quest_subtitle: "{count:1,id:\"quark:bamboo_post\"}"
 	quest.049FC62874F7CE27.quest_subtitle: "{count:1,id:\"northstar:mercury_copper_ore\"}"
@@ -473,6 +487,7 @@
 	quest.04AEC0F7BE2F3AAB.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"applied_armorer:grip_storm\"}},count:1,id:\"tacz:attachment\"}"
 	quest.04B24E0996BE523B.quest_subtitle: "{count:1,id:\"expandeddelight:apple_juice\"}"
 	quest.04B2AB8184ACB225.quest_subtitle: "{count:1,id:\"northstar:salt\"}"
+	quest.04B2E01B6CE6FF1C.quest_desc: ["压缩抽屉，便捷地合成，有些时候有意想不到的效果……"]
 	quest.04B302B66A1D69F3.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:chiseled_granite_bricks\"},count:1,id:\"ae2:facade\"}"
 	quest.04B5D6C81110B2A7.quest_subtitle: "{components:{\"minecraft:custom_data\":{AmmoUsed:0}},count:1,id:\"spartan_weaponry_unofficial:tomahawk_copper\"}"
 	quest.04B67E7F3AA2AB3B.quest_subtitle: "{count:1,id:\"culturaldelights:eggplant_burger\"}"
@@ -520,6 +535,9 @@
 	quest.051696E2E4BA7441.quest_subtitle: "{count:1,id:\"minecraft:end_stone_brick_slab\"}"
 	quest.051D9FECCD8ABD02.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:thick\"}},count:1,id:\"minecraft:splash_potion\"}"
 	quest.052103FFFC7151BE.quest_subtitle: "{count:1,id:\"ars_nouveau:sourcestone_mosaic_stairs\"}"
+	quest.0524C3DABA0031A3.quest_desc: ["手无缚鸡之力的史蒂夫，作为一名工程师，很容易被兔子单杀 ……获取一个原木更是难上加难……？"]
+	quest.0524C3DABA0031A3.quest_subtitle: "由Aztira冠名！"
+	quest.0524C3DABA0031A3.title: "不可能完成的任务"
 	quest.0526C1DB020599A7.quest_subtitle: "{count:1,id:\"ars_nouveau:glyph_pierce\"}"
 	quest.052AB8A7C785A20E.quest_subtitle: "{count:1,id:\"veggiesdelight:zucchini_quiche_slice\"}"
 	quest.052AF0AAF8F0EFF3.quest_subtitle: "{count:1,id:\"quark:stripped_azalea_post\"}"
@@ -577,7 +595,6 @@
 	quest.05AE26042A32364E.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"northstar:enhanced_healing\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_bolt\"}"
 	quest.05AE51DCD9AD8575.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:slow_falling\"}},count:1,id:\"minecraft:splash_potion\"}"
 	quest.05AEE04AD87E55DB.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:blue_shingles\"},count:1,id:\"ae2:facade\"}"
-	quest.05B2FCF80460C2AC.quest_desc: ["服务器特供，由于安山岩生成过少，特别添加"]
 	quest.05B5BA58889FEBCC.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:luck\"}},count:1,id:\"minecraft:potion\"}"
 	quest.05B8E87ADD7F06CB.quest_subtitle: "{components:{\"functionalstorage:direction\":\"north\"},count:1,id:\"functionalstorage:puller_upgrade\"}"
 	quest.05BB5A2E155FEA9A.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:enderman_head\"}"
@@ -700,6 +717,8 @@
 	quest.06E032CBF86CDD88.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:nether_quartz_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.06E0AC74A2427FB8.quest_subtitle: "{count:1,id:\"quark:glow_shroom_ring\"}"
 	quest.06E2ECC0CF390B37.quest_subtitle: "{count:1,id:\"minecraft:netherite_axe\"}"
+	quest.06E913D715614396.quest_desc: ["使用一系列原件进行自动化存储"]
+	quest.06E913D715614396.title: "存储控制"
 	quest.06EB920A982137BC.quest_desc: ["这是末地的独有作物，逃离外岛后即可找到。"]
 	quest.06EB920A982137BC.title: "紫颂植物"
 	quest.06EE2FD702956755.quest_subtitle: "{count:1,id:\"quark:trapped_cherry_chest\"}"
@@ -771,6 +790,7 @@
 	quest.07A3CF5949BDD306.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:harming\"}},count:1,id:\"minecraft:tipped_arrow\"}"
 	quest.07A4A8E22EB4B88D.quest_subtitle: "{count:1,id:\"quark:gray_framed_glass\"}"
 	quest.07A77B22BA050EB2.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:chair_crimson\"}"
+	quest.07A87C43335E3A50.quest_desc: ["自动化村民交易，让村民为你打工！&m资本家&r"]
 	quest.07A92CD0CBDCFB58.quest_subtitle: "{count:1,id:\"ars_nouveau:alakarkinos_charm\"}"
 	quest.07A97D247EFCA457.quest_subtitle: "{count:1,id:\"createdeco:short_red_brick_wall\"}"
 	quest.07AF2D04076C3AE7.quest_subtitle: "{count:1,id:\"ae2:magenta_smart_dense_cable\"}"
@@ -817,6 +837,7 @@
 	quest.080ACF8FB9DC4647.quest_subtitle: "{count:1,id:\"railways:yellow_riveted_locometal\"}"
 	quest.080BAEC918A22E4F.quest_subtitle: "{count:1,id:\"create:horizontal_framed_glass\"}"
 	quest.080CF9CEBDEA52F8.quest_subtitle: "{count:1,id:\"cbc_at:unbored_steel_twin_autocannon_muzzle_brake\"}"
+	quest.080EA2310F7EB061.quest_subtitle: "只吃应力不吃草"
 	quest.080FF49052F89CE6.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:iron_halberd\"}"
 	quest.08116CD009CEA24E.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_leaping\"}},count:1,id:\"minecraft:potion\"}"
 	quest.081562F4C4B560A4.quest_subtitle: "{count:1,id:\"cbc_at:unbored_nethersteel_rifled_barrel\"}"
@@ -1234,8 +1255,6 @@
 	quest.0C1D1698DF7182D9.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:moon_gold_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.0C1D407AE3DDA63D.quest_subtitle: "{count:1,id:\"brewinandchewin:tankard\"}"
 	quest.0C1D728AA9A4C34E.quest_subtitle: "{count:1,id:\"railways:slashed_locometal\"}"
-	quest.0C217C1FA20B1516.quest_desc: ["普通的扳手，可以与机械动力的扳手互通"]
-	quest.0C217C1FA20B1516.title: "石英扳手"
 	quest.0C217F7F1DEDC854.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":1}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.0C2D9AFAA2E9FFFA.quest_subtitle: "{count:1,id:\"ends_delight:grilled_shulker\"}"
 	quest.0C2DDACCB479266B.quest_subtitle: "{count:1,id:\"create:copper_door\"}"
@@ -1394,6 +1413,7 @@
 	quest.0DAFBB1554677A26.quest_subtitle: "{count:1,id:\"createbigcannons:autocannon_breech_cast_mould\"}"
 	quest.0DB3C3DD50918218.quest_subtitle: "{count:1,id:\"create_mechanical_spawner:spawn_fluid_bat_bucket\"}"
 	quest.0DB6FA5512656443.quest_subtitle: "{count:1,id:\"quark:polished_granite_vertical_slab\"}"
+	quest.0DC30502A3AABB64.quest_desc: ["桥接器可以被两种控制器同时接入网络，实现互联"]
 	quest.0DCB84B45C8C82D4.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:slowness\"}},count:1,id:\"minecraft:tipped_arrow\"}"
 	quest.0DCD3FF1E12FA83A.quest_subtitle: "{components:{\"minecraft:custom_data\":{Oil:{Effect:\"spartan_weaponry_unofficial:potion\",Potion:\"minecraft:infested\"}}},count:1,id:\"spartan_weaponry_unofficial:weapon_oil\"}"
 	quest.0DCEFCB752ECC3C3.quest_subtitle: "{count:1,id:\"createbigcannons:bronze_autocannon_breech_extractor\"}"
@@ -1474,6 +1494,8 @@
 	quest.0E9BFBC36A24B136.quest_subtitle: "{count:1,id:\"quark:dirt_bricks_vertical_slab\"}"
 	quest.0EAAA5088B27F1CE.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"northstar:enhanced_regeneration\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_arrow\"}"
 	quest.0EABF0E7CE0F286F.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:pole\"}"
+	quest.0EAE54D3F08D4B9A.quest_subtitle: "有生之年"
+	quest.0EAE54D3F08D4B9A.title: "物理化的世界"
 	quest.0EB11FF6DE99D72A.quest_subtitle: "{count:1,id:\"createadditionallogistics:blue_flexible_shaft\"}"
 	quest.0EB4F3F87207EA79.quest_subtitle: "{count:1,id:\"minecraft:rotten_flesh\"}"
 	quest.0EB70F21AC509085.quest_subtitle: "{components:{\"ae2:facade_item\":\"fruitsdelight:lemon_jello_block\"},count:1,id:\"ae2:facade\"}"
@@ -1670,8 +1692,6 @@
 	quest.10D56911A06B9ECD.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:clay\"},count:1,id:\"ae2:facade\"}"
 	quest.10D788A864606F3C.quest_subtitle: "{count:1,id:\"minecraft:netherite_chestplate\"}"
 	quest.10DCC5D10D632D07.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"quark:strong_resilience\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_copper_bolt\"}"
-	quest.10DD1479E771A68A.quest_desc: ["我感觉我要出货了"]
-	quest.10DD1479E771A68A.title: "不要了，我不要抽"
 	quest.10E1807DBEBFC529.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:long_water_breathing\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_iron_arrow\"}"
 	quest.10E6287FC36904F6.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:observer\"},count:1,id:\"ae2:facade\"}"
 	quest.10E755E39460406A.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:freezing_potion_long\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_arrow\"}"
@@ -1906,7 +1926,7 @@
 	quest.135C9BCE7D087522.quest_subtitle: "{count:1,id:\"northstar:raw_tungsten_ore\"}"
 	quest.1362F8301504031A.quest_subtitle: "{count:1,id:\"create:brass_ladder\"}"
 	quest.1365A2D40462CA18.quest_subtitle: "{count:1,id:\"quark:blossom_wood\"}"
-	quest.1367CD291FD56AAB.quest_desc: ["电子管是制作一切智能设备的必要材料"]
+	quest.1367CD291FD56AAB.quest_desc: ["原配方已删除。现在用抛光玫瑰石英、铁板和铜线合成电子管，是智能设备的必要材料。"]
 	quest.1367CD291FD56AAB.title: "这是芯片吧？"
 	quest.13683253F70D7816.quest_desc: ["批量潮涌用到的触媒"]
 	quest.136933E6824BB641.quest_subtitle: "{count:1,id:\"offroad:wheel_mount\"}"
@@ -1977,6 +1997,9 @@
 	quest.14224F9AB486F9D7.quest_subtitle: "{count:1,id:\"cbcmoreshells:slate_alloy_single_cannon_quickfiring_breech\"}"
 	quest.1424F8139FF83883.quest_subtitle: "{count:1,id:\"createdeco:zinc_coin\"}"
 	quest.1429F6BBF6ED54F8.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:thorns\":3}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.142AE95FAA4C52EA.quest_desc: ["信标是个好东西啊……信标得做啊……"]
+	quest.142AE95FAA4C52EA.quest_subtitle: "由baiyao_ovo冠名！"
+	quest.142AE95FAA4C52EA.title: "信标工程师"
 	quest.142B0FD6EADC4D99.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:martian_steel_plating\"},count:1,id:\"ae2:facade\"}"
 	quest.142B23A7B26458FF.quest_subtitle: "{count:1,id:\"ae2:chiseled_quartz_wall\"}"
 	quest.142C15C8C272B537.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:layered_crimsite\"},count:1,id:\"ae2:facade\"}"
@@ -2255,7 +2278,6 @@
 	quest.170C0069D298CF5E.quest_subtitle: "{count:1,id:\"ars_nouveau:sourcestone_alternating\"}"
 	quest.170C0807330D9F8C.quest_subtitle: "{count:1,id:\"minecraft:cut_copper_slab\"}"
 	quest.1718FD459CE73DF0.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:nickel_pike\"}"
-	quest.171E879D59AFBC4F.quest_desc: ["效率最高的一集，全世界的物理学家都吓哭了"]
 	quest.17222881F0DF5D35.quest_subtitle: "{count:1,id:\"ae2:yellow_glass_cable\"}"
 	quest.17248F2ED8DE6B52.quest_subtitle: "{count:1,id:\"ars_nouveau:sourcestone_basketweave\"}"
 	quest.172798A17E367B93.quest_subtitle: "{count:1,id:\"railways:blue_locometal_smokebox\"}"
@@ -2294,7 +2316,7 @@
 	quest.177EAD040DD4F153.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:platinum_battleaxe\"}"
 	quest.17826F6812369083.quest_subtitle: "{count:1,id:\"quark:glow_shroom\"}"
 	quest.1788B2737819C32D.quest_subtitle: "{count:1,id:\"quark:raw_iron_bricks_stairs\"}"
-	quest.178FA5FB818BB43B.quest_desc: ["本包提供了三种混合矿石，需要经过进一步处理才能得到可用的矿石"]
+	quest.178FA5FB818BB43B.quest_desc: ["本包提供了三种混合矿石。主世界金属矿脉每次消耗 50mb 冷却液。粉碎后：洗涤出铁铜，振动出金锌，打磨出铂，离心出铅铀。"]
 	quest.179049C6AAE636EB.quest_subtitle: "{count:1,id:\"farmersdelight:cutting_board\"}"
 	quest.1790C8A9369F9F58.quest_subtitle: "{count:1,id:\"minecraft:sculk_sensor\"}"
 	quest.17935EF8D439C8B5.quest_subtitle: "{components:{\"ae2:facade_item\":\"create_connected:empty_fan_catalyst\"},count:1,id:\"ae2:facade\"}"
@@ -2304,6 +2326,7 @@
 	quest.179AC665A9E78EA0.quest_subtitle: "{count:1,id:\"minecraft:warped_hyphae\"}"
 	quest.17A869A058380498.quest_subtitle: "{count:1,id:\"quark:blossom_fence\"}"
 	quest.17ABAEB718AE7600.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:turtle_master\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_iron_arrow\"}"
+	quest.17AF412F52D8138E.quest_desc: ["月蓝宝石碎片用来点燃全部四座行星传送门，也可以灌注成魔源宝石。可用琥珀金压实复制碎片。"]
 	quest.17AF412F52D8138E.title: "蓝宝石？"
 	quest.17B814BBEEFE2458.quest_subtitle: "{count:1,id:\"minecraft:cyan_carpet\"}"
 	quest.17BD526F6DB7ED49.quest_subtitle: "{count:1,id:\"ends_delight:chorus_fruit_popsicle\"}"
@@ -2342,7 +2365,6 @@
 	quest.1801DA03D7B6261D.quest_subtitle: "{count:1,id:\"kaleidoscope_dim_wine:blaze_martell\"}"
 	quest.1801FF209AB9A96F.quest_subtitle: "{count:1,id:\"railways:white_locometal_smokebox\"}"
 	quest.18027EC223AF0042.quest_subtitle: "{count:1,id:\"cbcmoreshells:antiair_he_shell\"}"
-	quest.1804B186C2F1A46B.quest_desc: ["制作菜肴以提供强大的效果"]
 	quest.1807A1544DEA58C6.quest_subtitle: "{count:1,id:\"farmersdelight:sweet_berry_cheesecake\"}"
 	quest.180878D281FCE47F.quest_subtitle: "{components:{\"ae2:facade_item\":\"ars_nouveau:smooth_sourcestone_basketweave\"},count:1,id:\"ae2:facade\"}"
 	quest.1809934A180C427D.quest_subtitle: "{count:1,id:\"create:small_scoria_bricks\"}"
@@ -2587,6 +2609,9 @@
 	quest.1A62B1E140120372.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:red_locometal_smokebox\"},count:1,id:\"ae2:facade\"}"
 	quest.1A63050FAD38C4C6.quest_subtitle: "{count:1,id:\"quark:foxhound_spawn_egg\"}"
 	quest.1A67C27E716ADC21.quest_subtitle: "{count:1,id:\"create_connected:vertical_parallel_gearbox\"}"
+	quest.1A68448F63C707C1.quest_desc: ["万一呢？我是说万一……万一有用呢……？对吧……"]
+	quest.1A68448F63C707C1.quest_subtitle: "由风霜千雪冠名！"
+	quest.1A68448F63C707C1.title: "万一有用呢？"
 	quest.1A6867960E24FEEA.quest_subtitle: "{count:1,id:\"ae2:lime_lumen_paint_ball\"}"
 	quest.1A6B56BC3E56E454.quest_subtitle: "{count:1,id:\"functionalstorage:framed_controller_extension\"}"
 	quest.1A6DA156DDAA0233.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:ancient_bookshelf\"},count:1,id:\"ae2:facade\"}"
@@ -2609,6 +2634,8 @@
 	quest.1A8A105FE4A6D16F.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:white_riveted_locometal\"},count:1,id:\"ae2:facade\"}"
 	quest.1A8EF8BE995ECC10.quest_subtitle: "{count:1,id:\"quark:iron_pillar\"}"
 	quest.1A953607E6F1C51B.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"create_sa:chunk_eater\":5}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.1A9B7EE2F341B1DD.quest_desc: ["你需要冷却液才能开采矿物"]
+	quest.1A9B7EE2F341B1DD.title: "冷却液"
 	quest.1A9DE12515360F81.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:warped_planks\"},count:1,id:\"ae2:facade\"}"
 	quest.1AA0A9CA217763DB.quest_subtitle: "{count:1,id:\"minecraft:weathered_cut_copper_stairs\"}"
 	quest.1AA13772989BD9DC.quest_subtitle: "{count:1,id:\"minecraft:lead\"}"
@@ -2619,8 +2646,6 @@
 	quest.1AAC30746EB919A7.quest_subtitle: "{count:1,id:\"northstar:large_lunar_sapphire_bud\"}"
 	quest.1AB05C36EF8F0F2C.quest_subtitle: "{count:1,id:\"expandeddelight:cranberry_jelly\"}"
 	quest.1AB964E2A6E8E479.quest_subtitle: "{count:1,id:\"northstar:titanium_tetrachloride_bucket\"}"
-	quest.1ABC6B2D39675303.quest_desc: ["与铁完全相同"]
-	quest.1ABC6B2D39675303.title: "赛特斯石英"
 	quest.1AC1B6BD6081F596.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"dungeons_arise:ensnaring\":2}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.1AC3036D433F8E5A.quest_subtitle: "{count:1,id:\"minecraft:ochre_froglight\"}"
 	quest.1AC36CA5219A5B39.quest_subtitle: "{count:1,id:\"minecraft:spectral_arrow\"}"
@@ -2954,6 +2979,7 @@
 	quest.1DD66EDEFB33512F.quest_subtitle: "{count:1,id:\"quark:cherry_chest\"}"
 	quest.1DD765BFEB759555.quest_subtitle: "{count:1,id:\"farmersdelight:tomato_sauce\"}"
 	quest.1DDC31A6E52A9AB7.quest_subtitle: "{count:1,id:\"fruitsdelight:hamimelon_jello\"}"
+	quest.1DE4A6D988DEB5BA.quest_subtitle: "使用工作仓库，方便地生产"
 	quest.1DF557ECE56ED1D6.quest_subtitle: "{count:1,id:\"minecraft:emerald_ore\"}"
 	quest.1DF66099CC19C15E.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:tin_rapier\"}"
 	quest.1DF8AFB102F29C1E.quest_subtitle: "{count:1,id:\"ars_nouveau:smooth_sourcestone_basketweave_stairs\"}"
@@ -2972,6 +2998,7 @@
 	quest.1E1BCE2637BF6573.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:red_sandstone\"},count:1,id:\"ae2:facade\"}"
 	quest.1E1C4B713E3D4491.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:prismarine\"},count:1,id:\"ae2:facade\"}"
 	quest.1E1D4681387D86EA.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:tungsten_grate\"},count:1,id:\"ae2:facade\"}"
+	quest.1E1DA059E7C455BE.quest_subtitle: "对红石信号比大小"
 	quest.1E1FC57B307B2304.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:netherite_block\"},count:1,id:\"ae2:facade\"}"
 	quest.1E23E7538460BF11.quest_subtitle: "{components:{\"minecraft:suspicious_stew_effects\":[{id:\"minecraft:nausea\"}]},count:1,id:\"minecraft:suspicious_stew\"}"
 	quest.1E259E024940686F.quest_subtitle: "{count:1,id:\"northstar:polished_lunar_sapphire\"}"
@@ -3142,8 +3169,6 @@
 	quest.1FC4BCB8705220AD.quest_subtitle: "{count:1,id:\"cbc_at:unbored_bronze_heavy_autocannon_silencer\"}"
 	quest.1FC55AE45CAA2936.quest_subtitle: "{count:1,id:\"quark:trapped_prismarine_chest\"}"
 	quest.1FC718E9C12E662C.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:smooth_sandstone\"},count:1,id:\"ae2:facade\"}"
-	quest.1FCD6B2D4EC8226D.quest_desc: ["我一定能见到彩光的吧"]
-	quest.1FCD6B2D4EC8226D.title: "最后的遗产了"
 	quest.1FCFAFCB6060669B.quest_subtitle: "{count:1,id:\"createbigcannons:built_up_steel_cannon_chamber\"}"
 	quest.1FD28D5E7693E586.quest_subtitle: "{components:{\"ae2:stored_energy\":20000.0d},count:1,id:\"ae2:portable_item_cell_1k\"}"
 	quest.1FD70233527B5F09.quest_subtitle: "{count:1,id:\"ends_delight:liquid_dragon_egg\"}"
@@ -3171,6 +3196,7 @@
 	quest.20068DB262C48D6C.quest_subtitle: "{count:1,id:\"quark:soul_sandstone_wall\"}"
 	quest.2007425C5A4AD5E0.quest_subtitle: "{count:1,id:\"touhou_little_maid:mute_bauble\"}"
 	quest.2007D20650703D19.quest_desc: ["篮子可不仅仅是一个普通装菜的东西，在你搭建机械产线时，你会知道它的用处多大。"]
+	quest.2007D20650703D19.title: "篮子"
 	quest.200B03B9869E4E8B.quest_subtitle: "{components:{\"ae2:facade_item\":\"fruitsdelight:mangosteen_leaves\"},count:1,id:\"ae2:facade\"}"
 	quest.200B444B7461CBCD.title: "龙肉烹"
 	quest.200BB3FCB378B99A.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:light_blue_iron_wrapped_locometal\"},count:1,id:\"ae2:facade\"}"
@@ -3218,7 +3244,6 @@
 	quest.207237AA4710991E.quest_subtitle: "{components:{\"ae2:facade_item\":\"ars_nouveau:gilded_sourcestone_basketweave\"},count:1,id:\"ae2:facade\"}"
 	quest.20737B9B8437AC97.quest_subtitle: "{count:1,id:\"minecraft:magenta_terracotta\"}"
 	quest.2075EF93F44E45FD.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minersdelight:long_mining_fatigue\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_bolt\"}"
-	quest.20769FC1CF79EFFE.quest_desc: ["&m实用的&r小工具"]
 	quest.20777C646E52F37D.quest_subtitle: "{count:1,id:\"minersdelight:copper_cup\"}"
 	quest.207C7C8838C55155.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"createfisheryindustry:execution\":3}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.207D4B8078BB9301.quest_subtitle: "{count:1,id:\"createdeco:industrial_iron_catwalk_railing\"}"
@@ -3242,8 +3267,8 @@
 	quest.209EDD1ADF739C1C.quest_subtitle: "{count:1,id:\"createdeco:zinc_support_wedge\"}"
 	quest.209F93FC57E3D742.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:pufferfish_soup\"}"
 	quest.209FEE09686947FD.quest_subtitle: "{count:1,id:\"quark:bamboo_mat\"}"
-	quest.20A097B1FDFBCBD4.quest_desc: ["这四种作物将是你厨师生涯的基础。"]
-	quest.20A097B1FDFBCBD4.title: "四种作物"
+	quest.20A097B1FDFBCBD4.quest_desc: ["吃饱了才有力气干活"]
+	quest.20A097B1FDFBCBD4.title: "主食~"
 	quest.20A0C47EA80F429D.quest_subtitle: "{count:1,id:\"arsdelight:chimera_meat\"}"
 	quest.20A8A671A9612E30.quest_subtitle: "{count:1,id:\"minersdelight:baked_squid\"}"
 	quest.20AD559F4C88B8F0.quest_subtitle: "{components:{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"minecraft:nether_wart\"}}},count:1,id:\"quark:seed_pouch\"}"
@@ -3372,7 +3397,6 @@
 	quest.2202D0D0727AB474.quest_subtitle: "{count:1,id:\"minecraft:cherry_trapdoor\"}"
 	quest.2203DAB477729182.quest_subtitle: "{count:1,id:\"ars_nouveau:abjuration_essence\"}"
 	quest.2204798F065947C2.quest_subtitle: "{count:1,id:\"interiors:lime_chair\"}"
-	quest.2205E612ACB259A0.quest_desc: ["轰轰！！"]
 	quest.22099516BFB800AA.quest_subtitle: "{count:1,id:\"createmetalogistics:stock_manifest_reader\"}"
 	quest.220EF3C2698A9FC7.quest_subtitle: "{count:1,id:\"cbc_at:unbored_bronze_fume_extractor\"}"
 	quest.2214068B757F3ECE.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:long_regeneration\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_bolt\"}"
@@ -3400,7 +3424,7 @@
 	quest.224BFF7142C7FFFB.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:bar_cabinet\"}"
 	quest.22522712432B3C8E.quest_desc: [
 		"物品保险库只能使用机械动力的物流元件输入或者取出物品，不能右键打开。"
-		"&l&4注意！装有工具的工具箱放入保险库后不能被仓储发报机下单！只能使用漏斗手动取出。&r&r"
+		"&l&4注意！带有数据的物品放入保险库后可能无法被仓储发报机下单！只能使用漏斗手动取出。&r&r"
 	]
 	quest.22522712432B3C8E.title: "怎么打不开？"
 	quest.2254461FCF7657C8.quest_subtitle: "{count:1,id:\"ars_nouveau:scryers_crystal\"}"
@@ -3615,6 +3639,8 @@
 	quest.245E9337F502B6E3.quest_subtitle: "{count:1,id:\"ae2:quartz_brick_stairs\"}"
 	quest.245F87DE8BD8FF2C.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:bricks\"},count:1,id:\"ae2:facade\"}"
 	quest.245F8B5363E16854.quest_subtitle: "{count:1,id:\"minecraft:damaged_anvil\"}"
+	quest.2460B2DB8E203E62.quest_desc: ["注意！本包中需要使用凋零残骸制作下界合金碎片"]
+	quest.2460B2DB8E203E62.quest_subtitle: "小巧思（？"
 	quest.246254AD30293680.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:platinum_katana\"}"
 	quest.2471E1EB179B71E8.quest_subtitle: "{count:1,id:\"culturaldelights:midori_roll\"}"
 	quest.247601BDD43234B5.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:silver_battle_hammer\"}"
@@ -3878,15 +3904,13 @@
 	quest.273AD8F86EF90376.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"create_armorer:sight_standard\"}},count:1,id:\"tacz:attachment\"}"
 	quest.273E7088CE6DEB2B.quest_subtitle: "{count:1,id:\"mynethersdelight:slices_of_bread\"}"
 	quest.2742B7E99EA61D52.quest_subtitle: "{count:1,id:\"minecraft:brown_carpet\"}"
-	quest.2743B947717566F7.quest_desc: ["本协会承诺所有资金均捐给克劳德斯慈善基金会，仅需一块钱，拯救一个孩子并救赎你自己。"]
-	quest.2743B947717566F7.title: "海因里希公益彩票"
 	quest.274458D9DE109A36.quest_subtitle: "{count:1,id:\"ars_nouveau:stripped_red_archwood_wood\"}"
 	quest.2747FA58D72014EA.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:healing\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_bolt\"}"
 	quest.2748D6F3F93BE17C.quest_subtitle: "{count:1,id:\"simulated:steering_wheel\"}"
 	quest.274A1D8469CFD511.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:mondrian_painting\"}"
 	quest.274C21329FF5A8BF.quest_subtitle: "{count:1,id:\"minecraft:villager_spawn_egg\"}"
 	quest.274D9D163329B703.quest_subtitle: "{count:1,id:\"cbc_at:unbored_steel_vert_twin_autocannon_silencer\"}"
-	quest.274F08C4ECE07659.quest_desc: ["两种粘液靴子，可以让你跳得更高。粘液头盔，可以帮助你更好地飞檐走壁"]
+	quest.274F08C4ECE07659.quest_desc: ["粘液靴子让你跳得更高，粘液头盔方便飞檐走壁。"]
 	quest.274F08C4ECE07659.title: "粘液装备"
 	quest.2750509E4F9EBEA7.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:quick_charge\":2}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.275334B03896986F.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:explosive_arrow\"}"
@@ -4148,6 +4172,7 @@
 	quest.29B9D68E82924994.quest_subtitle: "{count:1,id:\"quark:blue_nether_bricks\"}"
 	quest.29BC4467F9E744D2.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:blasting_potion_long\"}},count:1,id:\"minecraft:potion\"}"
 	quest.29BD8740298436C1.quest_desc: ["经典的精妙背包"]
+	quest.29BD8740298436C1.title: "精妙背包"
 	quest.29BF0D2636149F09.quest_desc: ["这是打包机，&m凭空产出纸箱&r可以打包或者拆包，方便的物流组件"]
 	quest.29BF0D2636149F09.title: "自动打包！"
 	quest.29C4BFEE83EFC3F3.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:mercury_redstone_ore\"},count:1,id:\"ae2:facade\"}"
@@ -4278,6 +4303,8 @@
 	quest.2B12FBB3BFC0DC34.quest_subtitle: "{count:1,id:\"railways:brown_riveted_locometal\"}"
 	quest.2B1DEFF88A5537D2.quest_subtitle: "{count:1,id:\"create:empty_schematic\"}"
 	quest.2B1E2BABBA7AF6F8.quest_subtitle: "{count:1,id:\"create_dragons_plus:light_gray_dye_bucket\"}"
+	quest.2B204404A822E48A.quest_desc: ["存储流体的抽屉"]
+	quest.2B204404A822E48A.title: "流体抽屉！"
 	quest.2B227C3A01DEE500.quest_subtitle: "{count:1,id:\"create:cut_calcite_stairs\"}"
 	quest.2B29F4A9F92A26FA.quest_subtitle: "{count:1,id:\"ars_nouveau:glyph_name\"}"
 	quest.2B2BD3C453922E4F.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:light_blue_bar_stool\"}"
@@ -4411,6 +4438,7 @@
 	quest.2C6D8CD73ED11E2A.quest_subtitle: "{count:1,id:\"minersdelight:improvised_barbecue_stick\"}"
 	quest.2C7325FAD3DC3B3D.quest_subtitle: "{count:1,id:\"minecraft:lightning_rod\"}"
 	quest.2C7557A38A7843ED.quest_subtitle: "{count:1,id:\"create:purple_postbox\"}"
+	quest.2C7755946C51829C.quest_subtitle: "更精细地计算红石信号"
 	quest.2C789EF078CD4977.quest_subtitle: "{count:1,id:\"create_aquatic_ambitions:calcium_rich_powder\"}"
 	quest.2C7DF2E010027A6A.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:beef_noodle\"}"
 	quest.2C80898739C4ADEC.quest_subtitle: "{count:1,id:\"expandeddelight:cinnamon_leaves\"}"
@@ -4514,6 +4542,7 @@
 	quest.2D804C50D3016905.quest_subtitle: "{count:1,id:\"farmersdelight:nether_salad\"}"
 	quest.2D8240DF99C0054C.quest_subtitle: "{count:1,id:\"railways:orange_flat_slashed_locometal\"}"
 	quest.2D861A77CCECAA52.quest_subtitle: "{count:1,id:\"comforts:sleeping_bag_pink\"}"
+	quest.2D88EABE0798F9F0.quest_subtitle: "进行详细的表达式计算"
 	quest.2D8974D630629366.quest_subtitle: "{count:1,id:\"thirst:terracotta_water_bowl\"}"
 	quest.2D8B2A86A6E743E1.quest_subtitle: "{count:1,id:\"railways:purple_brass_wrapped_locometal_boiler\"}"
 	quest.2D8BBDB24FFF9974.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:wind_burst\":3}}},count:1,id:\"minecraft:enchanted_book\"}"
@@ -4582,8 +4611,6 @@
 	quest.2E4C7F57ECAE8F6D.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:stripped_acacia_wood\"},count:1,id:\"ae2:facade\"}"
 	quest.2E4ED4D359044100.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:stargazy_pie\"}"
 	quest.2E5416892DBC165B.quest_subtitle: "{count:1,id:\"simulated:spring\"}"
-	quest.2E54E6D484BE2B59.quest_desc: ["我感觉我这把一定能成功"]
-	quest.2E54E6D484BE2B59.title: "这就是最后的光芒了"
 	quest.2E55A0043764529D.quest_subtitle: "{count:1,id:\"createnuclear:red_anti_radiation_leggings\"}"
 	quest.2E56F770B1E1F453.quest_subtitle: "{components:{\"ae2:facade_item\":\"createdeco:zinc_sheet_metal\"},count:1,id:\"ae2:facade\"}"
 	quest.2E5B1717E773FC82.quest_subtitle: "{count:1,id:\"aeronautics:mounted_potato_cannon\"}"
@@ -4633,6 +4660,9 @@
 	quest.2EB13A5C9FFAD1AE.quest_subtitle: "{count:1,id:\"createbigcannons:casting_sand\"}"
 	quest.2EB164CEF81DA452.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:infested_chiseled_stone_bricks\"},count:1,id:\"ae2:facade\"}"
 	quest.2EB17E1F0E8AF470.quest_subtitle: "{count:1,id:\"minecraft:fermented_spider_eye\"}"
+	quest.2EB90EE11F46DC81.quest_desc: ["从古至今，机械动力整合包的建筑师们都将创造模式世界塑形器视为毕生的梦想，但很多人直到结档都没能实现……"]
+	quest.2EB90EE11F46DC81.quest_subtitle: "由Eva0V0冠名！"
+	quest.2EB90EE11F46DC81.title: "一亿建筑师的梦"
 	quest.2EB93D35FC90F761.quest_subtitle: "{count:1,id:\"railways:magenta_flat_riveted_locometal\"}"
 	quest.2EBE8C630A108DF0.quest_subtitle: "{count:1,id:\"create:exposed_copper_shingles\"}"
 	quest.2EBFFE0098B48E03.quest_subtitle: "{count:1,id:\"railways:track_quark_azalea\"}"
@@ -4729,7 +4759,7 @@
 	quest.2FBE70C238F06F3E.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:studded_club\"}"
 	quest.2FCB1508CFDBCE4C.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:silver_lance\"}"
 	quest.2FCDD2D705C22090.quest_subtitle: "{count:1,id:\"cbc_at:unbored_steel_heavy_autocannon_barrel\"}"
-	quest.2FD07E74BFBAB07D.quest_desc: ["做出钻头，开始挖掘你的矿石"]
+	quest.2FD07E74BFBAB07D.quest_desc: ["铁钻头配方改过了，需要钛锭。钛可以先走石灰岩→金红石精矿，或去月球开矿。钻头做好后还要冷却液才能开本包的自定义矿脉。"]
 	quest.2FD07E74BFBAB07D.title: "钻头"
 	quest.2FD211E089E2A37C.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":2}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.2FD2C5158D50B986.quest_subtitle: "{count:1,id:\"cbc_at:unbored_bronze_twin_autocannon_recoil_spring\"}"
@@ -4790,7 +4820,8 @@
 	quest.3054DFA58FD8B139.quest_desc: ["一种快速将物品放入保险库的元件"]
 	quest.30560D2E84B4E42B.quest_subtitle: "{count:1,id:\"ars_nouveau:timer_spell_turret\"}"
 	quest.305AA69EBF1330C2.quest_subtitle: "{count:1,id:\"ae2:printed_engineering_processor\"}"
-	quest.3061E1B98B784AFC.quest_desc: ["只有你完成原版与农夫乐事所有里程碑时，你才能称为入门级学徒。"]
+	quest.3061E1B98B784AFC.quest_desc: [""]
+	quest.3061E1B98B784AFC.quest_subtitle: "开始你的农夫生活~"
 	quest.3061E1B98B784AFC.title: "农夫乐事"
 	quest.3062634120E3A309.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"create_sa:chunk_eater\":4}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.30635CFA020E8123.quest_subtitle: "{count:1,id:\"ars_nouveau:archwood_stairs\"}"
@@ -5010,6 +5041,8 @@
 	quest.3248B8F201FF6E86.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:golden_greatsword\"}"
 	quest.324C26D799565F1D.quest_subtitle: "{count:1,id:\"ars_nouveau:brazier_relay\"}"
 	quest.324C501DB1FA39DB.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":3}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.324D08DEDEB9C62E.quest_desc: ["多吃蔬菜~健健康康~"]
+	quest.324D08DEDEB9C62E.title: "健康蔬菜~"
 	quest.324D157BCB1F699E.quest_subtitle: "{count:1,id:\"copycats:copycat_fluid_pipe\"}"
 	quest.32565A0BCABD03A4.quest_subtitle: "{count:1,id:\"minecraft:birch_log\"}"
 	quest.3258285F3CC38FBE.quest_subtitle: "{count:1,id:\"create_confectionery:white_chocolate_glazed_marshmallow\"}"
@@ -5053,8 +5086,6 @@
 	quest.32A8BB62070CEBB8.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:deepslate_pillar\"},count:1,id:\"ae2:facade\"}"
 	quest.32A93CAB416F2AA2.quest_subtitle: "{count:1,id:\"mynethersdelight:minced_strider\"}"
 	quest.32AAE2759F37D1B8.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:sight_pk06_rifle\"}},count:1,id:\"tacz:attachment\"}"
-	quest.32AD5FC3975A1E9C.quest_desc: ["用于制作名称压印模板与线缆锚"]
-	quest.32AD5FC3975A1E9C.title: "切割刀"
 	quest.32AD88748C5B09C4.quest_subtitle: "{count:1,id:\"quark:blaze_lantern\"}"
 	quest.32B15BBB79F299E6.quest_subtitle: "{count:1,id:\"quark:ancient_pressure_plate\"}"
 	quest.32B6EE49250AFF4E.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:carved_mud_bricks\"},count:1,id:\"ae2:facade\"}"
@@ -5209,6 +5240,8 @@
 	quest.342144DE37F9B66E.quest_subtitle: "{count:1,id:\"vintageimprovements:platinum_wire\"}"
 	quest.342648A7461709D6.quest_subtitle: "{count:1,id:\"vsfluidlink:item_hose_connector\"}"
 	quest.34292A79BA7D473D.quest_subtitle: "{count:1,id:\"createnuclear:light_blue_cloth\"}"
+	quest.3429D56F8840BF9F.quest_desc: ["储物箱，可以存储大量物品"]
+	quest.3429D56F8840BF9F.title: "储物箱"
 	quest.342AE4FE8F069FA0.quest_subtitle: "{count:1,id:\"quark:polished_myalite_stairs\"}"
 	quest.342CEF95A1AFD278.quest_subtitle: "{count:1,id:\"minecraft:brown_banner\"}"
 	quest.342E01C9149E42D8.quest_subtitle: "{count:1,id:\"ars_nouveau:thread_heights\"}"
@@ -5485,8 +5518,6 @@
 	quest.3703BC3E84395D5B.quest_subtitle: "{count:1,id:\"northstar:mars_palm\"}"
 	quest.3703EF827CB2A0F0.quest_subtitle: "{count:1,id:\"fruitsdelight:sweetberry_jello\"}"
 	quest.370624E3EBF658C0.quest_subtitle: "{components:{\"kaleidoscope_tavern:brew_level\":6},count:1,id:\"kaleidoscope_tavern:sauvignon_blanc_dry_white\"}"
-	quest.370814A4365D7D26.quest_desc: ["与铁相似但耐久更高伤害更高挖掘更快"]
-	quest.370814A4365D7D26.title: "福鲁伊克斯水晶"
 	quest.370A5F7EF0D5E1E2.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:recovery_potion_long\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_iron_arrow\"}"
 	quest.37134D154E350925.quest_subtitle: "{count:1,id:\"minecraft:polished_blackstone_pressure_plate\"}"
 	quest.3718A32CA6E136C5.quest_subtitle: "{count:1,id:\"mynethersdelight:resurgent_soil_farmland\"}"
@@ -5766,6 +5797,7 @@
 	quest.39F8949D1E9FC8BD.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"applied_armorer:muzzle_classic\"}},count:1,id:\"tacz:attachment\"}"
 	quest.39FA42CFD04F97D7.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:coiler_log\"},count:1,id:\"ae2:facade\"}"
 	quest.39FCF7E9497141CE.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:chili_ristra\"}"
+	quest.3A01E87DA2D5C22C.quest_desc: ["&m我还没想好怎么写配方&r"]
 	quest.3A01E87DA2D5C22C.quest_subtitle: "一下就变成另一种方块了"
 	quest.3A02350672266BCA.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minersdelight:long_haste\"}},count:1,id:\"minecraft:lingering_potion\"}"
 	quest.3A05C7855C7450F4.quest_subtitle: "{count:1,id:\"northstar:tungsten_nugget\"}"
@@ -5943,6 +5975,7 @@
 	quest.3C0B37EDD4FAF688.quest_desc: ["《准确》"]
 	quest.3C0B37EDD4FAF688.title: "重弩"
 	quest.3C0BB29668DE5762.quest_subtitle: "{components:{\"minecraft:entity_data\":{id:\"minecraft:painting\",variant:\"minecraft:match\"}},count:1,id:\"minecraft:painting\"}"
+	quest.3C0BD15162450F7A.title: "存储箱升级"
 	quest.3C0C1927444CBAA2.quest_subtitle: "{count:1,id:\"create:andesite_alloy_block\"}"
 	quest.3C0C7B5167D0A204.quest_subtitle: "{count:1,id:\"northstar:martian_steel_space_suit_helmet\"}"
 	quest.3C0D3B1D6B1D1C70.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:swiftness\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_arrow\"}"
@@ -6051,10 +6084,13 @@
 	quest.3D177F5E42913F9F.quest_subtitle: "{count:1,id:\"northstar:mercury_gold_ore\"}"
 	quest.3D21E0B3837A0CF6.quest_subtitle: "{count:1,id:\"minecraft:dark_oak_fence\"}"
 	quest.3D2465895661C4CB.quest_subtitle: "{count:1,id:\"create_radar:radar_safe_zone_designator\"}"
+	quest.3D2AF43B2389A9D3.title: "特殊升级"
 	quest.3D2C489B25023872.quest_subtitle: "{count:1,id:\"createdeco:tiled_dean_brick_stairs\"}"
 	quest.3D2E97AD93479C24.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:mona_lisa_painting\"}"
 	quest.3D2F2A399CB76CE6.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:waxed_weathered_chiseled_copper\"},count:1,id:\"ae2:facade\"}"
 	quest.3D2FE47C77C39034.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:grip_osovets_black\"}},count:1,id:\"tacz:attachment\"}"
+	quest.3D31BF6C56DBA6CF.quest_subtitle: "将满墙的仪表集成到一个小小的控制台里"
+	quest.3D31BF6C56DBA6CF.title: "集成控制"
 	quest.3D31EA05ADA88E92.quest_subtitle: "{count:1,id:\"createdeco:brass_bars\"}"
 	quest.3D32D38F0E5AB9A6.quest_subtitle: "{count:1,id:\"railways:magenta_locometal_pillar\"}"
 	quest.3D34FAC1EF962CEB.quest_subtitle: "{count:1,id:\"functionalstorage:ender_drawer\"}"
@@ -6315,6 +6351,9 @@
 	quest.3FB9905EC612B84F.quest_subtitle: "{count:1,id:\"ae2:certus_quartz_shovel\"}"
 	quest.3FBAD140D3A59A41.quest_subtitle: "{count:1,id:\"railways:gray_locometal_pillar\"}"
 	quest.3FBB14E209D10039.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:golden_battleaxe\"}"
+	quest.3FBB2338360A85CB.quest_desc: ["来自罗德岛精英干员迷迭香的礼物，送给在这片陌生大地上的你，你会怎么使用它呢？"]
+	quest.3FBB2338360A85CB.quest_subtitle: "由yushu_ouo冠名！"
+	quest.3FBB2338360A85CB.title: "迷迭香的信物"
 	quest.3FBD2177F682B1C3.quest_subtitle: "{count:1,id:\"create_bic_bit:fries\"}"
 	quest.3FC1FB4DDBABD3CC.quest_subtitle: "{count:1,id:\"minecraft:infested_stone_bricks\"}"
 	quest.3FC1FEC53672E054.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:waxed_white_corundum\"},count:1,id:\"ae2:facade\"}"
@@ -6434,6 +6473,8 @@
 	quest.40F19B2A5B6A13A5.quest_subtitle: "{count:1,id:\"railways:wooden_headstock_link_and_pin\"}"
 	quest.40F2BBDFD76E1D64.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"ars_armorer:spell_damage_p\"}},count:1,id:\"tacz:attachment\"}"
 	quest.40F68E387BEE426E.quest_subtitle: "{count:1,id:\"create:cut_calcite_brick_wall\"}"
+	quest.40F86F4E0A4411B5.quest_desc: ["说到存储，怎么少的了背包？"]
+	quest.40F86F4E0A4411B5.title: "背包"
 	quest.40F9B15CCCAD699D.quest_subtitle: "{components:{\"minecraft:entity_data\":{id:\"minecraft:painting\",variant:\"minecraft:aztec2\"}},count:1,id:\"minecraft:painting\"}"
 	quest.40FAEE73CDCD1114.quest_subtitle: "{count:1,id:\"fluid:copper_tap\"}"
 	quest.41069ACFED6A0889.quest_subtitle: "{components:{\"ae2:facade_item\":\"vintageimprovements:vanadium_block\"},count:1,id:\"ae2:facade\"}"
@@ -6665,7 +6706,6 @@
 	quest.436AD3B6C60519FC.quest_subtitle: "{count:1,id:\"ae2:cut_quartz_stairs\"}"
 	quest.436DAEF699D77335.quest_subtitle: "{count:1,id:\"ars_nouveau:allow_scroll\"}"
 	quest.437810084FA65EAB.quest_subtitle: "{count:1,id:\"fruitsdelight:lemon_slice\"}"
-	quest.43781CCBE88A89D3.quest_desc: ["纸浆沥干水分经过压缩就是纸板了"]
 	quest.43781CCBE88A89D3.title: "纸板"
 	quest.437979D91CD87D1D.quest_subtitle: "{count:1,id:\"create:cut_dripstone_brick_wall\"}"
 	quest.437997F676E19B43.quest_subtitle: "{components:{\"kaleidoscope_tavern:brew_level\":6},count:1,id:\"kaleidoscope_tavern:whiskey\"}"
@@ -6735,6 +6775,8 @@
 	quest.440467A3F3C0C8E2.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:red_iron_wrapped_locometal\"},count:1,id:\"ae2:facade\"}"
 	quest.440607ADAE9000D5.quest_subtitle: "{count:1,id:\"minecraft:saddle\"}"
 	quest.4406A1EC762C2116.quest_subtitle: "{count:1,id:\"ae2:fluid_cell_housing\"}"
+	quest.440E54445238293C.quest_desc: ["致敬某xnn在服务器修船时溺水十几次（"]
+	quest.440E54445238293C.quest_subtitle: "由Yeffie__xnn冠名！"
 	quest.44101282FFAB89E4.quest_subtitle: "{count:1,id:\"minecraft:jungle_door\"}"
 	quest.4412DB9B4F6B8CF8.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:egg_fried_rice\"}"
 	quest.44135B12418BABAE.quest_subtitle: "{components:{\"minecraft:custom_data\":{AmmoUsed:0}},count:1,id:\"spartan_weaponry_unofficial:boomerang_wooden\"}"
@@ -7016,6 +7058,8 @@
 	quest.468E212E0ECD740A.quest_subtitle: "{count:1,id:\"cbcmoreshells:slate_alloy_single_cannon_magazine_breech\"}"
 	quest.468E2A4BB824FFD3.quest_subtitle: "{count:1,id:\"ae2:green_lumen_paint_ball\"}"
 	quest.469213591536424B.quest_subtitle: "{count:1,id:\"functionalstorage:warped_1\"}"
+	quest.469619FBF0A36B08.quest_desc: ["另一种催化方式"]
+	quest.469619FBF0A36B08.title: "催化帆"
 	quest.469703D90C3305B1.quest_subtitle: "{count:1,id:\"mynethersdelight:powdery_button\"}"
 	quest.469B1EDA7C608689.quest_subtitle: "{count:1,id:\"brewinandchewin:cheesy_pasta\"}"
 	quest.469B6D6E598D89A4.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:mercury_deep_lapis_ore\"},count:1,id:\"ae2:facade\"}"
@@ -7233,8 +7277,6 @@
 	quest.48C84C29F3B758E1.quest_subtitle: "{count:1,id:\"create_enchantment_industry:blaze_forger\"}"
 	quest.48CA226C67437745.quest_subtitle: "{components:{\"ae2:facade_item\":\"cratedelight:glowberry_crate\"},count:1,id:\"ae2:facade\"}"
 	quest.48CB065C346FF195.quest_subtitle: "{count:1,id:\"createdeco:cracked_verdant_brick_wall\"}"
-	quest.48CC21028F0C5CE1.quest_desc: ["千万别点，你将倾家荡产"]
-	quest.48CC21028F0C5CE1.title: "第一次的抽卡"
 	quest.48CE4DF772E2BA06.quest_subtitle: "{count:1,id:\"cbcmoreshells:wide_slate_alloy_single_cannon_barrel\"}"
 	quest.48CEE0EF7371883C.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_slowness\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_bolt\"}"
 	quest.48CFE24DF7648F09.quest_subtitle: "{count:1,id:\"minecraft:pillager_spawn_egg\"}"
@@ -7377,6 +7419,7 @@
 	quest.4A263BDAA70B27C4.quest_subtitle: "{count:1,id:\"cbcmoreshells:wide_brass_single_cannon_chamber_shielded\"}"
 	quest.4A2647D07588FD89.quest_subtitle: "{count:1,id:\"create:red_toolbox\"}"
 	quest.4A27167D2258EBF4.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"create_armorer:sight_reflex\"}},count:1,id:\"tacz:attachment\"}"
+	quest.4A2AD5154EEC147A.quest_subtitle: "超超超级箱子？"
 	quest.4A2E6C6CD07CE155.quest_subtitle: "{count:1,id:\"cbc_at:twin_autocannon_barrel_mould\"}"
 	quest.4A37BE125E0EC129.quest_subtitle: "{count:1,id:\"railways:orange_copper_wrapped_locometal_boiler\"}"
 	quest.4A3883F7A992E586.quest_subtitle: "{count:1,id:\"cbcmoreshells:long_range_torpedo_mold\"}"
@@ -7707,7 +7750,7 @@
 	quest.4D3A9043B104C9E5.quest_subtitle: "{count:1,id:\"eternalnether:soul_stone\"}"
 	quest.4D3A9F69B9E991A5.quest_subtitle: "{count:1,id:\"northstar:martian_steel_lamp\"}"
 	quest.4D429F42690162C9.quest_desc: ["将蘑菇放在沃土上一段时间后，即可收获菌落。"]
-	quest.4D429F42690162C9.title: "更方便的种植菌"
+	quest.4D429F42690162C9.title: "蘑菇~"
 	quest.4D44482C3D958309.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:andesite_pillar\"},count:1,id:\"ae2:facade\"}"
 	quest.4D44F65780532695.quest_subtitle: "{count:1,id:\"farmersdelight:cooking_pot\"}"
 	quest.4D463F8B09AB5312.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:light_blue_flat_slashed_locometal\"},count:1,id:\"ae2:facade\"}"
@@ -8077,6 +8120,7 @@
 	quest.511D90507498A038.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:table_jungle\"}"
 	quest.511E3CC74133E76B.quest_subtitle: "{count:1,id:\"create_sa:large_fueling_tank\"}"
 	quest.5122ACE941996CF2.quest_subtitle: "{count:1,id:\"ftbquests:barrier\"}"
+	quest.5123ADF67748CC39.quest_subtitle: "这个好用（"
 	quest.5128441D16A613CD.quest_subtitle: "{count:1,id:\"ars_nouveau:ritual_brazier\"}"
 	quest.512D12EB8DB94B8A.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:small_rose_quartz_tiles\"},count:1,id:\"ae2:facade\"}"
 	quest.5138E183FC9CE5BF.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:light_gray_iron_wrapped_locometal\"},count:1,id:\"ae2:facade\"}"
@@ -8559,8 +8603,6 @@
 	quest.55E16FD9A3C6793B.quest_desc: ["魂灵……所以为什么会产出奶。产出的浓稠魂灵可以组装恶魂之泪"]
 	quest.55E3215C7B65D117.quest_subtitle: "{components:{\"ae2:facade_item\":\"createpropulsion:deepslate_platinum_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.55E3EFB07ECD5EE2.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:muzzle_compensator_trident\"}},count:1,id:\"tacz:attachment\"}"
-	quest.55E55C06939070D3.quest_desc: ["我一定要克制，我不要抽啊"]
-	quest.55E55C06939070D3.title: "我的钱啊"
 	quest.55E58321774AF679.quest_subtitle: "{count:1,id:\"arsdelight:chimera_horn\"}"
 	quest.55EDDBDD801F0003.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minersdelight:haste\"}},count:1,id:\"minecraft:potion\"}"
 	quest.55F0971467E22E3B.quest_subtitle: "{count:1,id:\"functionalstorage:mangrove_1\"}"
@@ -8626,7 +8668,11 @@
 	quest.56BF96DFBBBD6C68.quest_subtitle: "{count:1,id:\"quark:cyan_shard\"}"
 	quest.56BF98397CC2776F.quest_subtitle: "{count:1,id:\"railways:magenta_locometal_smokebox\"}"
 	quest.56C1C4349CFE5DE4.quest_subtitle: "{count:1,id:\"quark:limestone\"}"
-	quest.56C3BF74D24B2997.quest_desc: ["欢迎来到{CCQ}机械动力：匠途闲境,本整合包致力于平衡冒险科技与农业，让每个玩家都能找到自己的乐趣，打造老少皆宜的玩法（其实是作者自己想玩这种但是没有"]
+	quest.56C3BF74D24B2997.quest_desc: [
+		"欢迎来到{CCQ}机械动力：匠途闲境,本整合包致力于平衡冒险科技与农业，让每个玩家都能找到自己的乐趣，打造老少皆宜的玩法"
+		"急招志同道合的小伙伴&l加入创作&r！&m作者要&4累死了&r有意者可以通过任何渠道联系我。Q群：1094023593"
+	]
+	quest.56C3BF74D24B2997.quest_subtitle: "注意！任务书目前完成度很低"
 	quest.56C63A0882D9DF49.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:venus_deep_redstone_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.56C664E87056D16A.quest_subtitle: "{count:1,id:\"create_connected:fan_splashing_catalyst\"}"
 	quest.56CB0522E1F38BA9.quest_subtitle: "{count:1,id:\"create:small_scorchia_brick_stairs\"}"
@@ -8644,6 +8690,8 @@
 	quest.56F950406C274C07.quest_subtitle: "{count:1,id:\"create:polished_cut_granite_slab\"}"
 	quest.56FA0B5B09B9CB90.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:leaping\"}},count:1,id:\"minecraft:potion\"}"
 	quest.5700D9E1C88EC9BA.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:long_water_breathing\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_bolt\"}"
+	quest.57018B6FAD7BDC0E.quest_desc: ["create storage的背包"]
+	quest.57018B6FAD7BDC0E.title: "背包"
 	quest.57037BF6C7931A27.quest_subtitle: "{count:1,id:\"mynethersdelight:spicy_hoglin_stew\"}"
 	quest.57055BAE2A2B3BF3.quest_subtitle: "{count:1,id:\"minecraft:warped_planks\"}"
 	quest.5706EEF37915F7A9.quest_subtitle: "{count:1,id:\"createnuclear:autunite\"}"
@@ -8659,12 +8707,15 @@
 	quest.5727074A2D9EECF0.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:leaping\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_bolt\"}"
 	quest.572819CE9900B5E5.quest_subtitle: "{count:1,id:\"expandeddelight:sweet_berry_jelly\"}"
 	quest.5729750E0CB7FE27.quest_subtitle: "{count:1,id:\"minecraft:waxed_weathered_copper_grate\"}"
+	quest.572D90C27C5A5A2C.quest_subtitle: "显示被动生产状况的仪表"
 	quest.572E08B554E1E31E.quest_subtitle: "{count:1,id:\"cbcmoreshells:aphe_bouncing_bomb\"}"
 	quest.572FD44CFBB6E1A2.quest_subtitle: "{count:1,id:\"create:cut_diorite_bricks\"}"
 	quest.5732729910AC4CC8.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:recovery_potion\"}},count:1,id:\"minecraft:lingering_potion\"}"
 	quest.573322E64B19D0CE.quest_subtitle: "{count:1,id:\"fruitsdelight:persimmon_cookie\"}"
 	quest.5736E849573EA60C.quest_desc: ["飞檐走壁！"]
 	quest.5736F7A22C6589C4.quest_subtitle: "{components:{\"ae2:stored_energy\":20000.0d},count:1,id:\"ae2:color_applicator\"}"
+	quest.573D65655D643022.quest_desc: ["另一种运输器"]
+	quest.573D65655D643022.title: "智能与不智能"
 	quest.573D8E8C462D5F81.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:swiftness\"}},count:1,id:\"minecraft:tipped_arrow\"}"
 	quest.573F490E6BE8A1D0.quest_subtitle: "{count:1,id:\"ae2:fluix_covered_dense_cable\"}"
 	quest.57444D1119B6CF65.quest_subtitle: "{count:1,id:\"northstar:venus_iron_ore\"}"
@@ -8704,7 +8755,8 @@
 	quest.57A162E666C4FCD7.quest_subtitle: "{count:1,id:\"quark:polished_dripstone_vertical_slab\"}"
 	quest.57A48A55D73F5CB9.quest_subtitle: "{count:1,id:\"aeronautics:propeller_bearing\"}"
 	quest.57A4ACCC3EBE6257.quest_subtitle: "{count:1,id:\"ae2:speed_card\"}"
-	quest.57A5CE0FF5AC67F6.quest_desc: ["自动物流是机械动力不得不品的一环"]
+	quest.57A5CE0FF5AC67F6.quest_desc: ["自动化的物流与仓储是机械动力不得不品的一环"]
+	quest.57A5CE0FF5AC67F6.title: "物流与仓储"
 	quest.57AAD2D2A7A77F75.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:sight_sro_dot\"}},count:1,id:\"tacz:attachment\"}"
 	quest.57B2287BB00D1AD0.quest_subtitle: "{count:1,id:\"create:brass_ingot\"}"
 	quest.57B3A008C0195D13.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:grip_rk1_b25u\"}},count:1,id:\"tacz:attachment\"}"
@@ -8956,6 +9008,7 @@
 	quest.5A342583A33636C3.quest_subtitle: "{count:1,id:\"cbc_at:unbored_bronze_twin_autocannon_silencer\"}"
 	quest.5A343663A2844F51.quest_subtitle: "{count:1,id:\"createdeco:tiled_red_brick_slab\"}"
 	quest.5A3F790CB1769C78.quest_subtitle: "{count:1,id:\"minecraft:cut_red_sandstone\"}"
+	quest.5A40A64A0A52D2AD.quest_subtitle: "红石计数器"
 	quest.5A4654E77928EC26.quest_subtitle: "{count:1,id:\"create:oxidized_copper_tile_stairs\"}"
 	quest.5A48D19C71499E33.quest_subtitle: "{count:1,id:\"railways:light_gray_conductor_cap\"}"
 	quest.5A49EEC55F9A7E99.quest_subtitle: "{count:1,id:\"quark:jasper_vertical_slab\"}"
@@ -9040,6 +9093,8 @@
 	quest.5AF554422A83E514.quest_subtitle: "{count:1,id:\"cbc_at:unbored_cast_iron_heavy_autocannon_qfbreech\"}"
 	quest.5AF82B92DEC833B7.quest_subtitle: "{count:1,id:\"numismatics:cog\"}"
 	quest.5AF9F1C9305C3AB6.quest_subtitle: "{count:1,id:\"createdeco:green_industrial_iron_lamp\"}"
+	quest.5AFCF2007ABE459F.quest_subtitle: "用于仪表运算的链接端口"
+	quest.5AFCF2007ABE459F.title: "端口"
 	quest.5AFE39ACD4BE1988.quest_subtitle: "{count:1,id:\"minecraft:wheat_seeds\"}"
 	quest.5B00E8F11280268E.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:grass_block\"},count:1,id:\"ae2:facade\"}"
 	quest.5B05C66347DFC15B.quest_subtitle: "{count:1,id:\"culturaldelights:wild_eggplants\"}"
@@ -9141,6 +9196,7 @@
 	quest.5C10FA8C186D4840.quest_subtitle: "{components:{\"ae2:facade_item\":\"fruitsdelight:pear_jello_block\"},count:1,id:\"ae2:facade\"}"
 	quest.5C1278E3A842FA9C.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:yellow_copper_wrapped_locometal\"},count:1,id:\"ae2:facade\"}"
 	quest.5C15826A284D7A1D.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:heavy_crossbow_netherite_strengthened\"}"
+	quest.5C1AC6CACF6EA9B4.quest_subtitle: "使用红石控制仪表"
 	quest.5C1BD80441987B61.quest_subtitle: "{count:1,id:\"railways:light_blue_locometal_smokebox\"}"
 	quest.5C1D05E71AD72008.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:grapevine\"}"
 	quest.5C1DF5245FAFF0A7.quest_subtitle: "{count:1,id:\"fruitsdelight:kiwi_jello\"}"
@@ -9228,6 +9284,7 @@
 	quest.5CF72B0D02116F26.quest_subtitle: "{count:1,id:\"expandeddelight:glow_berry_jelly_sandwich\"}"
 	quest.5CF9CC57B9CD27AE.quest_subtitle: "{count:1,id:\"simulated:gimbal_sensor\"}"
 	quest.5CFB97FFB54EA797.quest_subtitle: "{count:1,id:\"ars_nouveau:thread_whirlisprig\"}"
+	quest.5D068FAB4A2919B8.title: "安山岩"
 	quest.5D07882EAAECF132.quest_subtitle: "{count:1,id:\"arsdelight:chimera_meat_slice\"}"
 	quest.5D099CCADD50974E.quest_subtitle: "{count:1,id:\"cbc_at:cast_iron_heavy_autocannon_silencer\"}"
 	quest.5D0B05E6F43DEC19.quest_subtitle: "{count:1,id:\"create_connected:fan_blasting_catalyst\"}"
@@ -9450,6 +9507,8 @@
 	quest.5EDDFEAE8E54E851.quest_subtitle: "{count:1,id:\"minecraft:stripped_oak_log\"}"
 	quest.5EDFB88A76853A65.quest_subtitle: "{count:1,id:\"minecraft:endermite_spawn_egg\"}"
 	quest.5EE0A8C614831F94.quest_subtitle: "{count:1,id:\"minecraft:exposed_chiseled_copper\"}"
+	quest.5EE563517EB66AD5.quest_desc: ["喵喵喵~我是一只小猫娘喵~"]
+	quest.5EE563517EB66AD5.quest_subtitle: "由Heinrich6941冠名！"
 	quest.5EE8780B24653DFB.quest_subtitle: "{count:1,id:\"create:crushed_raw_iron\"}"
 	quest.5EEA4B47BD498669.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:waxed_weathered_copper_grate\"},count:1,id:\"ae2:facade\"}"
 	quest.5EF4F3B8D266AB22.quest_subtitle: "{count:1,id:\"minecraft:chorus_fruit\"}"
@@ -9464,6 +9523,7 @@
 	quest.5F0D34BF6D1DE0B9.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:dark_oak_wood\"},count:1,id:\"ae2:facade\"}"
 	quest.5F0DD0FEFFE0D73C.quest_desc: ["在地外天体搭建你的庇护所！"]
 	quest.5F142AF105E98497.quest_subtitle: "{count:1,id:\"minecraft:magenta_stained_glass\"}"
+	quest.5F156A8EEDEE964B.title: "一般升级"
 	quest.5F190182E1DB4E9B.quest_subtitle: "{count:1,id:\"farmersdelight:oak_cabinet\"}"
 	quest.5F225268791987DF.quest_subtitle: "{count:1,id:\"createdeco:green_zinc_lamp\"}"
 	quest.5F23E6FCF2D99B3C.quest_subtitle: "{count:1,id:\"mynethersdelight:blackstone_bricks_cabinet\"}"
@@ -9484,6 +9544,8 @@
 	quest.5F48948AA82B3E70.quest_subtitle: "{components:{\"ae2:facade_item\":\"ae2:quartz_block\"},count:1,id:\"ae2:facade\"}"
 	quest.5F48A9433B89450C.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:blasting_potion_long\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_iron_arrow\"}"
 	quest.5F4A0943D882F6A9.quest_subtitle: "{count:1,id:\"create_bic_bit:stamppot_bowl\"}"
+	quest.5F4D822C66CEDF02.quest_subtitle: "使用这些机器进行自动化的演奏"
+	quest.5F4D822C66CEDF02.title: "全体欣赏音乐！"
 	quest.5F4E4B9B38BDD4E8.quest_subtitle: "{count:1,id:\"fruitsdelight:glowberry_jam\"}"
 	quest.5F534E4990C96F84.quest_subtitle: "{count:1,id:\"cbc_at:muzzle_brake_cast_mould\"}"
 	quest.5F598D21704815C8.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:shielding_potion_strong\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_copper_bolt\"}"
@@ -9951,6 +10013,7 @@
 	quest.63D925B3082921A7.quest_subtitle: "{count:1,id:\"minecraft:tropical_fish\"}"
 	quest.63D94A61C30AEC0A.quest_subtitle: "{count:1,id:\"createbigcannons:pair_of_cannon_wheels\"}"
 	quest.63D97065D2FE3A31.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":4}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.63DAE4D53E91CD7C.title: "作物"
 	quest.63DFF8CA79DDC00F.quest_subtitle: "{count:1,id:\"create_mechanical_spawner:spawn_fluid_bee_bucket\"}"
 	quest.63E5EEC5D0E126AE.quest_subtitle: "{count:1,id:\"northstar:moon_deep_diamond_ore\"}"
 	quest.63E7D7D77D0D2D7C.quest_subtitle: "{count:1,id:\"create:polished_cut_deepslate_wall\"}"
@@ -10122,6 +10185,7 @@
 	quest.6586CCC4EB99650A.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":5}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.658AD8402997C215.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:emerald_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.65922A0260F13C0E.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"ars_nouveau:reactive\":4}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.65927BA40B76F680.title: "辅助功能类升级"
 	quest.6593F8A829B8CD64.quest_subtitle: "{count:1,id:\"createaddition:electrum_amulet\"}"
 	quest.65940360BED40878.quest_subtitle: "{count:1,id:\"interiors:red_cushion\"}"
 	quest.6597884D3E20016A.quest_subtitle: "{count:1,id:\"minecraft:glass_pane\"}"
@@ -10134,6 +10198,7 @@
 	quest.65A2B8639F00BC24.quest_subtitle: "{count:1,id:\"farmersdelight:carrot_crate\"}"
 	quest.65A38ADD1F15E14B.quest_subtitle: "{count:1,id:\"quark:red_sandstone_bricks_vertical_slab\"}"
 	quest.65A3D19B69C3A97F.quest_subtitle: "{count:1,id:\"createadditionallogistics:blue_short_seat\"}"
+	quest.65A3EB74B3B5430B.quest_subtitle: "链接仪表，输出文本"
 	quest.65A68BD4E21411A2.quest_subtitle: "{count:1,id:\"ars_nouveau:glyph_bounce\"}"
 	quest.65A6D0CC9F9A81DD.quest_subtitle: "{count:1,id:\"ccq_core:crushing_blackstone\"}"
 	quest.65A808D2E6F3D721.quest_subtitle: "{count:1,id:\"functionalstorage:void_upgrade\"}"
@@ -10218,6 +10283,9 @@
 	quest.66696963F6738478.quest_subtitle: "{count:1,id:\"create_confectionery:white_chocolate_bricks_stairs\"}"
 	quest.666CEC3F8FEAF6C5.quest_subtitle: "{count:1,id:\"quark:white_shingles_slab\"}"
 	quest.6670BA807A3497E0.quest_subtitle: "{count:1,id:\"railways:cyan_iron_wrapped_locometal\"}"
+	quest.6670EAE5D74BCA78.quest_desc: ["机场等场所常用的扶梯……应该吧"]
+	quest.6670EAE5D74BCA78.quest_subtitle: "真现代！"
+	quest.6670EAE5D74BCA78.title: "扶梯？"
 	quest.66736BA6A8B83A1D.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:waxed_green_corundum\"},count:1,id:\"ae2:facade\"}"
 	quest.667AF40E215DFCF2.quest_desc: ["从植物中提取必要的纤维，提高纸板产量"]
 	quest.667DE31D3EC2DEB8.quest_subtitle: "{count:1,id:\"farmersdelight:cabbage_leaf\"}"
@@ -10426,6 +10494,7 @@
 	quest.6888D944E394542E.quest_subtitle: "{count:1,id:\"quark:netherrack_bricks\"}"
 	quest.68898E8BE43949E2.quest_subtitle: "{count:1,id:\"ae2wtlib:quantum_bridge_card\"}"
 	quest.6890A59271673BB5.quest_subtitle: "{components:{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"ars_nouveau:frostaya_pod\"}}},count:1,id:\"quark:seed_pouch\"}"
+	quest.6893366FF56DD129.quest_subtitle: "智能调控多个可选配方生产"
 	quest.6897FCD262BADBC9.quest_subtitle: "{count:1,id:\"create:framed_glass_door\"}"
 	quest.68995A05E39422D2.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_poison\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_copper_bolt\"}"
 	quest.689A06AEC6DDAE0A.quest_subtitle: "{count:1,id:\"createdeco:cracked_verdant_brick_stairs\"}"
@@ -10497,6 +10566,7 @@
 	quest.690CA14A0E7C9CB6.quest_subtitle: "{count:1,id:\"createbigcannons:steel_autocannon_breech\"}"
 	quest.690D4AA2BD88A4E3.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:long_poison\"}},count:1,id:\"minecraft:potion\"}"
 	quest.690FE99FC95FF0B2.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":4}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.691148088BABB8DA.title: "工作方块升级"
 	quest.69140BC437ADDDF7.quest_subtitle: "{count:1,id:\"minecraft:music_disc_far\"}"
 	quest.6916A03AF13BE17D.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_regeneration\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_bolt\"}"
 	quest.691845526D87634F.quest_subtitle: "{count:1,id:\"create:metal_bracket\"}"
@@ -10807,6 +10877,8 @@
 	quest.6BF309867E30B14C.quest_subtitle: "{count:1,id:\"createbigcannons:medium_cast_mould\"}"
 	quest.6BF409FF523A0302.quest_subtitle: "{count:1,id:\"minecraft:orange_glazed_terracotta\"}"
 	quest.6BFA1882D3FED7E6.quest_subtitle: "{count:1,id:\"create:portable_storage_interface\"}"
+	quest.6BFAE398D01B8641.quest_desc: ["简易储物箱，存储很多物品"]
+	quest.6BFAE398D01B8641.title: "简易储物箱"
 	quest.6BFF850780D21058.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_swiftness\"}},count:1,id:\"minecraft:lingering_potion\"}"
 	quest.6C01B26E58317E42.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:long_turtle_master\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_arrow\"}"
 	quest.6C01FEF8897A7B6D.quest_subtitle: "{count:1,id:\"ae2:yellow_covered_cable\"}"
@@ -10940,7 +11012,7 @@
 	quest.6D4E4BDFB6678FB2.quest_subtitle: "{count:1,id:\"railways:track_jungle_narrow\"}"
 	quest.6D516872025F2EEC.quest_subtitle: "{count:1,id:\"create:magenta_valve_handle\"}"
 	quest.6D52B8212E81FE5A.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:thick\"}},count:1,id:\"minecraft:tipped_arrow\"}"
-	quest.6D549FA16FE5E846.quest_desc: ["钱币系统主要给服务器使用，当然你也可以在任务书的商店章节购买一些简单的物品&m我还没写完&r"]
+	quest.6D549FA16FE5E846.quest_desc: ["使用钱币在商店章节购买物品或者与玩家交易"]
 	quest.6D5BDF923AA6ADB9.quest_subtitle: "{count:1,id:\"simulated:linked_typewriter\"}"
 	quest.6D5EC9FB3CAFBB79.quest_subtitle: "{components:{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"quark:lavender_blossom_sapling\"}}},count:1,id:\"quark:seed_pouch\"}"
 	quest.6D60C1B0E00B08C6.quest_subtitle: "{components:{\"minecraft:custom_data\":{AmmoUsed:0}},count:1,id:\"spartan_weaponry_unofficial:tomahawk_lead\"}"
@@ -11051,7 +11123,6 @@
 	quest.6E6AEC59D106F112.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"spartan_weaponry_unofficial:razors_edge\":1}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.6E6CF6379A5B0A9C.quest_subtitle: "{count:1,id:\"vintageimprovements:cast_iron_sheet\"}"
 	quest.6E732C1B5AD0F87F.quest_subtitle: "{count:1,id:\"ars_nouveau:glyph_delay\"}"
-	quest.6E733250B187DBD4.quest_desc: ["我们FE也有自己的红石粉"]
 	quest.6E7423B0AF3E8D67.quest_subtitle: "{count:1,id:\"railways:track_quark_ancient\"}"
 	quest.6E75E004B584671E.quest_subtitle: "{count:1,id:\"simulated:brown_handle\"}"
 	quest.6E75E101B463A452.quest_subtitle: "{count:1,id:\"kaleidoscope_dim_wine:angel_wings\"}"
@@ -11065,6 +11136,8 @@
 	quest.6E89AD5D832578CE.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:mana_regen_potion_strong\"}},count:1,id:\"minecraft:potion\"}"
 	quest.6E89B438AF77A0C8.quest_subtitle: "{count:1,id:\"create:scoria\"}"
 	quest.6E8A043529CBD94C.quest_subtitle: "{count:1,id:\"createbigcannons:unbored_bronze_autocannon_breech\"}"
+	quest.6E8A9F360275017E.quest_desc: ["抽屉，存储物品"]
+	quest.6E8A9F360275017E.title: "抽屉！"
 	quest.6E8C7FC290C89C0B.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:emerald_block\"},count:1,id:\"ae2:facade\"}"
 	quest.6E8EDBDEBE7D0CA7.quest_subtitle: "{components:{\"ae2:facade_item\":\"ae2:smooth_sky_stone_block\"},count:1,id:\"ae2:facade\"}"
 	quest.6E92158514F31F30.quest_desc: ["24点伤害，子弹这么便宜？"]
@@ -11245,6 +11318,7 @@
 	quest.707CBA33B1C43CA3.quest_subtitle: "{count:1,id:\"minecraft:oxidized_copper_grate\"}"
 	quest.707F36E9B5D6EB3D.quest_subtitle: "{count:1,id:\"cbcmoreshells:baked_apfsds_shot\"}"
 	quest.7082C0C6AB3EDF0C.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:cut_asurine_bricks\"},count:1,id:\"ae2:facade\"}"
+	quest.7082E261DFE0CF8C.title: "堆叠升级"
 	quest.70888511559DA470.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:freezing_potion_long\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_bolt\"}"
 	quest.70891F74B33FD8F9.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"create_armorer:scope_telephoto\"}},count:1,id:\"tacz:attachment\"}"
 	quest.70893AEC0349FB78.quest_subtitle: "{count:1,id:\"create_confectionery:ruby_chocolate_bucket\"}"
@@ -11264,6 +11338,7 @@
 	quest.70AB42420B25DD58.quest_desc: ["还能智能吸水"]
 	quest.70AB42420B25DD58.title: "吸吸吸2.0"
 	quest.70AD20303C1D77B4.quest_subtitle: "{count:1,id:\"quark:cobblestone_bricks\"}"
+	quest.70B287489BCEA2F3.quest_desc: ["抽屉是一种经典的仓储类方块，其方便的功能使其在产线中有着不可替代的作用"]
 	quest.70B6EB3C3C75F8C9.quest_subtitle: "{count:1,id:\"quark:blackstone_bricks_vertical_slab\"}"
 	quest.70BA02E3B9DDBEE7.quest_subtitle: "{components:{\"minecraft:block_entity_data\":{id:\"createcobblestone:mechanical_generator\",type:\"createcobblestone:generator_types/scoria.json\"}},count:1,id:\"createcobblestone:mechanical_generator\"}"
 	quest.70BA1425980593B3.quest_subtitle: "{count:1,id:\"minecraft:birch_stairs\"}"
@@ -11276,6 +11351,7 @@
 	quest.70C2CF6D34FA12A4.quest_subtitle: "{count:1,id:\"minecraft:cut_sandstone_slab\"}"
 	quest.70C2D8947739D72D.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:mercury_glowstone_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.70C42FFEB75A7D35.quest_subtitle: "{count:1,id:\"minecraft:red_concrete_powder\"}"
+	quest.70C62C005B633EA7.quest_desc: ["抽屉的升级"]
 	quest.70C8A57613F92895.quest_subtitle: "{components:{\"ae2:facade_item\":\"createdeco:tiled_red_bricks\"},count:1,id:\"ae2:facade\"}"
 	quest.70C90EA65C73A4B6.quest_subtitle: "{count:1,id:\"create:polished_cut_veridium\"}"
 	quest.70CE0D53979A17F8.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:blue_slashed_locometal\"},count:1,id:\"ae2:facade\"}"
@@ -11349,8 +11425,6 @@
 	quest.718515A1E639FAF7.quest_subtitle: "{count:1,id:\"createdeco:zinc_trapdoor\"}"
 	quest.718685165B616D21.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"createnuclear:potion_of_radiation_2\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_bolt\"}"
 	quest.7189FE16925488A7.quest_subtitle: "{count:1,id:\"quark:chiseled_diorite_bricks\"}"
-	quest.718B5828A12C9BED.quest_desc: [""]
-	quest.718B5828A12C9BED.quest_subtitle: "mc神秘超强电机"
 	quest.718CDE0E66864DFB.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:constantan_dagger\"}"
 	quest.7193BD3B27E3303B.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:oozing\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_copper_bolt\"}"
 	quest.719A0853AAB6CE97.quest_subtitle: "{count:1,id:\"create:blaze_burner\"}"
@@ -11680,7 +11754,7 @@
 	quest.74C9787E4977D90E.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_poison\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_arrow\"}"
 	quest.74C9849C0F86E1AD.quest_subtitle: "{count:1,id:\"railways:light_blue_copper_wrapped_locometal\"}"
 	quest.74C98A13745C5A66.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:yellow_terracotta\"},count:1,id:\"ae2:facade\"}"
-	quest.74CB512A91245148.quest_desc: ["当前版本可能存在蓝图合法却无法上传的情况，如果你&4确定你的蓝图&o合法&r&r，可以按这里暂时关闭审查，上传蓝图"]
+	quest.74CB512A91245148.quest_desc: ["可能存在蓝图合法却无法上传的情况，如果你&4确定你的蓝图&o合法&r&r，可以按这里暂时关闭审查，上传蓝图"]
 	quest.74CD4374DFBDE3B0.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:netherite_pike\"}"
 	quest.74CE347FA78FEDF9.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:ice\"},count:1,id:\"ae2:facade\"}"
 	quest.74D093078432BF2A.quest_subtitle: "{count:1,id:\"railways:magenta_copper_wrapped_locometal\"}"
@@ -11694,6 +11768,7 @@
 	quest.74E56DE0E468DC68.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:bubble_coral_block\"},count:1,id:\"ae2:facade\"}"
 	quest.74E6FC488ECADF5D.quest_subtitle: "{count:1,id:\"eternalnether:cobbled_blackstone\"}"
 	quest.74E8D48CD0A83B93.quest_subtitle: "{count:1,id:\"ars_nouveau:gilded_sourcestone_basketweave_stairs\"}"
+	quest.74EA122E1F12F49C.title: "有什么用呢……"
 	quest.74EB0992DE3D8C15.quest_subtitle: "{count:1,id:\"copycats:copycat_vertical_step\"}"
 	quest.74F57C6486FBFF74.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}},count:1,id:\"minecraft:splash_potion\"}"
 	quest.74F627614CEB361C.quest_subtitle: "{count:1,id:\"comforts:hammock_magenta\"}"
@@ -11849,7 +11924,8 @@
 	quest.76472E8E0C2E4195.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:slowness\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_iron_arrow\"}"
 	quest.764A3AD5C206FDAC.quest_subtitle: "{count:1,id:\"quark:polished_shale_vertical_slab\"}"
 	quest.764A55C5A52A7ACD.quest_subtitle: "{count:1,id:\"minecraft:lily_of_the_valley\"}"
-	quest.764BEECDDC25F8B1.quest_desc: ["自定义刷怪场"]
+	quest.764BEECDDC25F8B1.quest_desc: [""]
+	quest.764BEECDDC25F8B1.quest_subtitle: "动力刷怪~怎么来的你别管"
 	quest.764FD971800AE950.quest_subtitle: "{components:{\"minecraft:custom_data\":{AmmoUsed:0}},count:1,id:\"spartan_weaponry_unofficial:javelin_iron\"}"
 	quest.765165E8B23AC625.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:small_dripstone_bricks\"},count:1,id:\"ae2:facade\"}"
 	quest.765261693A23DD84.quest_subtitle: "{count:1,id:\"ccq_core:raw_lapis\"}"
@@ -12007,6 +12083,7 @@
 	quest.77C30746CDB964B0.quest_subtitle: "{count:1,id:\"thirst:terracotta_bowl\"}"
 	quest.77C38D672F1FC5D3.quest_subtitle: "{count:1,id:\"veggiesdelight:cauliflower_crate\"}"
 	quest.77C6236D7AE06165.quest_subtitle: "{count:1,id:\"railways:track_tieless_wide\"}"
+	quest.77CB7DD5020CD5F7.quest_desc: ["抽屉网络的“分身”，方便地存取物品"]
 	quest.77D6BF82572B7B1C.quest_subtitle: "{count:1,id:\"ars_nouveau:sourceberry_bush\"}"
 	quest.77D71354B4375075.quest_desc: ["这是下界的独有作物，收集它们来制作美食。"]
 	quest.77D71354B4375075.title: "下界作物"
@@ -12084,6 +12161,8 @@
 	quest.78ACDF5565A799F3.quest_subtitle: "{count:1,id:\"northstar:combustion_engine\"}"
 	quest.78ADB4EE94A3445F.quest_subtitle: "{count:1,id:\"arsdelight:mendosteen_crate\"}"
 	quest.78AF2A80BDD3A40C.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:ancient_wood\"},count:1,id:\"ae2:facade\"}"
+	quest.78B23195CE379E4E.quest_desc: ["主世界的丰富美食"]
+	quest.78B23195CE379E4E.title: "主世界美食~"
 	quest.78B3507251E2E363.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:orange_bar_stool\"}"
 	quest.78B6561CC185F0F2.quest_subtitle: "{components:{\"minecraft:suspicious_stew_effects\":[{duration:200,id:\"minecraft:poison\"}]},count:1,id:\"minecraft:suspicious_stew\"}"
 	quest.78B940C4868A55E3.quest_subtitle: "{components:{\"createbigcannons:power\":1},count:1,id:\"cbc_at:grapeshot_caseless\"}"
@@ -12159,7 +12238,8 @@
 	quest.798E276B90E18B3C.quest_subtitle: "{count:1,id:\"quark:calcite_stairs\"}"
 	quest.7991897B3B80A3A2.quest_subtitle: "{components:{\"ae2:facade_item\":\"culturaldelights:white_eggplant_crate\"},count:1,id:\"ae2:facade\"}"
 	quest.7992E6537D7095B2.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:deepslate_lapis_ore\"},count:1,id:\"ae2:facade\"}"
-	quest.7994AC45617FDB1F.quest_desc: ["一键召唤小bee崽子"]
+	quest.7994AC45617FDB1F.quest_desc: [""]
+	quest.7994AC45617FDB1F.quest_subtitle: "一键召唤小bee崽子"
 	quest.7994AC45617FDB1F.title: "召唤器"
 	quest.79977B7025BF8EEB.quest_subtitle: "{count:1,id:\"cbc_at:unbored_bronze_twin_autocannon_muzzle_brake\"}"
 	quest.799CDBDBB6129C9F.quest_subtitle: "{count:1,id:\"quark:raw_gold_bricks_wall\"}"
@@ -12192,6 +12272,7 @@
 	quest.79D9EEC0A857B06D.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:shielding_potion_long\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_arrow\"}"
 	quest.79DAF67C586CAF5E.quest_subtitle: "{count:1,id:\"waystones:magenta_sharestone\"}"
 	quest.79DD2E5C7A74F106.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:tuff_pillar\"},count:1,id:\"ae2:facade\"}"
+	quest.79DDC86A8F92EF22.title: "存储类型升级"
 	quest.79DE455C657358D3.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_turtle_master\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_arrow\"}"
 	quest.79DFC0C2906601F8.quest_subtitle: "{count:1,id:\"quark:polished_jasper\"}"
 	quest.79E41F003C72BBE1.quest_desc: ["本部分是相对面向新手的机械动力任务&m牢玩家领点东西好了不要喷我做的烂&r"]
@@ -12228,6 +12309,7 @@
 	quest.7A38FC93FCA3119E.quest_subtitle: "{count:1,id:\"create_enchantment_industry:super_enchanting_template\"}"
 	quest.7A3F31F8A04E48AE.quest_subtitle: "{count:1,id:\"railways:pink_plated_locometal\"}"
 	quest.7A3F4385C7181965.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minersdelight:long_haste\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_bolt\"}"
+	quest.7A45E2F13E29559E.title: "原木"
 	quest.7A48E18F61777593.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:aluminum_spear\"}"
 	quest.7A4A9DD8AC7849B2.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}},count:1,id:\"minecraft:tipped_arrow\"}"
 	quest.7A4FD6899B482BB7.quest_subtitle: "{count:1,id:\"ars_nouveau:alteration_table\"}"
@@ -12253,8 +12335,6 @@
 	quest.7A6AE5E01A16EB46.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:acacia_wood\"},count:1,id:\"ae2:facade\"}"
 	quest.7A6DDE1973416E2A.quest_subtitle: "{count:1,id:\"railways:light_blue_brass_wrapped_locometal_boiler\"}"
 	quest.7A706304466B0C03.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:jack_o_lantern\"},count:1,id:\"ae2:facade\"}"
-	quest.7A70885FA4015020.quest_desc: ["我还能争，我一定能出货的"]
-	quest.7A70885FA4015020.title: "距离深渊越来越近了"
 	quest.7A721352C644524E.quest_subtitle: "{count:1,id:\"createdieselgenerators:lime_cement_bucket\"}"
 	quest.7A73BCC9BCD7E8B7.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:copper_rapier\"}"
 	quest.7A7827BFD051AAB7.quest_subtitle: "{count:1,id:\"quark:waxed_violet_corundum\"}"
@@ -12351,9 +12431,9 @@
 	quest.7B69D3FF665A6147.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:harming\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_wooden_arrow\"}"
 	quest.7B6A07C3AFC18C41.quest_desc: ["输出产生的超高应力"]
 	quest.7B6C38F7129C01F8.quest_subtitle: "{count:1,id:\"minecraft:large_amethyst_bud\"}"
-	quest.7B708BFB812468C1.quest_desc: ["便捷染色！！"]
 	quest.7B716407AD530ED4.quest_subtitle: "{count:1,id:\"minecraft:lime_glazed_terracotta\"}"
 	quest.7B717ABEB79B80DE.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:ancient_log\"},count:1,id:\"ae2:facade\"}"
+	quest.7B777643C1AD50B2.title: "工作方块升级"
 	quest.7B777B79A5848CE5.quest_subtitle: "{count:1,id:\"ae2:cyan_covered_cable\"}"
 	quest.7B7B0EFBCA39D848.quest_subtitle: "{count:1,id:\"create:layered_scoria\"}"
 	quest.7B7DFEC926341B36.quest_desc: ["越射越快，适合长时间战斗"]
@@ -12693,8 +12773,8 @@
 	quest.7E9710645299ABC0.quest_subtitle: "{components:{\"minecraft:custom_name\":'{\"color\":\"aqua\",\"italic\":false,\"translate\":\"item.northstar.star_map_venus\"}',\"northstar:planet\":\"venus\"},count:1,id:\"northstar:star_map\"}"
 	quest.7E977635DF96727C.quest_subtitle: "{count:1,id:\"createdeco:corner_pearl_brick_stairs\"}"
 	quest.7E99411516724644.quest_subtitle: "{count:1,id:\"railways:copycat_headstock_buffer\"}"
-	quest.7E99B00CBD4BD7CA.quest_desc: ["原版的作物收集也很重要。"]
-	quest.7E99B00CBD4BD7CA.title: "原版作物收集"
+	quest.7E99B00CBD4BD7CA.quest_desc: ["妈妈喊你多吃水果~"]
+	quest.7E99B00CBD4BD7CA.title: "瓜果~"
 	quest.7EA201216A5AC3D0.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:exposed_copper_bulb\"},count:1,id:\"ae2:facade\"}"
 	quest.7EAD497876B513F7.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:venus_titanium_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.7EAE0E466E52C41D.quest_subtitle: "{count:1,id:\"minecraft:blackstone_stairs\"}"
@@ -12841,33 +12921,430 @@
 	quest.7FF5630472C4A94A.quest_desc: ["有关附属模组添加的应力源等，详见其他章节"]
 	quest.7FF7D02BBF9EF3E1.quest_subtitle: "{count:1,id:\"create:clockwork_bearing\"}"
 	quest.7FFE2C42A4DAAF1F.quest_subtitle: "{count:1,id:\"ars_nouveau:ritual_harvest\"}"
+	quest.A10F000000000001.quest_desc: ["森罗物语把中餐灶台、菜刀和油脂带进了厨房。米、番茄、面粉已与农夫乐事/机械动力统一，任务里请交统一后的物品。"]
+	quest.A10F000000000001.title: "森罗物语"
+	quest.A10F000000000002.quest_desc: ["铁菜刀、灶和油壶是森罗物语的起步三件套。"]
+	quest.A10F000000000002.title: "灶与刀"
+	quest.A10F000000000003.quest_desc: ["猪排放进压力机就能得到食用油，不必再找别的油脂配方。"]
+	quest.A10F000000000003.title: "压油"
+	quest.A10F000000000004.quest_desc: ["番茄炒蛋和东坡肉是两条很好认的入门菜。番茄请用农夫乐事的番茄。"]
+	quest.A10F000000000004.title: "两道家常菜"
+	quest.A10F000000000005.quest_desc: ["旋转烤肉架可以持续出肉，适合接到传动上。"]
+	quest.A10F000000000005.title: "烤肉架"
+	quest.A10F000000000006.quest_desc: ["酒吧柜台和压榨桶来自森罗酒馆。想喝酒就从这里开始，不必另开章节。"]
+	quest.A10F000000000006.title: "酒馆一角"
+	quest.A20C000000000001.quest_desc: ["冷却液用青金石加水在搅拌机里冷冻搅拌制成。主世界金属/宝石矿脉每次消耗 50mb，下界矿脉和钨矿消耗 100mb。没有冷却液就开不了本包改过的矿脉。"]
+	quest.A20C000000000001.title: "冷却液"
+	quest.A20C000000000002.quest_desc: ["粗主世界矿石先粉碎：得到煤、粗红石，以及粉碎的粗主世界矿石。"]
+	quest.A20C000000000002.title: "先粉碎"
+	quest.A20C000000000003.quest_desc: ["把粉碎的粗主世界矿石放进洗涤：出粗铁和粗铜。振动出金和锌，打磨出铂，离心出铅和铀。"]
+	quest.A20C000000000003.title: "洗涤出铜铁"
+	quest.A20C000000000004.quest_desc: ["远古残骸不能再进熔炉或高炉。必须先用缠魂把残骸变成凋灵化残骸。"]
+	quest.A20C000000000004.title: "残骸要缠魂"
+	quest.A20C000000000005.quest_desc: ["凋灵化残骸再缠魂才出下界合金残片，并有小概率掉凋灵骷髅头。真空化粉碎的粗下界矿石也可以出残骸。"]
+	quest.A20C000000000005.title: "残片"
+	quest.A20C000000000006.quest_desc: ["振动台用来从粉碎的粗主世界矿石里筛出金和锌，宝石链也要靠它出钻石和绿宝石。"]
+	quest.A20C000000000006.title: "振动"
+	quest.A20C000000000007.quest_desc: ["粗宝石粉碎出粗青金石和粉碎物。振动出钻石/绿宝石，打磨出紫水晶，再切割成成品。"]
+	quest.A20C000000000007.title: "宝石后处理"
+	quest.A30C000000000001.quest_desc: ["四颗行星传送门都用月蓝宝石碎片点燃。月球门框是抛光月岩：围一圈后手持碎片右键点燃。"]
+	quest.A30C000000000001.title: "月球门"
+	quest.A30C000000000002.quest_desc: ["水星门框用抛光水星石，同样用月蓝宝石碎片点燃。水星上可以开钨矿。"]
+	quest.A30C000000000002.title: "水星门"
+	quest.A30C000000000003.quest_desc: ["金星门框用抛光金星石。金星流体矿脉能抽原油和硫酸，抽硫酸需要下界合金钻头和冷却液。"]
+	quest.A30C000000000003.title: "金星门"
+	quest.A30C000000000004.quest_desc: ["火星门框用抛光火星石。火星铁矿要用下界合金钻头和熔岩。"]
+	quest.A30C000000000004.title: "火星门"
+	quest.A30C000000000005.quest_desc: ["钨锭来自水星矿脉（冷却液 100mb）。动力刷怪笼、动力刷石机和沉重核心都要钨。"]
+	quest.A30C000000000005.title: "钨"
+	quest.A30C000000000006.quest_desc: ["月球钛矿要用下界合金钻头，并消耗熔岩 100mb、512 应力。铁钻头配方本身也需要钛锭，先用石灰岩线做出第一批钛。"]
+	quest.A30C000000000006.title: "钛矿"
+	quest.A40C000000000001.quest_desc: ["五块琥珀金合成无魔力的不死图腾，或用雕刻琥珀金板。"]
+	quest.A40C000000000001.title: "图腾胚"
+	quest.A40C000000000002.quest_desc: ["序列组装循环 2 次：部署琥珀金 → 部署绿宝石 → 注入 50mb 熔岩 → 冲压。"]
+	quest.A40C000000000002.title: "不死图腾"
+	quest.A40C000000000003.quest_desc: ["七块琥珀金合成鞘翅模型。Quark 的鞘翅复制配方已删除。"]
+	quest.A40C000000000003.title: "鞘翅模型"
+	quest.A40C000000000004.quest_desc: ["序列组装循环 3 次：幻翼膜 → 琥珀金 → 龙鳞 → 冲压。龙鳞可以用光辉石和暗影钢机械合成复制。"]
+	quest.A40C000000000004.title: "合成鞘翅"
+	quest.A50C000000000001.quest_desc: ["黄铜之后可以开始造飞行器。热气球、螺旋桨、飞控、喷气和雷达都在这一章，先点开这条。"]
+	quest.A50C000000000001.title: "航空器"
+	quest.A50C000000000002.quest_desc: ["飞行员护目镜会在 HUD 上显示航空组件的额外信息，造飞艇前先戴上。"]
+	quest.A50C000000000002.title: "飞行员护目镜"
+	quest.A50C000000000003.quest_desc: ["浮空石混合物是气球升力的原料。看 JEI 做一桶出来。"]
+	quest.A50C000000000003.title: "浮空石混合物"
+	quest.A50C000000000004.quest_desc: ["混合物加热会结晶成浮空石，结晶后无法再收回流体。本包额外加了压力机：1000mb 混合物有 60% 出浮空石。"]
+	quest.A50C000000000004.title: "浮空石"
+	quest.A50C000000000005.quest_desc: ["把浮空石放进缠魂，得到珠光浮空石。"]
+	quest.A50C000000000005.title: "珠光浮空石"
+	quest.A50C000000000006.quest_desc: ["气囊是热气球的外壳，颜色可以后染。先做白色即可。"]
+	quest.A50C000000000006.title: "气囊"
+	quest.A50C000000000007.quest_desc: ["热气燃烧器给气囊加热，提供升力。"]
+	quest.A50C000000000007.title: "燃烧器"
+	quest.A50C000000000008.quest_desc: ["蒸汽排气阀用来放气下降，和燃烧器成对使用。"]
+	quest.A50C000000000008.title: "排气阀"
+	quest.A50C000000000009.quest_desc: ["螺旋桨轴承把旋转变成推力座。先做轴承，再挂桨叶。"]
+	quest.A50C000000000009.title: "螺旋桨轴承"
+	quest.A50C00000000000A.quest_desc: ["木螺旋桨入门，安山螺旋桨更结实。都要装在螺旋桨轴承上。"]
+	quest.A50C00000000000A.title: "桨叶"
+	quest.A50C00000000000B.quest_desc: ["智能螺旋桨会自己尽量朝上，扳手右击可反转推力方向。"]
+	quest.A50C00000000000B.title: "智能螺旋桨"
+	quest.A50C00000000000C.quest_desc: ["陀螺仪螺旋桨轴承能在飞行中稳住桨叶姿态。"]
+	quest.A50C00000000000C.title: "陀螺桨轴承"
+	quest.A50C00000000000D.quest_desc: ["摇杆是双轴控制器，激活后用鼠标倾斜，信号走红石链路。"]
+	quest.A50C00000000000D.title: "摇杆"
+	quest.A50C00000000000E.quest_desc: ["机械舵机和步进舵机把控制信号变成舵面或轴承转动。"]
+	quest.A50C00000000000E.title: "舵机"
+	quest.A50C00000000000F.quest_desc: ["陀螺仪提供姿态反馈，给飞控或自动驾驶用。"]
+	quest.A50C00000000000F.title: "陀螺仪"
+	quest.A50C000000000010.quest_desc: ["鼠标飞行控制器用鼠标直接飞，适合先上手再接到计算机。"]
+	quest.A50C000000000010.title: "鼠标飞控"
+	quest.A50C000000000011.quest_desc: ["飞控计算机是自动驾驶的核心。用飞控工具枪把引擎、控制器连到计算机上，必须在同一座物理结构里。"]
+	quest.A50C000000000011.title: "飞控计算机"
+	quest.A50C000000000012.quest_desc: ["HUD 投影仪把姿态打到视野里。飞控工具枪用来点选引擎、储罐和传感器。"]
+	quest.A50C000000000012.title: "HUD 与工具枪"
+	quest.A50C000000000013.quest_desc: ["粗铂来自主世界混合矿的打磨线，地下资源那章写过。烧成铂锭后再做铂机壳。"]
+	quest.A50C000000000013.title: "铂"
+	quest.A50C000000000014.quest_desc: ["机翼提供升力，推进器提供直线推力。两者都要铂。"]
+	quest.A50C000000000014.title: "机翼与推进器"
+	quest.A50C000000000015.quest_desc: ["矢量推进器可以偏转推力，用来转向，不必再靠整机倾斜。"]
+	quest.A50C000000000015.title: "矢量推进器"
+	quest.A50C000000000016.quest_desc: ["离子推进器是更高效的后期引擎，适合长途。"]
+	quest.A50C000000000016.title: "离子推进器"
+	quest.A50C000000000017.quest_desc: ["自动胶粘器把机身粘成一座装置，装配棒用来装配或拆解。造飞机先把结构粘牢。"]
+	quest.A50C000000000017.title: "胶与装配"
+	quest.A50C000000000018.quest_desc: ["雷达碟和雷达板组成天线阵，用来扫空中目标。"]
+	quest.A50C000000000018.title: "雷达天线"
+	quest.A50C000000000019.quest_desc: ["监视器把雷达回波显示出来，接到天线阵上。"]
+	quest.A50C000000000019.title: "监视器"
+	quest.A50C00000000001A.quest_desc: ["雷达护目镜在视野里标目标，不用一直盯着监视器。"]
+	quest.A50C00000000001A.title: "雷达护目镜"
+	quest.A50C00000000001B.quest_desc: ["生存模式结构工具枪用来选、复制和粘贴已粘好的结构，飞艇改型会用到。"]
+	quest.A50C00000000001B.title: "结构工具枪"
+	quest.A50C00000000001C.quest_desc: ["可投掷绳索连接器和发射器用来在空中钩住或拖拽结构。"]
+	quest.A50C00000000001C.title: "抛绳"
+	quest.A60C000000000001.quest_desc: ["黄铜之后可以铺轨造车。机械动力原版列车、蒸汽与铁路的轨距/道岔、导航仪都在这一章。"]
+	quest.A60C000000000001.title: "铁路"
+	quest.A60C000000000002.quest_desc: ["标准轨用安山合金、铁粒和台阶做成。先铺一段直轨，再谈造车。"]
+	quest.A60C000000000002.title: "铁轨"
+	quest.A60C000000000003.quest_desc: ["铁路机壳放在铁轨上就是转向架。本包没有单独的转向架物品。手持机壳按 Alt 可打开蒸汽与铁路的转向架菜单。"]
+	quest.A60C000000000003.title: "铁路机壳"
+	quest.A60C000000000004.quest_desc: ["车站用来组装和拆解列车。车头对准车站，打开界面点组装。"]
+	quest.A60C000000000004.title: "车站"
+	quest.A60C000000000005.quest_desc: ["列车控制器要粘在车体上。组装后坐上去就能开。"]
+	quest.A60C000000000005.title: "列车控制器"
+	quest.A60C000000000006.quest_desc: ["列车时刻表交给列车后，它会按站点自己跑，不必一直坐在车上。"]
+	quest.A60C000000000006.title: "时刻表"
+	quest.A60C000000000007.quest_desc: ["信号机把线路切成闭塞分区，防止追尾。轨道观察者在有车经过时输出红石。"]
+	quest.A60C000000000007.title: "信号与观察者"
+	quest.A60C000000000008.quest_desc: ["列车门和活板门会在到站时自动开闭，比普通门更适合车厢。"]
+	quest.A60C000000000008.title: "车门"
+	quest.A60C000000000009.quest_desc: ["窄轨转弯更急、占地更小，适合矿洞和厂区。窄轨列车不能上标准轨。"]
+	quest.A60C000000000009.title: "窄轨"
+	quest.A60C00000000000A.quest_desc: ["宽轨更稳，适合干线。宽轨列车同样不能混跑标准轨。"]
+	quest.A60C00000000000A.title: "宽轨"
+	quest.A60C00000000000B.quest_desc: ["单轨架空走，下面可以留出行人通道。"]
+	quest.A60C00000000000B.title: "单轨"
+	quest.A60C00000000000C.quest_desc: ["幻影轨几乎看不见，无枕木轨看起来更干净。都是装饰向轨道，功能与标准轨相同。"]
+	quest.A60C00000000000C.title: "隐形轨"
+	quest.A60C00000000000D.quest_desc: ["安山道岔手动扳，黄铜道岔可以用红石或列车自动控制。分叉必须用道岔，不能只靠交叉铁轨。"]
+	quest.A60C00000000000D.title: "道岔"
+	quest.A60C00000000000E.quest_desc: ["轨道连接器用来在运行中把两列列车挂在一起或解开。"]
+	quest.A60C00000000000E.title: "轨道连接器"
+	quest.A60C00000000000F.quest_desc: ["车挡装在尽头线，避免列车冲出轨道。"]
+	quest.A60C00000000000F.title: "车挡"
+	quest.A60C000000000010.quest_desc: ["臂板信号机比原版信号更好认，适合站场和正线。"]
+	quest.A60C000000000010.title: "臂板信号"
+	quest.A60C000000000011.quest_desc: ["燃料罐给液体燃料机车用。便携燃料接口用来在站上给罐补油，用法类似便携存储接口。"]
+	quest.A60C000000000011.title: "液体燃料"
+	quest.A60C000000000012.quest_desc: ["给村民戴上列车员帽，再放通风口，它就会上车当乘务员。汽笛用来召唤或指挥。"]
+	quest.A60C000000000012.title: "列车员"
+	quest.A60C000000000013.quest_desc: ["手摇车是不用组装的小型轨道车，适合短途巡线。扳手可以收起来。"]
+	quest.A60C000000000013.title: "手摇车"
+	quest.A60C000000000014.quest_desc: ["远程镜头用来从远处看着列车或摄像点。"]
+	quest.A60C000000000014.title: "远程镜头"
+	quest.A60C000000000015.quest_desc: ["斜纹洛科金属、锅炉和烟箱是造机车外壳的三件套。颜色可以后漆。"]
+	quest.A60C000000000015.title: "洛科金属"
+	quest.A60C000000000016.quest_desc: ["煤炉烟囱是最常见的机车烟囱，只是外观。"]
+	quest.A60C000000000016.title: "烟囱"
+	quest.A60C000000000017.quest_desc: ["链销车钩和木制车端梁装在车厢端面，两节车看起来会连在一起。"]
+	quest.A60C000000000017.title: "车钩"
+	quest.A60C000000000018.quest_desc: ["油漆刷用来给洛科金属改色，不必重做方块。"]
+	quest.A60C000000000018.title: "喷漆"
+	quest.A60C000000000019.quest_desc: ["导航仪查询车站和时刻，乘客用它找车。车站要先命名。"]
+	quest.A60C000000000019.title: "导航仪"
+	quest.A60C00000000001A.quest_desc: ["高级显示屏用来做站牌和到站预报，接到车站网络上。"]
+	quest.A60C00000000001A.title: "到站屏"
+	quest.A60C00000000001B.quest_desc: ["车站钟显示列车时刻，适合站厅。"]
+	quest.A60C00000000001B.title: "车站钟"
+	quest.A60C00000000001C.quest_desc: ["铺轨袋一次能放下整段铁轨，长线施工比手铺快得多。"]
+	quest.A60C00000000001C.title: "铺轨袋"
+	quest.A70C000000000001.quest_desc: ["黄铜之后可以造炮。先铸造铸铁件，再装填、上炮架。钢炮要用核电的钢锭，不要用大炮模组自己的炼钢（已删除）。"]
+	quest.A70C000000000001.title: "大炮"
+	quest.A70C000000000002.quest_desc: ["铸铁锭是第一档炮钢。看 JEI 用搅拌机做，后面的炮管、炮膛都靠它。"]
+	quest.A70C000000000002.title: "铸铁"
+	quest.A70C000000000003.quest_desc: ["铸造三件套：盆盖盖在搅拌盆上熔化金属，铸炮机把模具叠起来浇铸，炮钻把未钻孔的铸件钻通。"]
+	quest.A70C000000000003.title: "铸造车间"
+	quest.A70C000000000004.quest_desc: ["模具决定铸件形状。极小模具和炮尾模具先做出来，浇铸冷却后再用炮钻钻孔。"]
+	quest.A70C000000000004.title: "模具"
+	quest.A70C000000000005.quest_desc: ["锻铁炮尾加炮膛是最短的入门炮，不用铸造车间也能做。先用来练装填。"]
+	quest.A70C000000000005.title: "锻铁炮"
+	quest.A70C000000000006.quest_desc: ["铸铁炮管、炮膛、炮尾拼成一门前装炮。铸件要先浇、再钻，不能直接合成成品管。"]
+	quest.A70C000000000006.title: "铸铁炮"
+	quest.A70C000000000007.quest_desc: ["推弹头装在活塞上把弹药推到位，蜗杆头用来把没打出去的药包掏出来。"]
+	quest.A70C000000000007.title: "推弹与掏膛"
+	quest.A70C000000000008.quest_desc: ["自动装弹机把推弹活塞排成一条，对着炮尾即可连发装填。"]
+	quest.A70C000000000008.title: "装弹机"
+	quest.A70C000000000009.quest_desc: ["药包装在弹的后面提供推力。实心弹只砸坏方块，适合练炮和破墙。"]
+	quest.A70C000000000009.title: "药包与实心弹"
+	quest.A70C00000000000A.quest_desc: ["高爆弹必须装引信才会炸。碰炸引信撞到东西就起爆，先用这个。"]
+	quest.A70C00000000000A.title: "高爆与碰炸"
+	quest.A70C00000000000B.quest_desc: ["滑动炮闩改成后装，不用再从炮口捅弹药。"]
+	quest.A70C00000000000B.title: "滑动炮闩"
+	quest.A70C00000000000C.quest_desc: ["速射机构装上速射炮闩后，可以像自动装弹那样从后方连续装填。"]
+	quest.A70C00000000000C.title: "速射炮闩"
+	quest.A70C00000000000D.quest_desc: ["青铜比铸铁更能扛膛压。本包显示名是「青铜锭」。"]
+	quest.A70C00000000000D.title: "青铜"
+	quest.A70C00000000000E.quest_desc: ["青铜炮管按铸铁同样的铸造流程做，只是换金属。"]
+	quest.A70C00000000000E.title: "青铜炮"
+	quest.A70C00000000000F.quest_desc: ["钢炮必须用核电的钢锭。大炮模组自己的搅拌炼钢、钢块和钢粒配方已经删掉。先去地下资源把钢做出来。"]
+	quest.A70C00000000000F.title: "钢"
+	quest.A70C000000000010.quest_desc: ["钢炮管能打更重的装药。叠层钢炮（built-up）也是这条铸造线。"]
+	quest.A70C000000000010.title: "钢炮"
+	quest.A70C000000000011.quest_desc: ["下界钢是终局炮钢，看 JEI 用下界合金和钢炼。"]
+	quest.A70C000000000011.title: "下界钢"
+	quest.A70C000000000012.quest_desc: ["下界钢炮管是口径线的顶点，能扛最大药包。"]
+	quest.A70C000000000012.title: "下界钢炮"
+	quest.A70C000000000013.quest_desc: ["炮架用传动杆调俯仰和方向；炮车可以把整门炮拉走。炮要装在架上才能瞄准。"]
+	quest.A70C000000000013.title: "炮架"
+	quest.A70C000000000014.quest_desc: ["焊枪把多节炮管焊成一门长炮，比胶水更适合炮身。"]
+	quest.A70C000000000014.title: "焊枪"
+	quest.A70C000000000015.quest_desc: ["机炮由炮管、炮闩和复进簧组成，射速远高于大口径炮，用来打飞机或近处目标。"]
+	quest.A70C000000000015.title: "机炮"
+	quest.A70C000000000016.quest_desc: ["穿甲机炮弹装进机炮弹链箱，箱子接到机炮上供弹。"]
+	quest.A70C000000000016.title: "机炮弹"
+	quest.A70C000000000017.quest_desc: ["落弹迫击炮把炮弹从炮口丢进去就会打出去，适合高抛。"]
+	quest.A70C000000000017.title: "迫击炮"
+	quest.A70C000000000018.quest_desc: ["定时引信飞一段时间再炸，近炸引信靠近目标就炸。高爆弹都要先装引信。"]
+	quest.A70C000000000018.title: "定时与近炸"
+	quest.A70C000000000019.quest_desc: ["防毒面具能减少炮弹和高爆的副作用，炮位上建议戴着。"]
+	quest.A70C000000000019.title: "防毒面具"
+	quest.A70C00000000001A.quest_desc: ["增强炮弹的 Mk.I 高爆是升级线的第一档，后面还有 Mk.II–V，看 JEI 升。"]
+	quest.A70C00000000001A.title: "增强高爆"
+	quest.A70C00000000001B.quest_desc: ["火箭发射台加 1–3 节弹体/火药，再放一发炮弹。前方红石发射。"]
+	quest.A70C00000000001B.title: "火箭弹"
+	quest.A70C00000000001C.quest_desc: ["导弹支架上方空 2 格再堆火箭。潜行点击方块记录坐标，再点制导鼻锥写入目标。侧轴俯仰，底轴偏航；后方红石组装，前方红石发射。"]
+	quest.A70C00000000001C.title: "制导火箭"
+	quest.A70C00000000001D.quest_desc: ["射击控制器来自雷达模组，把雷达锁定接到炮架上可以自动瞄准。"]
+	quest.A70C00000000001D.title: "射击控制"
+	quest.A80C000000000001.quest_desc: ["魔艺的魔源宝石不再用青金石或紫水晶灌注。必须用月蓝宝石碎片，碎片在「火箭与太空」。"]
+	quest.A80C000000000001.title: "魔艺"
+	quest.A80C000000000002.quest_desc: ["破旧典籍是魔艺的说明书。合成或在世界里找到一本，先翻完再动手。"]
+	quest.A80C000000000002.title: "破旧典籍"
+	quest.A80C000000000003.quest_desc: ["魔艺树林在世界里生成。先挖一棵蓝魔木树苗回家种，后面的机器都要魔木。"]
+	quest.A80C000000000003.title: "魔木"
+	quest.A80C000000000004.quest_desc: ["灌注室把物品变成魔艺材料。旁边要有魔源。青金石和紫水晶灌注已删除，不要再试。"]
+	quest.A80C000000000004.title: "灌注室"
+	quest.A80C000000000005.quest_desc: ["月蓝宝石碎片放进灌注室，消耗 500 魔源，得到魔源宝石。碎片可用琥珀金在压力机里 1 换 2。青金石/紫水晶无效。"]
+	quest.A80C000000000005.title: "魔源宝石"
+	quest.A80C000000000006.quest_desc: ["魔源罐储存魔源。灌注室、魔源通道和中继器都要靠罐子进出魔源。"]
+	quest.A80C000000000006.title: "魔源罐"
+	quest.A80C000000000007.quest_desc: ["农业魔源通道靠作物生长产魔源，火山通道靠高温。接到罐子上才能灌进去。"]
+	quest.A80C000000000007.title: "魔源通道"
+	quest.A80C000000000008.quest_desc: ["魔源石是魔艺建筑方块，后面许多机器也要用。"]
+	quest.A80C000000000008.title: "魔源石"
+	quest.A80C000000000009.quest_desc: ["附魔装置周围要围基座，基座上放材料。先做 4 个。"]
+	quest.A80C000000000009.title: "奥术基座"
+	quest.A80C00000000000A.quest_desc: ["附魔装置是合成台。法术书升级、护符、仪式材料和大多数进阶件都在这里做。"]
+	quest.A80C00000000000A.title: "附魔装置"
+	quest.A80C00000000000B.quest_desc: ["抄写台用来把字形抄进法术书。空白羊皮纸是消耗品。"]
+	quest.A80C00000000000B.title: "抄写台"
+	quest.A80C00000000000C.quest_desc: ["新手法术书是第一本法术书。打开后把字形拖进法术栏就能施法。"]
+	quest.A80C00000000000C.title: "新手法术书"
+	quest.A80C00000000000D.quest_desc: ["投射物是第一条常用法术。在抄写台花经验抄下来，再放进书里当弹道。"]
+	quest.A80C00000000000D.title: "投射物"
+	quest.A80C00000000000E.quest_desc: ["学徒法术书在附魔装置上升级，能装更多字形和更长的法术。"]
+	quest.A80C00000000000E.title: "学徒法术书"
+	quest.A80C00000000000F.quest_desc: ["大法师法术书是最终形态，法术栏和消耗都按最高档算。"]
+	quest.A80C00000000000F.title: "大法师法术书"
+	quest.A80C000000000010.quest_desc: ["法师之花作物在附魔装置里做出来。纤维用来做袍子和许多进阶件。"]
+	quest.A80C000000000010.title: "法师之花"
+	quest.A80C000000000011.quest_desc: ["中继器在罐子之间传魔源，分路、收取、存放各有变种。先做基础中继器。"]
+	quest.A80C000000000011.title: "中继器"
+	quest.A80C000000000012.quest_desc: ["仪式火盆点燃仪式。飞行仪式是最早能用的之一，材料看典籍。"]
+	quest.A80C000000000012.title: "仪式"
+	quest.A80C000000000013.quest_desc: ["星宝石兽会搬运物品。用支配之杖设定它拿什么、送到哪。"]
+	quest.A80C000000000013.title: "星宝石兽"
+	quest.A80C000000000014.quest_desc: ["女巫会按箱子里的材料自动合成和炼药，适合挂机生产线。"]
+	quest.A80C000000000014.title: "女巫"
+	quest.A80C000000000015.quest_desc: ["森林羊在附近打怪产战利品，旋风精灵照顾作物。各做一个护符。"]
+	quest.A80C000000000015.title: "羊与精灵"
+	quest.A80C000000000016.quest_desc: ["储存讲台是魔艺仓库。支配之杖用来把容器、仆从和讲台绑在一起。"]
+	quest.A80C000000000016.title: "讲台与支配杖"
+	quest.A80C000000000017.quest_desc: ["基础法术炮塔按红石施放写在上面的法术，适合防御和自动化。"]
+	quest.A80C000000000017.title: "法术炮塔"
+	quest.A80C000000000018.quest_desc: ["折跃卷轴记录坐标，用掉后传送过去。跨维度要看卷轴说明。"]
+	quest.A80C000000000018.title: "折跃卷轴"
+	quest.A80C000000000019.quest_desc: ["改造台用来给法师护甲开孔和改装件，袍子要用法师之花纤维。"]
+	quest.A80C000000000019.title: "改造台"
+	quest.A80C00000000001A.quest_desc: ["药水罐存药水，熔药器把多种药水合成新效果。"]
+	quest.A80C00000000001A.title: "炼药"
+	quest.A80C00000000001B.quest_desc: ["收容罐可以装走生物，放到罐子里当装饰或给仪式用。"]
+	quest.A80C00000000001B.title: "收容罐"
+	quest.A80C00000000001C.quest_desc: ["魔杖把法术书上的法术打出去，不必一直拿着书。"]
+	quest.A80C00000000001C.title: "魔杖"
+	quest.A90C000000000001.quest_desc: ["农夫乐事只是厨房的一半。先认作物，再开厨具和茶饮。"]
+	quest.A90C000000000001.title: "更多厨房"
+	quest.A90C000000000002.quest_desc: ["果乐事的树苗和浆果长在野外。柠檬、菠萝和山楂够做出果酱和甜品。"]
+	quest.A90C000000000002.title: "果乐事"
+	quest.A90C000000000003.quest_desc: ["菜乐事补了蒜、西兰花和花椰菜。野生植株能在主世界找到。"]
+	quest.A90C000000000003.title: "菜乐事"
+	quest.A90C000000000004.quest_desc: ["文化乐事的玉米是不少异国菜的底料。"]
+	quest.A90C000000000004.title: "玉米"
+	quest.A90C000000000005.quest_desc: ["有料就能开炒。炒锅、锅铲和盘子是料理乐事的起步三件套。"]
+	quest.A90C000000000005.title: "炒锅"
+	quest.A90C000000000006.quest_desc: ["烤架用来做串，和炒锅是两条并行的开火线。"]
+	quest.A90C000000000006.title: "烤架"
+	quest.A90C000000000007.quest_desc: ["木桶发酵，粉碎槌和盐调味。和烤架一样挂在炒锅后面。"]
+	quest.A90C000000000007.title: "木桶与盐"
+	quest.A90C000000000008.quest_desc: ["机械炸锅要接传动。先摸过炒锅，再来机械动力厨房机。"]
+	quest.A90C000000000008.title: "炸锅"
+	quest.A90C000000000009.quest_desc: ["栖木、鸡舍和渔网把养殖接到传动上。"]
+	quest.A90C000000000009.title: "动力农牧"
+	quest.A90C00000000000A.quest_desc: ["守卫者汤开海鲜线，空集蛋器接到鸡舍附近就能收蛋。"]
+	quest.A90C00000000000A.title: "海鲜与集蛋"
+	quest.A90C00000000000B.quest_desc: ["茶壶线单独往上走。水壶用来泡茶和煮咖啡。"]
+	quest.A90C00000000000B.title: "水壶"
+	quest.A90C00000000000C.quest_desc: ["茶籽和咖啡豆能在野外找到。"]
+	quest.A90C00000000000C.title: "茶与咖啡"
+	quest.A90C00000000000D.quest_desc: ["水壶里煮出绿茶和咖啡。加奶加糖是后话。"]
+	quest.A90C00000000000D.title: "开煮"
+	quest.A90C00000000000E.quest_desc: ["酒馆柜台旁就能开始种啤酒花、红葡萄和麦芽。"]
+	quest.A90C00000000000E.title: "酿酒原料"
+	quest.A90C00000000000F.quest_desc: ["红酒和月光酒是两条好认的入门酒。"]
+	quest.A90C00000000000F.title: "两杯开胃酒"
+	quest.A90C000000000010.quest_desc: ["保险库之外还有抽屉和简易箱。先走便宜的 FXNT，钛到了再上功能抽屉。"]
+	quest.A90C000000000010.title: "仓储"
+	quest.A90C000000000011.quest_desc: ["功能抽屉的木板已被替换成钛锭。先做出钛。末影抽屉和滴水/造水/黑曜石升级已删除。"]
+	quest.A90C000000000011.title: "钛抽屉"
+	quest.A90C000000000012.quest_desc: ["存储控制器把一圈抽屉收成一个网络。"]
+	quest.A90C000000000012.title: "抽屉控制器"
+	quest.A90C000000000013.quest_desc: ["铜升级和金升级加大单格容量。别做已隐藏的那些升级。"]
+	quest.A90C000000000013.title: "容量升级"
+	quest.A90C000000000014.quest_desc: ["简易储物箱用木头就能起步，适合早期堆货。"]
+	quest.A90C000000000014.title: "简易储物箱"
+	quest.A90C000000000015.quest_desc: ["存储接口让储物箱网络能被漏斗和机械动力取放。"]
+	quest.A90C000000000015.title: "存储接口"
+	quest.A90C000000000016.quest_desc: ["两边网络都齐了，再用存储桥接器把 FXNT 和功能抽屉连在一起。"]
+	quest.A90C000000000016.title: "存储桥"
+	quest.A90C000000000017.quest_desc: ["售货桶按价目表把多余材料换成货币。需要先摸过钱币系统。"]
+	quest.A90C000000000017.title: "售货桶"
+	quest.A90C000000000018.quest_desc: ["交易台自动和村民买卖。村民只在工作时间交易。"]
+	quest.A90C000000000018.title: "村民交易台"
+	quest.A90C000000000019.quest_desc: ["仓储桥通了，再用伪装方块把管道藏进墙里。"]
+	quest.A90C000000000019.title: "伪装方块"
+	quest.A90C00000000001A.quest_desc: ["整数选择器和链路拉杆给工厂仪表补数字输入。"]
+	quest.A90C00000000001A.title: "额外仪表"
+	quest.A90C00000000001B.quest_desc: ["工厂控制台集中管理工厂仪表。红石通电会暂停其上的仪表。"]
+	quest.A90C00000000001B.title: "工厂控制台"
+	quest.A90C000000000020.quest_desc: ["周边便利从桁架和板材起步，再往上分摄影/女仆，往下分扶梯和过山车。"]
+	quest.A90C000000000020.title: "周边便利"
+	quest.A90C000000000021.quest_desc: ["金属桁架可以包裹管道和传动杆。"]
+	quest.A90C000000000021.title: "金属桁架"
+	quest.A90C000000000022.quest_desc: ["安山板材是 机械动力：装饰 的入门装饰。硬币配方已隐藏。"]
+	quest.A90C000000000022.title: "板材装饰"
+	quest.A90C000000000023.quest_desc: ["相机拍出可冲洗的照片，支架用来固定机位。"]
+	quest.A90C000000000023.title: "相机"
+	quest.A90C000000000024.quest_desc: ["用博丽御币召出女仆，再放一张女仆床。"]
+	quest.A90C000000000024.title: "女仆"
+	quest.A90C000000000025.quest_desc: ["幸运药水能提高箱子战利品品质。召出女仆再来也不迟。"]
+	quest.A90C000000000025.title: "幸运药水"
+	quest.A90C000000000026.quest_desc: ["自动扶梯用台阶铺出走道。思索里有拓宽和加扶手的做法。"]
+	quest.A90C000000000026.title: "自动扶梯"
+	quest.A90C000000000027.quest_desc: ["双面齿轮曲柄两边都能接齿轮，手摇更省地方。"]
+	quest.A90C000000000027.title: "双面曲柄"
+	quest.A90C000000000028.quest_desc: ["液压机比普通压力机更强。工业风机吹得更远。"]
+	quest.A90C000000000028.title: "液压与工业风机"
+	quest.A90C000000000029.quest_desc: ["催化帆放在风扇气流里指定加工，不必再摆熔岩。"]
+	quest.A90C000000000029.title: "催化帆"
+	quest.A90C00000000002B.quest_desc: ["过山车轨道、车厢和铆钉够搭一条基础环线。"]
+	quest.A90C00000000002B.title: "过山车"
+	quest.A90C00000000002C.quest_desc: ["直线电机和控制器给轨道段加速或制动。"]
+	quest.A90C00000000002C.title: "直线电机"
+	quest.A90C00000000002D.quest_desc: ["量化蓝图会读剪贴板里的材料清单。没有新物品，勾掉即可。"]
+	quest.A90C00000000002D.title: "量化蓝图"
+	quest.A90C00000000002E.quest_desc: ["水桶和熔岩桶也能在注液器下自动补满。知道即可。"]
+	quest.A90C00000000002E.title: "简易灌装"
+	quest.A90C000000000030.quest_desc: ["Quark 的 Pickarang 是可投掷、会飞回来的镐。"]
+	quest.A90C000000000030.title: "回旋镐"
+	quest.A90C000000000040.quest_desc: ["电气工程是另一套电线系统。铜线卷做完就能进来。"]
+	quest.A90C000000000040.title: "电气工程"
+	quest.A90C000000000041.quest_desc: ["铜线卷拉线，连接器接点。"]
+	quest.A90C000000000041.title: "铜线与连接器"
+	quest.A90C000000000042.quest_desc: ["电容和电阻是基础无源元件。"]
+	quest.A90C000000000042.title: "电容与电阻"
+	quest.A90C000000000043.quest_desc: ["灯泡当指示灯，钳表右键电线可读电流。和电容线并行。"]
+	quest.A90C000000000043.title: "灯泡与钳表"
+	quest.A90C000000000044.quest_desc: ["先有电容线，再并上琥珀金。琥珀金线适合更长的线路。"]
+	quest.A90C000000000044.title: "琥珀金线"
+	quest.A90C000000000045.quest_desc: ["变压器调电压，转子加电刷组成交流侧。"]
+	quest.A90C000000000045.title: "变压器与电机"
+	quest.A90C000000000050.quest_desc: ["扔绳玩熟了再来抓钩。命名空间是 addon_gancho。"]
+	quest.A90C000000000050.title: "抓钩"
+	quest.A90C000000000051.quest_desc: ["摆荡钩右键射出，Shift+W/S 收放绳。"]
+	quest.A90C000000000051.title: "摆荡钩"
+	quest.A90C000000000052.quest_desc: ["抓钩发射器在两点之间架缆绳。"]
+	quest.A90C000000000052.title: "缆绳发射器"
+	quest.A90C000000000053.quest_desc: ["缆绳滑车对准缆绳右键挂上。扳手 Shift 右键可拆缆。"]
+	quest.A90C000000000053.title: "缆绳滑车"
+	quest.A90C000000000054.quest_desc: ["真空收割机接在传动后面，能扫掉作物掉在地上的东西。"]
+	quest.A90C000000000054.title: "真空收割"
+	quest.A90C000000000055.quest_desc: ["中央厨房没有新方块，是把农夫乐事和发酵设备接到机械动力自动化上。炸锅做完看看思索。"]
+	quest.A90C000000000055.title: "中央厨房"
+	quest.A90C000000000056.quest_desc: ["Fox Trot 给踩桶加了任务提示。酒馆柜台和压榨桶齐了就勾掉。"]
+	quest.A90C000000000056.title: "踩桶酿造"
+	quest.A90C000000000057.quest_desc: ["机械动力：料理乐事让炒锅也能接传动和机械臂。炒锅三件套做完来勾。"]
+	quest.A90C000000000057.title: "传动炒锅"
+	quest.A90C000000000058.quest_desc: ["思索坐标块用来标记 Ponder 位置，纯便利工具。"]
+	quest.A90C000000000058.title: "思索坐标"
+	quest.A90C000000000059.quest_desc: ["菌乐事的羊肚菌长在野外。奶油羊肚菌汤是入门菜。"]
+	quest.A90C000000000059.title: "菌乐事"
+	quest.A90C00000000005A.quest_desc: ["畅饮与乐事的发酵桶做酒和奶酪。和鸡尾酒线并行，从酒馆往下走。"]
+	quest.A90C00000000005A.title: "发酵桶"
+	quest.A90C00000000005B.quest_desc: ["板条箱乐事给常见作物做了堆叠装饰箱，适合早期囤货。"]
+	quest.A90C00000000005B.title: "板条箱"
+	quest.A90C00000000005C.quest_desc: ["机械磨石是 机械动力版磨石，能接转速磨东西。"]
+	quest.A90C00000000005C.title: "机械磨石"
+	quest.A90C00000000005D.quest_desc: ["女仆餐厅让女仆能接单上菜。先召女仆，再做菜单和托盘。"]
+	quest.A90C00000000005D.title: "女仆餐厅"
+	quest.A90C00000000005E.quest_desc: ["共振模组把音乐盒接到传动上。装饰线路从板材往后接。"]
+	quest.A90C00000000005E.title: "共振音乐盒"
+	quest.A90C00000000005F.quest_desc: ["网络音乐放唱片机、刻录机和 CD。音乐盒做完再来也不迟。"]
+	quest.A90C00000000005F.title: "网络音乐"
+	quest.A90C000000000060.quest_desc: ["交易刷新让村民交易能重置。交易台搭好后知道有这个模组即可。"]
+	quest.A90C000000000060.title: "交易刷新"
 	reward.3342298332885D51.title: "欢迎加入虚空"
 	reward.33F79206EC140C4A.title: "大奖来了"
 	reward.36EDBFB4ACCA21ED.title: "天雷滚滚"
-	reward_table.0433B593ED7D707B.title: "铜币奖励"
+	reward.608FAADB96346C08.title: "暂时关闭蓝图校验"
 	reward_table.0A18991D9745743A.title: "赛特斯矿石"
 	reward_table.0A4D0C6441DBF319.title: "建材"
-	reward_table.0D16202C84B7C0F5.title: "铁币奖池"
-	reward_table.11204745E52B4C0C.title: "木材"
+	reward_table.1C21F4DF3B6C2824.title: "迷迭香的信物"
 	reward_table.1C5AB3AA1CC484A3.title: "生物培养"
 	reward_table.1EC6956FA2BB2B00.title: "存储"
 	reward_table.29C97F550C5FDEBA.title: "普通奖励"
 	reward_table.3602F483568B92BA.title: "杂物"
 	reward_table.3E18BFE17618113C.title: "铁工具"
-	reward_table.4A2057085CF5C473.title: "锌奖池"
 	reward_table.4D37FFAF33DF678A.title: "稀有奖励"
 	reward_table.5832C9BCFDB476AF.title: "魔源"
-	reward_table.61E3F096364A880F.title: "黄铜奖池"
-	reward_table.6B8F33D8694FFC5F.title: "钻石"
-	reward_table.6D6D5A0482232FB1.title: "下界合金奖池"
-	reward_table.716F43D093E97265.title: "初级流体"
 	reward_table.71B0C3D0264CEA66.title: "海因里希奖励"
-	reward_table.78D58E56F740F548.title: "金币奖池"
+	reward_table.7449E6F18800520C.title: "迷迭香的信物1"
 	task.0105A38E835FD541.title: "原子核动"
 	task.011890AC893D30E5.title: "盔甲"
 	task.054994D77D2DCF68.title: "欢迎来到CCQ"
 	task.07C44556BC17163C.title: "农业"
 	task.091CC0CA146BF6F5.title: "事件符"
+	task.093E2550C1AD44DC.title: "溺水的xnn"
 	task.0D6188AF782C02B7.title: "前言"
 	task.0D8D4EFFF5519C32.title: "思索"
 	task.14267FE54890B622.title: "无限岩浆"
@@ -12877,8 +13354,11 @@
 	task.22B0F7776C53BB50.title: "工具和武器"
 	task.233C9D1670713936.title: "1"
 	task.24764D037884F92F.title: "舒适物品"
+	task.24C8D6BD83D3CA65.title: "抽屉？"
 	task.24CA45B66C827116.title: "树场"
+	task.2695AC55507D4A7F.title: "主世界食物"
 	task.26C2291A6A720780.title: "组装火箭！"
+	task.297562703D3FB796.title: "背包"
 	task.2A6C9EADBE00B284.title: "斯巴达武器"
 	task.2B5F0AD1F8198856.title: "资源产出"
 	task.2C63084E1260580F.title: "关于附属模组"
@@ -12903,10 +13383,11 @@
 	task.61BAA1B83AE240E5.title: "矿石开掘"
 	task.638376FA1478BC45.title: "工业平台"
 	task.698190D48C5FE3A3.title: "科技"
+	task.699C8AFFC27CE73E.title: "作物"
 	task.6A817B814C45317A.title: "工具"
 	task.6C1185C9A93FCC66.title: "弓箭相关"
 	task.6DCCEF3B2BC3FABD.title: "触发器"
-	task.75C278D999B4DDBB.title: "开始做菜！"
+	task.733921267A3CE55A.title: "喵喵喵~"
 	task.77A1662A098720EB.title: "制作机器"
 	task.7827E798080E7CB2.title: "魔能核心"
 	task.78C266B334D4B669.title: "金星的原油"

@@ -1,1 +1,9 @@
-{}
+{
+  "itemGroup.kubejs.ccq_player_heads": "Player Heads & Maid Kits",
+  "item.ccq_core.prank_bread": "Suspicious Bread",
+  "effect.ccq_core.meow": "Meow Meow Meow",
+  "item.minecraft.potion.effect.meow": "Potion of Meow",
+  "item.minecraft.splash_potion.effect.meow": "Splash Potion of Meow",
+  "item.minecraft.lingering_potion.effect.meow": "Lingering Potion of Meow",
+  "item.minecraft.tipped_arrow.effect.meow": "Arrow of Meow"
+}

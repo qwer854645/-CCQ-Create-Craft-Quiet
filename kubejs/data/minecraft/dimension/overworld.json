@@ -51246,31 +51246,31 @@
                 {
                     "biome": "terralith:cave/andesite_caves",
                     "parameters": {
-                        "continentalness": [
-                            0.3,
-                            0.6
-                        ],
-                        "depth": [
-                            0.15,
-                            1.2
-                        ],
-                        "erosion": [
-                            -0.25,
-                            1
+                        "temperature": [
+                            -0.55,
+                            0.55
                         ],
                         "humidity": [
                             -1,
                             1
                         ],
-                        "offset": 0.225,
-                        "temperature": [
-                            -0.3,
-                            0.3
+                        "continentalness": [
+                            0.2,
+                            0.75
+                        ],
+                        "erosion": [
+                            -0.5,
+                            1
                         ],
                         "weirdness": [
                             -1,
                             1
-                        ]
+                        ],
+                        "depth": [
+                            0.12,
+                            1.25
+                        ],
+                        "offset": 0.1
                     }
                 },
                 {

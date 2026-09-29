@@ -1,0 +1,14 @@
+#Button position and behavior
+[button]
+	#X offset from right edge
+	# Default: 2
+	# Range: -2000 ~ 2000
+	buttonX = 2
+	#Y offset from top
+	# Default: -69
+	# Range: -2000 ~ 2000
+	buttonY = -69
+	#Moving button left/right also moves panel
+	movePanelX = false
+	#Moving button up/down also moves panel
+	movePanelY = false

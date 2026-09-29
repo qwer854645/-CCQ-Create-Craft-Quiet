@@ -23,7 +23,7 @@ ServerEvents.recipes(event => {
   //末地石粉出矿
   create.crushing(
     [
-        CreateItem.of('northstar:titanium_nugget',0.1), 
+        CreateItem.of('northstar:titanium_nugget',0.01), 
         CreateItem.of('minecraft:lapis_lazuli',0.2)
     ],
     'aeronautics:end_stone_powder'

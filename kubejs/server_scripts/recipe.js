@@ -210,6 +210,24 @@ event.shaped(
     D: "createaddition:copper_wire",
   }).id('ccq_core:electron_tube')
 
+  //存储桥接器：连通 FXNT 与功能抽屉网络
+  event.remove('ccq_core:storage_bridge')
+  event.shaped(
+    'ccq_core:storage_bridge',
+    [
+      'IEI',
+      'FBD',
+      'IEI'
+    ],
+    {
+      I: 'create:brass_sheet',
+      E: 'create:electron_tube',
+      F: 'fxntstorage:storage_interface',
+      B: 'create:brass_casing',
+      D: 'functionalstorage:storage_controller'
+    }
+  ).id('ccq_core:storage_bridge')
+
   //末影人头
   event.shapeless(
     'supplementaries:enderman_head',
@@ -220,16 +238,8 @@ event.shaped(
   ).id('ccq_core:enderman_head')
 
   //飞行戒指
-  event.replaceInput(
-    'create:mechanical_crafting/ascended_flight_ring',
-    'minecraft:nether_star',
-    Ingredient.of('balancedflight:flight_anchor')
-  )
-  event.replaceInput(
-    'create:mechanical_crafting/ascended_flight_ring',
-    'minecraft:elytra',
-    Ingredient.of('create_jetpack:netherite_jetpack')
-  )
+  event.remove('create:mechanical_crafting/ascended_flight_ring')
+  event.remove({output: 'balancedflight:ascended_flight_ring'})
 
   //动力刷石机
   event.replaceInput(
@@ -247,6 +257,19 @@ event.shaped(
       'minecraft:ender_pearl'
     ]
   ).superheated().id('ccq_core:void_steel_ingot')
+
+  //木屑出灰烬
+  event.smelting(
+    'supplementaries:ash',
+    'createdieselgenerators:wood_chip'
+  ).id('ccq_core:wood_chip_to_ash')
+
+  //阴阳引擎
+  event.remove('create_fantasizing:yin_yang_engine')
+
+  //末影链接器
+  event.remove('sophisticatedcore:ender_linker')
+
 //删掉实用物件浇灌器
 //实用物件都删了（
 //event.remove('create_things_and_misc:sprinkler_craft')

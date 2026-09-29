@@ -1,0 +1,74 @@
+{
+	icon: {
+		components: {
+			"minecraft:profile": {
+				id: [I;
+					-1058735035
+					667107644
+					-1360901357
+					48466955
+				]
+				name: "yushu_ouo"
+				properties: [{
+					name: "textures"
+					signature: "Z5hQKoNJ/uGe5EdheEPedvZ385y9zB2O1FZqyAi8niXAEro5nlFGvsuBUonZi63iA5qFnIMZQBlSKpMWitdqUA2K75iUItE0i7tXVPGBfzGpzsv7VAF9i9NtBu91RAAndIC1JdIThXEAfMsqJuIVXA/Rd4B8dZ+TW0S8BIkN/3TUpq//2FUhevdvLWTIl7PSeuswAOdj5vSoZ71cB53oGNCYJnhECf15L5M1dKi1QN9lZhDGP8oFz1nxnPN3Z7fbIQ49hzwuRYMkeeksbwZB4/X4sT3mUBSgTbw7zdWcbL/XDIe5Wmnhoz6Lka1iiSHS2zbR8yXoQ9pBz5fSwVneBNBcBwojBgB4PqoWQFJMQ3ZPIAuF9nod4afr83O2wAbS5Y5L4FYJRayTNqiX/LTuUDKMD7knePjLryHvCA92/SHQEO67B0bMPCMF9R38nhtUX5lTfzKh0uQW3UxXZWHVkmkdLDk9Ho+BQAt+Sd6SOdGN56Y5aP2PVy5osazy059v/PyVMYGMg5c9dPtwMSXfTKjFVnfmbEN8OlZT8whSPTtQ9OHTO9Ts1mJdGuToQBnrL6BmjPNzeEEoCZrBk0BreCQS1P7/EJ1jVtJZPFwkZZ5RmhrgqFutnsPHxY5gpL2kfZBaOHklwuomi/JwiSNrB0K+GluklMB5tCq11EE3IlQ="
+					value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwNTU2NjAyNSwKICAicHJvZmlsZUlkIiA6ICJjMGU0ZmM0NTI3YzM0MTNjYWVlMjRiMTMwMmUzOGMwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXNodV9vdW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkYTg0NTVlYzAxZWJjMWVjN2IxYWIzNmNmZTdjZjcxMTg5NzJmOGNjMDMwZGIyOGQwMmQwMjc0YWI2YzU0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9"
+				}]
+			}
+		}
+		id: "minecraft:player_head"
+	}
+	id: "7449E6F18800520C"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			id: "5331B476C8822273"
+			item: {
+				components: {
+					"minecraft:custom_data": {
+						AllTypeCreative: 1b
+					}
+				}
+				count: 1
+				id: "tacz:ammo_box"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "491753D56962B5A6"
+			item: {
+				count: 1
+				id: "create:creative_motor"
+			}
+			weight: 0.01f
+		}
+		{
+			count: 16
+			id: "566ADC0FB23781CF"
+			item: {
+				count: 1
+				id: "cmr:frozen_cake"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 16
+			id: "78DE308EFA442AEE"
+			item: {
+				count: 1
+				id: "create:blaze_cake"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 64
+			id: "45D7D8EF2B30519A"
+			item: {
+				count: 1
+				id: "minecraft:andesite"
+			}
+			weight: 3.5f
+		}
+	]
+}

@@ -1,0 +1,470 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a70c0000000000a1"
+	group: "09B1E2D6583BAF08"
+	icon: {
+		id: "createbigcannons:cannon_mount"
+	}
+	id: "02A27B9F3889CA72"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["637D679A5F9512C7"]
+			icon: {
+				id: "createbigcannons:cannon_mount"
+			}
+			id: "19E32D8863E89629"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "297755F6C1D345F8"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "00B44891FC84D761"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "0D60761CB4572AD7"
+			tasks: [{
+				id: "7C1BA6FDC9055A4F"
+				item: { count: 1, id: "createbigcannons:cast_iron_ingot" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "485C5B731C48B5CE"
+			tasks: [
+				{
+					id: "1478685D1EADA0A8"
+					item: { count: 1, id: "createbigcannons:basin_foundry_lid" }
+					type: "item"
+				}
+				{
+					id: "7110DF740E7734FB"
+					item: { count: 1, id: "createbigcannons:cannon_builder" }
+					type: "item"
+				}
+				{
+					id: "684378AD329E4F02"
+					item: { count: 1, id: "createbigcannons:cannon_drill" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "05D46B2B3808FF7E"
+			tasks: [
+				{
+					id: "3B9CA4A8B3A108F8"
+					item: { count: 1, id: "createbigcannons:very_small_cast_mould" }
+					type: "item"
+				}
+				{
+					id: "240DC407CEB2A20B"
+					item: { count: 1, id: "createbigcannons:cannon_end_cast_mould" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "7BCF6B65F618B7FD"
+			tasks: [
+				{
+					id: "0ACC076C8865A937"
+					item: { count: 1, id: "createbigcannons:wrought_iron_cannon_end" }
+					type: "item"
+				}
+				{
+					id: "57E2E08ED94319A0"
+					item: { count: 1, id: "createbigcannons:wrought_iron_cannon_chamber" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			id: "11837D68C4DB84A5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FED267FF5FAA224"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "4D3DCC58DA7F1341"
+					item: { count: 1, id: "createbigcannons:cast_iron_cannon_barrel" }
+					type: "item"
+				}
+				{
+					id: "2A7FDC439069D47D"
+					item: { count: 1, id: "createbigcannons:cast_iron_cannon_chamber" }
+					type: "item"
+				}
+				{
+					id: "59250E2B61F1F14F"
+					item: { count: 1, id: "createbigcannons:cast_iron_cannon_end" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "59D855127A6701CE"
+			tasks: [
+				{
+					id: "1BD404E0AB1E1DA5"
+					item: { count: 1, id: "createbigcannons:ram_head" }
+					type: "item"
+				}
+				{
+					id: "5D30850F8B119BA9"
+					item: { count: 1, id: "createbigcannons:worm_head" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			id: "261EA7636F9AD379"
+			tasks: [{
+				id: "0CEBADF509CE6275"
+				item: { count: 1, id: "createbigcannons:cannon_loader" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			id: "2C90F53A17601A6A"
+			tasks: [
+				{
+					id: "28E8F9FB3808FC73"
+					item: { count: 1, id: "createbigcannons:powder_charge" }
+					type: "item"
+				}
+				{
+					id: "5F041DF62972CF3A"
+					item: { count: 1, id: "createbigcannons:solid_shot" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			id: "05E408C5F838AA23"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7459D870FD60B679"
+				table_id: 4474537204862423356L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "5C9A661FF4C4B957"
+					item: { count: 1, id: "createbigcannons:he_shell" }
+					type: "item"
+				}
+				{
+					id: "1DED00883E2EB726"
+					item: { count: 1, id: "createbigcannons:impact_fuze" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			id: "2B8B14D6BCC38DF5"
+			tasks: [{
+				id: "5A180E27691606C5"
+				item: { count: 1, id: "createbigcannons:cast_iron_sliding_breech" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			id: "38E31F48FE31DA44"
+			tasks: [
+				{
+					id: "5AE2F8EEAF5D8204"
+					item: { count: 1, id: "createbigcannons:quickfiring_mechanism" }
+					type: "item"
+				}
+				{
+					id: "4D465A2B0D8619CD"
+					item: { count: 1, id: "createbigcannons:cast_iron_quickfiring_breech" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			id: "188FEF213379E42D"
+			tasks: [{
+				id: "47C16AE8BB1E1E3B"
+				item: { count: 1, id: "createbigcannons:bronze_ingot" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			id: "409C7898695130BF"
+			tasks: [{
+				id: "52E29CB677D3982D"
+				item: { count: 1, id: "createbigcannons:bronze_cannon_barrel" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3D3395F152E89710"]
+			id: "5339A8E5CBC95D22"
+			tasks: [{
+				id: "6B0EADAE9696B6E5"
+				item: { count: 1, id: "createnuclear:steel_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "473466CB1E120270"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "189636E5123D7923"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1634E81CD6180DF4"
+				item: { count: 1, id: "createbigcannons:steel_cannon_barrel" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			id: "6C50FF006409D509"
+			tasks: [{
+				id: "2AF8AD0D5D18CE0E"
+				item: { count: 1, id: "createbigcannons:nethersteel_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			id: "24E0520D83603362"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08183523E8BD2826"
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7A3BF396F0B23641"
+				item: { count: 1, id: "createbigcannons:nethersteel_cannon_barrel" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			id: "1345F25CE94ABBDA"
+			tasks: [
+				{
+					id: "2A5BBEC2DFDDA3EA"
+					item: { count: 1, id: "createbigcannons:cannon_mount" }
+					type: "item"
+				}
+				{
+					id: "552FF804FCBF4023"
+					item: { count: 1, id: "createbigcannons:cannon_carriage" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "124F495F79812E75"
+			tasks: [{
+				id: "5327D5261B03230B"
+				item: { count: 1, id: "createbigcannons:cannon_welder" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "3882B85D1456514B"
+			tasks: [
+				{
+					id: "27D2D1D5536FD0CC"
+					item: { count: 1, id: "createbigcannons:cast_iron_autocannon_barrel" }
+					type: "item"
+				}
+				{
+					id: "1D7499C13106169B"
+					item: { count: 1, id: "createbigcannons:cast_iron_autocannon_breech" }
+					type: "item"
+				}
+				{
+					id: "3486E0BFF5CF9B40"
+					item: { count: 1, id: "createbigcannons:cast_iron_autocannon_recoil_spring" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "5D1E376996F7E1F1"
+			tasks: [
+				{
+					id: "68DFC7D5263D522A"
+					item: { count: 1, id: "createbigcannons:ap_autocannon_round" }
+					type: "item"
+				}
+				{
+					id: "253818522D69FC21"
+					item: { count: 1, id: "createbigcannons:autocannon_ammo_container" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			id: "72984BE584FED7EE"
+			tasks: [
+				{
+					id: "58504847271B429F"
+					item: { count: 1, id: "createbigcannons:wrought_iron_drop_mortar_end" }
+					type: "item"
+				}
+				{
+					id: "4089F0384CC30FC8"
+					item: { count: 1, id: "createbigcannons:drop_mortar_shell" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "4D7D2907731F2E8A"
+			tasks: [
+				{
+					id: "5A6E4CD402B19D1A"
+					item: { count: 1, id: "createbigcannons:timed_fuze" }
+					type: "item"
+				}
+				{
+					id: "6E77D4BB843D1BF1"
+					item: { count: 1, id: "createbigcannons:proximity_fuze" }
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			id: "10B28FBBA6A52023"
+			tasks: [{
+				id: "7D1C9415EB624190"
+				item: { count: 1, id: "createbigcannons:gas_mask" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "270F19F135939C43"
+			tasks: [{
+				id: "49B51A081B30CD4D"
+				item: { count: 1, id: "cbc_enhanced_shells:he_shell_mk1" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			id: "54BCD5D884901F3B"
+			tasks: [
+				{
+					id: "4CC9662355C8B10C"
+					item: { count: 1, id: "cbc_enhanced_shells:rocket_base" }
+					type: "item"
+				}
+				{
+					id: "385BABE489E6E8AE"
+					item: { count: 1, id: "cbc_enhanced_shells:rocket_fuselage" }
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 1.5d
+		}
+		{
+			id: "1CBC63D6B4134EF5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "277330768D93CD44"
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "71B684C87B809CE8"
+					item: { count: 1, id: "cbc_enhanced_shells:missile_mount" }
+					type: "item"
+				}
+				{
+					id: "2A0A9A0B05CD2B7B"
+					item: { count: 1, id: "cbc_enhanced_shells:target_designator" }
+					type: "item"
+				}
+				{
+					id: "29F8A11281B6C697"
+					item: { count: 1, id: "cbc_enhanced_shells:guided_nose_cone" }
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 1.5d
+		}
+		{
+			id: "4112C74CFF640038"
+			tasks: [{
+				id: "44830A4106FE716E"
+				item: { count: 1, id: "create_radar:fire_controller" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+	]
+}

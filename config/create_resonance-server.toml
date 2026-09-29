@@ -1,0 +1,35 @@
+	#.
+	#Mechanical stress impacts and capacities for Webdisc blocks
+	[stressValues.v1]
+
+		#.
+		#.
+		#[in Stress Units]
+		#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+		#Valid range: 0.0 - 1024.0
+		[stressValues.v1.impact]
+			#Default: 1.0 SU
+			# Default: 1.0
+			# Range: 0.0 ~ 1024.0
+			kinetic_music_box = 1.0
+			#Default: 1.0 SU
+			# Default: 1.0
+			# Range: 0.0 ~ 1024.0
+			kinetic_network_jukebox = 1.0
+			#Default: 2.0 SU
+			# Default: 2.0
+			# Range: 0.0 ~ 1024.0
+			midi_table = 2.0
+			#Default: 1.0 SU
+			# Default: 1.0
+			# Range: 0.0 ~ 1024.0
+			music_conductor = 1.0
+
+		#.
+		#Configuration for the Andesite Jukebox block
+		[stressValues.v1.jukeboxes]
+			#.
+			#Maximum sound range (in blocks) for the record player / Andesite Jukebox.
+			# Default: 64
+			# Range: 5 ~ 4095
+			maxSoundRange = 64

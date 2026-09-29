@@ -1,12 +1,12 @@
 {
-    "gui.charmofundying.config.xOffset.description": "在玩家身上渲染图腾的水平偏移.",
-    "gui.charmofundying.config.xOffset.name": "水平渲染偏移",
-    "gui.charmofundying.config.renderTotem.description": "如果启用,将在玩家身上渲染已装备的图腾.",
-    "gui.charmofundying.config.renderTotem.name": "渲染已装备图腾",
-    "trinkets.slot.charm.charm": "护符",
-    "gui.charmofundying.config.yOffset.name": "垂直渲染偏移",
-    "gui.charmofundying.config.yOffset.description": "在玩家身上渲染图腾的垂直偏移.",
-    "gui.charmofundying.config.zOffset.name": "Z轴渲染偏移",
-    "gui.charmofundying.config.zOffset.description": "渲染玩家图腾时的z轴偏移量.",
-    "charmofundying.networking.failed": "不朽魅力网络故障"
+  "charmofundying.networking.failed": "Charm of Undying Network Failure",
+  "gui.charmofundying.config.renderTotem.description": "If enabled, renders the equipped totem on players.",
+  "gui.charmofundying.config.renderTotem.name": "Render equipped totem",
+  "gui.charmofundying.config.xOffset.description": "The horizontal offset for rendering the totem on the player.",
+  "gui.charmofundying.config.xOffset.name": "Horizontal rendering offset",
+  "gui.charmofundying.config.yOffset.description": "The vertical offset for rendering the totem on the player.",
+  "gui.charmofundying.config.yOffset.name": "Vertical rendering offset",
+  "gui.charmofundying.config.zOffset.description": "The z-axis offset for rendering the totem on the player.",
+  "gui.charmofundying.config.zOffset.name": "Z-Axis rendering offset",
+  "trinkets.slot.charm.charm": "Charm"
 }

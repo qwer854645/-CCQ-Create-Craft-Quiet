@@ -1,0 +1,16 @@
+{
+  "colorfulhearts.options.button.absorption_colors": "Поглощение",
+  "colorfulhearts.options.button.cancel": "Отмена",
+  "colorfulhearts.options.button.confirmsave": "Сохранить и выйти",
+  "colorfulhearts.options.button.health_colors": "Здоровье",
+  "colorfulhearts.options.button.hearttype.frozen": "Замороженный",
+  "colorfulhearts.options.button.hearttype.normal": "Нормальный",
+  "colorfulhearts.options.button.hearttype.poisoned": "Отравленный",
+  "colorfulhearts.options.button.hearttype.withered": "Иссушеный",
+  "colorfulhearts.options.button.vanillaheart.false": "Стандартный: Выключен",
+  "colorfulhearts.options.button.vanillaheart.true": "Стандартный: Включен",
+  "colorfulhearts.screen.absorption.title": "Поглощение Цвета",
+  "colorfulhearts.screen.configuration.colors.category": "Цвета",
+  "colorfulhearts.screen.configuration.title": "Красочные Cердца",
+  "colorfulhearts.screen.health.title": "Цвета Сердец"
+}

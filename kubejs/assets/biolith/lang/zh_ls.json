@@ -1,0 +1,21 @@
+{
+  "biolith.command.describe.biome.moderner_beta": "莫德勒尔 布塔 比穆: ",
+  "biolith.command.describe.biome.nearest": "恩伊尔厄斯特: ",
+  "biolith.command.describe.biome.none": "(南)",
+  "biolith.command.describe.biome.replacement": "勒普拉色门特 比穆: ",
+  "biolith.command.describe.biome.scale": "斯克阿勒",
+  "biolith.command.describe.biome.sub": "苏布-比穆 色尔克特德: ",
+  "biolith.command.describe.biome.terrablender": "特尔拉布勒德尔 比穆: ",
+  "biolith.command.describe.biome.vanilla": "弗安伊尔拉/达塔 比穆: ",
+  "biolith.command.describe.header": "比穆 弗阿卢伊",
+  "biolith.command.describe.nonPlayer": "克阿尔尔尔 伊兹 恩-普莱尔; 普尔伊色 普罗韦德 安 恩提提 欧尔 波兹雄.",
+  "biolith.command.describe.notOurs": "塔尔杰特 迪门之恩 伊兹 诺特 莫迪弗伊 拜 比里斯.",
+  "biolith.command.help": "科曼德 欧普雄斯:\n  §9/比里斯 赫尔普§r - 比里斯 科曼德 因福\n  §9/比里斯 德斯克伊布§r - 比穆 安德 恩诶兹 因福",
+  "biolith.command.help.describe": "§9/比里斯 德斯克伊布 [艾特 (<entity>|<position>)]§r - 伊佛尔马石恩 阿鲍特 恩诶兹 安德 比穆 色尔克石恩",
+  "biolith.command.help.missing": "§e泽尔 伊兹 诺 赫尔普 佛尔 泽 斯普斯弗伊 科曼德.",
+  "biolith.command.hint": "§6(特尔伊 \"§9/比里斯 赫尔普§6\" 佛尔 科曼德 因福...)",
+  "biolith.world.minecraft.overworld": "欧弗厄尔沃尔尔德",
+  "biolith.world.minecraft.the_end": "泽 恩德",
+  "biolith.world.minecraft.the_nether": "泽 奈瑟",
+  "modmenu.descriptionTranslation.biolith": "特尔拉佛尔穆尔兹' 沃尔德 杰讷拉石恩 乌提里特伊"
+}

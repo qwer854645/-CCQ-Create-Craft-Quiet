@@ -1,0 +1,14 @@
+{
+  "argument.flywheel_backend.id.unknown": "安诺恩 巴克恩德 '%s'",
+  "command.flywheel.backend.get": "泽 克乌尔勒特 弗尔伊乌伊尔 巴克恩德 伊兹 '%s'",
+  "command.flywheel.backend.set": "泽 弗尔伊乌伊尔 巴克恩德 伊兹 恩奥 '%s'",
+  "command.flywheel.backend.set.unavailable": "泽 热克斯特德 巴克恩德 '%s' 伊兹 诺特 阿弗诶尔诶布",
+  "command.flywheel.limit_updates.get.off": "乌普得特 里米特伊鞥 伊兹 克乌尔勒特里 迪塞布尔德",
+  "command.flywheel.limit_updates.get.on": "乌普得特 里米特伊鞥 伊兹 克乌尔勒特里 伊内布尔德",
+  "command.flywheel.limit_updates.set.off": "乌普得特 里米特伊鞥 伊兹 恩奥 迪塞布尔德",
+  "command.flywheel.limit_updates.set.on": "乌普得特 里米特伊鞥 伊兹 恩奥 伊内布尔德",
+  "command.flywheel.use_light_directions.get.off": "诺特 尤辛 莱特 戴尔克提兹",
+  "command.flywheel.use_light_directions.get.on": "尤辛 莱特 戴尔克提兹",
+  "command.flywheel.use_light_directions.set.off": "赛特 莱特 戴尔克提兹 图 奥夫",
+  "command.flywheel.use_light_directions.set.on": "赛特 莱特 戴尔克提兹 图 昂"
+}

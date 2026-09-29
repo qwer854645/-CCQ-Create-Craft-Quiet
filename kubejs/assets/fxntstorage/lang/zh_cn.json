@@ -1,0 +1,9 @@
+{
+  "itemGroup.fxntstorage.create": "机械动力：FXNT 存储",
+  "itemGroup.fxntstorage.main": "机械动力：存储",
+  "item_group.fxntstorage.create_storage": "机械动力：存储",
+  "fxntstorage.ponder.tag.storage": "机械动力：存储",
+  "fxntstorage.ponder.tag.storage.description": "与机械动力：存储相关的物品和组件",
+  "hotKey.fxntstorage.category": "机械动力：存储",
+  "config.jade.plugin_fxntstorage.oak_simple_storage_box": "简易储物箱"
+}

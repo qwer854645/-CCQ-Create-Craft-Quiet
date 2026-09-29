@@ -4,7 +4,7 @@
 	}
 	id: "29C97F550C5FDEBA"
 	loot_size: 1
-	order_index: 1
+	order_index: 0
 	rewards: [
 		{
 			id: "6D707AF3FEC1D8D1"

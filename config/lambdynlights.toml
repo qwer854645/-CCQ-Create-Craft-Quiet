@@ -162,6 +162,14 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.farmersdelight]
 				rotten_tomato = true
 
+			[light_sources.settings.entities.net_music_list]
+				music_player = true
+
+			[light_sources.settings.entities.createnuclear]
+				irradiated_wolf = true
+				irradiated_cat = true
+				irradiated_chicken = true
+
 			[light_sources.settings.entities.create_things_and_misc]
 				blaze_ballon_fire_projectile = true
 				spout_gun_slime_projectile = true
@@ -174,8 +182,168 @@ chunk_rebuild_scheduler = "culling"
 				spout_gun_honey_projectile = true
 				balloon_blaze = true
 
+			[light_sources.settings.entities.createbigcannons]
+				smoke_emitter = true
+				drop_mortar_shell = true
+				ap_shot = true
+				primed_propellant = true
+				smoke_shell = true
+				cannon_carriage = true
+				gas_cloud = true
+				pitch_contraption = true
+				traffic_cone = true
+				flak_autocannon = true
+				ap_shell = true
+				shot = true
+				ap_autocannon = true
+				shrapnel_burst = true
+				fluid_blob_burst = true
+				fluid_shell = true
+				flak_burst = true
+				shrapnel_shell = true
+				mortar_stone = true
+				grapeshot_burst = true
+				machine_gun_bullet = true
+				bag_of_grapeshot = true
+				he_shell = true
+
+			[light_sources.settings.entities.createnetherindustry]
+				lava_speedboat = true
+
+			[light_sources.settings.entities.gunsmithlib]
+				area_effect_cloud_3d = true
+				magic_laser = true
+				rangefinder_marker = true
+
+			[light_sources.settings.entities.create_aeronautics_throwable_rope_connector]
+				mounted_rope_launcher_seat = true
+				throwable_rope_connector = true
+
+			[light_sources.settings.entities.bits_n_bobs]
+				inert_stationary_contraption = true
+
+			[light_sources.settings.entities.aeronautics]
+				propeller_bearing_contraption = true
+				gust = true
+
+			[light_sources.settings.entities.tacz]
+				target_minecart = true
+				bullet = true
+
+			[light_sources.settings.entities.create_mobile_packages]
+				robo_bee = true
+
+			[light_sources.settings.entities.createadditionallogistics]
+				custom_seat = true
+
+			[light_sources.settings.entities.touhou_little_maid]
+				throw_power_point = true
+				tombstone = true
+				chair = true
+				broom = true
+				danmaku = true
+				extinguishing_agent = true
+				box = true
+				power_point = true
+				maid = true
+				fairy = true
+				fishing_hook = true
+				sit = true
+
+			[light_sources.settings.entities.create]
+				seat = true
+				carriage_contraption = true
+				stationary_contraption = true
+				package = true
+				contraption = true
+				gantry_contraption = true
+				super_glue = true
+				crafting_blueprint = true
+				potato_projectile = true
+
+			[light_sources.settings.entities.quark]
+				dyed_item_frame = true
+				quark_boat = true
+				stool = true
+				skull_pike = true
+				parrot_egg = true
+				gravisand = true
+				toretoise = true
+				foxhound = true
+				stoneling = true
+				torch_arrow = true
+				wraith = true
+				shiba = true
+				totem = true
+				forgotten = true
+				glass_frame = true
+				quark_chest_boat = true
+				crab = true
+				flamerang = true
+				soul_bead = true
+				pickarang = true
+
+			[light_sources.settings.entities.mynethersdelight]
+				strider_rock = true
+
+			[light_sources.settings.entities.kaleidoscope_tavern]
+				thrown_molotov = true
+				sit = true
+
+			[light_sources.settings.entities.create_sa]
+				vault_module = true
+				drill_module = true
+				flamethrower_pr = true
+				lifted_block = true
+				fan_module = true
+				brass_cube_r = true
+				flamethrower_pr_2 = true
+				magnet_module = true
+				brass_drone = true
+
+			[light_sources.settings.entities.expandeddelight]
+				cinnamon_boat = true
+				cinnamon_chest_boat = true
+
+			[light_sources.settings.entities.maid_restaurant]
+				sit_entity = true
+
+			[light_sources.settings.entities.eternalnether]
+				wither_skeleton_horse = true
+				wraither = true
+				piglin_hunter = true
+				warped_ender_pearl = true
+				piglin_prisoner = true
+				wither_skeleton_knight = true
+				wex = true
+				corpor = true
+				warped_enderman = true
+
+			[light_sources.settings.entities.northstar]
+				mars_toad = true
+				mars_moth = true
+				venus_mimic = true
+				mercury_raptor = true
+				frozen_zombie = true
+				moon_snail = true
+				mercury_roach = true
+				mercury_tortoise = true
+				mars_cobra = true
+				venus_scorpion = true
+				venus_vulture = true
+				lunargrade_spit = true
+				venus_scorpion_spit = true
+				moon_eel = true
+				mars_worm = true
+				rocket_contraption = true
+				venus_stone_bull = true
+				moon_lunargrade = true
+
 			[light_sources.settings.entities.create_confectionery]
 				little_gingerbread_man = true
+
+			[light_sources.settings.entities.create_bic_bit]
+				herring = true
 
 			[light_sources.settings.entities.sophisticatedbackpacks]
 				everlasting_backpack_item = true
@@ -183,13 +351,160 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
 
+			[light_sources.settings.entities.spartan_weaponry_unofficial]
+				explosive_arrow = true
+				dynamite = true
+				javelin = true
+				arrow = true
+				throwing_knife = true
+				bolt = true
+				throwing_weapon = true
+				spectral_bolt = true
+				tomahawk = true
+				boomerang = true
+
+			[light_sources.settings.entities.simulated]
+				launched_plunger = true
+				honey_glue = true
+				contraption_diagram = true
+
+			[light_sources.settings.entities.cbc_ballistics]
+				detecting_projectile = true
+
 			[light_sources.settings.entities.createdieselgenerators]
 				chemical_sprayer_projectile = true
+
+			[light_sources.settings.entities.cbcmoreshells]
+				antiair_shrapnel_burst = true
+				shelless_sap_shell = true
+				ultraspeed_torpedo = true
+				medium_range_deepwater_torpedo_typeb = true
+				he_loitering_rocket = true
+				normal_ap_shot = true
+				shelless_ap_shot = true
+				airdropped_shrapnel_torpedo = true
+				torpedo_burst = true
+				incendiary_he_shell = true
+				normal_antiair_he_shell = true
+				baguette_shot = true
+				medium_range_torpedo_typeb = true
+				reinforced_short_range_torpedo = true
+				slow_long_range_torpedo = true
+				aphe_bouncing_bomb = true
+				racked_torpedo = true
+				reinforced_reductive_medium_range_torpedo = true
+				dual_he_rocket = true
+				long_range_torpedo = true
+				medium_range_torpedo = true
+				reductive_highspeed_torpedo = true
+				aphe_bomb = true
+				antiair_machine_gun_bullet = true
+				normal_he_shell = true
+				he_rocket = true
+				baked_apfsds_shot = true
+				depth_charge = true
+				he_cannon_rocket = true
+				aphe_rocket = true
+				reductive_medium_range_torpedo = true
+				shelless_he_shell = true
+				long_range_shrapnel_torpedo = true
+				apfsds_shot = true
+				highspeed_torpedo = true
+				inferior_he_shell = true
+				normal_apbc_shell = true
+				apbc_shell = true
+				primary_torpedo = true
+				medium_range_deepwater_torpedo = true
+				reinforced_long_range_torpedo = true
+				highspeed_long_range_torpedo = true
+				deepwater_shrapnel_torpedo = true
+				he_bouncing_bomb = true
+				extended_antiair_he_shell = true
+				early_torpedo = true
+				reductive_long_range_torpedo = true
+				antiair_he_shell = true
+				extended_ap_shot = true
+				light_high_speed_torpedo = true
+				normal_incendiary_he_shell = true
+				ap_super_heavy_shot = true
+				reinforced_medium_range_torpedo = true
+				normal_ap_shell = true
+				apbc_shot = true
+				cannon_torpedo = true
+				antiair_shrapnel_shell = true
+				hesh_shell = true
+				shelless_incendiary_he_shell = true
+				sharpnel_torpedo = true
+				dual_aphe_rocket = true
+				he_bomb = true
+				normal_sap_shell = true
+				gambler_medium_range_torpedo = true
+				aphe_cannon_rocket = true
+				short_range_torpedo = true
+				sap_shell = true
+				aphe_loitering_rocket = true
+				reinforced_reductive_short_range_torpedo = true
+				airdropped_torpedo = true
 
 			[light_sources.settings.entities.railways]
 				conductor = true
 				benchcart = true
 				jukeboxcart = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				follow_proj = true
+				an_lightning = true
+				bookwyrm = true
+				arcing_spell_proj = true
+				scryer_camera = true
+				spike = true
+				wilden_boss = true
+				dummy = true
+				animated_block = true
+				enchanted_head_block = true
+				spell_arrow = true
+				animated_head = true
+				orbit = true
+				cinder = true
+				cascading_weald_walker = true
+				starbuncle = true
+				ritual = true
+				archwood_boat = true
+				flying_item = true
+				summon_horse = true
+				blazing_weald_walker = true
+				spell_proj = true
+				gift_starby = true
+				enchanted_mage_block = true
+				ice_shard = true
+				wilden_stalker = true
+				summon_wolf = true
+				familiar_drygmy = true
+				wixie = true
+				familiar_starbuncle = true
+				homing_spell_proj = true
+				summon_skeleton = true
+				wilden_guardian = true
+				enchanters_hook = true
+				familiar_bookwyrm = true
+				amethyst_golem = true
+				bubble = true
+				enchanted_falling_block = true
+				familiar_amethyst_golem = true
+				linger = true
+				alakarkinos = true
+				drygmy = true
+				nook = true
+				whirlisprig = true
+				wilden_hunter = true
+				fangs = true
+				ally_vex = true
+				lily = true
+				flourishing_weald_walker = true
+				familiar_whirlisprig = true
+				wall = true
+				familiar_wixie = true
+				vexing_weald_walker = true
 
 			[light_sources.settings.entities.exposure]
 				glass_photograph_frame = true
@@ -199,6 +514,14 @@ chunk_rebuild_scheduler = "culling"
 			[light_sources.settings.entities.createfisheryindustry]
 				tethered_harpoon = true
 				harpoon = true
+
+			[light_sources.settings.entities.addon_gancho]
+				connector = true
+
+			[light_sources.settings.entities.kaleidoscope_cookery]
+				throwable_baozi = true
+				scarecrow = true
+				sit = true
 
 			[light_sources.settings.entities.supplementaries]
 				dispenser_minecart = true
@@ -217,23 +540,100 @@ chunk_rebuild_scheduler = "culling"
 				rope_arrow = true
 				slimeball_projectile = true
 
-			[light_sources.settings.entities.create]
-				seat = true
-				carriage_contraption = true
-				stationary_contraption = true
-				package = true
-				contraption = true
-				gantry_contraption = true
-				super_glue = true
-				crafting_blueprint = true
-				potato_projectile = true
+			[light_sources.settings.entities.offroad]
+				borehead_contraption_entity = true
 
-			[light_sources.settings.entities.mynethersdelight]
-				strider_rock = true
-
-			[light_sources.settings.entities.expandeddelight]
-				cinnamon_boat = true
-				cinnamon_chest_boat = true
+			[light_sources.settings.entities.cbc_enhanced_shells]
+				gravitational_shell_mk2 = true
+				gravitational_shell_mk1 = true
+				mortar_stone_mk2 = true
+				gravitational_shell_mk5 = true
+				mortar_stone_mk3 = true
+				gravitational_shell_mk4 = true
+				mortar_stone_mk4 = true
+				nuke_shell_mk2 = true
+				gravitational_shell_mk3 = true
+				mortar_stone_mk5 = true
+				rocket = true
+				disintegration_shell_mk1 = true
+				disintegration_shell_mk3 = true
+				disintegration_shell_mk2 = true
+				disintegration_shell_mk5 = true
+				disintegration_shell_mk4 = true
+				cluster_shell_mk1 = true
+				he_shell_mk5 = true
+				he_shell_mk3 = true
+				he_shell_mk4 = true
+				mortar_stone_mk1 = true
+				he_shell_mk1 = true
+				he_shell_mk2 = true
+				ap_shell_mk3 = true
+				singularity_shell_mk4 = true
+				ap_shell_mk4 = true
+				drop_mortar_shell_mk5 = true
+				singularity_shell_mk3 = true
+				ap_shell_mk1 = true
+				drop_mortar_shell_mk4 = true
+				singularity_shell_mk2 = true
+				ap_shell_mk2 = true
+				drop_mortar_shell_mk3 = true
+				singularity_shell_mk1 = true
+				drop_mortar_shell_mk2 = true
+				drop_mortar_shell_mk1 = true
+				shrapnel_shell_mk1 = true
+				shrapnel_shell_mk2 = true
+				ap_shell_mk5 = true
+				bag_of_grapeshot_mk5 = true
+				h_bomb_mini_shell = true
+				shrapnel_shell_mk5 = true
+				shrapnel_shell_mk3 = true
+				shrapnel_shell_mk4 = true
+				bag_of_grapeshot_mk1 = true
+				bag_of_grapeshot_mk2 = true
+				bag_of_grapeshot_mk3 = true
+				bag_of_grapeshot_mk4 = true
+				nuke_shell = true
+				plasma_shell_mk4 = true
+				plasma_shell_mk5 = true
+				plasma_shell_mk2 = true
+				plasma_shell_mk3 = true
+				ap_shot_mk2 = true
+				solid_shot_mk5 = true
+				ap_shot_mk1 = true
+				solid_shot_mk3 = true
+				solid_shot_mk4 = true
+				shell_holder_mk4 = true
+				solid_shot_mk1 = true
+				plasma_shell_mk1 = true
+				shell_holder_mk5 = true
+				solid_shot_mk2 = true
+				shell_holder_mk2 = true
+				shell_holder_mk3 = true
+				shell_holder_mk1 = true
+				bunker_buster_shell_mk5 = true
+				bunker_buster_shell_mk4 = true
+				bunker_buster_shell_mk3 = true
+				bunker_buster_shell_mk2 = true
+				bunker_buster_shell_mk1 = true
+				singularity_shell_mk5 = true
+				cluster_shell_mk2 = true
+				cluster_shell_mk3 = true
+				cluster_shell_mk4 = true
+				cluster_shell_mk5 = true
+				vortex_shell_mk2 = true
+				vortex_shell_mk3 = true
+				vortex_shell_mk4 = true
+				vortex_shell_mk5 = true
+				smoke_shell_mk3 = true
+				ap_shot_mk5 = true
+				smoke_shell_mk4 = true
+				ap_shot_mk4 = true
+				smoke_shell_mk1 = true
+				ap_shot_mk3 = true
+				smoke_shell_mk2 = true
+				vortex_shell_mk1 = true
+				smoke_shell_mk5 = true
+				h_bomb_shell = true
 
 [debug]
 	active_dynamic_lighting_cells = false

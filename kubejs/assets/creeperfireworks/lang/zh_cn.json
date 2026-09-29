@@ -1,0 +1,23 @@
+{
+  "creeperfireworks.configuration.colors.description": "烟花中使用的颜色。需要十六进制格式的颜色。",
+  "creeperfireworks.configuration.colors.name": "烟花颜色",
+  "creeperfireworks.configuration.disableblockdamage.description": "设置为 true/开启以禁用爬行者爆炸造成的方块破坏。",
+  "creeperfireworks.configuration.disableblockdamage.name": "禁用方块伤害",
+  "creeperfireworks.configuration.disableitemdamage.description": "设置为 true/开启以禁用苦力怕爆炸时掉落物品的伤害。",
+  "creeperfireworks.configuration.disableitemdamage.name": "禁用物品损坏",
+  "creeperfireworks.configuration.fireworkschance.description": "爬行者爆炸后有烟花的几率。",
+  "creeperfireworks.configuration.fireworkschance.name": "烟花机会",
+  "creeperfireworks.configuration.fireworksflicker.description": "作为与我的世界烟花相关的设置，烟花闪烁。",
+  "creeperfireworks.configuration.fireworksflicker.name": "烟花闪烁",
+  "creeperfireworks.configuration.fireworksheight.description": "烟花在攀爬植物上方的爆炸高度。",
+  "creeperfireworks.configuration.fireworksheight.name": "烟花高度",
+  "creeperfireworks.configuration.fireworksshape.description": "烟花形状设置及其与《我的世界》烟花的关系。",
+  "creeperfireworks.configuration.fireworksshape.name": "烟花形状",
+  "creeperfireworks.configuration.fireworkstrail.description": "烟花尾迹设置与《Minecraft》烟花相关。",
+  "creeperfireworks.configuration.fireworkstrail.name": "烟花轨迹",
+  "creeperfireworks.configuration.general.description": "该模组中所有爬行者世界交互功能的配置。",
+  "creeperfireworks.configuration.general.name": "常规设置",
+  "creeperfireworks.configuration.title": "爬行者烟花",
+  "creeperfireworks.configuration.visuals.description": "与爬行者爆炸时烟花渲染相关的所有设置。",
+  "creeperfireworks.configuration.visuals.name": "渲染设置"
+}

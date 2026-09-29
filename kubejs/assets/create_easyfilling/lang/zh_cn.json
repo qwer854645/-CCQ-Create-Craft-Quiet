@@ -1,0 +1,6 @@
+{
+  "tooltip.create_easyfilling.restart_required": "通过配置更改容量需要重启 Minecraft。",
+  "tooltip.create_easyfilling.spout.lava": "放在喷口下以装满熔岩。",
+  "tooltip.create_easyfilling.spout.water": "放在水龙头下接水。",
+  "tooltip.create_easyfilling.spout_header": "也可以通过嘴部重新注满"
+}

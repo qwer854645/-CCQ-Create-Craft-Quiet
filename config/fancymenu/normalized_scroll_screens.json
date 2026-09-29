@@ -1,3 +1,5 @@
 {
-  "title_screen": false
+  "create_world_screen": false,
+  "title_screen": false,
+  "sound_options_screen": false
 }

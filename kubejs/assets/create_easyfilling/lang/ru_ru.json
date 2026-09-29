@@ -1,0 +1,6 @@
+{
+  "tooltip.create_easyfilling.restart_required": "Изменение емкости через конфигурацию требует перезапуска Minecraft.",
+  "tooltip.create_easyfilling.spout.lava": "Поместите под носик, чтобы наполнить его лавой.",
+  "tooltip.create_easyfilling.spout.water": "Поместите под носик для наполнения водой.",
+  "tooltip.create_easyfilling.spout_header": "Также можно пополнять через носик."
+}

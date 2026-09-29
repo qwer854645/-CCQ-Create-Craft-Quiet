@@ -1,0 +1,7 @@
+{
+  "electroenergetics.gui.goggles.current_generation": "当前发电：",
+  "electroenergetics.nodes.carry_in": "进位输入",
+  "electroenergetics.nodes.carry_out": "进位输出",
+  "itemGroup.electroenergetics": "机械动力：电气工程",
+  "electroenergetics.hint.placeable_in_electrical_panel": "§8§o可放入电气面板"
+}

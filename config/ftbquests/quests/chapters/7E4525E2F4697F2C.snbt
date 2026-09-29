@@ -1,12 +1,13 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "7E4525E2F4697F2C"
+	filename: "7e4525e2f4697f2c"
 	group: "40D9AA552FD9F863"
 	icon: {
 		id: "northstar:telescope"
 	}
 	id: "7E4525E2F4697F2C"
+	images: [ ]
 	order_index: 5
 	quest_links: [ ]
 	quests: [
@@ -65,8 +66,8 @@
 			]
 			id: "511E577C7FADFABA"
 			tasks: [{
-				id: "4237A8C53487CBC9"
-				item: { count: 1, id: "northstar:star_map" }
+				id: "72F97775BEEF085E"
+				item: { count: 1, id: "northstar:space_atlas" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -139,6 +140,7 @@
 		}
 		{
 			dependencies: ["731124644169310C"]
+			dependency_requirement: "all_started"
 			id: "786BAC54D522E026"
 			tasks: [{
 				id: "72F99CF8FABBF650"
@@ -268,7 +270,7 @@
 			id: "1D820A26875A479F"
 			tasks: [{
 				id: "28C7A9F4E2A08B83"
-				item: { count: 1, id: "northstar:polished_amethyst" }
+				item: { count: 1, id: "createvoidway:polished_amethyst" }
 				type: "item"
 			}]
 			x: -13.5d
@@ -352,7 +354,7 @@
 			id: "568DB57BB663F6D1"
 			tasks: [{
 				id: "38142C56EE0521C5"
-				item: { count: 1, id: "northstar:jet_engine" }
+				item: { count: 1, id: "northstar:rocket_thruster" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -479,7 +481,6 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "2C70DCF0A9DA85E1"
-				table_id: 7750470488300715103L
 				type: "loot"
 			}]
 			tasks: [{
@@ -655,7 +656,7 @@
 			id: "7CB6118034A1F83C"
 			tasks: [{
 				id: "0D9A9035077EE87B"
-				item: { count: 1, id: "northstar:martian_steel" }
+				item: { count: 1, id: "northstar:martian_steel_ingot" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -690,6 +691,17 @@
 			}]
 			x: -2.5d
 			y: 8.0d
+		}
+		{
+			dependencies: ["12D484260673511E"]
+			id: "2C86A2ED9CD8B559"
+			tasks: [{
+				id: "7A46976E6276E9F5"
+				item: { count: 1, id: "northstar:raw_titanium_ore" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.0d
 		}
 	]
 }

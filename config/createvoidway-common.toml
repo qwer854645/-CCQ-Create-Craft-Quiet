@@ -35,7 +35,7 @@ voidBatteryStressBase = 256
 # Default: 8192
 # Range: 0 ~ 1000000
 voidBatteryStressAtFullChannel = 8192
-#Void transfer fluid drained per tick while a void battery is operating.
+#Void transfer fluid drained per tick while a void battery is operating with fluid.
 # Default: 1
 # Range: 0 ~ 10000
 voidBatteryTransferFluidDrainMbPerTick = 1
@@ -115,3 +115,22 @@ portableVoidTerminalTeleportFluidCostMb = 4000
 # Default: 20
 # Range: 0 ~ 3600
 portableVoidTerminalCooldownSeconds = 20
+#Maximum energy loss percentage when a void battery transfers without void transfer fluid.
+#Loss scales linearly with link distance up to voidBatteryDryTransferMaxLossDistanceBlocks.
+# Default: 40
+# Range: 0 ~ 100
+voidBatteryDryTransferMaxLossPercent = 40
+#Link distance in blocks at which dry void battery transfer reaches voidBatteryDryTransferMaxLossPercent.
+# Default: 1000
+# Range: 1 ~ 10000000
+voidBatteryDryTransferMaxLossDistanceBlocks = 1000
+#Maximum stress capacity (SU) of a single void motor input.
+#Stress scales with RPM and reaches this value at 256 RPM (and is capped above that).
+# Default: 10240
+# Range: 0 ~ 10000000
+voidMotorInputMaxStressCapacity = 10240
+#Maximum stress capacity (SU) of a single void motor output.
+#Stress scales with RPM and reaches this value at 256 RPM (and is capped above that).
+# Default: 10240
+# Range: 0 ~ 10000000
+voidMotorOutputMaxStressCapacity = 10240

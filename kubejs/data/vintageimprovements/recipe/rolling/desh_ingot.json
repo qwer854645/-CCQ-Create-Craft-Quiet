@@ -1,0 +1,24 @@
+﻿{
+    "type": "createaddition:rolling",
+    "ingredients": [
+        {
+            "tag": "c:ingots/desh"
+        }
+    ],
+    "results": [
+        {
+            "count": 2,
+            "id": "vintageimprovements:desh_rod"
+        }
+    ],
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "createaddition"
+        },
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ad_astra"
+        }
+    ]
+}

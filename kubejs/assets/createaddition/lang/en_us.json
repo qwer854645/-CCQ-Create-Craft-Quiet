@@ -1,9 +1,0 @@
-{
-    "item.createaddition.brass_figurine.tooltip.summary": "黄铜小雕像.",
-    "death.attack.createaddition.barbed_wire": "%1$s 尝试越过铁丝网",
-    "death.attack.createaddition.tesla_coil.player": "%1$s 在与 %2$s 的战斗中受到了致命电击",
-    "itemGroup.createaddition.main": "机械动力:Crafts & Additions",
-    "death.attack.createaddition.barbed_wire.player": "%1$s 在与 %2$s 的战斗中尝试越过铁丝网",
-    "death.attack.createaddition.tesla_coil": "%1$s 受到了致命电击",
-    "createaddition.schedule.condition.threshold.unit": "百炉能量"
-}

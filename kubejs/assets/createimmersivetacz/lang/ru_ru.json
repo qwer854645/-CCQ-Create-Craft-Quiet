@@ -1,0 +1,19 @@
+{
+  "block.createimmersivetacz.test_block": "Тестовый блок",
+  "creativetab.create_immersive_tacz_tab": "Create: Эффект погружения TaCZ",
+  "fluid_type.createimmersivetacz.gunpowder_fluid": "Пороховая жидкость",
+  "fluid_type.createimmersivetacz.nitropowder_fluid": "Нитропорошковая жидкость",
+  "item.createimmersivetacz.40mmhe_casing": "40-мм корпус HE",
+  "item.createimmersivetacz.firing_mechanism": "Ударно-спусковой механизм",
+  "item.createimmersivetacz.gernade_casing": "Пневматический корпус Gernade",
+  "item.createimmersivetacz.gun_trigger": "Спусковой механизм",
+  "item.createimmersivetacz.gunbarrel": "Пистолетный ствол",
+  "item.createimmersivetacz.gunpowder_bucket": "Ведро с порохом",
+  "item.createimmersivetacz.incomplete_twelve_gauge_shell": "Оболочка 12 калибра",
+  "item.createimmersivetacz.nitropowder_bucket": "Ведро с нитропорошком",
+  "item.createimmersivetacz.pneumatic_pistol_casing": "Корпус пневматического пистолета",
+  "item.createimmersivetacz.primer": "Праймер",
+  "item.createimmersivetacz.rimmed_blunt_ap_casing": "Тупой корпус AP с окантовкой",
+  "item.createimmersivetacz.slap_casing": "СЛАП Корпус",
+  "item.createimmersivetacz.twelve_gauge_shell": "Оболочка 12 калибра"
+}

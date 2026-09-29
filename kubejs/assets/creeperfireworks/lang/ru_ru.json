@@ -1,0 +1,23 @@
+{
+  "creeperfireworks.configuration.colors.description": "Цвета для использования в фейерверках. Требуются цвета в шестнадцатеричном формате.",
+  "creeperfireworks.configuration.colors.name": "Цвета фейерверков",
+  "creeperfireworks.configuration.disableblockdamage.description": "Установите значение true/on, чтобы отключить блокирование урона при взрыве Creeper.",
+  "creeperfireworks.configuration.disableblockdamage.name": "Отключить блокировку урона",
+  "creeperfireworks.configuration.disableitemdamage.description": "Установите значение true/on, чтобы отключить урон от выпавшего предмета при взрыве Creeper.",
+  "creeperfireworks.configuration.disableitemdamage.name": "Отключить урон от предметов",
+  "creeperfireworks.configuration.fireworkschance.description": "Вероятность фейерверка после взрыва крипера.",
+  "creeperfireworks.configuration.fireworkschance.name": "Шанс фейерверка",
+  "creeperfireworks.configuration.fireworksflicker.description": "Настройка мерцания фейерверков, связанная с фейерверками Minecraft.",
+  "creeperfireworks.configuration.fireworksflicker.name": "Фейерверк мерцает",
+  "creeperfireworks.configuration.fireworksheight.description": "Высота над лианой, на которой взрывается фейерверк.",
+  "creeperfireworks.configuration.fireworksheight.name": "Высота фейерверка",
+  "creeperfireworks.configuration.fireworksshape.description": "Настройка формы фейерверка, связанная с фейерверками Minecraft.",
+  "creeperfireworks.configuration.fireworksshape.name": "Форма фейерверка",
+  "creeperfireworks.configuration.fireworkstrail.description": "Настройка следа фейерверка, связанная с фейерверками Minecraft.",
+  "creeperfireworks.configuration.fireworkstrail.name": "Тропа фейерверков",
+  "creeperfireworks.configuration.general.description": "Конфигурации для всех функций взаимодействия с миром криперов в моде.",
+  "creeperfireworks.configuration.general.name": "Общие настройки",
+  "creeperfireworks.configuration.title": "Крипер Фейерверк",
+  "creeperfireworks.configuration.visuals.description": "Все настройки, связанные с отрисовкой фейерверка при взрыве крипера.",
+  "creeperfireworks.configuration.visuals.name": "Настройки рендеринга"
+}

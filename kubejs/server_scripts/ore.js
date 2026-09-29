@@ -90,7 +90,7 @@ event.recipes.createoreexcavation.drilling('createpropulsion:raw_platinum', 'kub
   //event.remove({mod:'createoreexcavation',not:{type:'create:mechanical_crafting'},not:{type:'minecraft:shaped'},not:{type:'minecraft:smithing'}})
   event.remove({type:'createoreexcavation:vein'})
   event.remove({type:'createoreexcavation:drilling'})
-  event.remove({type:'create:cutting'})
+  event.remove({type:'create:cutting',mod:'createoreexcavation'})
 
   //主世界
   event.recipes.createoreexcavation.vein(

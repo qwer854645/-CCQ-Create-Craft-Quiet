@@ -1,0 +1,21 @@
+{
+  "bridge.aeronauticsdiscovery.cannot_place": "克安恩特 普莱斯 布洛克斯 昂 布里基",
+  "bridge.aeronauticsdiscovery.full": "布里基 伊兹 弗尔",
+  "entity.aeronauticsdiscovery.pillager_aviator": "皮尔拉格尔 阿弗伊特尔",
+  "entity.aeronauticsdiscovery.soaring_trader": "斯欧尔伊鞥 特拉德尔",
+  "filled_map.aeronauticsdiscovery.ancient_city": "安克伊恩特 斯特伊 马普",
+  "filled_map.aeronauticsdiscovery.desert_pyramid": "德色尔特 普伊拉米德 马普",
+  "filled_map.aeronauticsdiscovery.igloo": "伊格尔乌 马普",
+  "filled_map.aeronauticsdiscovery.jungle_temple": "居鞥勒 特穆普勒 马普",
+  "filled_map.aeronauticsdiscovery.mineshaft": "马石阿弗特 马普",
+  "filled_map.aeronauticsdiscovery.trail_ruins": "特尔诶尔 尔维恩兹 马普",
+  "filled_map.village_desert": "德色尔特 弗伊尔拉杰 马普",
+  "filled_map.village_plains": "普尔诶恩兹 弗伊尔拉杰 马普",
+  "filled_map.village_savanna": "萨弗安纳 弗伊尔拉杰 马普",
+  "filled_map.village_snowy": "森奥伊 弗伊尔拉杰 马普",
+  "filled_map.village_taiga": "特诶嘎 弗伊尔拉杰 马普",
+  "item.aeronauticsdiscovery.pillager_aviator_spawn_egg": "皮尔拉格尔 阿弗伊特尔 斯普奥恩 厄格格",
+  "item.aeronauticsdiscovery.pin_wand": "品 万德",
+  "item.aeronauticsdiscovery.soaring_trader_spawn_egg": "斯欧尔伊鞥 特拉德尔 斯普奥恩 厄格格",
+  "itemGroup.aeronauticsdiscovery.main": "科瑞特 艾罗诺提克斯: 迪斯克欧弗尔伊"
+}

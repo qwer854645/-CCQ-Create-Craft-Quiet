@@ -1,0 +1,16 @@
+{
+  "advancements.eternalnether.rescue_piglin_prisoner.description": "Rescue a Piglin Prisoner",
+  "advancements.eternalnether.rescue_piglin_prisoner.title": "Saving Private Swine",
+  "block.eternalnether.netherite_bell": "Netherite Bell",
+  "item.eternalnether.gilded_netherite_shield": "Gilded Netherite Shield",
+  "subtitles.entity.warped_enderman.ambient": "Warped Enderman vwoops",
+  "subtitles.entity.warped_enderman.death": "Warped Enderman dies",
+  "subtitles.entity.warped_enderman.hurt": "Warped Enderman hurts",
+  "subtitles.entity.warped_enderman.scream": "Warped Enderman screams",
+  "subtitles.entity.warped_enderman.stare": "Warped Enderman cries out",
+  "subtitles.entity.warped_enderman.teleport": "Warped Enderman teleports",
+  "subtitles.entity.wex.ambient": "Wex wexes",
+  "subtitles.entity.wex.charge": "Wex shrieks",
+  "subtitles.entity.wex.death": "Wex dies",
+  "subtitles.entity.wex.hurt": "Wex hurts"
+}

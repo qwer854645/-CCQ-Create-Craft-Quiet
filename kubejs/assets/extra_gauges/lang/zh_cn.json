@@ -161,7 +161,7 @@
   "item.extra_gauges.logic_gauge": "逻辑仪表",
   "item.extra_gauges.passive_gauge": "被动仪表",
   "item.extra_gauges.string_gauge": "字符串仪表",
-  "itemGroup.extra_gauges": "Create：额外仪表",
+  "itemGroup.extra_gauges": "机械动力：额外仪表",
   "logic_gauge.gate.and": "与（所有输入激活时激活）",
   "logic_gauge.gate.nand": "与非（任一输入未激活时激活）",
   "logic_gauge.gate.nor": "或非（所有输入未激活时激活）",

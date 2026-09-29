@@ -1,0 +1,756 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "422da4380e4dcebc"
+	group: ""
+	icon: {
+		id: "minecraft:player_head"
+	}
+	id: "422DA4380E4DCEBC"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				id: "create:handheld_worldshaper"
+			}
+			id: "2EB90EE11F46DC81"
+			rewards: [
+				{
+					id: "75C8BA86D8F79347"
+					item: {
+						count: 1
+						id: "create:handheld_worldshaper"
+					}
+					type: "item"
+				}
+				{
+					id: "34CBD2C9AFF1329D"
+					item: {
+						components: {
+							"minecraft:profile": {
+								id: [I;
+									-196921622
+									2000963993
+									-1697957018
+									1995382781
+								]
+								name: "Eva0V0"
+								properties: [{
+									name: "textures"
+									signature: "uxKtUfvl22Ycc77i2NqsSD7Z33tGEwRDu9cy1kKR03xkdPKSwOGvOR7keDiZIPx/24IhwlC5eGwXEbdVvxQh9stMuNtzUxnHe/yoeaLXS/od9QmCPKyeiZguoxXnMEblew8Oqrd8WjDIOe8LikpklmLiVaY6Ya/upsec9WXLfY28txIvZWgubg8darlusoqZdhDcYeziAVblD7nUImNcU0oNWnF+nqUU//j9P1uCRKUnlXwidbfG4P2Nv+9wm/ot0RcWaHVDQ9FjYdk1hYMVTY73fvOyRyPAWWhehrBb4zctQ6gWkrNz+uMYYuE8hor4qxO9Ygqq5Aem3bmcbJrEgeqpl6/yz2UNHcTGjGP/ma35lz9zPaAjat6yPiTVaXZR5WNlMFPk/x55BR2fyN+PPaYrVCdy7kydWyk9N+3g2mY6s3RNP8YtHV/pagKtsZm++gl+cqdxFiMAPRpfo8hHJwJ9jvHMdAwFNZSDJbAaOW5rFXTBxffu1va2ia/nPkKn0LLbDnJzJccpbZUre5h6wMjioSSsrNzoOM0VpZU5eFvHyQdlcrBzitSG7X7qRekafOCrPFKkYHlJY8yLItTHVaxEm4nGWZcIXzDhZhDnBE3ajROhIUhOps5XhZt5mEb05K7P+N66frXb07tZHyS3ZmWkpbqcCrxglID1yMBBZ1U="
+									value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDI2NzA3NDMyMywKICAicHJvZmlsZUlkIiA6ICJmNDQzMzZlYTc3NDQ0OTk5OWFjYjNiNjY3NmVmMWZmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdmEwVjAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTgzZjViZjAwNWRhOGE0MjQxODg5MjBlYmM0NzZjZGVlZDU5YzA0NWQyOWQxZGRhNjIxZmE4NmJkNjRhN2Y1NCIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0="
+								}]
+							}
+						}
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					consume_items: true
+					count: 100000L
+					id: "00385C4591561B3C"
+					item: { count: 1, id: "minecraft:oak_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "0881D69EE6FBC58D"
+					item: { count: 1, id: "minecraft:spruce_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 10000L
+					id: "3E7CD40D3579922E"
+					item: { count: 1, id: "minecraft:birch_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "541A3CBEB05FD9B0"
+					item: { count: 1, id: "minecraft:jungle_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "307B8CEF82859DE5"
+					item: { count: 1, id: "minecraft:acacia_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "2C33D259FF1D0629"
+					item: { count: 1, id: "minecraft:dark_oak_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "069F8373414C746F"
+					item: { count: 1, id: "minecraft:mangrove_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "5204BC4609EC811C"
+					item: { count: 1, id: "minecraft:cherry_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "03C905373DBA16BE"
+					item: { count: 1, id: "quark:ancient_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "23517E48EFBDFD58"
+					item: { count: 1, id: "quark:azalea_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "5F9F369C89E174F5"
+					item: { count: 1, id: "quark:blossom_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "57BEA4D3C50EB603"
+					item: { count: 1, id: "ars_nouveau:blue_archwood_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "34059479A2A40E18"
+					item: { count: 1, id: "ars_nouveau:red_archwood_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "13276617CEEB40F6"
+					item: { count: 1, id: "ars_nouveau:purple_archwood_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "284E618E2A2F45AE"
+					item: { count: 1, id: "ars_nouveau:green_archwood_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "14E7C9ADD0CD9B60"
+					item: { count: 1, id: "culturaldelights:avocado_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "7F6CC8B0223936DC"
+					item: { count: 1, id: "expandeddelight:cinnamon_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "57DAA8C4825E4BD5"
+					item: { count: 1, id: "cookscollection:lemon_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "1BC2E35CCE18C223"
+					item: { count: 1, id: "northstar:wilter_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "483CFC02936EDF38"
+					item: { count: 1, id: "northstar:argyre_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "23BCFD63FB5755C8"
+					item: { count: 1, id: "northstar:coiler_log" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "619A72BB052EB60B"
+					item: { count: 1, id: "minecraft:warped_stem" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "5D3EBEFF74321FCB"
+					item: { count: 1, id: "minecraft:crimson_stem" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "2D60CD2B1101D736"
+					item: { count: 1, id: "minecraft:white_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "30B936731AEB9D8C"
+					item: { count: 1, id: "minecraft:light_gray_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "0283847398B64F7A"
+					item: { count: 1, id: "minecraft:gray_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "1D43C2F2641EAAA0"
+					item: { count: 1, id: "minecraft:black_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "0260ED9A88F53FF0"
+					item: { count: 1, id: "minecraft:brown_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "24A6821166AB2895"
+					item: { count: 1, id: "minecraft:red_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "7FC6567F9D3E88C6"
+					item: { count: 1, id: "minecraft:orange_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "0496F8F5BCE4B679"
+					item: { count: 1, id: "minecraft:lime_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "3F878B9E68F35197"
+					item: { count: 1, id: "minecraft:green_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "7B733B339389DDE6"
+					item: { count: 1, id: "minecraft:yellow_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "5C27E8C5BAE750EE"
+					item: { count: 1, id: "minecraft:cyan_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "0ADA34D8C8E5D86E"
+					item: { count: 1, id: "minecraft:light_blue_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "6D0396ABCC02B190"
+					item: { count: 1, id: "minecraft:blue_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "6A867AB446AE71EC"
+					item: { count: 1, id: "minecraft:purple_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "4CCC8967C6C1B118"
+					item: { count: 1, id: "minecraft:magenta_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "5F99832B06CA3DD1"
+					item: { count: 1, id: "minecraft:pink_concrete" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "129D30BF9B425C42"
+					item: { count: 1, id: "minecraft:stone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "5FB26B4BE77F7B78"
+					item: { count: 1, id: "quark:limestone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "0165A13548B35EAA"
+					item: { count: 1, id: "quark:polished_jasper" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "18B5A1894C2CB037"
+					item: { count: 1, id: "quark:myalite" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "5DB489FB8242D3C6"
+					item: { count: 1, id: "quark:permafrost" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "49BB003458C55627"
+					item: { count: 1, id: "minecraft:calcite" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "2E7BB0CF9932250A"
+					item: { count: 1, id: "minecraft:end_stone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "47FE6C47F6F8D44D"
+					item: { count: 1, id: "minecraft:quartz_block" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "1F3C388A10D98F4A"
+					item: { count: 1, id: "create:asurine" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "1FFFF762BC66901D"
+					item: { count: 1, id: "create:limestone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "328253377E029070"
+					item: { count: 1, id: "create:crimsite" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "5737A3CE1B6B092F"
+					item: { count: 1, id: "northstar:mars_stone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "2CF9CCC8EB1E399F"
+					item: { count: 1, id: "northstar:venus_stone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "2DE6E5594EACE6E8"
+					item: { count: 1, id: "northstar:mercury_stone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "69575CC907001AF9"
+					item: { count: 1, id: "minecraft:granite" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "44A6EF8EBD69CA6B"
+					item: { count: 1, id: "minecraft:diorite" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "28CD01AC00AE94A2"
+					item: { count: 1, id: "minecraft:andesite" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "05DD1E941238E051"
+					item: { count: 1, id: "quark:shale" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "1039481FB5D2DBDA"
+					item: { count: 1, id: "minecraft:deepslate" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "6B6B5B860275D6F8"
+					item: { count: 1, id: "minecraft:tuff" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "379FAC2533903075"
+					item: { count: 1, id: "minecraft:sandstone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "5055D420DA6271C1"
+					item: { count: 1, id: "minecraft:red_sandstone" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "6C8E36340D709C2F"
+					item: { count: 1, id: "minecraft:netherrack" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 100000L
+					id: "37001760DBC0A95D"
+					item: { count: 1, id: "minecraft:basalt" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:cat"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5EE563517EB66AD5"
+			rewards: [
+				{
+					count: 64
+					id: "3B40E789ADFABDD2"
+					item: {
+						components: {
+							"minecraft:potion_contents": {
+								potion: "ccq_core:meow"
+							}
+						}
+						count: 1
+						id: "minecraft:potion"
+					}
+					type: "item"
+				}
+				{
+					id: "6A1C0E2F9B4D8173"
+					item: {
+						components: {
+							"minecraft:profile": {
+								id: [I;
+									1348028438
+									1802061601
+									-1097111300
+									1508041952
+								]
+								name: "Heinrich6941"
+								properties: [{
+									name: "textures"
+									signature: "Iqzf+HxwIgMjmZ8RpKRC/4hYCumnADaFpsFmVYfXRQvikH3raLFdwQg9v9OUDOQVq47UQo8uSh9egpQ8CSuRlGC6NOziVWzpj8qoiYkXX9sC2Mz0L42tTKIRXZIPWh1SJgdPO4RpUS7zTPwCxwwKa/fcdXqIDvgArOQY4MRYjL5YXVMg7w9QmL84r+rbdlHn65lSh3mqb1ypjZBfwtshjfiUdau598RkLNZQ3QtCveU/kWm//rFvva1EC3dhsE+4FMU+64Yr0Thxo8PVjP6mLGyCIbCtLCrtPCwCOZj5kpRlJxpnVPr71J6RBjOQbilHKFHBOQw9G4hVSGMRVSZjZzNacOa4Ji/iBRcEC0Eq6Ral15rwHApb4g3KsXejgvPf1VlVJY9P4Tv7UwT+3CRUyo3TkX8r/+PRq7z1WrXIWJJtocfZW6FfX5NA3ZIXh38d8iW6WHLqtCX+kJdjPhruNiXlUWnWBEqH2OUHImduN8bf+b3XbB8RJI+kegbQZrqQZiVoUKXNE/W8QTQi9eL7uDHiuYpo2uYtzGCfXjOD3joeyF9o1L3a1FL4Lxxf6cb0jkOqEvhJBCIwjFrP6JIGmjidTvcyS80EWr1cFxyVlXaGl0gv4+bEmSv35c1VPbtLwpPFmJw2YN9SOnWTbXKl2syNqw4QrmZONEjnRMkBI8k="
+									value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwMzA4MzM4MiwKICAicHJvZmlsZUlkIiA6ICI1MDU5NDgxNjZiNjk0NzIxYmU5YjY4ZmM1OWUyZTRlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZWlucmljaDY5NDEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTY0ZjM5NThkNWI4ZmExNmU3ZDM4ZTMxZmU5MTYzNjdiNDljYzExZWYzYWQzM2I3NjI2MTQ4MmYwY2Q3NDEwMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+								}]
+							}
+						}
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "733921267A3CE55A"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "142AE95FAA4C52EA"
+			rewards: [
+				{
+					id: "7B3E9A1C4D2F6085"
+					item: {
+						components: {
+							"minecraft:profile": {
+								id: [I;
+									-1153637646
+									-9091546
+									-1162763443
+									-547520977
+								]
+								name: "baiyao_ovo"
+								properties: [{
+									name: "textures"
+									signature: "u9kg8+yxtSy+RzYm2W6P5NBe2ySzQJAZ5jY25wWldiaaYU4PMkayeDrIGWbcF6obghv6kukOc7Ar0j28iwidVxtVfc9cN5OrL70VfpIYknb7iNa1XfrAfFvPZqm8X1DtvlOcIF370Gd05yHJUP74aRT61JR4b9zOkn5H7OAt/Fot5akwcak2xFcbMBkTEv7ykgVqwfnXks8XjBrpO5ndHMEwHaqt1eGTs2BVh0T7FBq5yyg/hMDqap3x4cRbRvHE5da0wOalhTd9w5zjqMW0WStrd3wWZzCOcvyHpdyCY9wTyvS068LI74E9bIhJOJjryYkOOkugdg368ov0cSVFM0icgo1okxf4ID85M+xfHinyMlRkmcrgtb8dBYwtPjVB3XgFqIYIqUmUyOntxj8KuPhdEJYxSaIKdbGJ1ew0b0YGU3Pao9YnE0wCOZbJTaFJZdr27STIxDzYY7IfYj/FWOdovqQWRXINDvAwlDi0wyp6s2HG1WiM690IPqWrN5SfaxUw31O1raDFaRaR8jD6MSomfJxCmghDq9tZrV1AMwU3abERNCZtvbOKL52/ApBCX3yyopEvh7QRzP8OItcHQm1oeyh39tu7TwgxChJ2pzH5AyYyiyuD4Lwi75U4uA7vRGH7IitiXL4f147ZBYNx5IB20sLU7utFdI4CN24sqQs="
+									value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwMzUwNjM4MiwKICAicHJvZmlsZUlkIiA6ICJiYjNjZTJmMmZmNzU0NjI2YmFiMWEzNGRkZjVkN2UyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWl5YW9fb3ZvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRmMjkzZTdiZjM1YzU1NzBhNDk2ZjBmOWY3OTA0NmEzYmM1OTgzMjAyOTJmZTEyMDg2YzJmZjY0MDUzNmViYzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+								}]
+							}
+						}
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+				{
+					id: "6B1EACFDBF02BD6E"
+					item: {
+						count: 1
+						id: "create:creative_blaze_cake"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 20480L
+				id: "1C6ECE8A8F5A834B"
+				item: { count: 1, id: "minecraft:nether_star" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "3FBB2338360A85CB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7A2F9F291263063C"
+					table_id: 2027170546905262116L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C91E2D524BF17B8"
+					table_id: 8379482506742747660L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "3586BC6F3CEDAC08"
+				item: { components: { "minecraft:profile": { id: [I; -1058735035, 667107644, -1360901357, 48466955 ], name: "yushu_ouo", properties: [{ name: "textures", signature: "NEwidn4Wf9MZZ+/8te6O3aVG2M8bkG/jmKI8d+tRT61JlsVtTu55bdrZqQDTJKrYoYObudRhMfo0WNzLGL0mVcObEf7p91GPkUG/vjkYO1Odh6sf3TLpIeLwLTxqplcqFUa2vnQb9XgqiQGWWtfV8ZnKklZfVwOc0BOu+YFouO9WUgYPvDr/KVlemMRWox9uiOvNcEO52W8SjluKgMaATnudLbhjTX5NAZSazI4l5nqRacS92V45hcJOfhWCYCuzXR76dHpampTxhGCHCOm01ChQzg4PcNlNFnZ/xASjRfY0vOqHaTa0LpgtQUCz9dBVFtPUgCO7BYOcUdskzxsmKgBjE6grPsuQrAmCdDzHL0J+pt5mJa6nNeTdJrXP+LJc1WVHnrdNCh+qz9f/1sHFTZPACVQqJJsEX+k6rXzp58SHjnf5zMtWwVk6ZhhthsOb6PYlrg7HqpNpu5pc7SLLkGTeg1QYyymrNg7MvSMlyWy6H1hXkl/ggIO/fmq5V+Ct6PAytz3TBkmUuyMF7twV2d6fOnbz+yfrf3CG8OuzfUusFsEG9GrCaTbWPoJ9FtzdAespPECPn7OlMx8oiOmWMz4S50yZx6KbNR+8+uSPHzb0HWCuiJ7xRtupxNv9ggbB9233tgyylfDvglR+JaqqEnz60BAJAzsV9CthnIHVZig=", value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwNjIyMTc3NiwKICAicHJvZmlsZUlkIiA6ICJjMGU0ZmM0NTI3YzM0MTNjYWVlMjRiMTMwMmUzOGMwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXNodV9vdW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkYTg0NTVlYzAxZWJjMWVjN2IxYWIzNmNmZTdjZjcxMTg5NzJmOGNjMDMwZGIyOGQwMmQwMjc0YWI2YzU0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9" }] } }, count: 1, id: "minecraft:player_head" }
+				match_components: "fuzzy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:bread"
+			}
+			id: "1A68448F63C707C1"
+			rewards: [{
+				id: "0DB191E152C18F2C"
+				item: {
+					count: 1
+					id: "ccq_core:prank_bread"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 9L
+				id: "3E04BD14649428C6"
+				item: { count: 1, id: "minecraft:diamond_block" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "0524C3DABA0031A3"
+			rewards: [
+				{
+					id: "2F48A6EBD5B06489"
+					item: {
+						components: {
+							"minecraft:profile": {
+								id: [I;
+									2043480863
+									843138106
+									-1737924089
+									-1568487754
+								]
+								name: "Aztira"
+								properties: [{
+									name: "textures"
+									signature: "gbfz/xTzLIhkvuy22sNxg3o6ExR3GwK0WPFKDhpEoIycbW02jkJNZax0VB7gL4XHPDtH20eMJkVu+WJDXNZ5CZJf+k2aaiFBCOtnXOCESzepL63rs7qmY8TZ8bdj39jf3wAdjXeXTgDMy/BcrTo6wPd2c3WJojNILMcgxfdwAT3THvZU+4D/3QS8qr600DVnSpnMZ0tpDoZzZABnucPQvsKvz+jw2nzYNQtZFzadRjsY0cVwudWVTSfcBgJt/eMxHBtuKpYJATMMrJKM3G+oEdmeyTJoo3dYIN1lc3t/s94JPvpWUworHQeGVAWYCiJsEg4bxgKYHnMPpbUqQgTKLnca2v98fw90fjwyT0hxrh4gEBMbHBK6NwndpKPd+JXK97h6nkeB2bxsRNeJtiK/vdluJoYRXuamsHz50HuQjDa2Tjj0Nwd76cEcsdx+Uv9RurWn0PYfWfYSxFefGVl0tWZt3DJTyKpOIFiWTT8Xek6i3Tk7+4F3kdPqTPgSKQ2D+m87zD9Qy7512xGkSw/gOQjgr2/j+269ljyKx5J4GhmW0ibAku6vRyZaubzRFer5IBiqMf+wkpCglNo/Dc54b8ZJfYfdmucr2J2sjwQyseYpAKa+57FJ0VQOup336Qp18eJm+ID9qO523SHmXjUoT24WxvxH0aJjQxGmIAp/BeA="
+									value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwMzUwNzE3MSwKICAicHJvZmlsZUlkIiA6ICI3OWNkMGIxZjMyNDE0NDNhOTg2OTYyMDdhMjgyYzZiNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBenRpcmEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2E4ZjYzODdkM2ZkYzU5NmEwNmQ2YWMwNzBlMzBkYjY4ZmFiNGM1ZWNjMzMwZWE2MGMzNWU4ODE4MGY1ZGY4MCIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0="
+								}]
+							}
+						}
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+				{
+					id: "25E71DE148067E4B"
+					item: {
+						components: {
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:knockback": 3
+									"minecraft:looting": 3
+									"minecraft:sharpness": 5
+								}
+							}
+						}
+						count: 1
+						id: "create:wrench"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2F31DA1CB8A0BAAE"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "440E54445238293C"
+			rewards: [
+				{
+					id: "782447D9F352E1F9"
+					item: {
+						components: {
+							"minecraft:profile": {
+								id: [I;
+									-1002868793
+									524503972
+									-1756554299
+									-759905657
+								]
+								name: "Yeffie__xnn"
+								properties: [{
+									name: "textures"
+									signature: "puXjMykU0JDUQugvrN81s2d52jZedh6ru2AtgsQx+kIE470h7bXNhNwThijkZpmOfhR7uPvRlr0HlyQ7vDxV14dYQIC5PgFlPeQ4myGaG65uTBPLi5ZUr6pa0V5gpoD6yRDc+ww9u+hoSOf7BHcakXwBD9RAmAl+Za6qUwAmhfa0V8/YVanLUGsiAm/R9yL8EYUHeT3DRzEhS0SvO0TCKAKlEFh7UnH6a2bo+AqB6Mxem63IprVHnoepbdh1iklap6KHNC1lO46UpW0g5n1tumW2IXXvNYdwvevWZLHh7SB6gSa5+Hwzn3Ox97nGpiZ26Tj+uk8bZkKDy/xKXAq7xVo5Ss5gN9fkkC+L92DH+FMqMDspiDdZmeH4GLIYd1OGxTkpzuM+rPYRq3lrc1M1MRBnqfHUi6WnSW2fvMUL9a2g41irZERkpFDaQEavN+40Ag/zH4DKNuDu7OrX66cmBagRF0xZwMdtUc4ZLt5XCslRwaB1LNimNy7ujwOq4Kf+oJWg57NNeyKC9yjRLhoX9C86EXT3EP3uTYD/9ZU1IgUAh+7OkizBhDhiux730XHBhCxB2mDHlCS1nM1+Wnh45a6Ujy8ZEVifK721M4uicBl+BD3JBpllTGhO3ptop41aI482oTl0HFFb/0GDRu8qAow1va/358fv4SZVDwIy6Ao="
+									value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwMzUwNzc1MSwKICAicHJvZmlsZUlkIiA6ICJjNDM5NmZjNzFmNDM0YmE0OTc0ZDFiYzVkMmI0YzI4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWZmaWVfX3hubiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jODhiNzFmZmYyMmM5ODk2MTVjY2IyYTcwMzU1MjlhZDMzYmJiYjczZGExNmI1ZDM4M2YyYzUyYjdmNzI5YzJmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0="
+								}]
+							}
+						}
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+				{
+					id: "082F6C1BDE6FB049"
+					item: {
+						count: 1
+						id: "simulated:creative_physics_staff"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					id: "minecraft:water_bucket"
+				}
+				id: "093E2550C1AD44DC"
+				type: "custom"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+	]
+}

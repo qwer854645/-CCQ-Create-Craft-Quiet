@@ -45,19 +45,23 @@ event.shapeless(
       'create:experience_nugget'
     ]
   ).id('ccq_core:ancient_fluit')
-   //附魔金苹果
-   event.shaped(
-    Item.of('minecraft:enchanted_golden_apple',1),
-    [
-      'nnn',
-      'nan',
-      'nnn'
-    ],
-    {
-      n:'minecraft:netherite_ingot',
-      a:'minecraft:apple'
-    }
-  ).id('ccq_core:eg_apple')
+   //附魔金苹果：金苹果序列组装 x3
+   // 下界合金锭 -> 经验流体100mb -> 金锭
+   const transitionalEgApple = 'ccq_core:incomplete_enchanted_golden_apple'
+   create.sequenced_assembly(
+     [
+       Item.of('minecraft:enchanted_golden_apple')
+     ],
+     'minecraft:golden_apple',
+     [
+       create.deploying(transitionalEgApple, [transitionalEgApple, 'minecraft:netherite_ingot']),
+       create.filling(transitionalEgApple, [transitionalEgApple, Fluid.of('create_enchantment_industry:experience', 100)]),
+       create.deploying(transitionalEgApple, [transitionalEgApple, 'minecraft:gold_ingot'])
+     ]
+   )
+   .transitionalItem(transitionalEgApple)
+   .loops(3)
+   .id('ccq_core:eg_apple')
   //修复烤红薯配方
   event.remove('expandeddelight:baked_sweet_potato_from_campfire_cooking')
   event.remove('expandeddelight:baked_sweet_potato_from_campfire_smoking')
@@ -76,22 +80,34 @@ event.shapeless(
       Fluid.of('create_dragons_plus:dragon_breath',100)
     ]
   ).superheated().id('ccq_core:dragon_blood')
+
+  farmer.cutting(
+        'culturaldelights:raw_calamari',
+        '#c:tools/knife', 
+        [ 
+            "oceansdelight:tentacles",
+        ]
+    )
     //把几种鱿鱼统一一下，因为经过测试只会掉多元乐事的鱿鱼所以加几个配方
     /*event.shapeless(
         Item.of('minersdelight:squid',2),
         'culturaldelights:squid'
       ).id('ccq_core:squid')
+
       event.shapeless(
         Item.of('minersdelight:glow_squid',2),
         'culturaldelights:glow_squid'
       ).id('ccq_core:glow_squid')
+
       farmer.cutting(
         'minersdelight:tentacles',
         '#c:tools/knife', 
         [ 
             "oceansdelight:tentacles",
         ]
-    )*/
+    )
+        */
+
      /*//矿工乐事的杯子注液
      create.filling(
        'minersdelight:water_cup',

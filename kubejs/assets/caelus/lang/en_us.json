@@ -1,4 +1,4 @@
 {
-    "caelus.fallFlying": "鞘翅飞行",
-    "caelus.networking.failed": "Caelus 网络连接失败:%s"
+  "caelus.fallFlying": "Fall Flying",
+  "caelus.networking.failed": "Caelus Networking Failure: %s"
 }

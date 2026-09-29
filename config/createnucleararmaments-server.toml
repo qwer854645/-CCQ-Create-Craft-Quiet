@@ -1,0 +1,84 @@
+	[tiers.t1]
+		# Default: 5
+		# Range: 1 ~ 10000
+		yieldKilotons = 5
+		# Default: 12
+		# Range: 1 ~ 1024
+		billetCost = 12
+		# Default: 320.0
+		# Range: 1.0 ~ 2000.0
+		entityExplosionPower = 320.0
+		#Primary crater radius in blocks. Radiation radius is 2x this value.
+		# Default: 28.0
+		# Range: 4.0 ~ 256.0
+		blastRadius = 28.0
+		# Default: 1600
+		# Range: 20 ~ 72000
+		radiationDurationTicks = 1600
+		# Default: 2
+		# Range: 0 ~ 10
+		radiationAmplifier = 2
+
+	[tiers.t2]
+		# Default: 25
+		# Range: 1 ~ 10000
+		yieldKilotons = 25
+		# Default: 48
+		# Range: 1 ~ 1024
+		billetCost = 48
+		# Default: 560.0
+		# Range: 1.0 ~ 2000.0
+		entityExplosionPower = 560.0
+		#Primary crater radius in blocks. Radiation radius is 2x this value.
+		# Default: 40.0
+		# Range: 4.0 ~ 256.0
+		blastRadius = 40.0
+		# Default: 2400
+		# Range: 20 ~ 72000
+		radiationDurationTicks = 2400
+		# Default: 3
+		# Range: 0 ~ 10
+		radiationAmplifier = 3
+
+	[tiers.t3]
+		# Default: 100
+		# Range: 1 ~ 10000
+		yieldKilotons = 100
+		# Default: 192
+		# Range: 1 ~ 1024
+		billetCost = 192
+		# Default: 960.0
+		# Range: 1.0 ~ 2000.0
+		entityExplosionPower = 960.0
+		#Primary crater radius in blocks. Radiation radius is 2x this value.
+		# Default: 52.0
+		# Range: 4.0 ~ 256.0
+		blastRadius = 52.0
+		# Default: 3200
+		# Range: 20 ~ 72000
+		radiationDurationTicks = 3200
+		# Default: 4
+		# Range: 0 ~ 10
+		radiationAmplifier = 4
+
+#Secondary effect budgets. Primary crater still clears in one tick.
+[performance]
+	#Max fallout columns processed per server tick.
+	# Default: 4096
+	# Range: 256 ~ 32768
+	falloutColumnsPerTick = 4096
+	#Max real TNT-style rim explosions per tick for edge fracture.
+	# Default: 16
+	# Range: 0 ~ 64
+	edgeRealExplodesPerTick = 16
+	#Max cheap visual rim breaks per tick for edge fracture.
+	# Default: 90
+	# Range: 0 ~ 256
+	edgeVisualFracturesPerTick = 90
+
+#Post-blast terrain fallout.
+[fallout]
+	#Chance that stone inside the melt sphere becomes lava (0–1). Previous hardcoded rate was ~0.001.
+	# Default: 5.0E-4
+	# Range: 0.0 ~ 1.0
+	stoneLavaChance = 5.0E-4

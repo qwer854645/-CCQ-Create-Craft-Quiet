@@ -1,12 +1,13 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "1538492370F8FA55"
+	filename: "1538492370f8fa55"
 	group: "40D9AA552FD9F863"
 	icon: {
 		id: "create:goggles"
 	}
 	id: "1538492370F8FA55"
+	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -182,9 +183,6 @@
 			rewards: [{
 				id: "48AB9B80E867676C"
 				item: {
-					components: {
-						"thirst:purity": 2
-					}
 					count: 1
 					id: "minecraft:water_bucket"
 				}
@@ -407,7 +405,7 @@
 			dependencies: ["74BE508C2E5DB162"]
 			id: "474D63F0D24841E8"
 			rewards: [{
-				id: "4F0B364E6AAA950A"
+				id: "7BC8B201973177CC"
 				item: {
 					count: 1
 					id: "create:shaft"
@@ -415,7 +413,7 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "25694F91AF941E09"
+				id: "1359BA773B5C7569"
 				item: { count: 1, id: "create:shaft" }
 				type: "item"
 			}]
@@ -1806,9 +1804,6 @@
 			rewards: [{
 				id: "10891498C3A43A17"
 				item: {
-					components: {
-						"thirst:purity": 2
-					}
 					count: 1
 					id: "minecraft:water_bucket"
 				}
@@ -2231,23 +2226,6 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["195D013C6FF81B3A"]
-			id: "32FB1637698389E0"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "1426D9F7E619F962"
-				table_id: 3011077829130444474L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "0CB7149CE4D348AD"
-				item: { count: 1, id: "thirst:sand_filter" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: 5.5d
-		}
-		{
 			can_repeat: true
 			id: "74CB512A91245148"
 			rewards: [{
@@ -2270,25 +2248,61 @@
 			y: 0.0d
 		}
 		{
-			can_repeat: true
-			id: "05B2FCF80460C2AC"
+			dependencies: ["0D2A8A83965F9E9F"]
+			icon: {
+				id: "dndesires:splashing_sail"
+			}
+			id: "469619FBF0A36B08"
 			rewards: [{
-				count: 32
-				id: "58F277D178E1A774"
-				item: {
-					count: 1
-					id: "minecraft:andesite"
+				exclude_from_claim_all: true
+				id: "7FEEBEED289021D6"
+				table_id: 3891941872931410618L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "6D13803D8630B16B"
+					item: { count: 1, id: "dndesires:blasting_sail" }
+					type: "item"
 				}
-				type: "item"
-			}]
-			tasks: [{
-				count: 64L
-				id: "6BE67133FCF130FC"
-				item: { count: 1, id: "minecraft:cobblestone" }
-				type: "item"
-			}]
-			x: -14.5d
-			y: 0.0d
+				{
+					id: "4E36F1FC891BBCB1"
+					item: { count: 1, id: "dndesires:sanding_sail" }
+					type: "item"
+				}
+				{
+					id: "442E51EFE9AE0C06"
+					item: { count: 1, id: "dndesires:splashing_sail" }
+					type: "item"
+				}
+				{
+					id: "2ABCBC81993FEC27"
+					item: { count: 1, id: "dndesires:haunting_sail" }
+					type: "item"
+				}
+				{
+					id: "1EC5E698505B71B5"
+					item: { count: 1, id: "dndesires:smoking_sail" }
+					type: "item"
+				}
+				{
+					id: "17542AE0E5C09D46"
+					item: { count: 1, id: "dndesires:seething_sail" }
+					type: "item"
+				}
+				{
+					id: "0619BC0CCE248BED"
+					item: { count: 1, id: "dndesires:freezing_sail" }
+					type: "item"
+				}
+				{
+					id: "0FCD99245EAAF56E"
+					item: { count: 1, id: "dndesires:dragon_breathing_sail" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -4.0d
 		}
 	]
 }

@@ -9,4 +9,5 @@ ServerEvents.recipes(event => {
     event.remove('functionalstorage:dripping_upgrade')
     event.remove('functionalstorage:water_generator_upgrade')
     event.remove('functionalstorage:obsidian_upgrade')
+    event.remove('functionalstorage:ender_drawer')
 })
