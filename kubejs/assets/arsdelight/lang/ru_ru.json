@@ -1,0 +1,21 @@
+{
+  "block.arsdelight.dawnberry_crate": "Ящик с рассветной ягодой",
+  "block.arsdelight.dawnberry_jelly": "Желе Dawnberry",
+  "block.arsdelight.dawnberry_pie": "Пирог с ягодами рассвета",
+  "block.arsdelight.lightchee_crate": "Лайт-чи - ящик",
+  "block.arsdelight.lightchee_jelly": "Желе Lightchee",
+  "block.arsdelight.lightchee_pie": "Лайт-чи пирог",
+  "effect.arsdelight.lightning_curse.desc": "Нанесите приманку освещения на ваши цели атаки заклинаний",
+  "item.arsdelight.bleak_bark": "Мрачная кора",
+  "item.arsdelight.dawn_bark": "Рассветная Кора",
+  "item.arsdelight.dawnberry_hornbeer": "Донберри Хорнбир",
+  "item.arsdelight.dawnberry_pie_slice": "Кусок пирога с ягодами",
+  "item.arsdelight.dawnberry_tea": "Чай с ягодами рябины",
+  "item.arsdelight.fading_bark": "Увядающая кора",
+  "item.arsdelight.lightchee_hornbeer": "Лайтчи Хорнбир",
+  "item.arsdelight.lightchee_pie_slice": "Кусочек легкого пирога",
+  "item.arsdelight.lightchee_tea": "Чай Лайтчи",
+  "item.arsdelight.neutralized_dawnberry_jam": "Нейтрализованный джем из ягод рябины",
+  "item.arsdelight.neutralized_lightchee_jam": "Нейтрализованный джем из лайтчи",
+  "item.arsdelight.skittle_stew": "Кегли Рагу"
+}

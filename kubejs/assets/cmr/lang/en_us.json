@@ -24,10 +24,10 @@
   "cmr.ponder.snowman_cooler.text_4": "The feeding process can be automated using Deployers or Mechanical Arms",
   "cmr.recipe.block_spout": "Block Spouting",
   "cmr.recipe.fan_custom": "Fan with custom block",
+  "create.recipe.block_spout": "Block Spout",
   "create.recipe.fan_custom.fan": "Fan behind a block",
   "create.recipe.heat_requirement.cooled": "Cooled",
   "create.recipe.heat_requirement.frozen": "Frozen",
-  "create.recipe.block_spout": "Block Spout",
   "item.cmr.frozen_cake": "Frozen Cake",
   "item.cmr.frozen_cake_base": "Frozen Cake Base",
   "itemGroup.cmr": "Create: More Recipes"

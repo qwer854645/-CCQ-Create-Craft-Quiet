@@ -1,0 +1,23 @@
+[
+  {
+    "_comment": "钢锭、钢块与钢粒统一：createbigcannons:steel_ingot -> createnuclear:steel_ingot",
+    "matchItems": [
+      "createbigcannons:steel_ingot"
+    ],
+    "resultItems": "createnuclear:steel_ingot"
+  },
+  {
+    "_comment": "钢锭、钢块与钢粒统一：createbigcannons:steel_block -> createnuclear:steel_block",
+    "matchItems": [
+      "createbigcannons:steel_block"
+    ],
+    "resultItems": "createnuclear:steel_block"
+  },
+  {
+    "_comment": "钢锭、钢块与钢粒统一：createbigcannons:steel_scrap -> createnuclear:steel_nugget",
+    "matchItems": [
+      "createbigcannons:steel_scrap"
+    ],
+    "resultItems": "createnuclear:steel_nugget"
+  }
+]

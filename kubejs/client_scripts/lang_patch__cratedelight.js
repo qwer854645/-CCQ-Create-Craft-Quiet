@@ -1,0 +1,31 @@
+// Partial translation supplements. Original mod language files remain available.
+ClientEvents.lang("ru_ru", event => {
+  event.add("cratedelight", "block.cratedelight.beetroot_seeds_bag", "Мешок с семенами свеклы")
+  event.add("cratedelight", "block.cratedelight.blue_egg_crate", "Ящик с голубыми яйцами")
+  event.add("cratedelight", "block.cratedelight.bread_bag", "Мешок с хлебом")
+  event.add("cratedelight", "block.cratedelight.brown_egg_crate", "Ящик с коричневыми яйцами")
+  event.add("cratedelight", "block.cratedelight.leaf_litter_bag", "Мешок для мусора из листьев")
+  event.add("cratedelight", "block.cratedelight.melon_seeds_bag", "Мешок с семенами дыни")
+  event.add("cratedelight", "block.cratedelight.poisonous_potato_crate", "Ящик с ядовитым картофелем")
+  event.add("cratedelight", "block.cratedelight.pufferfish_crate", "Ящик с рыбой фугу")
+  event.add("cratedelight", "block.cratedelight.pumpkin_seeds_bag", "Семена тыквы")
+  event.add("cratedelight", "block.cratedelight.pumpkin_slice_crate", "Ящик с ломтиками тыквы")
+  event.add("cratedelight", "block.cratedelight.tropical_fish_crate", "Ящик с тропической рыбой")
+  event.add("cratedelight", "block.cratedelight.wheat_seeds_bag", "Семена пшеницы")
+})
+
+ClientEvents.lang("zh_cn", event => {
+  event.add("cratedelight", "block.cratedelight.beetroot_seeds_bag", "甜菜种子袋")
+  event.add("cratedelight", "block.cratedelight.blue_egg_crate", "蓝色鸡蛋板条箱")
+  event.add("cratedelight", "block.cratedelight.bread_bag", "面包袋")
+  event.add("cratedelight", "block.cratedelight.brown_egg_crate", "棕色鸡蛋板条箱")
+  event.add("cratedelight", "block.cratedelight.leaf_litter_bag", "落叶袋")
+  event.add("cratedelight", "block.cratedelight.melon_seeds_bag", "西瓜种子袋")
+  event.add("cratedelight", "block.cratedelight.poisonous_potato_crate", "毒马铃薯板条箱")
+  event.add("cratedelight", "block.cratedelight.pufferfish_crate", "河豚箱")
+  event.add("cratedelight", "block.cratedelight.pumpkin_seeds_bag", "南瓜种子袋")
+  event.add("cratedelight", "block.cratedelight.pumpkin_slice_crate", "南瓜片板条箱")
+  event.add("cratedelight", "block.cratedelight.tropical_fish_crate", "热带鱼箱")
+  event.add("cratedelight", "block.cratedelight.wheat_seeds_bag", "小麦种子袋")
+})
+

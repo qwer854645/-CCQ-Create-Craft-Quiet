@@ -3,20 +3,12 @@ keepBackpackOnDeath = true
 
 #Jetpack Upgrade
 [jetpack_upgrade]
-	#Enable Jetpack boosting while gliding with an Elytra equipped.
-	elytraBoostEnabled = true
-	#Multiplier for Jetpack fuel consumption while Elytra boosting.
-	# Default: 4
-	# Range: 1 ~ 10
-	elytraBoostMultiplier = 4
-	#Multiplier for Jetpack speed while Elytra boosting.
-	# Default: 1.5
-	# Range: 1.0 ~ 5.0
-	elytraBoostSpeedMultiplier = 1.5
 	#Should the mining speed penalty be applied when flying with the Jetpack and mining?
 	jetpackMiningPenalty = true
 	#Allow the use of the flight upgrade over the void in The End dimension.
 	jetpackAllowVoidFlight = false
+	#Enable Jetpack Modifiers. When disabled, the modifier slot is shaded red and accepts no modifiers, and any already fitted have no effect (they can still be removed).
+	jetpackModifiersEnabled = true
 
 #Jukebox Upgrade
 [jukebox_upgrade]

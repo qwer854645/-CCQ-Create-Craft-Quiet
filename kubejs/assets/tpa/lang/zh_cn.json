@@ -1,0 +1,22 @@
+{
+  "messages.tpa.backDisabled": "本服务器已禁用 /back！",
+  "messages.tpa.doubleRequest": "你已经发出过传送请求！",
+  "messages.tpa.inCooldown": "传送冷却中，还需 %s 秒！",
+  "messages.tpa.noBackLocation": "没有可返回的位置！",
+  "messages.tpa.noRequest": "你没有待处理的传送请求！",
+  "messages.tpa.receivedtpaRequest": "收到来自 %s 的传送请求",
+  "messages.tpa.receivedtpahereRequest": "收到来自 %s 的“传送到对方处”请求",
+  "messages.tpa.requestAccepted": "你接受了传送请求！",
+  "messages.tpa.requestCanceled": "你取消了传送请求！",
+  "messages.tpa.requestExpired": "传送请求已过期！",
+  "messages.tpa.requestsDisabled": "%s 已关闭传送请求！",
+  "messages.tpa.requestsToggledfalse": "已关闭传送请求！",
+  "messages.tpa.requestsToggledtrue": "已开启传送请求！",
+  "messages.tpa.selfRequest": "不能传送到自己这里！",
+  "messages.tpa.senderOffline": "该玩家已离线",
+  "messages.tpa.senttpaRequest": "已向 %s 发送传送到对方的请求！",
+  "messages.tpa.senttpahereRequest": "已向 %s 发送传送到你这里的请求！",
+  "messages.tpa.teleported": "已传送！",
+  "messages.tpa.teleporting": "%s 秒后传送……",
+  "messages.tpa.tpahereRequestAccepted": "对方接受了你的传送请求！"
+}

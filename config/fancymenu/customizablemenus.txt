@@ -54,9 +54,6 @@ net.minecraft.client.gui.screens.CreateBuffetWorldScreen {
 net.minecraft.client.gui.screens.EditServerScreen {
 }
 
-net.minecraft.client.gui.screens.options.OptionsScreen {
-}
-
 net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen {
 }
 
@@ -64,5 +61,11 @@ io.github.qwer854645.createresonance.content.kinetics.musicBox.MusicBoxScreen {
 }
 
 com.xeli.createvoidway.blocks.terminal.VoidNodeTerminalScreen {
+}
+
+ccq.core.compat.coe.OreVeinScannerScreen {
+}
+
+net.minecraft.client.gui.screens.options.OptionsScreen {
 }
 

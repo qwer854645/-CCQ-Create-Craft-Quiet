@@ -1,8 +1,4 @@
-//添加工业铁硬币的提示
-ItemEvents.modifyTooltips((event) => {
-  event.add("createdeco:industrial_iron_coin", "此币仅具有装饰价值，无流通作用");
-});
-//统一名字
-ClientEvents.lang("zh_cn", (event) => {
-  event.renameItem("createdeco:industrial_iron_coin", "工业铁币");
-});
+// The item name is maintained in the localization index.
+ItemEvents.modifyTooltips(event => {
+  event.add('createdeco:industrial_iron_coin', Text.translate('tooltip.ccq.createdeco.industrial_iron_coin'))
+})

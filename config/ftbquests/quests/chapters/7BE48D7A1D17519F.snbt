@@ -295,7 +295,8 @@
 			id: "61D72A3C70D17994"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "5C346B4D824A5144"
+				id: "0B52671C99607EED"
+				table_id: 3011077829130444474L
 				type: "loot"
 			}]
 			tasks: [{
@@ -311,7 +312,8 @@
 			id: "55E16FD9A3C6793B"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "790F6217A564172C"
+				id: "738BE6ED50610419"
+				table_id: 3011077829130444474L
 				type: "loot"
 			}]
 			tasks: [{
@@ -368,8 +370,8 @@
 				item: { count: 1, id: "cmr:snowman_cooler" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: 2.0d
+			x: 3.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["79E41F003C72BBE1"]
@@ -530,7 +532,7 @@
 					type: "item"
 				}
 			]
-			x: 3.5d
+			x: 0.5d
 			y: 2.0d
 		}
 		{
@@ -547,7 +549,24 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"778F52A97FA69916"
+				"35DAB157306DAA2F"
+			]
+			icon: {
+				id: "cmr:snowman_cooler"
+			}
+			id: "4F4A14428616EB35"
+			tasks: [{
+				id: "49F85CD53F94579F"
+				item: { count: 1, id: "createaddition:straw" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.0d
 		}
 	]
 }

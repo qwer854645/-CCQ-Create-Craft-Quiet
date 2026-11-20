@@ -1,0 +1,6 @@
+#世界生成相关配置
+#World generation configurations
+[worldgen]
+	#是否允许生成星落之庭；关闭后不再自然生成，也不会向旧存档补生成
+	#Whether Starfall Garden may generate. When disabled, it will not generate naturally or be retrofitted into old saves.
+	enableStarfallGarden = true

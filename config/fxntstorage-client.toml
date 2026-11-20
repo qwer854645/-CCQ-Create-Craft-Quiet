@@ -18,7 +18,7 @@ checkBackpackForToolboxItems = true
 [jetpack_upgrade]
 	#Hover behavior for the Jetpack Upgrade.
 	#ORIGINAL = hover locks to a fixed altitude,
-	#ALTERNATE = ascend (jump) / descend (sneak) freely while hovering, within flight range.
+	#ALTERNATE = creative-style flight: double-tap jump to start/stop flying, then ascend (jump) / descend (sneak) freely, within flight range.
 	#Allowed Values: ORIGINAL, ALTERNATE
 	jetpackHoverMode = "ORIGINAL"
 

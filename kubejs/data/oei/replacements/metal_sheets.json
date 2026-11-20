@@ -1,0 +1,32 @@
+[
+  {
+    "_comment": "金属板统一：vintageimprovements:andesite_sheet -> createdeco:andesite_sheet",
+    "matchItems": [
+      "vintageimprovements:andesite_sheet"
+    ],
+    "resultItems": "createdeco:andesite_sheet"
+  },
+  {
+    "_comment": "金属板统一：vintageimprovements:brass_sheet -> create:brass_sheet",
+    "matchItems": [
+      "vintageimprovements:brass_sheet"
+    ],
+    "resultItems": "create:brass_sheet"
+  },
+  {
+    "_comment": "金属板统一：vintageimprovements:platinum_sheet -> createpropulsion:platinum_sheet",
+    "matchItems": [
+      "vintageimprovements:platinum_sheet"
+    ],
+    "resultItems": "createpropulsion:platinum_sheet"
+  },
+  {
+    "_comment": "金属板统一：createdeco:zinc_sheet、createfisheryindustry:zinc_sheet、vintageimprovements:zinc_sheet -> createaddition:zinc_sheet",
+    "matchItems": [
+      "createdeco:zinc_sheet",
+      "createfisheryindustry:zinc_sheet",
+      "vintageimprovements:zinc_sheet"
+    ],
+    "resultItems": "createaddition:zinc_sheet"
+  }
+]

@@ -7,7 +7,7 @@ NeoForge 1.21.1 整合包配置仓库。本仓库保存整合包的自定义内�
 | 项目 | 版本 |
 |------|------|
 | Minecraft | 1.21.1 |
-| NeoForge | 21.1.233（见 `Create_Craft&Quiet.json`） |
+| NeoForge | 21.1.255（见 `Create_Craft&Quiet.json`） |
 | 启动器 | HMCL（推荐） |
 
 ## 仓库内容

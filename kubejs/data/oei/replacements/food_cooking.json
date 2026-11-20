@@ -1,0 +1,30 @@
+[
+  {
+    "_comment": "面粉、面团与熟食统一：kaleidoscope_cookery:flour -> create:wheat_flour",
+    "matchItems": [
+      "kaleidoscope_cookery:flour"
+    ],
+    "resultItems": "create:wheat_flour"
+  },
+  {
+    "_comment": "面粉、面团与熟食统一：farmersdelight:wheat_dough -> create:dough",
+    "matchItems": [
+      "farmersdelight:wheat_dough"
+    ],
+    "resultItems": "create:dough"
+  },
+  {
+    "_comment": "面粉、面团与熟食统一：expandeddelight:baked_sweet_potato -> veggiesdelight:baked_sweet_potato",
+    "matchItems": [
+      "expandeddelight:baked_sweet_potato"
+    ],
+    "resultItems": "veggiesdelight:baked_sweet_potato"
+  },
+  {
+    "_comment": "熟米饭统一为农夫乐事熟米饭。",
+    "matchItems": [
+      "kaleidoscope_cookery:cooked_rice"
+    ],
+    "resultItems": "farmersdelight:cooked_rice"
+  }
+]

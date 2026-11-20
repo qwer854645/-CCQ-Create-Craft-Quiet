@@ -44,3 +44,25 @@
 	ServerShootNetworkCheck = true
 	#[Debug Option] Do server-side shoot cooldown check or not. WARNING: Close this will disable the shoot cooldown check in server-side at all, which may lead to potential for cheating. Only consider to close this when you can't shoot at all sometimes.
 	ServerShootCooldownCheck = true
+	#Allow players to crawl without holding a TACZ gun. EnableCrawl must also be enabled
+	EnableCrawlWithoutGun = true
+	#Maximum upward look angle in degrees while crawling with a gun. Set both crawl angle limits to 90 for the full vanilla pitch range
+	# Default: 45.0
+	# Range: 0.0 ~ 90.0
+	CrawlMaxUpAngle = 45.0
+	#Maximum downward look angle in degrees while crawling with a gun
+	# Default: 30.0
+	# Range: 0.0 ~ 90.0
+	CrawlMaxDownAngle = 30.0
+	#Use only move or stand hip-fire inaccuracy while not on the ground, including jumping and falling. Ignore aiming, prone, and sneaking inaccuracy
+	UseHipFireInaccuracyWhileAirborne = false
+	#The farthest distance for the server to send bullet hit block effect packets, 0 means no limit
+	# Default: 128
+	# Range: > 0
+	BulletHitBlockEffectSendDistance = 128
+
+[gun_pegboard]
+	#Extra item ids allowed on the gun pegboard, in addition to TACZ guns, attachments, ammo, and ammo boxes
+	GunPegboardWhitelistItems = []
+	#Item ids denied on the gun pegboard. This list takes priority over the default allowed TACZ item types and whitelist
+	GunPegboardBlacklistItems = []

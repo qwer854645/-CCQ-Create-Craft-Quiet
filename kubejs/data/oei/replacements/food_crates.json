@@ -1,0 +1,16 @@
+[
+  {
+    "_comment": "食品储藏箱统一：culturaldelights:lemon_crate -> fruitsdelight:lemon_crate",
+    "matchItems": [
+      "culturaldelights:lemon_crate"
+    ],
+    "resultItems": "fruitsdelight:lemon_crate"
+  },
+  {
+    "_comment": "食品储藏箱统一：expandeddelight:sweet_potato_crate -> veggiesdelight:sweet_potato_crate",
+    "matchItems": [
+      "expandeddelight:sweet_potato_crate"
+    ],
+    "resultItems": "veggiesdelight:sweet_potato_crate"
+  }
+]

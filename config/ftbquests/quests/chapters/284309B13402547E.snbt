@@ -627,7 +627,7 @@
 			}]
 			tasks: [{
 				id: "057181A18369AF42"
-				item: { count: 1, id: "repackaged:fluid_packager" }
+				item: { count: 1, id: "fluidlogistics:fluid_packager" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -638,44 +638,17 @@
 			id: "1223726C46C7529B"
 			tasks: [{
 				id: "319FBF8CEF1C3FE8"
-				item: { count: 1, id: "repackaged:fluid_gauge" }
+				item: { count: 1, id: "fluidlogistics:fluid_factory_gauge" }
 				type: "item"
 			}]
 			x: -1.0d
 			y: -2.5d
 		}
-		{
-			dependencies: ["50BFA353AF7090A4"]
-			id: "030AF5CE3661543D"
-			tasks: [{
-				id: "2C7CAED7736D70B0"
-				item: { count: 1, id: "repackaged:energy_gauge" }
-				type: "item"
-			}]
-			x: 2.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["57A5CE0FF5AC67F6"]
-			id: "50BFA353AF7090A4"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "0CAD58FD519CC54B"
-				table_id: 742263138327196441L
-				type: "loot"
-			}]
-			tasks: [{
-				id: "61CD0E068060DDBC"
-				item: { count: 1, id: "repackaged:battery_charger" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: -1.0d
-		}
+
+
 		{
 			dependencies: [
 				"24FD16617C2D8B1D"
-				"50BFA353AF7090A4"
 			]
 			id: "72E0AC1DE5AEB717"
 			rewards: [{
@@ -685,7 +658,7 @@
 			}]
 			tasks: [{
 				id: "6EE6890D6AB1F1B3"
-				item: { count: 1, id: "repackaged:packager_connector" }
+				item: { count: 1, id: "fluidlogistics:fluid_inventory_access_port" }
 				type: "item"
 			}]
 			x: 1.0d
@@ -701,7 +674,7 @@
 			}]
 			tasks: [{
 				id: "3CB903804E73B016"
-				item: { count: 1, id: "repackaged:package_shelf" }
+				item: { count: 1, id: "fluidlogistics:copper_frogport" }
 				type: "item"
 			}]
 			x: 2.5d

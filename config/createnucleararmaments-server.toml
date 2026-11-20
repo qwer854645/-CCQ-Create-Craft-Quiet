@@ -2,9 +2,6 @@
 		# Default: 5
 		# Range: 1 ~ 10000
 		yieldKilotons = 5
-		# Default: 12
-		# Range: 1 ~ 1024
-		billetCost = 12
 		# Default: 320.0
 		# Range: 1.0 ~ 2000.0
 		entityExplosionPower = 320.0
@@ -23,9 +20,6 @@
 		# Default: 25
 		# Range: 1 ~ 10000
 		yieldKilotons = 25
-		# Default: 48
-		# Range: 1 ~ 1024
-		billetCost = 48
 		# Default: 560.0
 		# Range: 1.0 ~ 2000.0
 		entityExplosionPower = 560.0
@@ -44,9 +38,6 @@
 		# Default: 100
 		# Range: 1 ~ 10000
 		yieldKilotons = 100
-		# Default: 192
-		# Range: 1 ~ 1024
-		billetCost = 192
 		# Default: 960.0
 		# Range: 1.0 ~ 2000.0
 		entityExplosionPower = 960.0
@@ -63,15 +54,15 @@
 
 #Secondary effect budgets. Primary crater still clears in one tick.
 [performance]
-	#Max fallout columns processed per server tick.
+	#World-wide fallout budget per tick, in units of 64 block visits (legacy key name).
 	# Default: 4096
 	# Range: 256 ~ 32768
 	falloutColumnsPerTick = 4096
-	#Max real TNT-style rim explosions per tick for edge fracture.
+	#World-wide maximum real TNT-style rim explosions per tick.
 	# Default: 16
 	# Range: 0 ~ 64
 	edgeRealExplodesPerTick = 16
-	#Max cheap visual rim breaks per tick for edge fracture.
+	#World-wide maximum visual rim breaks per tick.
 	# Default: 90
 	# Range: 0 ~ 256
 	edgeVisualFracturesPerTick = 90

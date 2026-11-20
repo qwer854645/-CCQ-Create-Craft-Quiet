@@ -306,6 +306,8 @@
 		"Enable Lava Interaction" = true
 		"Allow Opening Shulker Boxes" = true
 		"Allow Rotating Bundles" = true
+		#Set this to true to use left clicks instead of right clicks for all Expanded Item Interactions. Some JEI hints may be incorrect if this is enabled
+		"Invert Clicks" = false
 
 	[management.hotbar_changer]
 		"Animation Time" = 7.0
@@ -640,6 +642,8 @@
 	[tweaks.lock_rotation]
 		#When true, lock rotation indicator in the same style as crosshair
 		"Render Like Cross Hair" = true
+		#When true, the keybind for rotation lock will be displayed next to the indicator
+		"Show Keybind" = true
 
 	[tweaks.map_washing]
 		#This feature disables itself if any of the following mods are loaded:

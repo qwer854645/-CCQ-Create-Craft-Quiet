@@ -130,7 +130,7 @@ voidBatteryDryTransferMaxLossDistanceBlocks = 1000
 # Range: 0 ~ 10000000
 voidMotorInputMaxStressCapacity = 10240
 #Maximum stress capacity (SU) of a single void motor output.
-#Stress scales with RPM and reaches this value at 256 RPM (and is capped above that).
+#Active outputs share channel capacity equally, independently of their configured RPM.
 # Default: 10240
 # Range: 0 ~ 10000000
 voidMotorOutputMaxStressCapacity = 10240

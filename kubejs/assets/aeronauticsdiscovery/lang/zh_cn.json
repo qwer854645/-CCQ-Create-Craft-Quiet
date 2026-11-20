@@ -1,0 +1,21 @@
+{
+  "bridge.aeronauticsdiscovery.cannot_place": "无法在桥梁上放置方块",
+  "bridge.aeronauticsdiscovery.full": "桥梁已满",
+  "entity.aeronauticsdiscovery.pillager_aviator": "掠夺者飞行员",
+  "entity.aeronauticsdiscovery.soaring_trader": "翱翔商人",
+  "filled_map.aeronauticsdiscovery.ancient_city": "远古城市地图",
+  "filled_map.aeronauticsdiscovery.desert_pyramid": "沙漠神殿地图",
+  "filled_map.aeronauticsdiscovery.igloo": "雪屋地图",
+  "filled_map.aeronauticsdiscovery.jungle_temple": "丛林神殿地图",
+  "filled_map.aeronauticsdiscovery.mineshaft": "废弃矿井地图",
+  "filled_map.aeronauticsdiscovery.trail_ruins": "古迹废墟地图",
+  "filled_map.village_desert": "沙漠村庄地图",
+  "filled_map.village_plains": "平原村庄地图",
+  "filled_map.village_savanna": "热带草原村庄地图",
+  "filled_map.village_snowy": "雪原村庄地图",
+  "filled_map.village_taiga": "针叶林村庄地图",
+  "item.aeronauticsdiscovery.pillager_aviator_spawn_egg": "掠夺者飞行员刷怪蛋",
+  "item.aeronauticsdiscovery.pin_wand": "固定权杖",
+  "item.aeronauticsdiscovery.soaring_trader_spawn_egg": "翱翔商人刷怪蛋",
+  "itemGroup.aeronauticsdiscovery.main": "机械动力航空：探索"
+}

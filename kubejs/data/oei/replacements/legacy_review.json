@@ -1,0 +1,9 @@
+[
+  {
+    "_comment": "按用户要求修正 expandeddelight 的拼写；保留原目标 minecraft:air，用于移除该曲奇。",
+    "matchItems": [
+      "expandeddelight:chocolate_cookie"
+    ],
+    "resultItems": "minecraft:air"
+  }
+]

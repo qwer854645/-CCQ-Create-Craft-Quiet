@@ -62,6 +62,7 @@
 			y: -0.5d
 		}
 		{
+			can_repeat: true
 			icon: {
 				components: {
 					"minecraft:profile": {
@@ -96,8 +97,8 @@
 							name: "yushu_ouo"
 							properties: [{
 								name: "textures"
-								signature: "NEwidn4Wf9MZZ+/8te6O3aVG2M8bkG/jmKI8d+tRT61JlsVtTu55bdrZqQDTJKrYoYObudRhMfo0WNzLGL0mVcObEf7p91GPkUG/vjkYO1Odh6sf3TLpIeLwLTxqplcqFUa2vnQb9XgqiQGWWtfV8ZnKklZfVwOc0BOu+YFouO9WUgYPvDr/KVlemMRWox9uiOvNcEO52W8SjluKgMaATnudLbhjTX5NAZSazI4l5nqRacS92V45hcJOfhWCYCuzXR76dHpampTxhGCHCOm01ChQzg4PcNlNFnZ/xASjRfY0vOqHaTa0LpgtQUCz9dBVFtPUgCO7BYOcUdskzxsmKgBjE6grPsuQrAmCdDzHL0J+pt5mJa6nNeTdJrXP+LJc1WVHnrdNCh+qz9f/1sHFTZPACVQqJJsEX+k6rXzp58SHjnf5zMtWwVk6ZhhthsOb6PYlrg7HqpNpu5pc7SLLkGTeg1QYyymrNg7MvSMlyWy6H1hXkl/ggIO/fmq5V+Ct6PAytz3TBkmUuyMF7twV2d6fOnbz+yfrf3CG8OuzfUusFsEG9GrCaTbWPoJ9FtzdAespPECPn7OlMx8oiOmWMz4S50yZx6KbNR+8+uSPHzb0HWCuiJ7xRtupxNv9ggbB9233tgyylfDvglR+JaqqEnz60BAJAzsV9CthnIHVZig="
-								value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwNjIyMTc3NiwKICAicHJvZmlsZUlkIiA6ICJjMGU0ZmM0NTI3YzM0MTNjYWVlMjRiMTMwMmUzOGMwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXNodV9vdW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkYTg0NTVlYzAxZWJjMWVjN2IxYWIzNmNmZTdjZjcxMTg5NzJmOGNjMDMwZGIyOGQwMmQwMjc0YWI2YzU0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9"
+								signature: "AP9CF4uQL7Ajdtm2arzgbP1s2kXuCVwyy8L+R/Chciui5YNDsm6omxuv2L84ztausNIrAMn5A24CZ6TCKpdSVwhpygjmJBtXoULp1eTyViSaYnglJp6G9v9e1O+uszKegUzyjgcVma5oImiSHrpvgB1DLSCTEWsCCw7mXHNzOGF7ugNX+35nolCHeNX6ma15XufCfiVlSkaFtIQSZd30tZouzZi07tlFqc7LdCLcHrCFLdz6EQJyDtISUmQ9vJwDHPBr/LuncGPxAkzCLEBRUYniAKXw0XtF+V94hytm6+vO4Ttx9H5jTXA/C3Qb8yQI6PUMiP1lPTpfYdvKkSCFjS5YrqAcKHnVH3WeejH11pydlB+QfBFahrJZjQUlHV9fZHg1/EOgCF+hghrkheiSwJDx1BgihzHlZ6s6wMRSYgPlD5pbSJNmElqMM+cYgjsVI1/yAW04kE376noCpn/6xpOQbdac2hA1iXgCgWHKnHjPcAVfLUl33l4wB5vWw00PSXG3nUXBSvlQYd6Tq5O0V4cr9ca52nTWSJFjfQMigVFHp0h7dRUrixVG5zCmoyPpvhtTXa2sZaWbsDuUQaBkPyHYnTtbX6crRTdudpy43Uh342yOYEXYBoA1cOT7IGsSeuol3l4xLh+vDzoGKxr1wuUaC0fdr8GPkdfV1bm0l2s="
+								value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MTcyOTczNzgwNSwKICAicHJvZmlsZUlkIiA6ICJjMGU0ZmM0NTI3YzM0MTNjYWVlMjRiMTMwMmUzOGMwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXNodV9vdW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkYTg0NTVlYzAxZWJjMWVjN2IxYWIzNmNmZTdjZjcxMTg5NzJmOGNjMDMwZGIyOGQwMmQwMjc0YWI2YzU0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9"
 							}]
 						}
 					}
@@ -107,12 +108,69 @@
 				type: "item"
 			}]
 			tasks: [{
+				consume_items: true
 				count: 16L
 				id: "61725B95CA053FBB"
 				item: { count: 1, id: "numismatics:sun" }
 				type: "item"
 			}]
 			x: 3.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"minecraft:profile": {
+						id: [I;
+							-1058735035
+							667107644
+							-1360901357
+							48466955
+						]
+						name: "yushu_ouo"
+						properties: [{
+							name: "textures"
+							signature: "NEwidn4Wf9MZZ+/8te6O3aVG2M8bkG/jmKI8d+tRT61JlsVtTu55bdrZqQDTJKrYoYObudRhMfo0WNzLGL0mVcObEf7p91GPkUG/vjkYO1Odh6sf3TLpIeLwLTxqplcqFUa2vnQb9XgqiQGWWtfV8ZnKklZfVwOc0BOu+YFouO9WUgYPvDr/KVlemMRWox9uiOvNcEO52W8SjluKgMaATnudLbhjTX5NAZSazI4l5nqRacS92V45hcJOfhWCYCuzXR76dHpampTxhGCHCOm01ChQzg4PcNlNFnZ/xASjRfY0vOqHaTa0LpgtQUCz9dBVFtPUgCO7BYOcUdskzxsmKgBjE6grPsuQrAmCdDzHL0J+pt5mJa6nNeTdJrXP+LJc1WVHnrdNCh+qz9f/1sHFTZPACVQqJJsEX+k6rXzp58SHjnf5zMtWwVk6ZhhthsOb6PYlrg7HqpNpu5pc7SLLkGTeg1QYyymrNg7MvSMlyWy6H1hXkl/ggIO/fmq5V+Ct6PAytz3TBkmUuyMF7twV2d6fOnbz+yfrf3CG8OuzfUusFsEG9GrCaTbWPoJ9FtzdAespPECPn7OlMx8oiOmWMz4S50yZx6KbNR+8+uSPHzb0HWCuiJ7xRtupxNv9ggbB9233tgyylfDvglR+JaqqEnz60BAJAzsV9CthnIHVZig="
+							value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwNjIyMTc3NiwKICAicHJvZmlsZUlkIiA6ICJjMGU0ZmM0NTI3YzM0MTNjYWVlMjRiMTMwMmUzOGMwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXNodV9vdW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkYTg0NTVlYzAxZWJjMWVjN2IxYWIzNmNmZTdjZjcxMTg5NzJmOGNjMDMwZGIyOGQwMmQwMjc0YWI2YzU0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9"
+						}]
+					}
+				}
+				id: "minecraft:player_head"
+			}
+			id: "68F94477CE90D641"
+			rewards: [{
+				id: "2C95E28B03E5537B"
+				item: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								-1058735035
+								667107644
+								-1360901357
+								48466955
+							]
+							name: "yushu_ouo"
+							properties: [{
+								name: "textures"
+								signature: "AP9CF4uQL7Ajdtm2arzgbP1s2kXuCVwyy8L+R/Chciui5YNDsm6omxuv2L84ztausNIrAMn5A24CZ6TCKpdSVwhpygjmJBtXoULp1eTyViSaYnglJp6G9v9e1O+uszKegUzyjgcVma5oImiSHrpvgB1DLSCTEWsCCw7mXHNzOGF7ugNX+35nolCHeNX6ma15XufCfiVlSkaFtIQSZd30tZouzZi07tlFqc7LdCLcHrCFLdz6EQJyDtISUmQ9vJwDHPBr/LuncGPxAkzCLEBRUYniAKXw0XtF+V94hytm6+vO4Ttx9H5jTXA/C3Qb8yQI6PUMiP1lPTpfYdvKkSCFjS5YrqAcKHnVH3WeejH11pydlB+QfBFahrJZjQUlHV9fZHg1/EOgCF+hghrkheiSwJDx1BgihzHlZ6s6wMRSYgPlD5pbSJNmElqMM+cYgjsVI1/yAW04kE376noCpn/6xpOQbdac2hA1iXgCgWHKnHjPcAVfLUl33l4wB5vWw00PSXG3nUXBSvlQYd6Tq5O0V4cr9ca52nTWSJFjfQMigVFHp0h7dRUrixVG5zCmoyPpvhtTXa2sZaWbsDuUQaBkPyHYnTtbX6crRTdudpy43Uh342yOYEXYBoA1cOT7IGsSeuol3l4xLh+vDzoGKxr1wuUaC0fdr8GPkdfV1bm0l2s="
+								value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MTcyOTczNzgwNSwKICAicHJvZmlsZUlkIiA6ICJjMGU0ZmM0NTI3YzM0MTNjYWVlMjRiMTMwMmUzOGMwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXNodV9vdW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkYTg0NTVlYzAxZWJjMWVjN2IxYWIzNmNmZTdjZjcxMTg5NzJmOGNjMDMwZGIyOGQwMmQwMjc0YWI2YzU0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9"
+							}]
+						}
+					}
+					count: 1
+					id: "minecraft:player_head"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "738DB7EF616F4762"
+				item: { count: 1, id: "numismatics:sun" }
+				type: "item"
+			}]
+			x: 5.0d
 			y: -0.5d
 		}
 	]

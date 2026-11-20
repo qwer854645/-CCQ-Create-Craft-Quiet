@@ -1,0 +1,14 @@
+{
+  "structure.aeronauticsdiscovery.balloon_loot": "气球宝箱",
+  "structure.cr_aero_structures.airballoon": "热气球",
+  "structure.cr_aero_structures.airship": "飞艇",
+  "structure.cr_aero_structures.boat": "船只",
+  "structure.cr_aero_structures.crash_airballoon": "坠毁热气球",
+  "structure.cr_aero_structures.crash_airship": "坠毁飞艇",
+  "structure.cr_aero_structures.crash_pillager_airballoon": "掠夺者坠毁热气球",
+  "structure.cr_aero_structures.crash_pillager_airship": "掠夺者坠毁飞艇",
+  "structure.cr_aero_structures.crash_plane": "坠毁飞机",
+  "structure.cr_aero_structures.engineering_house": "工程屋",
+  "structure.cr_aero_structures.pillager_airballoon": "掠夺者热气球",
+  "structure.cr_aero_structures.pillager_airship": "掠夺者飞艇"
+}

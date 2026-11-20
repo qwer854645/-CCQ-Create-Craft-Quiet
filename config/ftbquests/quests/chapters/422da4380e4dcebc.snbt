@@ -175,7 +175,7 @@
 					consume_items: true
 					count: 100000L
 					id: "57DAA8C4825E4BD5"
-					item: { count: 1, id: "cookscollection:lemon_log" }
+					item: { count: 1, id: "culturaldelights:lemon_log" }
 					type: "item"
 				}
 				{
@@ -603,6 +603,25 @@
 		}
 		{
 			can_repeat: true
+			icon: {
+				components: {
+					"minecraft:profile": {
+						id: [I;
+							-1058735035
+							667107644
+							-1360901357
+							48466955
+						]
+						name: "yushu_ouo"
+						properties: [{
+							name: "textures"
+							signature: "NEwidn4Wf9MZZ+/8te6O3aVG2M8bkG/jmKI8d+tRT61JlsVtTu55bdrZqQDTJKrYoYObudRhMfo0WNzLGL0mVcObEf7p91GPkUG/vjkYO1Odh6sf3TLpIeLwLTxqplcqFUa2vnQb9XgqiQGWWtfV8ZnKklZfVwOc0BOu+YFouO9WUgYPvDr/KVlemMRWox9uiOvNcEO52W8SjluKgMaATnudLbhjTX5NAZSazI4l5nqRacS92V45hcJOfhWCYCuzXR76dHpampTxhGCHCOm01ChQzg4PcNlNFnZ/xASjRfY0vOqHaTa0LpgtQUCz9dBVFtPUgCO7BYOcUdskzxsmKgBjE6grPsuQrAmCdDzHL0J+pt5mJa6nNeTdJrXP+LJc1WVHnrdNCh+qz9f/1sHFTZPACVQqJJsEX+k6rXzp58SHjnf5zMtWwVk6ZhhthsOb6PYlrg7HqpNpu5pc7SLLkGTeg1QYyymrNg7MvSMlyWy6H1hXkl/ggIO/fmq5V+Ct6PAytz3TBkmUuyMF7twV2d6fOnbz+yfrf3CG8OuzfUusFsEG9GrCaTbWPoJ9FtzdAespPECPn7OlMx8oiOmWMz4S50yZx6KbNR+8+uSPHzb0HWCuiJ7xRtupxNv9ggbB9233tgyylfDvglR+JaqqEnz60BAJAzsV9CthnIHVZig="
+							value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwNjIyMTc3NiwKICAicHJvZmlsZUlkIiA6ICJjMGU0ZmM0NTI3YzM0MTNjYWVlMjRiMTMwMmUzOGMwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXNodV9vdW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkYTg0NTVlYzAxZWJjMWVjN2IxYWIzNmNmZTdjZjcxMTg5NzJmOGNjMDMwZGIyOGQwMmQwMjc0YWI2YzU0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9"
+						}]
+					}
+				}
+				id: "minecraft:player_head"
+			}
 			id: "3FBB2338360A85CB"
 			rewards: [
 				{
@@ -621,7 +640,7 @@
 			tasks: [{
 				consume_items: true
 				id: "3586BC6F3CEDAC08"
-				item: { components: { "minecraft:profile": { id: [I; -1058735035, 667107644, -1360901357, 48466955 ], name: "yushu_ouo", properties: [{ name: "textures", signature: "NEwidn4Wf9MZZ+/8te6O3aVG2M8bkG/jmKI8d+tRT61JlsVtTu55bdrZqQDTJKrYoYObudRhMfo0WNzLGL0mVcObEf7p91GPkUG/vjkYO1Odh6sf3TLpIeLwLTxqplcqFUa2vnQb9XgqiQGWWtfV8ZnKklZfVwOc0BOu+YFouO9WUgYPvDr/KVlemMRWox9uiOvNcEO52W8SjluKgMaATnudLbhjTX5NAZSazI4l5nqRacS92V45hcJOfhWCYCuzXR76dHpampTxhGCHCOm01ChQzg4PcNlNFnZ/xASjRfY0vOqHaTa0LpgtQUCz9dBVFtPUgCO7BYOcUdskzxsmKgBjE6grPsuQrAmCdDzHL0J+pt5mJa6nNeTdJrXP+LJc1WVHnrdNCh+qz9f/1sHFTZPACVQqJJsEX+k6rXzp58SHjnf5zMtWwVk6ZhhthsOb6PYlrg7HqpNpu5pc7SLLkGTeg1QYyymrNg7MvSMlyWy6H1hXkl/ggIO/fmq5V+Ct6PAytz3TBkmUuyMF7twV2d6fOnbz+yfrf3CG8OuzfUusFsEG9GrCaTbWPoJ9FtzdAespPECPn7OlMx8oiOmWMz4S50yZx6KbNR+8+uSPHzb0HWCuiJ7xRtupxNv9ggbB9233tgyylfDvglR+JaqqEnz60BAJAzsV9CthnIHVZig=", value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDUwNjIyMTc3NiwKICAicHJvZmlsZUlkIiA6ICJjMGU0ZmM0NTI3YzM0MTNjYWVlMjRiMTMwMmUzOGMwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXNodV9vdW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkYTg0NTVlYzAxZWJjMWVjN2IxYWIzNmNmZTdjZjcxMTg5NzJmOGNjMDMwZGIyOGQwMmQwMjc0YWI2YzU0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9" }] } }, count: 1, id: "minecraft:player_head" }
+				item: { components: { "minecraft:profile": { id: [I; -1058735035, 667107644, -1360901357, 48466955 ], name: "yushu_ouo", properties: [{ name: "textures", signature: "AP9CF4uQL7Ajdtm2arzgbP1s2kXuCVwyy8L+R/Chciui5YNDsm6omxuv2L84ztausNIrAMn5A24CZ6TCKpdSVwhpygjmJBtXoULp1eTyViSaYnglJp6G9v9e1O+uszKegUzyjgcVma5oImiSHrpvgB1DLSCTEWsCCw7mXHNzOGF7ugNX+35nolCHeNX6ma15XufCfiVlSkaFtIQSZd30tZouzZi07tlFqc7LdCLcHrCFLdz6EQJyDtISUmQ9vJwDHPBr/LuncGPxAkzCLEBRUYniAKXw0XtF+V94hytm6+vO4Ttx9H5jTXA/C3Qb8yQI6PUMiP1lPTpfYdvKkSCFjS5YrqAcKHnVH3WeejH11pydlB+QfBFahrJZjQUlHV9fZHg1/EOgCF+hghrkheiSwJDx1BgihzHlZ6s6wMRSYgPlD5pbSJNmElqMM+cYgjsVI1/yAW04kE376noCpn/6xpOQbdac2hA1iXgCgWHKnHjPcAVfLUl33l4wB5vWw00PSXG3nUXBSvlQYd6Tq5O0V4cr9ca52nTWSJFjfQMigVFHp0h7dRUrixVG5zCmoyPpvhtTXa2sZaWbsDuUQaBkPyHYnTtbX6crRTdudpy43Uh342yOYEXYBoA1cOT7IGsSeuol3l4xLh+vDzoGKxr1wuUaC0fdr8GPkdfV1bm0l2s=", value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MTcyOTczNzgwNSwKICAicHJvZmlsZUlkIiA6ICJjMGU0ZmM0NTI3YzM0MTNjYWVlMjRiMTMwMmUzOGMwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXNodV9vdW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJkYTg0NTVlYzAxZWJjMWVjN2IxYWIzNmNmZTdjZjcxMTg5NzJmOGNjMDMwZGIyOGQwMmQwMjc0YWI2YzU0MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkOWQ4MmFiMTdmZDkyMDIyZGJkNGE4NmNkZTRjMzgyYTc1NDBlMTE3ZmFlN2I5YTI4NTM2NTg1MDVhODA2MjUiCiAgICB9CiAgfQp9" }] } }, count: 1, id: "minecraft:player_head" }
 				match_components: "fuzzy"
 				type: "item"
 			}]
@@ -698,6 +717,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "2F31DA1CB8A0BAAE"
 				item: { count: 1, id: "minecraft:oak_log" }
 				type: "item"
@@ -750,6 +770,223 @@
 				type: "custom"
 			}]
 			x: 6.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "7C8D494EC6F3FDAD"
+			rewards: [{
+				id: "5114C062215E2457"
+				item: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								-1919890616
+								-473611146
+								-1628626773
+								1560975963
+							]
+							name: "YueNan_purple"
+							properties: [{
+								name: "textures"
+								signature: "VyZYlZyywryt3Xqt5k+fp8ic+yvv9FjCUd+jFHz0DaWJBfPoXCeyrcD+10vfXGWUHXk8yuHPJSWmN063p5VfvcKC8lYozW713y0tPgTxc8GbCeURl1BY3DitcX741UO9Nib34KVeyW/QpF3C+XDLpvyVswMdtr3UcA1WxUWOQEkv1xk00fZ5zoZMic5CKMBu01WkxhJ+s7i6AkSe57WNnHpunxrHUAEBrFCOzfOBkUFSl0qkrHaQXHmmdlzgVI6HpnSJbi6OgbDhGFdkIfH98up0KX3kDYjenKRPOG/8cEzd1auU8mo4ayoZb0kboStof1MyrnMTU3dJu5jDDunetgS7YsmSlGeZz+nEg9WVdMkoXmoVV1a/RDjArr2bFWR72MoxzS0kzvalyo8bfWrUReTxluiKuAIuzyDMiyLzfh5ERlZGwEmUNPw7DKqaABKqbMWj+SarQOWW2X3YFx3v+QlNFBOlR1RSO0wTssdoUsOPsUEXhghVDilHDhSW76DcJoNQaPr9hIBWJcS8kFvmtZGKAgvW9uiNi1jkUe3WG7IwtMy7uXDvhu7tlVbtwtafarKBNrCPcaNW1zL/oBJA+M7OoOpRgLOPlyabq2/D4Tas30FYCoVdvXEOqtVILr+pZn02/tu0CKPWT7+3EQlYES7Zofjx9+pveUmX/IPgE1s="
+								value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDk0ODg4NDEwMiwKICAicHJvZmlsZUlkIiA6ICI4ZDkwY2I0OGUzYzU0NDc2OWVlZDIwYWI1ZDBhOWE1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdWVOYW5fcHVycGxlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzZGVhODZiMzBlNzdjZDk4NjM4ZDBkMjMwMjU0ODI5ODEyMTM4YjJmZGRlYzE1NTk3OTZmYTk2NjUzYTgxOGMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZWM5MzBjZGQyNjI5Yzg3NzE2NTVjNjBlZWJlYjg2N2I0YjY1NTliMGU2ZDNiYzcxYzQwYzk2MzQ3ZmEwM2YwIgogICAgfQogIH0KfQ=="
+							}]
+						}
+					}
+					count: 1
+					id: "minecraft:player_head"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "6535BCF99B264A21"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"minecraft:profile": {
+						id: [I;
+							1684110289
+							1003899854
+							-1130257729
+							-151498218
+						]
+						name: "MiroxZ"
+						properties: [{
+							name: "textures"
+							signature: "RJZmTbxub/qRj/kuX1od5tidlzraUssTI/YB64VvzlLNyF2xVhARODV1lrODxU1VeOQ4ezUJW7hMUMxj5cQ8kBlQ6rX3sn0DwjXYS1J1mDWu1CdtoM3vFrU8EjFtKmCZQG+nZVpXFkuRIIqKOAmg0IiEzywLNszocfENrVNTLyWxDmI/6hN3z3QtXAKRvFk1eU3V6mVOa2KmSCNFTr64fMasCrHhiv88G70hasE06JNhjPCGQLfYXI6qW7//gCFpXg2BkOH8DS+xdTayAo/a3jRm5DqlCGB7Q7XzHqzimqyPGvDIv2acwbtRl1jUveRUxIDI0jUryTivjHnN6h2rKyVbTJqGvxQMlGYUqJFVcSHcXbJqjMbBjxbs7jmUVUWgkZHeRWU+7p+VRzHdmBRVizyeUX7yvTDm/NUKCowtaIhhw8Z+NLIpzaw0e14Spbss1FqaJS1ZFujuKBEjXmEO9UZdXIxhIcImnAjPQVHuFv0DR+yr717WX2SdjbyeC0lv8AXwtPkZdnk40APKBBLpiqQHQQyuROL3K3mZrNeNGK1eZEB7M0JTIAchduWzKKkqX/OEo0IRWAruY423U+QcbLcuIYbQ/2trkrdF0IZ90iC4lYnNf48QkDnYyjYrddJsscF+7Fcl43CjAeGKOGxtEi1zIyxeIhPndVTwg4iSa6w="
+							value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDk0ODg4NDg3NiwKICAicHJvZmlsZUlkIiA6ICI2NDYxN2JkMTNiZDY0YmNlYmNhMWEyYmZmNmY4NTIxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaXJveFoiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFlMTA1ZmMzZWFhZjY3YWNmNjdkN2IwMTIwYzFiZGVmNWZiOTA5YzMxOWYwMzAzNzU1ZWMwYzM2YWYzOWY0MSIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0="
+						}]
+					}
+				}
+				id: "minecraft:player_head"
+			}
+			id: "036FD678BAD07288"
+			rewards: [
+				{
+					id: "7E010B6D2E335EDC"
+					item: {
+						components: {
+							"minecraft:profile": {
+								id: [I;
+									1684110289
+									1003899854
+									-1130257729
+									-151498218
+								]
+								name: "MiroxZ"
+								properties: [{
+									name: "textures"
+									signature: "RJZmTbxub/qRj/kuX1od5tidlzraUssTI/YB64VvzlLNyF2xVhARODV1lrODxU1VeOQ4ezUJW7hMUMxj5cQ8kBlQ6rX3sn0DwjXYS1J1mDWu1CdtoM3vFrU8EjFtKmCZQG+nZVpXFkuRIIqKOAmg0IiEzywLNszocfENrVNTLyWxDmI/6hN3z3QtXAKRvFk1eU3V6mVOa2KmSCNFTr64fMasCrHhiv88G70hasE06JNhjPCGQLfYXI6qW7//gCFpXg2BkOH8DS+xdTayAo/a3jRm5DqlCGB7Q7XzHqzimqyPGvDIv2acwbtRl1jUveRUxIDI0jUryTivjHnN6h2rKyVbTJqGvxQMlGYUqJFVcSHcXbJqjMbBjxbs7jmUVUWgkZHeRWU+7p+VRzHdmBRVizyeUX7yvTDm/NUKCowtaIhhw8Z+NLIpzaw0e14Spbss1FqaJS1ZFujuKBEjXmEO9UZdXIxhIcImnAjPQVHuFv0DR+yr717WX2SdjbyeC0lv8AXwtPkZdnk40APKBBLpiqQHQQyuROL3K3mZrNeNGK1eZEB7M0JTIAchduWzKKkqX/OEo0IRWAruY423U+QcbLcuIYbQ/2trkrdF0IZ90iC4lYnNf48QkDnYyjYrddJsscF+7Fcl43CjAeGKOGxtEi1zIyxeIhPndVTwg4iSa6w="
+									value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDk0ODg4NDg3NiwKICAicHJvZmlsZUlkIiA6ICI2NDYxN2JkMTNiZDY0YmNlYmNhMWEyYmZmNmY4NTIxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaXJveFoiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFlMTA1ZmMzZWFhZjY3YWNmNjdkN2IwMTIwYzFiZGVmNWZiOTA5YzMxOWYwMzAzNzU1ZWMwYzM2YWYzOWY0MSIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0="
+								}]
+							}
+						}
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+				{
+					id: "01E0E295D7936D47"
+					item: {
+						count: 1
+						id: "quark:diamond_heart"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "2F201FEB47049B6F"
+				item: { count: 1, id: "advancednetherite:netherite_diamond_ingot" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				components: {
+					"minecraft:profile": {
+						id: [I;
+							-1617816827
+							1270302185
+							-1077639444
+							997821820
+						]
+						name: "nomalfrost"
+						properties: [{
+							name: "textures"
+							signature: "oi7t0htPd1idLvYKRIxmuK5+U6OwujzKB0Jp2bHKXxZZbvSkTylhB2eCSTN6jnd/JHj0UQLXDtObCLBsNGo2qbbmU02YP1vK0yVX7lGg2lpHFNST2L+ZHRqkqCzbi/CYOmaTErEtdVw6/iWdCaukTgRZJ3d4jmT34JzM6+KKk4SjA36eYFfvozMaJhubZ6HEzJhcZvXoRgTUb+sp1Q8gWuVvF6b5Ag+qpmF8g1z5VBPBNGnFiirn98HNBPF/aZmfgbC6BoLxCOSoOreiJYY7P0m25N+hBB6gge40TKHQpjHEmnyw475PMhG53WyWrumnCqVovko2o3G4xNDzF5ChvpF7OfGFkGudrCGgKstF274Fdy/8uV84/Sn16mEMhIhhmlEEjwJ1yUM1fPw7PJpZ0C3YZMTYhYwAMvdEf07W0TM3cOOueiaON80Bta7aYS16uAbIAiABaIA2HyDNyXLpvazwpnjFUy6ns46XGUtfdATNbPnPr2EpzdFUsTqoTxfoB2ezKHY9qBgvmyRrpQq/ROYGBatbYEaiCkitI7fCb9CqWVI0K+5CnrzV0Fr1whD2/6bmZ9Qx+pGIq3dnGGlR6jOSAzvfUNZ4jlBIAARWTUa9Z0PI8ITYirrvTikZl2kZ+VBLRn1gkOF5OKXcsbziZ+sYEXnV3r3xLwufuM3JhM0="
+							value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDk0ODg4NTgxNCwKICAicHJvZmlsZUlkIiA6ICI5ZjkyMTMwNTRiYjc0NWU5YmZjNDg2ZWMzYjc5OGQ3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJub21hbGZyb3N0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzYmYzMjM5ZjVjNTc3ODdmOTA4NDYwM2E4NDk2YTY0YWMxMTE1ZmE5M2JmMTlkMmZjOGMyMDAyY2YwNTAwODciCiAgICB9CiAgfQp9"
+						}]
+					}
+				}
+				id: "minecraft:player_head"
+			}
+			id: "19BD776C726A18C5"
+			rewards: [{
+				id: "4FE778A95901EE50"
+				item: {
+					components: {
+						"minecraft:profile": {
+							id: [I;
+								-1617816827
+								1270302185
+								-1077639444
+								997821820
+							]
+							name: "nomalfrost"
+							properties: [{
+								name: "textures"
+								signature: "oi7t0htPd1idLvYKRIxmuK5+U6OwujzKB0Jp2bHKXxZZbvSkTylhB2eCSTN6jnd/JHj0UQLXDtObCLBsNGo2qbbmU02YP1vK0yVX7lGg2lpHFNST2L+ZHRqkqCzbi/CYOmaTErEtdVw6/iWdCaukTgRZJ3d4jmT34JzM6+KKk4SjA36eYFfvozMaJhubZ6HEzJhcZvXoRgTUb+sp1Q8gWuVvF6b5Ag+qpmF8g1z5VBPBNGnFiirn98HNBPF/aZmfgbC6BoLxCOSoOreiJYY7P0m25N+hBB6gge40TKHQpjHEmnyw475PMhG53WyWrumnCqVovko2o3G4xNDzF5ChvpF7OfGFkGudrCGgKstF274Fdy/8uV84/Sn16mEMhIhhmlEEjwJ1yUM1fPw7PJpZ0C3YZMTYhYwAMvdEf07W0TM3cOOueiaON80Bta7aYS16uAbIAiABaIA2HyDNyXLpvazwpnjFUy6ns46XGUtfdATNbPnPr2EpzdFUsTqoTxfoB2ezKHY9qBgvmyRrpQq/ROYGBatbYEaiCkitI7fCb9CqWVI0K+5CnrzV0Fr1whD2/6bmZ9Qx+pGIq3dnGGlR6jOSAzvfUNZ4jlBIAARWTUa9Z0PI8ITYirrvTikZl2kZ+VBLRn1gkOF5OKXcsbziZ+sYEXnV3r3xLwufuM3JhM0="
+								value: "ewogICJ0aW1lc3RhbXAiIDogMTc5MDk0ODg4NTgxNCwKICAicHJvZmlsZUlkIiA6ICI5ZjkyMTMwNTRiYjc0NWU5YmZjNDg2ZWMzYjc5OGQ3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJub21hbGZyb3N0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzYmYzMjM5ZjVjNTc3ODdmOTA4NDYwM2E4NDk2YTY0YWMxMTE1ZmE5M2JmMTlkMmZjOGMyMDAyY2YwNTAwODciCiAgICB9CiAgfQp9"
+							}]
+						}
+					}
+					count: 1
+					id: "minecraft:player_head"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6BBDAE56A345A584"
+				item: { count: 1, id: "ftbquests:book" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "43B0239D4D2421F8"
+			rewards: [
+				{
+					id: "3B9B063072A47960"
+					item: {
+						components: { "minecraft:enchantments": { levels: { "minecraft:sharpness": 5, "minecraft:fire_aspect": 5 } } }
+						count: 1
+						id: "create_sa:blazing_cleaver"
+					}
+					type: "item"
+				}
+				{
+					id: "205522C5D026E083"
+					item: {
+						components: { "minecraft:enchantments": { levels: { "minecraft:sharpness": 5, "minecraft:fire_aspect": 5 } }, "minecraft:profile": {"name": "Kianakaslana_MC", "properties": [{"name": "textures", "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5NDY0MTA0MjgxNCwKICAicHJvZmlsZUlkIiA6ICJiNTE4ZmMyMWU4OWY0YWY1ODVjOWZlN2E4ZTcyM2NjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaWFuYWthc2xhbmFfTUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDRmYmRhNjEyYjQ0YzRmYzQ2ZTJhNzc4YTg5ZGM2MjA2ODQzNzE0MjdjN2MzNmFiMzcwMDk1MWVjNjBjZWM2NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9", "signature": "uya3Mw9wC/5MFxqvEsvCwJi5R90COAvEtPQkuSZrKUdL4psnjVfkRoVb74WhxD6Cef2TZ6j2IVjosCE4GSbudTC86fY7AyUlYup2xGldOzqBze3VHPec2Rfotw+BYK/sIHtk3GF8rqcaPn2+Q7cRknAxoA4hjoN0ugQDZj1QV2kKPjRrgfNhsbbij/k2eEBL7mdGPGSSfDkK6A8mB8oHQJzYny+mHaFL6/hUGnxGnc3ll+O2s2AF8aER1hrt87uZaI4iQDLJZ/vSBrdSSRl/1Hj7Gg/hyQ7yYDdH+dtrFbmUfWmk06yNVcUMvipJ7mctk51YKw1CwwOUIvnY/cb/U4RU5eVEqZYTxFCQZ9l70SlnFrIzJ5erM674fWOI/T5Y/i8c3wSyR+Y8t6ztBPyUz0HnExgT5sjwjojRxZyiNkyqR6gj6f8I7JnfgkhiRgwq/dJJERvXY3MxEniHbx+5wr6rhaHbHG9Lyaz1g7XSUPHFhgv0sxL7Qk8nYvBjaT8tWduNjJdRMdYrP5AabOp0UNUeaDNKR44Xein6v1abb3kwICrkhVtENiFaLJCJHmMliHyyntMGvtCusTcwq+wb+QEQ0GqiJSN2h4LLTaWT6qZPEmEeUC0j30+Q707JCMKKKPHUqIhUmcrkLBTRGUW05vNLB2OXmY3grZhj4Pk4N3s="}]} }
+						count: 1
+						id: "minecraft:player_head"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					icon: {
+						id: "minecraft:vault"
+					}
+					id: "3B473AC454FAC7F4"
+					type: "custom"
+				}
+				{
+					icon: {
+						id: "minecraft:emerald"
+					}
+					id: "3C29635E1C82C16E"
+					type: "custom"
+				}
+			]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			id: "38E742D48B616A4C"
+			invisible: true
+			tasks: [
+				{
+					id: "7F90A31E063783E8"
+					item: { count: 1, id: "minecraft:player_head" }
+					type: "item"
+				}
+				{
+					id: "37C1903C632A89D0"
+					type: "custom"
+				}
+			]
+			x: 12.0d
 			y: -1.5d
 		}
 	]

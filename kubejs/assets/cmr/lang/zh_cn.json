@@ -24,10 +24,10 @@
   "cmr.ponder.snowman_cooler.text_4": "可以通过部署器或机械臂实现自动化喂养",
   "cmr.recipe.block_spout": "方块浇注",
   "cmr.recipe.fan_custom": "自定义方块风扇",
+  "create.recipe.block_spout": "方块注液",
   "create.recipe.fan_custom.fan": "方块后面的风扇",
   "create.recipe.heat_requirement.cooled": "冷却",
   "create.recipe.heat_requirement.frozen": "冷冻",
-  "create.recipe.block_spout": "方块注液",
   "item.cmr.frozen_cake": "冰冻蛋糕",
   "item.cmr.frozen_cake_base": "冰冻蛋糕底",
   "itemGroup.cmr": "机械动力：更多配方"

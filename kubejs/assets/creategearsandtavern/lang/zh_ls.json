@@ -1,4 +1,6 @@
 {
-  "creategearsandtavern.recipe.shaker_mixing": "奥托马提克 石阿克伊鞥",
+  "create.item_attributes.creategearsandtavern.tavern_quality": "伊兹 %s 克瓦勒蒂",
+  "create.item_attributes.creategearsandtavern.tavern_quality.inverted": "伊兹 诺特 %s 克瓦勒蒂",
+  "creategearsandtavern.recipe.shaker_mixing": "奥特马蒂克 谢金",
   "fluid.creategearsandtavern.kaleidoscope_drink.with_quality": "%1$s %2$s"
 }

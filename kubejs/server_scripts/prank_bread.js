@@ -24,7 +24,7 @@ ItemEvents.foodEaten('ccq_core:prank_bread', (event) => {
       )
     }
 
-    const msg = Text.of(`${name} 你被骗了~`).red()
+    const msg = Text.translate('message.ccq_core.prank_bread.tricked', name).red()
     for (let i = 0; i < 3; i++) {
       server.tell(msg)
     }

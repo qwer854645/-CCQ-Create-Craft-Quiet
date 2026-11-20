@@ -11,7 +11,6 @@
   "structure.explorify.mangrove_hut": "红树林小屋",
   "structure.explorify.mausoleum": "陵墓",
   "structure.explorify.ruins": "遗迹",
-  "structure.explorify.tavern": "酒馆",
   "structure.explorify.supply_cache.birch": "白桦补给站",
   "structure.explorify.supply_cache.dark": "黑森林补给站",
   "structure.explorify.supply_cache.desert": "沙漠补给站",
@@ -19,6 +18,7 @@
   "structure.explorify.supply_cache.jungle": "丛林补给站",
   "structure.explorify.supply_cache.mangrove": "红树林补给站",
   "structure.explorify.supply_cache.taiga": "针叶林补给站",
+  "structure.explorify.tavern": "酒馆",
   "structure.explorify.watchtower.plains": "平原瞭望塔",
   "structure.explorify.watchtower.savanna": "热带草原瞭望塔",
   "structure.explorify.watchtower.taiga": "针叶林瞭望塔"

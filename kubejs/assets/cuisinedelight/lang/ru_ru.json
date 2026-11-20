@@ -1,0 +1,10 @@
+{
+  "cuisinedelight.configuration.uiXAnchor": "Шкала пользовательского интерфейса для приготовления пищи",
+  "cuisinedelight.configuration.uiXAnchor.tooltip": "По умолчанию: -1\n Диапазон: -1 ~ 1",
+  "cuisinedelight.configuration.uiXOffset": "Шкала пользовательского интерфейса для приготовления пищи",
+  "cuisinedelight.configuration.uiXOffset.tooltip": "По умолчанию: 8\n Диапазон: -1000 ~ 1000",
+  "cuisinedelight.configuration.uiYAnchor": "Шкала пользовательского интерфейса для приготовления пищи",
+  "cuisinedelight.configuration.uiYAnchor.tooltip": "По умолчанию: 0\n Диапазон: -1 ~ 1",
+  "cuisinedelight.configuration.uiYOffset": "Шкала пользовательского интерфейса для приготовления пищи",
+  "cuisinedelight.configuration.uiYOffset.tooltip": "По умолчанию: 0\n Диапазон: -1000 ~ 1000"
+}

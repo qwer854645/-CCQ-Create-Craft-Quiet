@@ -18,6 +18,26 @@
 	extinguisherRange = 2
 	#.
 	notifyOnHit = true
+	#.
+	#Scale of recoil of all cannon materials
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	recoilScale = 1.0
+	#.
+	#Radius of the cube searched for chutes when a package shell hits the ground
+	# Default: 3
+	# Range: 0 ~ 16
+	packageChuteSearchRadius = 3
+	#.
+	#Radius of the cube searched for chutes when a package shell hits a ship
+	# Default: 5
+	# Range: 0 ~ 32
+	packageChuteSearchRadiusShip = 5
+	#.
+	#Impact speed in m/s above which a package shell breaks apart and drops its contents
+	# Default: 120.0
+	# Range: 0.0 ~ 10000.0
+	packageBreakSpeed = 120.0
 
 		#.
 		#.

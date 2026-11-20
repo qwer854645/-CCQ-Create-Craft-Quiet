@@ -133,5 +133,11 @@
   "gui.structurify.structures_category.description": "Отключите или включите генерацию структур внутри игры. Кроме того, управляйте черным списком биомов, в которых не должны создаваться определенные структуры.",
   "gui.structurify.structures_category.title": "Настройки структуры",
   "gui.structurify.title": "Структурировать конфигурацию",
-  "structurify": "Структурировать"
+  "structurify": "Структурировать",
+  "gui.structurify.label.collapse_all": "Свернуть всё",
+  "gui.structurify.label.collapse_all.tooltip": "Сворачивает все группы в этой категории.",
+  "gui.structurify.label.expand_all": "Развернуть всё",
+  "gui.structurify.label.expand_all.tooltip": "Разворачивает все группы в этой категории.",
+  "gui.structurify.structure_sets.placement_attempts.description": "Количество позиций, которые пробуются при размещении структуры в её области. Если структура не может появиться в исходной позиции (например, из‑за биома или неудачных проверок), пробуются дополнительные детерминированные позиции в той же области, и используется первая подходящая.\n\n - 1: поведение ванили, только исходная позиция\n - > 1: неудачные структуры получают дополнительные шансы",
+  "gui.structurify.structure_sets.placement_attempts.title": "Попытки размещения"
 }

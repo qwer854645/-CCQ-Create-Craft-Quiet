@@ -1,0 +1,32 @@
+// Partial translation supplements. Original mod language files remain available.
+ClientEvents.lang("en_us", event => {
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.category.farmersdelight", "Farmer's Delight")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.category.farmersdelight.description", "Settings related to Farmer's Delight")
+})
+
+ClientEvents.lang("zh_cn", event => {
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.category.farmersdelight", "农夫乐事")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.category.farmersdelight.description", "农夫乐事相关功能的设置")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.compat.quark_sickle_harvest_fix_enabled", "夸克镰刀收获修复")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.compat.quark_sickle_harvest_fix_enabled.comment", "启用后，手持镰刀时不会触发夸克的收获逻辑")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.links.curseforge", "CurseForge")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.links.github", "GitHub")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.links.modrinth", "Modrinth")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.chopping_board_item_handler_enabled", "砧板节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.chopping_board_item_handler_enabled.comment", "是否启用砧板节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.millstone_item_handler_enabled", "石磨节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.millstone_item_handler_enabled.comment", "是否启用石磨节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.pot_item_handler_enabled", "炒锅节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.pot_item_handler_enabled.comment", "是否启用炒锅节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.shawarma_spit_item_handler_enabled", "沙威玛烤扦节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.shawarma_spit_item_handler_enabled.comment", "是否启用沙威玛烤扦节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.steamer_item_handler_enabled", "蒸笼节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.steamer_item_handler_enabled.comment", "是否启用蒸笼节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.teapot_item_handler_enabled", "茶壶节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.teapot_item_handler_enabled.comment", "是否启用茶壶节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.trash_can_item_handler_enabled", "垃圾桶节点传输")
+  event.add("kaleidoscope_compat", "config.kaleidoscope_compat.spectrum.trash_can_item_handler_enabled.comment", "是否启用垃圾桶节点传输")
+  event.add("kaleidoscope_compat", "key.category.kaleidoscope_compat", "万花筒：兼容")
+  event.add("kaleidoscope_compat", "key.kaleidoscope_compat.take_kitchen_item", "从装置取厨房物品")
+})
+

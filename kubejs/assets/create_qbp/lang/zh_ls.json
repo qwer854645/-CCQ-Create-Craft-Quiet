@@ -1,14 +1,14 @@
 {
-  "config.create_qbp.button.movePanelX": "莫弗伊鞥 巴顿 莱夫特/莱特 奥尔索 莫弗伊 潘厄尔",
-  "config.create_qbp.button.movePanelY": "莫弗伊鞥 巴顿 阿普/当 奥尔索 莫弗伊 潘厄尔",
-  "gui.create_qbp.empty_blueprint": "布尔乌普林特 哈兹 诺 马特里尔兹",
-  "gui.create_qbp.materials": "马特里尔兹",
-  "gui.create_qbp.no_blueprint": "诺 克里普布欧尔德 威斯 弗阿里德 布尔乌普林特",
-  "itemGroup.create_qbp": "弗伊苏尔 布尔乌普林特 马特里尔兹",
-  "key.categories.create_qbp": "弗伊苏尔 布尔乌普林特 马特里尔兹",
-  "key.create_qbp.move": "特格格勒 厄迪特 莫德",
-  "key.create_qbp.move_down": "莫弗厄 巴顿 当",
-  "key.create_qbp.move_left": "莫弗厄 巴顿 莱夫特",
-  "key.create_qbp.move_right": "莫弗厄 巴顿 莱特",
-  "key.create_qbp.move_up": "莫弗厄 巴顿 阿普"
+  "config.create_qbp.button.movePanelX": "穆文 巴顿 莱夫特/赖特 奥尔索 穆夫兹 帕纳尔",
+  "config.create_qbp.button.movePanelY": "穆文 巴顿 阿普/道恩 奥尔索 穆夫兹 帕纳尔",
+  "gui.create_qbp.empty_blueprint": "布卢普林特 哈兹 诺 默蒂里厄尔兹",
+  "gui.create_qbp.materials": "默蒂里厄尔兹",
+  "gui.create_qbp.no_blueprint": "诺 克利普博尔德 威兹 瓦利德 布卢普林特",
+  "itemGroup.create_qbp": "维热沃尔 布卢普林特 默蒂里厄尔兹",
+  "key.categories.create_qbp": "维热沃尔 布卢普林特 默蒂里厄尔兹",
+  "key.create_qbp.move": "塔格尔 埃德特 莫德",
+  "key.create_qbp.move_down": "穆夫 巴顿 道恩",
+  "key.create_qbp.move_left": "穆夫 巴顿 莱夫特",
+  "key.create_qbp.move_right": "穆夫 巴顿 赖特",
+  "key.create_qbp.move_up": "穆夫 巴顿 阿普"
 }

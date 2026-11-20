@@ -574,7 +574,7 @@
 			id: "5C0BEDADF3BB7DA9"
 			tasks: [{
 				id: "6FA2EF6FF32F40A7"
-				item: { count: 1, id: "createnuclear:reactor_input" }
+				item: { count: 1, id: "createnuclear:reactor_rod_input" }
 				type: "item"
 			}]
 			x: 1.5d
@@ -623,22 +623,22 @@
 			tasks: [
 				{
 					id: "7F0EB6237D14B62B"
-					item: { count: 1, id: "createnuclear:white_anti_radiation_helmet" }
+					item: { count: 1, id: "createnuclear:default_anti_radiation_helmet" }
 					type: "item"
 				}
 				{
 					id: "0ECC28F37E029539"
-					item: { count: 1, id: "createnuclear:white_anti_radiation_chestplate" }
+					item: { count: 1, id: "createnuclear:default_anti_radiation_chestplate" }
 					type: "item"
 				}
 				{
 					id: "3ECD10ADCA0AF50A"
-					item: { count: 1, id: "createnuclear:white_anti_radiation_leggings" }
+					item: { count: 1, id: "createnuclear:default_anti_radiation_leggings" }
 					type: "item"
 				}
 				{
 					id: "50AEFECE28D3AC08"
-					item: { count: 1, id: "createnuclear:anti_radiation_boots" }
+					item: { count: 1, id: "createnuclear:default_anti_radiation_boots" }
 					type: "item"
 				}
 			]

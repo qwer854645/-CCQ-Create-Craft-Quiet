@@ -108,5 +108,22 @@
   "preset.tectonic.large_biomes": "Большие биомы",
   "preset.tectonic.overkill": "Излишнее убийство",
   "preset.tectonic.overkill.voxy": "я использую вокси, кстати",
-  "preset.tectonic.title": "Пресеты"
+  "preset.tectonic.title": "Пресеты",
+  "config.tectonic.alternate_noise_scaling": "Альтернативное масштабирование шума",
+  "config.tectonic.alternate_noise_scaling.tooltip": "Эти варианты улучшают рельеф вблизи гор и океанов на больших масштабах местности.\n\n§cНесовместимо с аппаратным ускорением C2ME!",
+  "config.tectonic.biome_noises": "Биомные шумы",
+  "config.tectonic.caves": "Пещеры",
+  "config.tectonic.continents": "Континенты",
+  "config.tectonic.erosion": "Эрозия",
+  "config.tectonic.experimental": "Экспериментальные данные",
+  "config.tectonic.general": "Основные",
+  "config.tectonic.global_terrain": "Глобальный ландшафт",
+  "config.tectonic.islands": "острова",
+  "config.tectonic.oceans": "Океаны",
+  "config.tectonic.option.multiplier": "Множитель ",
+  "config.tectonic.option.offset": "Смещение",
+  "config.tectonic.option.scale": "Весы",
+  "config.tectonic.ridges": "Кряж",
+  "config.tectonic.temperature": "Рабочая температура",
+  "config.tectonic.vegetation": "Растительность"
 }

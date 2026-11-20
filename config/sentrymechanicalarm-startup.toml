@@ -1,0 +1,5 @@
+[casings]
+	#Register recoverable casing items and enable the casing system.
+	#Restart the game/server after changing. Client and server must use the same value.
+	#Disabling removes the item registration; existing casing stacks cannot be preserved while disabled.
+	enabled = true

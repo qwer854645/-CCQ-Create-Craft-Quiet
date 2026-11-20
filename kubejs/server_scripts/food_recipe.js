@@ -2,6 +2,23 @@ ServerEvents.recipes(event => {
 
     const create = event.recipes.create
     const farmer = event.recipes.farmersdelight
+
+  // OEI 将该曲奇替换为空气，同时移除其合成配方，避免同步空产物时断开连接
+  event.remove('expandeddelight:chocolate_cookie')
+
+    // 甜菜制糖：动力搅拌，1 个甜菜根 -> 1 个糖，不需要加热
+    create.mixing('minecraft:sugar', 'minecraft:beetroot')
+      .id('ccq_core:sugar_from_beetroot')
+
+    // 海带制糖：柴油动力工作盆发酵，1 个海带 -> 1 个糖，耗时 20 秒
+    event.custom({
+      type: 'createdieselgenerators:basin_fermenting',
+      ingredients: [{ item: 'minecraft:kelp' }],
+      results: [{ id: 'minecraft:sugar', count: 1 }],
+      processing_time: 400
+    }).id('ccq_core:sugar_from_kelp_fermenting')
+
+    // 蜂蜜沿用原版 1 瓶蜂蜜 -> 3 个糖的配方
     //删除饮酒作乐的果酱（因为还有两个了
  event.remove('brewinandchewin:cooking/apple_jelly')
  event.remove('brewinandchewin:cooking/glow_berry_marmalade')

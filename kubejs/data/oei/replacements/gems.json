@@ -1,0 +1,9 @@
+[
+  {
+    "_comment": "宝石材料统一：northstar:polished_amethyst -> createvoidway:polished_amethyst",
+    "matchItems": [
+      "northstar:polished_amethyst"
+    ],
+    "resultItems": "createvoidway:polished_amethyst"
+  }
+]

@@ -1,0 +1,32 @@
+// Partial translation supplements. Original mod language files remain available.
+ClientEvents.lang("de_de", event => {
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.llm.chat_text_is_empty", "Chat-/TTS-Text ist leer: %s")
+})
+
+ClientEvents.lang("zh_cn", event => {
+  event.add("touhou_little_maid", "advancements.touhou_little_maid.base.build_altar.title", "建造完成")
+  event.add("touhou_little_maid", "advancements.touhou_little_maid.base.change_maid_model.title", "换装！")
+  event.add("touhou_little_maid", "advancements.touhou_little_maid.challenge.eat_enchanted_golden_apple.title", "好苹果")
+  event.add("touhou_little_maid", "advancements.touhou_little_maid.maid_base.switch_schedule.title", "把握时间")
+  event.add("touhou_little_maid", "advancements.touhou_little_maid.maid_base.use_red_fox_scroll.title", "永不说再见")
+  event.add("touhou_little_maid", "advancements.touhou_little_maid.maid_base.use_servant_bell.title", "永不放弃你")
+  event.add("touhou_little_maid", "advancements.touhou_little_maid.maid_base.use_white_fox_scroll.title", "永不逃走抛弃你")
+  event.add("touhou_little_maid", "key.category.touhou_little_maid", "车万女仆")
+  event.add("touhou_little_maid", "tooltips.touhou_little_maid.servant_bell.uuid", "女仆 UUID：%s")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.settings.hub.url", "URL")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.settings.hub.app_key", "App Key")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.openai.name", "OpenAI")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.deepseek.name", "DeepSeek")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.player2.name", "Player2")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.minimax.name", "MiniMax")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.kimi.name", "Kimi")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.fish-audio.name", "Fish Audio")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.gpt-sovits.name", "GPT-SoVITS")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.gemini.name", "Gemini")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.grok.name", "Grok")
+  event.add("touhou_little_maid", "ai.touhou_little_maid.chat.site.openrouter.name", "Open Router")
+  event.add("touhou_little_maid", "message.touhou_little_maid.missing_patchouli.url", "https://www.curseforge.com/minecraft/mc-mods/patchouli")
+  event.add("touhou_little_maid", "commands.touhou_little_maid.chat_tokens.get.info", "%s: %d")
+  event.add("touhou_little_maid", "painting.touhou_little_maid.wine_fox.author", "HanakazeT8")
+})
+

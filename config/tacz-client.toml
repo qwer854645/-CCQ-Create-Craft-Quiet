@@ -58,6 +58,32 @@
 	EnableBlockEntityTranslucent = false
 	#Whether or not to automatically select the gun smith table's held item filter when opening it with a gun, attachment or ammo in main hand
 	AutoSelectGunSmithTableFilter = true
+	#Whether or not to render the renew (snowstorm particle) muzzle smoke. Disable this if translucent smoke has issues with shaders.
+	RenderMuzzleSmoke = true
+	#Disable third-person rendering of guns stored in the offhand and unselected hotbar slots. Main-hand gun rendering is unaffected.
+	DisableThirdPersonOffhandAndHotbarGunRender = false
+	#Whether or not to spawn extra hit particles when bullets leave bullet holes
+	HitParticleEnable = true
+	#Whether or not to spawn display-configured extra hit particles. Disabling this keeps the basic block hit particles.
+	HitExtraParticleEnable = true
+	#The farthest distance to spawn extra hit particles, 0 means always spawn
+	# Default: 64
+	# Range: > 0
+	HitParticleMaxDistance = 64
+	#Whether or not to display the content pack sidebar in TACZ creative tabs. Disabling this also restores all items in the current tab.
+	RenderCreativePackSidebar = true
+	#First-person vanilla hurt tilt multiplier while holding a gun in the main hand. 0 disables it, 1 preserves vanilla side-hit strength. Front/back hits use half this multiplier, with smooth transitions for diagonal hits. Multiplies the vanilla Damage Tilt setting; gunshot-specific hurt effects keep their gun data settings.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	GunHurtBobMultiplier = 0.1
+	#Experimental SBM VBO rendering for guns in display cases and pegboards.
+	EnableExperimentalDisplayGunVbo = true
+	#Experimental SBM VBO rendering for third-person held, dropped and fixed guns outside GUI screens.
+	EnableStaticItemGunVbo = true
+	#Enable scope lens effects configured by each attachment display. Uses the existing scope window and keeps the normal aiming magnification.
+	EnableExperimentalScopeLens = true
+	#Allow thermal imaging for attachments whose display selects a thermal vision mode. Disabling this uses their normal optical lens and skips thermal entity capture. Requires EnableExperimentalScopeLens.
+	EnableScopeThermal = true
 
 [Zoom]
 	#Screen distance coefficient for zoom, using MDV standard, default is MDV133

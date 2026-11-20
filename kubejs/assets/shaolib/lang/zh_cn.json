@@ -1,0 +1,6 @@
+{
+  "item.shaolib.cache_probe": "少理缓存探针",
+  "item.shaolib.cache_raycast_probe": "少理缓存射线探针",
+  "item.shaolib.test_gun": "少理测试枪",
+  "shaolib.configuration.blockDamage.restrictToPhysicsBodies": "仅对物理碰撞体造成方块破坏"
+}

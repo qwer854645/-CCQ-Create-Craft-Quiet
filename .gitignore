@@ -8,7 +8,7 @@ simplebackups/
 downloads/
 debug/
 local/
-oei/
+/oei/
 xaero/
 XaeroWaypoints_BACKUP*/
 tacz_backup*/
@@ -55,3 +55,12 @@ desktop.ini
 *.swo
 .idea/
 .vscode/
+
+# Generated configuration logs, histories and automatic backups
+*.log
+*.bak
+*.bak.[0-9]*
+/config/ars_nouveau/search_index/
+/config/jei/world/
+/config/CSC/Data/
+/config/CSC/config_old_*

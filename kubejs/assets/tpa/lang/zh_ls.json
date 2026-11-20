@@ -1,0 +1,22 @@
+{
+  "messages.tpa.backDisabled": "/back 伊兹 迪塞伯尔德 昂 兹斯 瑟弗!",
+  "messages.tpa.doubleRequest": "尤 哈夫 奥尔雷迪 森特 厄 特勒波尔特 里克韦斯特!",
+  "messages.tpa.inCooldown": "尤 阿 因 库尔道恩 福尔 厄纳泽 %s埃斯!",
+  "messages.tpa.noBackLocation": "诺 巴克 洛凯申!",
+  "messages.tpa.noRequest": "尤 杜 诺特 哈夫 厄 特勒波尔特 里克韦斯特!",
+  "messages.tpa.receivedtpaRequest": "尤 哈夫 勒西夫德 厄 佩蒂 里克韦斯特 弗罗姆 %s",
+  "messages.tpa.receivedtpahereRequest": "尤 哈夫 勒西夫德 厄 帕泽 里克韦斯特 弗罗姆 %s",
+  "messages.tpa.requestAccepted": "尤 艾克塞普蒂德 泽 特勒波尔特 里克韦斯特!",
+  "messages.tpa.requestCanceled": "尤 坎瑟尔德 尤尔 特勒波尔特 里克韦斯特!",
+  "messages.tpa.requestExpired": "泽 特勒波尔特 里克韦斯特 伊兹 伊克斯派尔德!",
+  "messages.tpa.requestsDisabled": "%s 哈兹 特勒波尔特 里克韦斯特斯 迪塞伯尔德!",
+  "messages.tpa.requestsToggledfalse": "特勒波尔特 里克韦斯特斯 阿 瑙 迪塞伯尔德!",
+  "messages.tpa.requestsToggledtrue": "特勒波尔特 里克韦斯特斯 阿 瑙 伊内伯尔德!",
+  "messages.tpa.selfRequest": "尤 凯纳特 特勒波尔特 图 耶塞尔夫!",
+  "messages.tpa.senderOffline": "泽 普雷耶 伊兹 奥夫莱恩",
+  "messages.tpa.senttpaRequest": "尤 哈夫 森特 %s 厄 佩蒂 里克韦斯特!",
+  "messages.tpa.senttpahereRequest": "尤 哈夫 森特 %s 厄 帕泽 里克韦斯特!",
+  "messages.tpa.teleported": "特勒波尔特特!",
+  "messages.tpa.teleporting": "特勒波尔廷 因 %s埃斯...",
+  "messages.tpa.tpahereRequestAccepted": "尤尔 帕泽 里克韦斯特 瓦兹 艾克塞普蒂德!"
+}

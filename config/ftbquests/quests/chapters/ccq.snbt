@@ -20,8 +20,12 @@
 				{
 					id: "02B5045F678D883E"
 					item: {
+						components: {
+							"sophisticatedcore:number_of_inventory_slots": 54
+							"sophisticatedcore:number_of_upgrade_slots": 2
+						}
 						count: 1
-						id: "sophisticatedbackpacks:backpack"
+						id: "sophisticatedbackpacks:iron_backpack"
 					}
 					type: "item"
 				}
@@ -29,7 +33,7 @@
 					id: "0D7FF8586AD7C4CD"
 					item: {
 						count: 1
-						id: "minecraft:stone_pickaxe"
+						id: "minecraft:iron_pickaxe"
 					}
 					type: "item"
 				}
@@ -37,7 +41,7 @@
 					id: "4B7BF54AEC28B16E"
 					item: {
 						count: 1
-						id: "minecraft:stone_axe"
+						id: "minecraft:iron_axe"
 					}
 					type: "item"
 				}
@@ -118,24 +122,14 @@
 				id: "minecraft:golden_sword"
 			}
 			id: "095DC5C51CF725F8"
-			rewards: [
-				{
-					id: "0B2F138377669DEB"
-					item: {
-						count: 1
-						id: "minecraft:iron_pickaxe"
-					}
-					type: "item"
+			rewards: [{
+				id: "20A730B4C62E7A6E"
+				item: {
+					count: 1
+					id: "torchmaster:megatorch"
 				}
-				{
-					id: "20A730B4C62E7A6E"
-					item: {
-						count: 1
-						id: "torchmaster:megatorch"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "586A15D7D935D3FC"
 				type: "checkmark"

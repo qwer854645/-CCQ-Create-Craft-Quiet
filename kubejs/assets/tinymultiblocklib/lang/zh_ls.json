@@ -1,15 +1,15 @@
 {
-  "tinymultiblocklib.configuration.disable_multiblock_previews": "迪斯诶布 穆尔提布尔克 普勒弗伊乌兹",
-  "tinymultiblocklib.configuration.disable_multiblock_previews.tooltip": "迪萨布尔伊 戈斯特 普勒弗伊乌兹 温 特尔伊伊鞥 图 普莱斯 阿 穆尔提布尔克",
-  "tinymultiblocklib.configuration.preview_blacklist": "普勒弗伊乌 布拉克尔伊斯特",
-  "tinymultiblocklib.configuration.preview_blacklist.button": "厄迪特",
-  "tinymultiblocklib.configuration.preview_blacklist.tooltip": "尔伊斯特 欧夫 布洛克斯 佛尔 维奇 图 海德 普勒弗伊乌兹",
-  "tinymultiblocklib.configuration.preview_whitelist": "普勒弗伊乌 乌伊特尔伊斯特",
-  "tinymultiblocklib.configuration.preview_whitelist.button": "厄迪特",
-  "tinymultiblocklib.configuration.preview_whitelist.tooltip": "尔伊斯特 欧夫 布洛克斯 佛尔 维奇 图 石奥 普勒弗伊乌兹",
-  "tinymultiblocklib.configuration.previews_for_everything": "普勒弗伊乌兹 佛尔 厄弗尔伊斯伊鞥",
-  "tinymultiblocklib.configuration.previews_for_everything.tooltip": "恩阿布尔伊 普勒弗伊乌兹 佛尔 厄弗尔伊斯伊鞥, 尤兹德 佛尔 德布格格伊鞥",
-  "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml": "特穆布尔 克莱恩特 康菲格",
-  "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml.title": "特穆布尔 克莱恩特 康菲格",
-  "tinymultiblocklib.configuration.title": "提伊 穆尔提布尔克 里布"
+  "tinymultiblocklib.configuration.disable_multiblock_previews": "迪塞伯尔 默尔蒂布拉克 普里夫尤兹",
+  "tinymultiblocklib.configuration.disable_multiblock_previews.tooltip": "迪塞伯尔兹 戈斯特 普里夫尤兹 韦恩 特赖英 图 普莱斯 厄 默尔蒂布拉克",
+  "tinymultiblocklib.configuration.preview_blacklist": "普里夫尤 布拉克利斯特",
+  "tinymultiblocklib.configuration.preview_blacklist.button": "埃德特",
+  "tinymultiblocklib.configuration.preview_blacklist.tooltip": "利斯特 厄夫 布洛克斯 福尔 维奇 图 海德 普里夫尤兹",
+  "tinymultiblocklib.configuration.preview_whitelist": "普里夫尤 怀特利斯特",
+  "tinymultiblocklib.configuration.preview_whitelist.button": "埃德特",
+  "tinymultiblocklib.configuration.preview_whitelist.tooltip": "利斯特 厄夫 布洛克斯 福尔 维奇 图 肖 普里夫尤兹",
+  "tinymultiblocklib.configuration.previews_for_everything": "普里夫尤兹 福尔 埃夫里辛",
+  "tinymultiblocklib.configuration.previews_for_everything.tooltip": "埃内伯尔兹 普里夫尤兹 福尔 埃夫里辛, 尤兹德 福尔 迪伯金",
+  "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml": "蒂埃姆比埃尔 克莱恩特 肯菲格",
+  "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml.title": "蒂埃姆比埃尔 克莱恩特 肯菲格",
+  "tinymultiblocklib.configuration.title": "泰尼 默尔蒂布拉克 利布"
 }

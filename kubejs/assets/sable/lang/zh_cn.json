@@ -120,5 +120,10 @@
   "sub_level.toast.checkLog": "查看日志以获取更多详细信息",
   "sub_level.toast.loadFailure": "无法加载子关卡 %s",
   "sub_level.toast.physicsFailure": "物理不及格，子级别为 %s",
-  "sub_level.toast.saveFailure": "未能保存子级于 %s"
+  "sub_level.toast.saveFailure": "未能保存子级于 %s",
+  "argument.sable.cannot_find_sub_level": "找不到子层级",
+  "argument.sable.invalid_selector": "无效的子层级选择器",
+  "argument.sable.invalid_uuid": "无效的 UUID",
+  "commands.sable.forceload.query.count": "在 %s 的 %s 个子层级中找到 %s 个强制加载票据：",
+  "commands.sable.forceload.query.none": "在 %s 中未找到强制加载票据"
 }

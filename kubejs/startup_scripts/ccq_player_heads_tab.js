@@ -15,6 +15,7 @@ const CCQ_PLAYER_NAMES = [
   'Yeffie__xnn',
   'YueNan_purple',
   'MiroxZ',
+  'nomalfrost',
 ]
 
 function ccqPlayerHead(name) {

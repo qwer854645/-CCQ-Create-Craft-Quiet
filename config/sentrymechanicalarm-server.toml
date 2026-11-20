@@ -1,0 +1,85 @@
+[sentry]
+	#Reload delay in game ticks. -1 uses the gun's empty reload feed and cooldown time; 0 disables the added delay.
+	# Default: -1
+	# Range: -1 ~ 72000
+	reloadDelayTicks = -1
+	#Additional default targets, alongside hostile mobs: entity type IDs or exact display names. Explicit fire-control safety lists still apply.
+	extraTargets = []
+
+[casings]
+	#Legacy runtime drop gate. Registration master is casings.enabled in config/sentrymechanicalarm-startup.toml.
+	enabled = true
+	#Allow real players to drop casings after finite-ammo TaCZ shots.
+	players = true
+	#Insert real-player casing drops into their inventory instead of ejecting. Full-inventory remainder follows vanilla /give: drop at the player, no pickup delay, owned by that player.
+	playersToInventory = true
+	#Allow sentry arms, including moving mounts, to drop casings.
+	sentries = true
+	#Allow other living entities to drop casings after TaCZ events prove actual ammo consumption.
+	#Does not grant mobs guns or shooting AI. Unrelated FakePlayers remain excluded.
+	others = false
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	dropChance = 1.0
+	#Maximum casing item entities in one chunk; excess drops are skipped.
+	# Default: 64
+	# Range: 0 ~ 1024
+	maxEntitiesPerChunk = 64
+	#Casing item lifetime in game ticks.
+	# Default: 1200
+	# Range: 20 ~ 12000
+	lifetimeTicks = 1200
+	#Allow every loaded ammunition ID to produce a recoverable casing, bypassing automatic gun ejection declarations and shell-asset reference checks.
+	#Explicit per-ammo data-pack rules take priority. Registration, shooter gates, finite-ammo checks, drop chance and collection settings still apply. Reload data packs after changing.
+	forceAllAmmo = false
+	#Ammunition IDs allowed to produce casings even when automatic detection rejects them, e.g. tacz:9mm.
+	#These are TaCZ ammo IDs, not the shared empty_casing item ID. Explicit per-ammo rules still take priority. Reload data packs after changing.
+	forceAmmoIds = []
+
+[reloading]
+	#Enable casing reloading; requires casing registration. Reload data packs after changing.
+	enabled = true
+	#Derive single-round metal, proportional fluid propellant and retained solid payload costs from TaCZ material recipes.
+	autoFromTaCZ = true
+	#Main-metal share used for automatic reloading, after converting ingots and blocks to nuggets.
+	#Default 0.5 applies only to the case main metal (copper, else iron, else gold). Other projectile metals retain native costs. Direct metal below one nugget per round is omitted; other costs round up.
+	#Only automatic costs change; explicit data-pack costs are used exactly. Reload data packs after changing.
+	# Default: 0.5
+	# Range: 0.01 ~ 1.0
+	metalCostMultiplier = 0.5
+	#Read simple legacy TaCZ recipes/ material data from active packs when modern recipes are absent. Does not register native recipes.
+	#Conditional, NBT, component and complex legacy sources are skipped; modern resources always win. Reload after changing.
+	readLegacyMaterialRecipes = true
+
+[gunpackCompatibility]
+	#Restore strictly convertible legacy TaCZ ammo recipes from active recipes/ resources as native recipes.
+	#Modern resources and loaded recipes win. Conditional, component/NBT and unresolved material recipes are skipped. Reload after changing.
+	restoreLegacyAmmoRecipes = true
+
+[casingManufacturing]
+	#Enable mold-based casing manufacture priced from native main metal minus actual reloading metal. Reload data packs after changing.
+	enabled = true
+	#Allow every eligible physical casing to use the generic copper-nugget forming rule only if no native metal source is available, never to bypass an unrepresentable known cost. Does not grant live-ammo reloading recipes.
+	allowGenericCopperFallback = true
+	#Cases per copper nugget for generic fallback only; native-budget yields remain automatic.
+	# Default: 1
+	# Range: 1 ~ 64
+	fallbackCasesPerCopperNugget = 1
+
+[gunManufacturing]
+	#Enable shared gun-part sequences and selected firearm sequenced assembly. Reload data packs after changing.
+	enabled = true
+	#Generate standard firearm routes from loaded native gun recipes. Explicit sentry_guns rules remain available.
+	autoFromTaCZ = true
+	#Remove loaded TaCZ gunsmith-table recipes whose output is a firearm, including gunpack recipes.
+	#Native recipes remain available internally as sources for generated assembly costs and output components. Ammo, attachments and Create assembly recipes are retained.
+	#Independent of enabled/autoFromTaCZ. Set false and reload to restore native recipes; data-pack removals are respected. Reload data packs after changing.
+	removeNativeGunRecipes = false
+
+[attachmentManufacturing]
+	#Enable attachment selection and sequenced assembly, including shared component production. Reload after changing.
+	enabled = true
+	#Generate external attachment recipes from loaded TaCZ recipes. Hidden and built-in attachments require explicit rules.
+	autoFromTaCZ = true
+	#Remove native attachment recipes only when an equivalent assembly output was generated successfully. Reload after changing.
+	removeNativeAttachmentRecipes = true

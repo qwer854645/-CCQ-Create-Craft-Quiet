@@ -1,6 +1,7 @@
 {
 	chapter.1538492370F8FA55.chapter_subtitle: ["机械动力入门指南"]
 	chapter.1538492370F8FA55.title: "机械动力！"
+	chapter.17685888EF8804CA.title: "护甲"
 	chapter.20D34C6CA7AFC843.chapter_subtitle: ["来自地底的宝藏"]
 	chapter.20D34C6CA7AFC843.title: "地下资源"
 	chapter.284309B13402547E.chapter_subtitle: ["当日达！"]
@@ -10,7 +11,7 @@
 	chapter.3A4FA5E891B37E2F.chapter_subtitle: ["农夫乐事、森罗物语与更多厨房"]
 	chapter.3A4FA5E891B37E2F.title: "银河系大厨！"
 	chapter.422DA4380E4DCEBC.title: "感谢任务~"
-	chapter.44D3C80E145F2898.title: "物理！"
+	chapter.44D3C80E145F2898.title: "航空器"
 	chapter.4E10E9617CAF0C75.chapter_subtitle: ["这么多？"]
 	chapter.4E10E9617CAF0C75.title: "盔甲、工具与武器"
 	chapter.56A6422724DED83E.title: "新手引导"
@@ -371,6 +372,9 @@
 	quest.03668B1403474539.quest_subtitle: "{count:1,id:\"createnuclear:small_autunite_bricks\"}"
 	quest.036B9F0F7AEFEBD8.quest_subtitle: "{count:1,id:\"create:cut_asurine_bricks\"}"
 	quest.036D1A62A2B22E63.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:cooked_rice\"}"
+	quest.036FD678BAD07288.quest_desc: [""]
+	quest.036FD678BAD07288.quest_subtitle: "感谢MiroxZ老师绘制的UI！"
+	quest.036FD678BAD07288.title: "美工喵"
 	quest.03701DC202F09143.quest_subtitle: "{count:1,id:\"quark:jungle_ladder\"}"
 	quest.037373A511B0F599.quest_subtitle: "{count:1,id:\"northstar:pointed_crimsite\"}"
 	quest.03783918BC4E6B67.quest_subtitle: "{count:1,id:\"ars_nouveau:wixie_charm\"}"
@@ -595,6 +599,7 @@
 	quest.05AE26042A32364E.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"northstar:enhanced_healing\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_bolt\"}"
 	quest.05AE51DCD9AD8575.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:slow_falling\"}},count:1,id:\"minecraft:splash_potion\"}"
 	quest.05AEE04AD87E55DB.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:blue_shingles\"},count:1,id:\"ae2:facade\"}"
+	quest.05B2FCF80460C2AC.quest_desc: ["服务器特供：由于安山岩生成过少而添加。"]
 	quest.05B5BA58889FEBCC.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:luck\"}},count:1,id:\"minecraft:potion\"}"
 	quest.05B8E87ADD7F06CB.quest_subtitle: "{components:{\"functionalstorage:direction\":\"north\"},count:1,id:\"functionalstorage:puller_upgrade\"}"
 	quest.05BB5A2E155FEA9A.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:enderman_head\"}"
@@ -2537,6 +2542,7 @@
 	quest.19BBE109F6E55D1D.quest_desc: ["&m棍木&r"]
 	quest.19BBE109F6E55D1D.title: "长棍"
 	quest.19BCCD0A7AEC83E2.quest_subtitle: "{count:1,id:\"createbigcannons:built_up_nethersteel_cannon_barrel\"}"
+	quest.19BD776C726A18C5.quest_subtitle: "感谢nomalfrost老师一直的帮助！"
 	quest.19C1C07C1C81AECE.quest_subtitle: "{count:1,id:\"minecraft:dead_brain_coral_block\"}"
 	quest.19C46FC3BB3982CE.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"createnuclear:potion_of_radiation_augment_1\"}},count:1,id:\"minecraft:potion\"}"
 	quest.19C6D2D3240149B4.quest_subtitle: "{count:1,id:\"farmersdelight:gray_canvas_sign\"}"
@@ -5682,6 +5688,9 @@
 	quest.38E3A6A584892540.quest_subtitle: "{components:{\"ae2:stored_energy\":200000.0d},count:1,id:\"ae2:energy_cell\"}"
 	quest.38E67B5223BC88B5.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:string_lights_magenta\"}"
 	quest.38E6D68697300239.quest_subtitle: "{count:1,id:\"createnetherindustry:blaze_twig\"}"
+	quest.38E742D48B616A4C.quest_desc: ["来自神秘群友的礼物，看看能抽到什么吧！"]
+	quest.38E742D48B616A4C.quest_subtitle: "由冠名！"
+	quest.38E742D48B616A4C.title: "风的礼物"
 	quest.38E915FC1FAF2DAB.quest_subtitle: "{count:1,id:\"cbcmoreshells:ultraspeed_torpedo_mold\"}"
 	quest.38EA241F4A6C5047.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:lime_framed_glass\"},count:1,id:\"ae2:facade\"}"
 	quest.38EB581DF9F6D68E.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"applied_armorer:bracelet_broken_watch\"}},count:1,id:\"tacz:attachment\"}"
@@ -6743,6 +6752,9 @@
 	quest.43AA712DFD9D2E43.quest_subtitle: "{components:{\"ae2:facade_item\":\"createdeco:long_blue_bricks\"},count:1,id:\"ae2:facade\"}"
 	quest.43ABDBBAD8C072D4.quest_subtitle: "{count:1,id:\"cbcmoreshells:brass_dual_cannon_charger\"}"
 	quest.43AE4A87061E7BA8.quest_subtitle: "{count:1,id:\"create:small_diorite_bricks\"}"
+	quest.43B0239D4D2421F8.quest_desc: ["                           “琪亚娜世界第一可爱！”"]
+	quest.43B0239D4D2421F8.quest_subtitle: "由Kianakaslana_MC冠名！"
+	quest.43B0239D4D2421F8.title: "薪炎王剑的凯旋"
 	quest.43B170A228AACC99.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:recovery_potion_long\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_bolt\"}"
 	quest.43B34A08D521D292.quest_subtitle: "{count:1,id:\"minecraft:dripstone_block\"}"
 	quest.43B7254D7B59E19B.quest_subtitle: "{count:1,id:\"ars_nouveau:sconce\"}"
@@ -6775,7 +6787,7 @@
 	quest.440467A3F3C0C8E2.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:red_iron_wrapped_locometal\"},count:1,id:\"ae2:facade\"}"
 	quest.440607ADAE9000D5.quest_subtitle: "{count:1,id:\"minecraft:saddle\"}"
 	quest.4406A1EC762C2116.quest_subtitle: "{count:1,id:\"ae2:fluid_cell_housing\"}"
-	quest.440E54445238293C.quest_desc: ["致敬某xnn在服务器修船时溺水十几次（"]
+	quest.440E54445238293C.quest_desc: ["致敬某xnn在服务器海里修船时溺水十几次（"]
 	quest.440E54445238293C.quest_subtitle: "由Yeffie__xnn冠名！"
 	quest.44101282FFAB89E4.quest_subtitle: "{count:1,id:\"minecraft:jungle_door\"}"
 	quest.4412DB9B4F6B8CF8.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:egg_fried_rice\"}"
@@ -7959,6 +7971,8 @@
 	quest.4F4130E0B3D2508D.quest_subtitle: "{count:1,id:\"ars_nouveau:whirlisprig_shards\"}"
 	quest.4F416C3865583CD4.quest_subtitle: "{count:1,id:\"minecraft:charcoal\"}"
 	quest.4F45EA06904322EB.quest_subtitle: "{count:1,id:\"ae2:quartz_slab\"}"
+	quest.4F4A14428616EB35.quest_desc: ["通入水即可冷却，通入冷却液即可冷冻~"]
+	quest.4F4A14428616EB35.quest_subtitle: "雪人冷却室也可以使用吸管！"
 	quest.4F4A2A13FFD1682E.quest_subtitle: "{components:{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"minecraft:bamboo\"}}},count:1,id:\"quark:seed_pouch\"}"
 	quest.4F4DDE7B4D563A62.quest_subtitle: "{count:1,id:\"ends_delight:dragon_leg\"}"
 	quest.4F50094A824357C6.quest_desc: ["可以堆叠的……柴油机，大量的应力！"]
@@ -10556,6 +10570,7 @@
 	quest.68F6F08CDF8C4471.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:waxed_weathered_copper_bulb\"},count:1,id:\"ae2:facade\"}"
 	quest.68F7D913FC3C56DC.quest_subtitle: "{count:1,id:\"functionalstorage:birch_2\"}"
 	quest.68F8F338F422E0D8.quest_subtitle: "{count:1,id:\"barbequesdelight:tray\"}"
+	quest.68F94477CE90D641.title: "好神秘……"
 	quest.68FA5EB96C17A7AC.quest_subtitle: "{count:1,id:\"ars_nouveau:blue_archwood_wood\"}"
 	quest.68FCB430A01CFF14.quest_subtitle: "{count:1,id:\"cbcmoreshells:wide_steel_dual_cannon_quickfiring_breech\"}"
 	quest.690508433C0B2DF2.quest_subtitle: "{count:1,id:\"createnuclear:reactor_blueprint_item\"}"
@@ -10811,6 +10826,366 @@
 	quest.6B388BED8A1DCB1A.quest_subtitle: "{count:1,id:\"createdeco:tiled_verdant_brick_slab\"}"
 	quest.6B396DA49E043AB5.quest_subtitle: "{count:1,id:\"ae2:black_glass_cable\"}"
 	quest.6B3A14ACBF658768.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_healing\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_wooden_arrow\"}"
+	quest.6B41000000000001.quest_desc: [
+		"工厂已经有了，接下来把它搬到天上去！航空器的升力、推进和操纵需要分别解决。先造一艘小艇，再想空中城堡。"
+		"本章从气囊与浮空石两条升力路线开始，再分出机械推进、摇杆控制、飞控、燃料供给、机载物流、雷达与武装。物品任务检测持有物品，不代表设备已经工作；实操节点需要自己完成后勾选。配方以本实例 JEI 为准。"
+	]
+	quest.6B41000000000001.title: "起飞，远航"
+	quest.6B41000000000002.quest_desc: [
+		"戴上飞行员护目镜，航空组件的升力和推力就有数了。飞不起来先看数据，别急着往上堆发动机（"
+		"把护目镜当作调试工具：记录当前转速、推力或气体数据，再改变一项设置比较结果。组件数据和全船表现需要一起看，某个推进器有推力，也不代表整艘船能够升空。"
+	]
+	quest.6B41000000000002.title: "飞行员上线"
+	quest.6B41000000000003.quest_desc: [
+		"用气囊方块围出封闭的空腔，里面留空。传动杆穿过气囊时也要气密包裹，不然就成漏气球了。详见思索。"
+		"先做简单的长方体气囊，便于检查漏口。内部的设备会占用体积；转角、底面和传动入口都要确认。造型可以等首飞成功之后再改。"
+	]
+	quest.6B41000000000003.title: "大气球！"
+	quest.6B41000000000004.quest_desc: [
+		"热气燃烧器向上方气囊填充热空气。面板设置最大输出，红石强度调节实际输出。气囊越大，可用的升力空间越大；飞得太高，升力也会减弱。"
+		"先在地面搭气囊和控制信号，观察输出变化。多个燃烧器能向同一个气囊合并输出，但仍受气囊容量限制；增加燃烧器之前先检查体积是否够用。"
+	]
+	quest.6B41000000000004.title: "热气腾腾"
+	quest.6B41000000000005.quest_desc: [
+		"不喜欢大气球？试试浮空石。先按 JEI 准备混合物，再看思索安排浇筑与加热；结晶开始就收不回流体了，别往家里乱倒（"
+		"附近热源也可能引发结晶，反应会蔓延到整个流体。把实验位置与仓库分开，先看思索中的铸造容器说明，有些容器方块会在结晶过程中被破坏。"
+	]
+	quest.6B41000000000005.title: "浮空石混合物"
+	quest.6B41000000000006.quest_desc: [
+		"浮空石能让足够轻的动态结构悬浮，但不会自己往上飞，升高还需要额外的力。它在低速时也会阻碍运动。悬浮和推进，是两回事！"
+		"先用轻型试验结构确认悬浮效果，再增加甲板与设备。浮空石的低速阻力和主动升高需求会影响操纵；这条路线也需要推进与受控降落方案。"
+	]
+	quest.6B41000000000006.title: "悬而不飞"
+	quest.6B41000000000007.quest_desc: [
+		"热空气和浮空石两条路线任选其一。做一艘轻型小艇，按本版本部件思索完成结构组装，再检查升力和重量分布。能稳定离地后手动勾选。"
+		"这两条升力路线任选其一即可解锁，不要求两边都刷材料。先完成造船场与船载动力准备，再试离地；后续低空练习会检查反复升降的操作。"
+	]
+	quest.6B41000000000007.title: "先让它浮起来"
+	quest.6B41000000000008.quest_desc: [
+		"小型螺旋桨提供推力。先在地面测试转向和安装方向，再装上船。安山版本也可以用；往前推还是把自己拉回来，先试试就知道了。"
+		"在地面把螺旋桨朝向和动力转向分别改变一次，观察推力方向。安山螺旋桨是独立比较支线，不需要在这里收齐两种。"
+	]
+	quest.6B41000000000008.title: "吹起来了"
+	quest.6B41000000000009.quest_desc: [
+		"螺旋桨轴承可以组装更大的桨叶结构。接上可开关的动力，按思索确认桨叶与推力方向。左右尽量对称，免得一开机就原地转圈。"
+		"桨叶数量与结构装配方式先看思索，动力应力和转速在船载系统上验证。把推进器放在两侧时先做成对测试，别只启动一边就急着加速。"
+	]
+	quest.6B41000000000009.title: "更大的桨"
+	quest.6B4100000000000A.quest_desc: [
+		"陀螺仪螺旋桨轴承会尝试保持螺旋桨直立，适合探索旋翼航空器。向上、向下安装和红石控制有不同用法，先看思索再摆。"
+		"红石控制与向下安装的稳定用途都有对应思索。该组件的推力会随海拔变化，低空有效不代表高空一定维持同样表现。"
+	]
+	quest.6B4100000000000A.title: "稳住，别歪！"
+	quest.6B4100000000000B.quest_desc: [
+		"摇杆通过红石链路发送操纵信号。潜行右键配置频率，右键进入控制，ESC 退出。先在地面把前后左右调通，再把自己送上天。"
+		"进入控制前先确认有退出方式，按键与鼠标模式以摇杆界面为准。前后左右的动作频率逐项填写，再用地面指示灯或机构验证信号。"
+	]
+	quest.6B4100000000000B.title: "方向盘？摇杆！"
+	quest.6B4100000000000C.quest_desc: [
+		"机械舵机按红石强度控制角度，步进舵机可以设置每步角度。先在地面调好范围，再接摇杆。它们会先转完当前动作，别指望瞬间掉头（"
+		"设置转动范围后，用弱、中、强三档信号比较角度。先练习回中，再用于转向或倾转机构；机械舵机和步进舵机的设置不要直接照抄。"
+	]
+	quest.6B4100000000000C.title: "舵机"
+	quest.6B4100000000000D.quest_desc: [
+		"陀螺仪提供姿态与稳定信息。先观察水平和倾斜时的状态，再按工具提示接入自己的控制方案。仪表稳了，不一定船就稳了。"
+		"先静止观察，再在试验结构上比较运动与倾斜时的数据。把测量、目标姿态和执行机构分开理解，陀螺仪不替代完整控制系统。"
+	]
+	quest.6B4100000000000D.title: "看清姿态"
+	quest.6B4100000000000E.quest_desc: [
+		"浮得起来，也能操纵，就可以试飞了！完成一次低空起飞、前进、转向、停止推进和降落。升力与推进分开控制，船载动力也要接好。完成后手动勾选。"
+		"每次只改一个参数，先低速短程。飞不起来查升力与供给，原地转圈查推力方向和重心，摇杆无效查频率与接收模式。把返航和降落练会，再谈远航。"
+	]
+	quest.6B4100000000000E.title: "第一次试飞"
+	quest.6B4100000000000F.quest_desc: [
+		"绳索连接器和发射器可以用来试验连接与停泊。先在地面学会连接和解除，再拿飞船试。别一边全速前进一边把自己拴上（"
+		"先为码头固定点和飞船连接点留出可操作位置。连接后观察是否有拉扯，解除后确认船体能重新出发；绳索不是全速航行的紧急刹车。"
+	]
+	quest.6B4100000000000F.title: "空中码头"
+	quest.6B41000000000010.quest_desc: [
+		"给小艇装上储物空间，把一批材料送到另一个据点，再返回停泊。加货之后记得重新检查升力和重心。实际完成运输后手动勾选。"
+		"物品栏中有材料不等于完成运输：实际把货物交到目标位置，再返回基地。这项任务是手动确认；后续移动打包与机械蜂支线继续探索包裹物流。"
+	]
+	quest.6B41000000000010.title: "当日达，空运版"
+	quest.6B41000000000011.quest_desc: [
+		"蒸汽排气阀提供另一条气体升力路线。看看锅炉、排气阀与气囊的思索，熟悉热气艇之后再来比较。蒸汽也可以有自己的天空！"
+		"在同一艘轻型结构上比较气体供给、控制响应和持续运行条件。先确保锅炉与排气阀能够工作，再排查气囊；把热气艇经验作为参照。"
+	]
+	quest.6B41000000000011.title: "另一种升力"
+	quest.6B41000000000012.quest_desc: [
+		"珠光浮空石是浮空石路线的进一步探索。按 JEI 和思索准备材料，先做小规模试验。颜值与实用性，我全都要。"
+		"先在独立试验区核对结晶条件与最终结构。材料路线完成之后，再把它作为整船设计的一部分比较；不用为了首次飞行强制追求珠光版本。"
+	]
+	quest.6B41000000000012.title: "粉色款！"
+	quest.6B41000000000013.quest_desc: [
+		"鼠标飞行控制器是另一套操纵方案。先查看工具提示和按键设置，确认绑定与退出方式，再在小艇上试用。"
+		"用小艇验证鼠标输入、控制方向与退出方式。不要第一次接入就全速试飞。和摇杆选择适合自己的操作方式即可，升级飞控也不必拆掉已经调好的手动方案。"
+	]
+	quest.6B41000000000013.title: "鼠标驾驶"
+	quest.6B41000000000014.quest_desc: [
+		"把飞控计算机接进自己的控制方案，按部件说明完成配置。每次只改一个参数，先做低空测试。让电脑帮忙，也得先把船造稳。"
+		"计算机汇总控制器需求，向已连接推进器分配力和力矩。工具枪先选择控制器或推进器，再右键计算机连接；先只连一组设备观察分配，之后逐步增加。"
+	]
+	quest.6B41000000000014.title: "飞控计算机"
+	quest.6B41000000000015.quest_desc: [
+		"HUD 投影仪和飞控工具枪用于显示与配置。先停泊再调试，确认控制响应后再起飞。驾驶舱终于有点驾驶舱的样子了！"
+		"投影仪用于驾驶信息显示，工具枪用于连接与配置，作用不同。先确认显示内容与当前船体状态一致，再扩大驾驶舱布局；后续姿态、定高和速度节点详细介绍控制模块。"
+	]
+	quest.6B41000000000015.title: "驾驶舱的仪表"
+	quest.6B41000000000016.quest_desc: [
+		"铂锭与铂机壳是推进扩展的材料入口。按 JEI 安排生产，先核对目标推进器的运行条件。下一站，高级航空器！"
+		"先给材料生产安排一个小批量目标，做出试验设备核对供给，再扩建生产线。高级推进分支不会阻挡已有机械飞艇的货运任务。"
+	]
+	quest.6B41000000000016.title: "铂金时代"
+	quest.6B41000000000017.quest_desc: [
+		"自动胶水与装配棒用于推进扩展的结构装配。先拿小结构熟悉选区与操作，别把跑道也粘进飞机里了（"
+		"在独立小结构上验证工具选区、组装与解除操作。安装动力与控制后再装配正式飞机，检查地面设施有没有被选入；组装前后分别保留可检查的状态。"
+	]
+	quest.6B41000000000017.title: "组装工具"
+	quest.6B41000000000018.quest_desc: [
+		"机翼和推进器开启新的设计路线。先按工具提示测试安装、供给与受力方向，再造飞机。飞艇的设置不能直接照搬过来。"
+		"推力提供推进，机翼参与另一类受力设计，两者不能混为一谈。先验证发动机能工作，再按组件提示布置机翼；从短距离试验与稳定降落开始。"
+	]
+	quest.6B41000000000018.title: "机翼与推进"
+	quest.6B41000000000019.quest_desc: [
+		"矢量推进器可以进一步探索推力方向控制。先用轻型结构测试偏转效果，再接操纵系统。方向没调对，翻跟头也是飞（"
+		"先单轴调节，记录向左、向右或抬头时的实际响应。偏转机构、供给和驾驶信号各自测试后再组合，多轴同时乱调只会收获一架陀螺。"
+	]
+	quest.6B41000000000019.title: "推力也能拐弯"
+	quest.6B4100000000001A.quest_desc: [
+		"先按 JEI 与工具提示确认离子推进器的运行条件，再安排供给测试。船都造到这里了，是时候追求性能了！"
+		"先独立验证运行供给，再比较同一结构上的响应与巡航表现。新增供给设备会影响布局与载荷，记得重新做完整起降测试。"
+	]
+	quest.6B4100000000001A.title: "离子推进"
+	quest.6B4100000000001B.quest_desc: [
+		"雷达天线与雷达板负责观察空域。先在地面按工具提示配置，确认探测范围和已知目标，再搬到船上。"
+		"地面先放一个已知目标，在范围内观察探测变化，再装到船上。传感器工作、链路传输和显示器显示是三个步骤，逐段验证更容易找问题。"
+	]
+	quest.6B4100000000001B.title: "空域观察"
+	quest.6B4100000000001C.quest_desc: [
+		"把显示器按部件说明接入雷达系统，先检查一个已知目标。没有显示时先查配置与范围，别急着宣布天空空无一物。"
+		"先让显示器显示已知目标，之后再接无线数据与过滤功能。看不见目标时先查传感器、连接和规则；显示器不替代驾驶时的目视观察。"
+	]
+	quest.6B4100000000001C.title: "雷达显示"
+	quest.6B4100000000001D.quest_desc: [
+		"先给第一艘航空器留一块空旷的装配场：能绕船检查、能放下临时动力，也能看清船底。船体和地面之间留出间隙，装配前检查选区。"
+		"搭好轻型甲板，确定驾驶位置、气囊与动力位置，再按部件思索完成动态结构组装。实际完成后手动勾选。"
+	]
+	quest.6B4100000000001D.title: "造船场"
+	quest.6B4100000000001E.quest_desc: [
+		"组装后检查甲板、气囊和设备是否都属于预期结构；地面、脚手架与旁边的仓库不应该一起起飞。"
+		"试验拆装之前先让船体停稳。结构工具的具体操作以本版本提示为准，先用小结构练习，别直接拿空中城堡开刀（"
+	]
+	quest.6B4100000000001E.title: "船体不是地基"
+	quest.6B4100000000001F.quest_desc: [
+		"气囊需要封闭，但动力轴又得穿进去，怎么办？气囊包裹的传动杆负责处理这个穿墙位置。"
+		"按照气囊思索设置包裹，检查角落、管线入口和底部。里面堆满方块也会减少可用气体体积，漂亮外壳不等于有效升力。"
+	]
+	quest.6B4100000000001F.title: "穿过气囊的传动"
+	quest.6B41000000000020.quest_desc: [
+		"重量、升力和受力位置一起决定表现。先用护目镜观察组件数据，把重设备尽量分散、对称布置，给增加货物留一点余地。"
+		"如果一侧先离地，先检查左右分布与推力方向。完成一次小艇的装配检查后手动勾选。"
+	]
+	quest.6B41000000000020.title: "浮起来之前，先算账"
+	quest.6B41000000000021.quest_desc: [
+		"世界上的轴不会因为你飞起来就自动跟着走。把动力源、传动、开关和必要供给一起规划到船体上。"
+		"停泊时先验证船载传动能独立运行，再关闭地面临时动力检查。升力与前进推进分别控制，停船不等于把所有维持悬浮的系统一起关掉。完成后手动勾选。"
+	]
+	quest.6B41000000000021.title: "自己带动力"
+	quest.6B41000000000022.quest_desc: [
+		"红石链路可以把驾驶位置与执行机构联系起来。各动作使用清楚、独立的频率，先在地面一项一项测试。"
+		"不动时检查收发模式、频率物品与信号强度；乱动时检查是否有其他设备用了同一频率。别让开舱门的按钮顺便启动发动机（"
+	]
+	quest.6B41000000000022.title: "信号也得上船"
+	quest.6B41000000000023.quest_desc: [
+		"步进舵机按设置的步长响应红石强度，适合需要明确角度档位的机构。两侧输入还能影响转动方向；同时输入的情况请查看思索。"
+		"先搭一个可见的指针机构，测试弱信号、强信号和归位，再装到飞船上。舵机先完成当前旋转，再处理新目标。"
+	]
+	quest.6B41000000000023.title: "步进舵机"
+	quest.6B41000000000024.quest_desc: [
+		"和木螺旋桨放在同一个试验台上，比较转向、转速和推力读数。不要同时改船体重量、桨的位置和动力，否则就不知道是谁起作用了。"
+		"这条是推进比较支线，第一次起飞不必把所有桨都集齐。"
+	]
+	quest.6B41000000000024.title: "安山螺旋桨"
+	quest.6B41000000000025.quest_desc: [
+		"先看智能螺旋桨的提示和思索，熟悉其控制与调节方法，再在原试验台比较响应。"
+		"升级时保留一个已经调通的方案。新组件表现异常就退回上一套参数，别把所有传动一起拆掉。"
+	]
+	quest.6B41000000000025.title: "智能螺旋桨"
+	quest.6B41000000000026.quest_desc: [
+		"先关掉前进推进，逐步调节升力，做到低空离地、停留、再受控降回地面。热气输出、海拔和载荷变化都会影响结果。"
+		"持续上升时减小输出；下沉时查重量、气囊体积、密封和供给。能反复完成升降后手动勾选。"
+	]
+	quest.6B41000000000026.title: "低空悬停练习"
+	quest.6B41000000000027.quest_desc: [
+		"停止推进后，船体可能仍有运动。留出减速空间，试验自己的反向推力或控制方案，观察停下来需要多远。"
+		"完成一次低速前进、主动减速和受控降落。确认停推没有误关升力后手动勾选，别把码头当刹车片（"
+	]
+	quest.6B41000000000027.title: "停得下来才算会飞"
+	quest.6B41000000000028.quest_desc: [
+		"先空载飞一次，再装上同一批材料重复路线，比较起飞、转向和降落表现。"
+		"货物集中在一端可能改变重心。需要更多升力时，先检查重量与分布，别直接把推力拉满。完成空载与带货对比后手动勾选。"
+	]
+	quest.6B41000000000028.title: "带货前后的区别"
+	quest.6B41000000000029.quest_desc: [
+		"工具枪是飞控接线工具：先选择控制器或推进器，再右键飞控计算机进行连接或断开。"
+		"先在停泊状态连一个设备，佩戴护目镜确认连接与分配信息，再扩展到整艘船。模块与供给规则仍由各自模组处理，接上线不代表有燃料。"
+	]
+	quest.6B41000000000029.title: "飞控工具枪"
+	quest.6B4100000000002A.quest_desc: [
+		"前进方向指示器为飞控定义机体前向参考。用工具枪选择它，再连接到对应设备；相关部件必须位于同一物理结构。"
+		"先确认船头、控制器和推力的方向一致。明明推前进却往侧面走，先查坐标参考，再查参数。"
+	]
+	quest.6B4100000000002A.title: "哪边是机头？"
+	quest.6B4100000000002B.quest_desc: [
+		"姿态稳定器计算保持机体姿态所需的力矩。底部传动需要提供应力，用工具枪连接飞控计算机。"
+		"可以选择配平、配平并保持航向、保持当前姿态。先从温和预设试起；P 增强修正，D 抑制摆动，但过大也不合适。先稳住俯仰和滚转，再考虑锁航向。"
+	]
+	quest.6B4100000000002B.title: "姿态稳定器"
+	quest.6B4100000000002C.quest_desc: [
+		"高度稳定器维持或限制世界坐标 Y 高度，底部传动同样需要应力，并连接飞控计算机。"
+		"先在低空试验保持当前高度，再测试目标高度设置。它需要足够可分配的升力；超载或推力不足时，定高按钮不会变出发动机。"
+	]
+	quest.6B4100000000002C.title: "定高巡航"
+	quest.6B4100000000002D.quest_desc: [
+		"线速度耦合器根据机体系目标速度计算所需的力，连接计算机并提供传动应力。"
+		"先只设一个轴的小目标，测试前进和归零，再添加其他方向。配合红石代理输入时，先核对正负方向，避免几个信号互相抵消。"
+	]
+	quest.6B4100000000002D.title: "目标速度"
+	quest.6B4100000000002E.quest_desc: [
+		"距离耦合器通过光学传感器测距，沿射线方向产生修正需求。工具枪先选传感器，再连耦合器；重复连接可取消。"
+		"先在地面给传感器一个看得见的目标，检查射线方向与距离变化，再试停泊辅助。它不是全方向自动避障，没被传感器看到的障碍仍要自己留意。"
+	]
+	quest.6B4100000000002E.title: "离墙远一点"
+	quest.6B4100000000002F.quest_desc: [
+		"角速度耦合器用于进一步控制转动，具体输入与连接方式查看本版本提示。"
+		"先用小结构只试一个转轴，观察目标变化与响应；不要同时和姿态保持设置互相矛盾的目标。调通后再搬上船。"
+	]
+	quest.6B4100000000002F.title: "目标角速度"
+	quest.6B41000000000030.quest_desc: [
+		"红石代理把外部红石信号转为受支持飞控设备的动作。用工具枪建立连接，在代理界面把动作分配到各个面。"
+		"总开关、脉冲模式切换和模拟量输入不是一种信号。先测试一个开关，再添加定高、速度或模式切换，别把所有面一起通电。"
+	]
+	quest.6B41000000000030.title: "红石代理"
+	quest.6B41000000000031.quest_desc: [
+		"普通智能矢量推进器需要安装喷口、启用并获得燃料，才参与飞控分配。手持喷口右键安装，燃料从与喷口轴垂直的侧面输入。"
+		"本地说明列出了熔岩、柴油、生物柴油、汽油和煤油。用工具枪连接计算机，戴护目镜观察燃料与分配推力；接入计算机后，计算机控制优先。"
+	]
+	quest.6B41000000000031.title: "智能矢量推进器"
+	quest.6B41000000000032.quest_desc: [
+		"小型智能矢量推进器自带喷口，适合进一步试验紧凑布局。按本版本提示接入底座流体供给或工具枪储罐连接。"
+		"先检查启用、燃料和计算机连接，再观察推力分配。体积小也要给管线与检修留位置。"
+	]
+	quest.6B41000000000032.title: "小型矢量推进"
+	quest.6B41000000000033.quest_desc: [
+		"智能离子矢量推进器是飞控执行器的另一条路线。按本版本提示核对能量供给、启用与连接条件，别照搬燃油喷口的接法。"
+		"先地面单机测试，再接计算机观察分配。不需要一口气替换整艘船，每次替换一对推进器就够了。"
+	]
+	quest.6B41000000000033.title: "智能离子推进"
+	quest.6B41000000000034.quest_desc: [
+		"先完成姿态稳定，再开启定高，最后加入小幅目标速度。逐项确认设备有应力、推进器有供给，计算机能分配需要的力。"
+		"观察是否反复摆动、偏向一侧或持续追不上目标。一次只改一项，记录有效参数；完成低空往返与稳定停泊后手动勾选。"
+	]
+	quest.6B41000000000034.title: "飞控验收"
+	quest.6B41000000000035.quest_desc: [
+		"推进器的运行条件由对应模组决定。按 JEI 与提示选择燃料，给供给管线留一个能看见和检查的位置。"
+		"比较空载巡航和带货时的消耗，补给后再远航。制作燃烧器不等于所有发动机都能吃同一种燃料；先在地面验证。"
+	]
+	quest.6B41000000000035.title: "燃料先行"
+	quest.6B41000000000036.quest_desc: [
+		"固体燃料推进器提供另一套推进方案。先在地面按提示验证燃料、点火控制和推力方向。"
+		"与液体燃料路线比较补给是否方便，再决定装哪种。不要因为背包煤多，就默认其他发动机也能烧煤（"
+	]
+	quest.6B41000000000036.title: "固体燃料推进"
+	quest.6B41000000000037.quest_desc: [
+		"液体矢量推进器结合供给和方向调节。先独立检查燃料输入，再检查转向机构，最后才接驾驶控制。"
+		"对称布置能让初次调试更直观。只有一侧有燃料时，问题不在摇杆灵敏度。"
+	]
+	quest.6B41000000000037.title: "液体矢量推进"
+	quest.6B41000000000038.quest_desc: [
+		"铂流体储罐与容器为推进扩展提供更多储存选择，具体连接方法查看提示。先算好要带什么液体，再布置供给。"
+		"做一次短途往返记录消耗，给返程留余量。加大油箱之后也要重新检查重心和升力。"
+	]
+	quest.6B41000000000038.title: "储罐与续航"
+	quest.6B41000000000039.quest_desc: [
+		"电缆与中继器用于推进扩展的供能连接，按提示确认接口和连接方式。先让一个目标设备独立工作，再扩展网络。"
+		"把供能路线和机械传动分别检查。显示器亮着，不代表推进器就有足够的运行供给。"
+	]
+	quest.6B41000000000039.title: "电缆上船"
+	quest.6B4100000000003A.quest_desc: [
+		"强化机翼和模仿机翼提供更多机翼选择。先按提示确认安装和受力方向，再考虑外观。"
+		"沿用一艘已经能飞的试验机，一次只换机翼，重复同一条路线。把它装修成客机之前，先把降落练好！"
+	]
+	quest.6B4100000000003A.title: "机翼外观与性能"
+	quest.6B4100000000003B.quest_desc: [
+		"发射器让绳索连接操作更方便。先在地面测试射程、端点选择和解除方式，确认两个连接对象符合工具要求。"
+		"飞船低速靠泊之后再接绳，绳长与固定点也会影响拉扯。别拿绳索硬拽全速飞船。"
+	]
+	quest.6B4100000000003B.title: "绳索发射器"
+	quest.6B4100000000003C.quest_desc: [
+		"便携库存终端是移动物流的入口。先按物品提示绑定自己的物流网络，验证能看到正确库存。"
+		"飞船货舱和基地仓库是两个实际场景，先明确从哪里取、往哪里送，再追求随时下单。"
+	]
+	quest.6B4100000000003C.title: "远程查看库存"
+	quest.6B4100000000003D.quest_desc: [
+		"移动打包器把包裹物流带入移动场景。先在停泊状态按提示建立网络与地址，测试一个简单包裹，再试航行中的流程。"
+		"把需求、打包和收货分开检查。任务只检测取得设备，实际跨结构兼容与收发效果需要自己验证。"
+	]
+	quest.6B4100000000003D.title: "移动打包"
+	quest.6B4100000000003E.quest_desc: [
+		"机械蜂和港口是包裹物流的进一步选择。先看本版本提示，确认绑定、收发条件和工作范围，再在基地做短程收发试验。"
+		"地面流程调通后再用于码头。先验证停泊状态，航行中的能力以实际测试为准，别把它当无限距离传送门。"
+	]
+	quest.6B4100000000003E.title: "机械蜂港口"
+	quest.6B4100000000003F.quest_desc: [
+		"给码头安排一个明确收货位置、一个补给位置和足够的进出空间。把货物、燃料和飞船维修分开处理，避免每次靠泊都要拆半艘船。"
+		"完成一次停泊、卸货、补给和再次起飞的完整流程，再手动勾选。"
+	]
+	quest.6B4100000000003F.title: "码头交付"
+	quest.6B41000000000040.quest_desc: [
+		"雷达数据链与接收器用于进一步连接雷达信息。按提示确认频率、网络与对应方向，先在地面传输一个已知目标。"
+		"显示器看不见时先检查传感器、链路和显示三段，不要一上来改探测范围。"
+	]
+	quest.6B41000000000040.title: "无线数据链"
+	quest.6B41000000000041.quest_desc: [
+		"目标过滤器用于进一步整理雷达目标。按物品提示选择需要观察的目标类型，先用一个已知目标测试规则，再扩大范围。"
+		"过滤规则过严时，天空不是没东西，而是你把东西筛掉了（"
+	]
+	quest.6B41000000000041.title: "目标筛选"
+	quest.6B41000000000042.quest_desc: [
+		"架设式土豆加农炮是航空学的基础武装，接受对应土豆炮弹药，也可以探索自动装填。先查看思索，在地面确认朝向、装填与触发。"
+		"炮位不要和驾驶开关共用信号。先用小型试验船观察布局，之后再去大炮章节研究大型武装。"
+	]
+	quest.6B41000000000042.title: "机载土豆炮"
+	quest.6B41000000000043.quest_desc: [
+		"武装平台需要同时考虑载荷、供给、操纵和发射方向。先完成空载试飞，再加武器重复测试，观察新增设备是否影响平衡。"
+		"在试验区域完成装填、触发和停火，确认不会误操作驾驶系统后手动勾选。大型火炮与枪械制作继续查看对应章节。"
+	]
+	quest.6B41000000000043.title: "武装不是主线门槛"
+	quest.6B41000000000044.quest_desc: [
+		"本包安装了航空探索内容。外出时观察空中遇到的结构、商人和敌对单位，记录自己的发现；刷怪蛋不是这项任务目标。"
+		"先带上能正常返航的小艇与基础补给，遇到陌生结构先观察再靠近。完成一次有实际发现的航行后手动勾选。"
+	]
+	quest.6B41000000000044.title: "天空也有人"
+	quest.6B41000000000045.quest_desc: [
+		"选一个适合观察地形的地点建立停泊点，安排补给、储存与登船通道。地图标记帮助返航，但码头本身也要容易辨认。"
+		"完成一次基地与观测点之间的往返，记录路线和补给需求，再手动勾选。"
+	]
+	quest.6B41000000000045.title: "空中观测点"
+	quest.6B41000000000046.quest_desc: [
+		"热气艇先查气囊密封、有效体积、燃烧器信号与重量；浮空石路线先查结构重量和额外升高所需的力。"
+		"推进器不工作则查启用、转速、应力、燃料或电力。高空表现变弱还要考虑气压。亲自排查并解决一次升力或动力问题后手动勾选。"
+	]
+	quest.6B41000000000046.title: "飞不起来怎么办"
+	quest.6B41000000000047.quest_desc: [
+		"先检查推力方向和左右布局，再检查转向机构是否回中、链路频率是否串台。偏心推力会带来转动，更多发动机也可能让问题更明显。"
+		"使用飞控时再核对机头参考、连接设备与控制目标。解决一次偏航、倾斜或摆动问题后手动勾选。"
+	]
+	quest.6B41000000000047.title: "为什么一直转圈"
+	quest.6B41000000000048.quest_desc: [
+		"选择一个真实目标：更多货物、更稳操纵或更长航程。每次只改一项，重复空载与带货测试，记录动力与升力表现。"
+		"完成起飞、巡航、减速、停泊和补给；确认新设备能正常运行。整套流程跑通后手动勾选，空中城堡终于有了工程师的样子！"
+	]
+	quest.6B41000000000048.title: "大船验收"
 	quest.6B418D5C613F0573.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_swiftness\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_arrow\"}"
 	quest.6B42F239D2A05F92.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"create:capacity\":2}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.6B43C352A33BD2A3.quest_subtitle: "{components:{\"minecraft:entity_data\":{id:\"minecraft:painting\",variant:\"minecraft:fighters\"}},count:1,id:\"minecraft:painting\"}"
@@ -12550,6 +12925,9 @@
 	quest.7C808E5DFC5EBFFA.quest_subtitle: "{count:1,id:\"minecraft:sugar_cane\"}"
 	quest.7C86D70C4BC64307.quest_subtitle: "{count:1,id:\"createdeco:cracked_pearl_brick_slab\"}"
 	quest.7C87B23C200DB2D7.quest_subtitle: "{count:1,id:\"cbc_at:unbored_cast_iron_vert_twin_autocannon_muzzle_brake\"}"
+	quest.7C8D494EC6F3FDAD.quest_desc: ["滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木滚木"]
+	quest.7C8D494EC6F3FDAD.quest_subtitle: "由YueNan_purple冠名！"
+	quest.7C8D494EC6F3FDAD.title: "请输入文本"
 	quest.7C8E2670B4778B6C.quest_subtitle: "{count:1,id:\"create:filter\"}"
 	quest.7C8F58DF3CBC6DDD.quest_subtitle: "{count:1,id:\"touhou_little_maid_spell:flow_core\"}"
 	quest.7C8F89BD6CEBA965.quest_subtitle: "{count:1,id:\"northstar:small_lunar_sapphire_bud\"}"
@@ -13368,6 +13746,8 @@
 	task.3696C2398BA2E3BB.title: "特殊装备"
 	task.376A6CDDFEF3CF2E.title: "附魔工业"
 	task.37BDD67887ED03BD.title: "电力"
+	task.3B473AC454FAC7F4.title: "打开一次宝库"
+	task.3C29635E1C82C16E.title: "获得一次村庄英雄"
 	task.3FA3E0A13C213D0F.title: "铁"
 	task.4304BB4CBBC80D0D.title: "提示"
 	task.4B0B0AD1F30B63D5.title: "枪械"

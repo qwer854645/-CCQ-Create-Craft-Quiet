@@ -1,0 +1,52 @@
+[
+  {
+    "_comment": "拓展乐事蔓越莓统一为水果乐事蔓越莓；生物精华已有目标物品配方。",
+    "matchItems": [
+      "expandeddelight:cranberries"
+    ],
+    "resultItems": "fruitsdelight:cranberry"
+  },
+  {
+    "_comment": "多元乐事柠檬统一为水果乐事柠檬；生物精华已有目标物品配方。",
+    "matchItems": [
+      "culturaldelights:lemon"
+    ],
+    "resultItems": "fruitsdelight:lemon"
+  },
+  {
+    "_comment": "森罗厨房的野生稻米与稻米统一为农夫乐事稻米；已有稻米配方无需重复覆盖源物品。",
+    "matchItems": [
+      "kaleidoscope_cookery:wild_rice",
+      "kaleidoscope_cookery:rice"
+    ],
+    "resultItems": "farmersdelight:rice"
+  },
+  {
+    "_comment": "稻穗统一为农夫乐事稻穗。",
+    "matchItems": [
+      "kaleidoscope_cookery:rice_panicle"
+    ],
+    "resultItems": "farmersdelight:rice_panicle"
+  },
+  {
+    "_comment": "拓展乐事红薯统一为蔬菜乐事红薯；生物精华已有目标物品配方。",
+    "matchItems": [
+      "expandeddelight:sweet_potato"
+    ],
+    "resultItems": "veggiesdelight:sweet_potato"
+  },
+  {
+    "_comment": "森罗厨房番茄统一为农夫乐事番茄；生物精华已有目标物品配方。",
+    "matchItems": [
+      "kaleidoscope_cookery:tomato"
+    ],
+    "resultItems": "farmersdelight:tomato"
+  },
+  {
+    "_comment": "农作物与原料统一：kaleidoscope_cookery:tomato_seed -> farmersdelight:tomato_seeds",
+    "matchItems": [
+      "kaleidoscope_cookery:tomato_seed"
+    ],
+    "resultItems": "farmersdelight:tomato_seeds"
+  }
+]

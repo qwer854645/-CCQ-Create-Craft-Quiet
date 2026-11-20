@@ -1,0 +1,13 @@
+{
+  "text.nowheel.category.advanced": "高级设置",
+  "text.nowheel.category.general": "通用",
+  "text.nowheel.distanceCulling": "距离剔除",
+  "text.nowheel.distanceCulling.tooltip": "剔除超出 Entity Culling 的 tracingDistance 的物体。默认在视距 8+ 时提升性能。可在 config/entityculling.json 修改 tracingDistance。",
+  "text.nowheel.forceRemoving": "强制使用移除后端",
+  "text.nowheel.forceRemoving.tooltip": "仅当性能明显低于旧版 Nowheel 时启用。强制在间接 Flywheel 后端上使用旧版移除逻辑。",
+  "text.nowheel.overrideEntityCulling": "覆盖实体剔除限制",
+  "text.nowheel.overrideEntityCulling.tooltip": "覆盖 Entity Culling 配置，以剔除默认不会被剔除的装置。特定场景可提升性能。需要重启。",
+  "text.nowheel.tickCulling": "刻剔除",
+  "text.nowheel.tickCulling.tooltip": "跳过已被剔除的机械动力机器的客户端刻更新。可提升性能。若动画异常请关闭。",
+  "text.nowheel.title": "Nowheel"
+}

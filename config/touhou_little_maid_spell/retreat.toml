@@ -1,0 +1,29 @@
+#归隐之地维度相关配置
+#Retreat dimension configurations
+[retreat_dimension]
+	#共用维度下限制每人搜索一次隐世之境；关闭后可反复搜索
+	#In shared mode, limits each player to one Wind-Seeking Bell search.
+	enableSharedQuotaLimit = true
+	#允许在归隐之地生成的结构白名单，格式 ["modid:structure_name", ...]；仅在 allowAllStructures 为 false 时生效
+	#Whitelist of structures allowed in retreat dimensions, as ["modid:structure_name", ...]; only used when allowAllStructures is false.
+	allowedStructures = ["touhou_little_maid_spell:hidden_retreat", "touhou_little_maid_spell:hidden_cherry_tree"]
+	#true: 放行所有结构，忽略白名单；false: 仅允许白名单中的结构生成 (默认: false)
+	#true: allow every structure and ignore the whitelist; false: only whitelisted structures generate.
+	allowAllStructures = false
+	#true: 每人独立的归隐维度；false: 共用维度，各有一座隐世之境结构
+	#true: private dimension per player; false: shared dimension with one Retreat per player.
+	enablePrivateDimensions = true
+	#true: 归隐之地不会自然生成敌对生物；false: 正常生成 (默认: false)
+	#true: no hostile mobs spawn naturally in retreat dimensions; false: they spawn normally.
+	disableHostileMobSpawning = false
+	#隐世之境是否允许生物生成，包括结构和刷怪笼生成
+	#Whether mobs may spawn in the Retreat at all, including structure and spawner spawns.
+	allowMobSpawnsInRetreat = true
+	#允许生物生成时，是否保留敌对生物
+	#Whether hostile mobs are kept when mob spawning is enabled.
+	allowHostileMobSpawnsInRetreat = false
+	#无引用的空归隐维度元数据保留天数；0 表示不自动清理
+	#Days to keep unreferenced, empty Retreat metadata; 0 disables cleanup.
+	# Default: 0
+	# Range: 0 ~ 36500
+	retreatRecordRetentionDays = 0

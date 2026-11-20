@@ -1,0 +1,11 @@
+{
+  "block.examplemod.example_block": "示例方块",
+  "examplemod.configuration.items": "物品列表",
+  "examplemod.configuration.logDirtBlock": "记录泥土方块",
+  "examplemod.configuration.magicNumber": "魔法数字",
+  "examplemod.configuration.magicNumberIntroduction": "魔法数字文本",
+  "examplemod.configuration.section.examplemod.common.toml": "示例模组配置",
+  "examplemod.configuration.section.examplemod.common.toml.title": "示例模组配置",
+  "examplemod.configuration.title": "示例模组配置",
+  "item.examplemod.example_item": "示例物品"
+}

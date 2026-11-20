@@ -1,0 +1,20 @@
+// Partial translation supplements. Original mod language files remain available.
+ClientEvents.lang("ru_ru", event => {
+  event.add("dungeons_arise", "advancement.dungeons_arise.find_kisegi_sanctuary.desc", "Найдите святилище Кисеги")
+  event.add("dungeons_arise", "advancement.dungeons_arise.find_kisegi_sanctuary.title", "Один плюс один. Сочувствие дьяволу Sympathy for the Devil")
+  event.add("dungeons_arise", "advancement.dungeons_arise.find_mechanical_nest.desc", "Найдите механическое гнездо")
+  event.add("dungeons_arise", "advancement.dungeons_arise.find_mechanical_nest.title", "Добро пожаловать в машину")
+  event.add("dungeons_arise", "advancement.dungeons_arise.find_mining_complex.desc", "Найти горнодобывающий комплекс")
+  event.add("dungeons_arise", "advancement.dungeons_arise.find_mining_complex.title", "Для подачи машины.")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.discharge", ".")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.discharge.desc", "Атака врагов увеличивает скорость, однако высокие уровни скорости разряжаются в виде сильного взрыва, нанося урон как жертве, так и нападающему.")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.ensnaring", "Заманивание")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.ensnaring.desc", "Дает шанс увеличить замедление при нанесении урона врагам и призывает клыки, которые атакуют всех монстров вокруг себя.")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.lolths_curse", "Проклятие Лолс")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.lolths_curse.desc", "Дает шанс восстановить здоровье при атаке врагов, однако из их тела могут вырастать пауки. Повреждение членистоногого отразится на нанесении ущерба владельцу.")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.purification", "Очистка")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.purification.desc", "Дает шанс нейтрализовать все входящие ядовитые и иссушающие эффекты, высвобождая прилив энергии, наносящий урон ближайшим врагам.")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.voltaic_shot", "Вольтаический выстрел")
+  event.add("dungeons_arise", "enchantment.dungeons_arise.voltaic_shot.desc", "Заряжает стрелы электрической энергией, что позволяет им лететь по прямой и производить взрыв.")
+})
+

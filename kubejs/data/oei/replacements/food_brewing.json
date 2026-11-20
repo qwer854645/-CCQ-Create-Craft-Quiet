@@ -1,0 +1,16 @@
+[
+  {
+    "_comment": "啤酒花统一为森罗酒韵啤酒花，保留森罗酿造配方的标签兼容性。",
+    "matchItems": [
+      "cocktailsdelight:hops"
+    ],
+    "resultItems": "kaleidoscope_dim_wine:hop"
+  },
+  {
+    "_comment": "啤酒花种子统一为森罗酒韵啤酒花种子：cocktailsdelight:hops_seeds -> kaleidoscope_dim_wine:hop_seed",
+    "matchItems": [
+      "cocktailsdelight:hops_seeds"
+    ],
+    "resultItems": "kaleidoscope_dim_wine:hop_seed"
+  }
+]

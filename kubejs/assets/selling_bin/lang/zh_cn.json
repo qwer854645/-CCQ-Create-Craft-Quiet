@@ -41,10 +41,10 @@
   "gui.selling_bin.selling.empty.9": "或使用 /datapack enable XXXXXXXX",
   "gui.selling_bin.value": "价值",
   "item.minecraft.emerald.plural": "绿宝石",
-  "selling_bin.configuration.always_show_selling_bin_price": "始终显示出售箱价格",
-  "selling_bin.configuration.selling_in_multiplier": "出售箱倍率",
   "itemGroup.selling_bin.selling_bin": "wd 的出售箱",
   "section.selling_bin.bin": "出售箱！",
   "section.selling_bin.currencies": "货币",
-  "section.selling_bin.sellables": "可出售物品"
+  "section.selling_bin.sellables": "可出售物品",
+  "selling_bin.configuration.always_show_selling_bin_price": "始终显示出售箱价格",
+  "selling_bin.configuration.selling_in_multiplier": "出售箱倍率"
 }

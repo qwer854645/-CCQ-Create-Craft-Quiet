@@ -6,11 +6,15 @@
 	chapter.20D34C6CA7AFC843.title: "Underground Resources"
 	chapter.284309B13402547E.chapter_subtitle: ["Same-Day Delivery!"]
 	chapter.284309B13402547E.title: "Logistics"
+	chapter.2B223FCB525AC6E2.chapter_subtitle: ["Only a little so far ("]
+	chapter.2B223FCB525AC6E2.title: "Shop"
 	chapter.3A4FA5E891B37E2F.chapter_subtitle: ["Farmer's Delight, Kaleidoscope, and more kitchens"]
 	chapter.3A4FA5E891B37E2F.title: "Galactic Chef!"
+	chapter.422DA4380E4DCEBC.title: "Thank-You Quests~"
 	chapter.44D3C80E145F2898.title: "Physics!"
 	chapter.4E10E9617CAF0C75.chapter_subtitle: ["So Many?"]
 	chapter.4E10E9617CAF0C75.title: "Tools & Weapons"
+	chapter.56A6422724DED83E.title: "Getting Started"
 	chapter.59A7C4CAE9E5E505.title: "Welcome to CCQ"
 	chapter.59EEAB2A5999EAC7.chapter_subtitle: ["Now These Are Real Weapons"]
 	chapter.59EEAB2A5999EAC7.title: "Guns"
@@ -207,6 +211,7 @@
 	quest.01D1E4157B28CE04.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"createnuclear:potion_of_radiation_augment_1\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_bolt\"}"
 	quest.01D364EF2B229544.quest_subtitle: "{count:1,id:\"minecraft:stick\"}"
 	quest.01D59A036BE26F2D.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:sweet_and_sour_pork_rice_bowl\"}"
+	quest.01D65E45F61EDDB1.quest_desc: ["As the name suggests, machines are the main path. Start with a cobble generator and a fan so you can process items in bulk. See the blueprints."]
 	quest.01D67D50671CDE2C.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:spell_damage_potion\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_bolt\"}"
 	quest.01DB00EEEE3E57EF.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:brown_glazed_terracotta\"},count:1,id:\"ae2:facade\"}"
 	quest.01DC72EBCA67A2BB.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:string_lights_yellow\"}"
@@ -367,6 +372,9 @@
 	quest.03668B1403474539.quest_subtitle: "{count:1,id:\"createnuclear:small_autunite_bricks\"}"
 	quest.036B9F0F7AEFEBD8.quest_subtitle: "{count:1,id:\"create:cut_asurine_bricks\"}"
 	quest.036D1A62A2B22E63.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:cooked_rice\"}"
+	quest.036FD678BAD07288.quest_desc: [""]
+	quest.036FD678BAD07288.quest_subtitle: "Thanks to MiroxZ for the UI art!"
+	quest.036FD678BAD07288.title: "Art Cat"
 	quest.03701DC202F09143.quest_subtitle: "{count:1,id:\"quark:jungle_ladder\"}"
 	quest.037373A511B0F599.quest_subtitle: "{count:1,id:\"northstar:pointed_crimsite\"}"
 	quest.03783918BC4E6B67.quest_subtitle: "{count:1,id:\"ars_nouveau:wixie_charm\"}"
@@ -469,6 +477,7 @@
 	quest.04817C4EA97B1BFF.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:oxidized_copper_tiles\"},count:1,id:\"ae2:facade\"}"
 	quest.04855EBC7F2E8B2E.quest_subtitle: "{count:1,id:\"ae2:crank\"}"
 	quest.048FAB329BAFC6E7.quest_subtitle: "{count:1,id:\"cbcmoreshells:large_slate_alloy_single_cannon_barrel\"}"
+	quest.04907FBC8ED47223.quest_desc: ["Use a storage controller to control drawers wirelessly."]
 	quest.049A8026148D0359.quest_subtitle: "{count:1,id:\"arsdelight:frostaya_pie\"}"
 	quest.049B4D9A5126E9E7.quest_subtitle: "{count:1,id:\"quark:bamboo_post\"}"
 	quest.049FC62874F7CE27.quest_subtitle: "{count:1,id:\"northstar:mercury_copper_ore\"}"
@@ -482,6 +491,7 @@
 	quest.04AEC0F7BE2F3AAB.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"applied_armorer:grip_storm\"}},count:1,id:\"tacz:attachment\"}"
 	quest.04B24E0996BE523B.quest_subtitle: "{count:1,id:\"expandeddelight:apple_juice\"}"
 	quest.04B2AB8184ACB225.quest_subtitle: "{count:1,id:\"northstar:salt\"}"
+	quest.04B2E01B6CE6FF1C.quest_desc: ["Compacting drawers craft for you, and sometimes the result is a surprise……"]
 	quest.04B302B66A1D69F3.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:chiseled_granite_bricks\"},count:1,id:\"ae2:facade\"}"
 	quest.04B5D6C81110B2A7.quest_subtitle: "{components:{\"minecraft:custom_data\":{AmmoUsed:0}},count:1,id:\"spartan_weaponry_unofficial:tomahawk_copper\"}"
 	quest.04B67E7F3AA2AB3B.quest_subtitle: "{count:1,id:\"culturaldelights:eggplant_burger\"}"
@@ -529,6 +539,9 @@
 	quest.051696E2E4BA7441.quest_subtitle: "{count:1,id:\"minecraft:end_stone_brick_slab\"}"
 	quest.051D9FECCD8ABD02.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:thick\"}},count:1,id:\"minecraft:splash_potion\"}"
 	quest.052103FFFC7151BE.quest_subtitle: "{count:1,id:\"ars_nouveau:sourcestone_mosaic_stairs\"}"
+	quest.0524C3DABA0031A3.quest_desc: ["Steve can barely wring a chicken's neck. As an engineer, a single rabbit can take him down…… Getting one log is even harder……?"]
+	quest.0524C3DABA0031A3.quest_subtitle: "Sponsored by Aztira!"
+	quest.0524C3DABA0031A3.title: "Mission: Impossible"
 	quest.0526C1DB020599A7.quest_subtitle: "{count:1,id:\"ars_nouveau:glyph_pierce\"}"
 	quest.052AB8A7C785A20E.quest_subtitle: "{count:1,id:\"veggiesdelight:zucchini_quiche_slice\"}"
 	quest.052AF0AAF8F0EFF3.quest_subtitle: "{count:1,id:\"quark:stripped_azalea_post\"}"
@@ -709,6 +722,8 @@
 	quest.06E032CBF86CDD88.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:nether_quartz_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.06E0AC74A2427FB8.quest_subtitle: "{count:1,id:\"quark:glow_shroom_ring\"}"
 	quest.06E2ECC0CF390B37.quest_subtitle: "{count:1,id:\"minecraft:netherite_axe\"}"
+	quest.06E913D715614396.quest_desc: ["Automate storage with a set of components."]
+	quest.06E913D715614396.title: "Storage Control"
 	quest.06EB920A982137BC.quest_desc: ["An End-exclusive crop—find it once you've left the outer islands."]
 	quest.06EB920A982137BC.title: "Chorus Plants"
 	quest.06EE2FD702956755.quest_subtitle: "{count:1,id:\"quark:trapped_cherry_chest\"}"
@@ -780,6 +795,7 @@
 	quest.07A3CF5949BDD306.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:harming\"}},count:1,id:\"minecraft:tipped_arrow\"}"
 	quest.07A4A8E22EB4B88D.quest_subtitle: "{count:1,id:\"quark:gray_framed_glass\"}"
 	quest.07A77B22BA050EB2.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:chair_crimson\"}"
+	quest.07A87C43335E3A50.quest_desc: ["Automate villager trading and put the villagers to work! &mCapitalist&r"]
 	quest.07A92CD0CBDCFB58.quest_subtitle: "{count:1,id:\"ars_nouveau:alakarkinos_charm\"}"
 	quest.07A97D247EFCA457.quest_subtitle: "{count:1,id:\"createdeco:short_red_brick_wall\"}"
 	quest.07AF2D04076C3AE7.quest_subtitle: "{count:1,id:\"ae2:magenta_smart_dense_cable\"}"
@@ -826,6 +842,7 @@
 	quest.080ACF8FB9DC4647.quest_subtitle: "{count:1,id:\"railways:yellow_riveted_locometal\"}"
 	quest.080BAEC918A22E4F.quest_subtitle: "{count:1,id:\"create:horizontal_framed_glass\"}"
 	quest.080CF9CEBDEA52F8.quest_subtitle: "{count:1,id:\"cbc_at:unbored_steel_twin_autocannon_muzzle_brake\"}"
+	quest.080EA2310F7EB061.quest_subtitle: "Eats stress, not grass"
 	quest.080FF49052F89CE6.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:iron_halberd\"}"
 	quest.08116CD009CEA24E.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_leaping\"}},count:1,id:\"minecraft:potion\"}"
 	quest.081562F4C4B560A4.quest_subtitle: "{count:1,id:\"cbc_at:unbored_nethersteel_rifled_barrel\"}"
@@ -1401,6 +1418,7 @@
 	quest.0DAFBB1554677A26.quest_subtitle: "{count:1,id:\"createbigcannons:autocannon_breech_cast_mould\"}"
 	quest.0DB3C3DD50918218.quest_subtitle: "{count:1,id:\"create_mechanical_spawner:spawn_fluid_bat_bucket\"}"
 	quest.0DB6FA5512656443.quest_subtitle: "{count:1,id:\"quark:polished_granite_vertical_slab\"}"
+	quest.0DC30502A3AABB64.quest_desc: ["A bridge can be linked by two controllers at once, joining their networks."]
 	quest.0DCB84B45C8C82D4.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:slowness\"}},count:1,id:\"minecraft:tipped_arrow\"}"
 	quest.0DCD3FF1E12FA83A.quest_subtitle: "{components:{\"minecraft:custom_data\":{Oil:{Effect:\"spartan_weaponry_unofficial:potion\",Potion:\"minecraft:infested\"}}},count:1,id:\"spartan_weaponry_unofficial:weapon_oil\"}"
 	quest.0DCEFCB752ECC3C3.quest_subtitle: "{count:1,id:\"createbigcannons:bronze_autocannon_breech_extractor\"}"
@@ -1984,6 +2002,9 @@
 	quest.14224F9AB486F9D7.quest_subtitle: "{count:1,id:\"cbcmoreshells:slate_alloy_single_cannon_quickfiring_breech\"}"
 	quest.1424F8139FF83883.quest_subtitle: "{count:1,id:\"createdeco:zinc_coin\"}"
 	quest.1429F6BBF6ED54F8.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:thorns\":3}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.142AE95FAA4C52EA.quest_desc: ["Beacons are great…… You really should make one……"]
+	quest.142AE95FAA4C52EA.quest_subtitle: "Sponsored by baiyao_ovo!"
+	quest.142AE95FAA4C52EA.title: "Beacon Engineer"
 	quest.142B0FD6EADC4D99.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:martian_steel_plating\"},count:1,id:\"ae2:facade\"}"
 	quest.142B23A7B26458FF.quest_subtitle: "{count:1,id:\"ae2:chiseled_quartz_wall\"}"
 	quest.142C15C8C272B537.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:layered_crimsite\"},count:1,id:\"ae2:facade\"}"
@@ -2001,6 +2022,8 @@
 	quest.143AFF8685B0BF2C.quest_desc: ["The Mechanical Piston is a fancy piston—piston rods let it reach reeeeally far."]
 	quest.1440E5990BC423CD.quest_subtitle: "{count:1,id:\"minecraft:amethyst_cluster\"}"
 	quest.1441DC2AB952D48B.quest_subtitle: "{count:1,id:\"barbequesdelight:grilled_salmon_skewer\"}"
+	quest.14420A7D72D09676.quest_desc: ["You can fight the Ender Dragon now."]
+	quest.14420A7D72D09676.title: "The End!"
 	quest.1447B0F564992414.quest_subtitle: "{count:1,id:\"createbigcannons:medium_steel_cannon_layer\"}"
 	quest.144818D687FF9EF8.quest_subtitle: "{count:1,id:\"fruitsdelight:cranberry_muffin\"}"
 	quest.1448C6FDFFE5C125.quest_subtitle: "{components:{\"ae2:stored_energy\":1600000.0d},count:1,id:\"ae2wtlib:wireless_pattern_access_terminal\"}"
@@ -2491,6 +2514,7 @@
 	quest.19827164ED2736B6.quest_desc: ["Can load more chunks."]
 	quest.19827164ED2736B6.title: "Brass Chunk Loader"
 	quest.198282FE9BF67837.quest_subtitle: "{count:1,id:\"cbc_at:cast_iron_vert_twin_autocannon_silencer\"}"
+	quest.1988217B05A87186.quest_desc: ["Mass-produce brass for what comes next."]
 	quest.198B8E8584879820.quest_subtitle: "{count:1,id:\"create:polished_cut_andesite\"}"
 	quest.198C7646AEF4C25F.quest_subtitle: "{count:1,id:\"ae2:wireless_terminal\"}"
 	quest.198C821012394719.quest_subtitle: "{count:1,id:\"quark:cyan_shingles\"}"
@@ -2518,6 +2542,7 @@
 	quest.19BBE109F6E55D1D.quest_desc: ["&mStick Wood&r"]
 	quest.19BBE109F6E55D1D.title: "Long Stick"
 	quest.19BCCD0A7AEC83E2.quest_subtitle: "{count:1,id:\"createbigcannons:built_up_nethersteel_cannon_barrel\"}"
+	quest.19BD776C726A18C5.quest_subtitle: "Thanks to nomalfrost for all the help!"
 	quest.19C1C07C1C81AECE.quest_subtitle: "{count:1,id:\"minecraft:dead_brain_coral_block\"}"
 	quest.19C46FC3BB3982CE.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"createnuclear:potion_of_radiation_augment_1\"}},count:1,id:\"minecraft:potion\"}"
 	quest.19C6D2D3240149B4.quest_subtitle: "{count:1,id:\"farmersdelight:gray_canvas_sign\"}"
@@ -2590,6 +2615,9 @@
 	quest.1A62B1E140120372.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:red_locometal_smokebox\"},count:1,id:\"ae2:facade\"}"
 	quest.1A63050FAD38C4C6.quest_subtitle: "{count:1,id:\"quark:foxhound_spawn_egg\"}"
 	quest.1A67C27E716ADC21.quest_subtitle: "{count:1,id:\"create_connected:vertical_parallel_gearbox\"}"
+	quest.1A68448F63C707C1.quest_desc: ["What if? I mean, what if…… what if it comes in handy……? Right……"]
+	quest.1A68448F63C707C1.quest_subtitle: "Sponsored by 风霜千雪!"
+	quest.1A68448F63C707C1.title: "What If It's Useful?"
 	quest.1A6867960E24FEEA.quest_subtitle: "{count:1,id:\"ae2:lime_lumen_paint_ball\"}"
 	quest.1A6B56BC3E56E454.quest_subtitle: "{count:1,id:\"functionalstorage:framed_controller_extension\"}"
 	quest.1A6DA156DDAA0233.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:ancient_bookshelf\"},count:1,id:\"ae2:facade\"}"
@@ -2957,6 +2985,7 @@
 	quest.1DD66EDEFB33512F.quest_subtitle: "{count:1,id:\"quark:cherry_chest\"}"
 	quest.1DD765BFEB759555.quest_subtitle: "{count:1,id:\"farmersdelight:tomato_sauce\"}"
 	quest.1DDC31A6E52A9AB7.quest_subtitle: "{count:1,id:\"fruitsdelight:hamimelon_jello\"}"
+	quest.1DE4A6D988DEB5BA.quest_subtitle: "Use a factory warehouse to produce more easily"
 	quest.1DF557ECE56ED1D6.quest_subtitle: "{count:1,id:\"minecraft:emerald_ore\"}"
 	quest.1DF66099CC19C15E.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:tin_rapier\"}"
 	quest.1DF8AFB102F29C1E.quest_subtitle: "{count:1,id:\"ars_nouveau:smooth_sourcestone_basketweave_stairs\"}"
@@ -2975,6 +3004,7 @@
 	quest.1E1BCE2637BF6573.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:red_sandstone\"},count:1,id:\"ae2:facade\"}"
 	quest.1E1C4B713E3D4491.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:prismarine\"},count:1,id:\"ae2:facade\"}"
 	quest.1E1D4681387D86EA.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:tungsten_grate\"},count:1,id:\"ae2:facade\"}"
+	quest.1E1DA059E7C455BE.quest_subtitle: "Compare redstone signal strengths"
 	quest.1E1FC57B307B2304.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:netherite_block\"},count:1,id:\"ae2:facade\"}"
 	quest.1E23E7538460BF11.quest_subtitle: "{components:{\"minecraft:suspicious_stew_effects\":[{id:\"minecraft:nausea\"}]},count:1,id:\"minecraft:suspicious_stew\"}"
 	quest.1E259E024940686F.quest_subtitle: "{count:1,id:\"northstar:polished_lunar_sapphire\"}"
@@ -3172,6 +3202,7 @@
 	quest.20068DB262C48D6C.quest_subtitle: "{count:1,id:\"quark:soul_sandstone_wall\"}"
 	quest.2007425C5A4AD5E0.quest_subtitle: "{count:1,id:\"touhou_little_maid:mute_bauble\"}"
 	quest.2007D20650703D19.quest_desc: ["A basket isn't just for groceries — once you're wiring up automation, you'll see how indispensable it is."]
+	quest.2007D20650703D19.title: "Basket"
 	quest.200B03B9869E4E8B.quest_subtitle: "{components:{\"ae2:facade_item\":\"fruitsdelight:mangosteen_leaves\"},count:1,id:\"ae2:facade\"}"
 	quest.200B444B7461CBCD.title: "Dragon Meat Cuisine"
 	quest.200BB3FCB378B99A.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:light_blue_iron_wrapped_locometal\"},count:1,id:\"ae2:facade\"}"
@@ -3242,8 +3273,8 @@
 	quest.209EDD1ADF739C1C.quest_subtitle: "{count:1,id:\"createdeco:zinc_support_wedge\"}"
 	quest.209F93FC57E3D742.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:pufferfish_soup\"}"
 	quest.209FEE09686947FD.quest_subtitle: "{count:1,id:\"quark:bamboo_mat\"}"
-	quest.20A097B1FDFBCBD4.quest_desc: ["These four crops are the foundation of your chef career."]
-	quest.20A097B1FDFBCBD4.title: "Four Crops"
+	quest.20A097B1FDFBCBD4.quest_desc: ["You need a full stomach before you can get to work."]
+	quest.20A097B1FDFBCBD4.title: "Staples~"
 	quest.20A0C47EA80F429D.quest_subtitle: "{count:1,id:\"arsdelight:chimera_meat\"}"
 	quest.20A8A671A9612E30.quest_subtitle: "{count:1,id:\"minersdelight:baked_squid\"}"
 	quest.20AD559F4C88B8F0.quest_subtitle: "{components:{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"minecraft:nether_wart\"}}},count:1,id:\"quark:seed_pouch\"}"
@@ -4147,6 +4178,7 @@
 	quest.29B9D68E82924994.quest_subtitle: "{count:1,id:\"quark:blue_nether_bricks\"}"
 	quest.29BC4467F9E744D2.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:blasting_potion_long\"}},count:1,id:\"minecraft:potion\"}"
 	quest.29BD8740298436C1.quest_desc: ["The classic Sophisticated Backpack."]
+	quest.29BD8740298436C1.title: "Sophisticated Backpack"
 	quest.29BF0D2636149F09.quest_desc: ["This is the Packager — &msummons cardboard from thin air&r to pack or unpack parcels. Handy logistics."]
 	quest.29BF0D2636149F09.title: "Auto Packing!"
 	quest.29C4BFEE83EFC3F3.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:mercury_redstone_ore\"},count:1,id:\"ae2:facade\"}"
@@ -4277,6 +4309,8 @@
 	quest.2B12FBB3BFC0DC34.quest_subtitle: "{count:1,id:\"railways:brown_riveted_locometal\"}"
 	quest.2B1DEFF88A5537D2.quest_subtitle: "{count:1,id:\"create:empty_schematic\"}"
 	quest.2B1E2BABBA7AF6F8.quest_subtitle: "{count:1,id:\"create_dragons_plus:light_gray_dye_bucket\"}"
+	quest.2B204404A822E48A.quest_desc: ["A drawer that stores fluids."]
+	quest.2B204404A822E48A.title: "Fluid Drawer!"
 	quest.2B227C3A01DEE500.quest_subtitle: "{count:1,id:\"create:cut_calcite_stairs\"}"
 	quest.2B29F4A9F92A26FA.quest_subtitle: "{count:1,id:\"ars_nouveau:glyph_name\"}"
 	quest.2B2BD3C453922E4F.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:light_blue_bar_stool\"}"
@@ -4368,6 +4402,7 @@
 	quest.2C1E428C31B7EB65.quest_subtitle: "{count:1,id:\"ars_nouveau:frostaya_pod\"}"
 	quest.2C1E60A601FA2AD1.quest_subtitle: "{components:{\"minecraft:custom_data\":{Oil:{Effect:\"spartan_weaponry_unofficial:potion\",Potion:\"minecraft:strong_harming\"}}},count:1,id:\"spartan_weaponry_unofficial:weapon_oil\"}"
 	quest.2C20AC9840A3C155.quest_subtitle: "{count:1,id:\"create_confectionery:marshmallow_on_a_stick\"}"
+	quest.2C210E04CA9AEFB1.quest_desc: ["Before you start gathering materials, go explore structures. They may hold what you need to build machines."]
 	quest.2C2752B1D8C90222.quest_subtitle: "{count:1,id:\"quark:shale_bricks_wall\"}"
 	quest.2C2D792CA435E54B.quest_subtitle: "{components:{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"minecraft:birch_sapling\"}}},count:1,id:\"quark:seed_pouch\"}"
 	quest.2C2EBD6C2BE51032.quest_subtitle: "{count:1,id:\"quark:purple_shingles_vertical_slab\"}"
@@ -4409,6 +4444,7 @@
 	quest.2C6D8CD73ED11E2A.quest_subtitle: "{count:1,id:\"minersdelight:improvised_barbecue_stick\"}"
 	quest.2C7325FAD3DC3B3D.quest_subtitle: "{count:1,id:\"minecraft:lightning_rod\"}"
 	quest.2C7557A38A7843ED.quest_subtitle: "{count:1,id:\"create:purple_postbox\"}"
+	quest.2C7755946C51829C.quest_subtitle: "Calculate redstone signals more precisely"
 	quest.2C789EF078CD4977.quest_subtitle: "{count:1,id:\"create_aquatic_ambitions:calcium_rich_powder\"}"
 	quest.2C7DF2E010027A6A.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:beef_noodle\"}"
 	quest.2C80898739C4ADEC.quest_subtitle: "{count:1,id:\"expandeddelight:cinnamon_leaves\"}"
@@ -4497,6 +4533,7 @@
 	quest.2D4670DA8F9BAFF9.quest_subtitle: "{count:1,id:\"createdieselgenerators:brown_cement_bucket\"}"
 	quest.2D493FBDA2A74612.quest_subtitle: "{components:{\"minecraft:dyed_color\":{rgb:11691749,show_in_tooltip:0b}},count:1,id:\"computercraft:disk\"}"
 	quest.2D4965E0425B4E8F.quest_subtitle: "{count:1,id:\"minecraft:pig_spawn_egg\"}"
+	quest.2D4C9B61E40C81CF.quest_desc: ["Mass-produce andesite alloy. A mixer will do."]
 	quest.2D509B1101DDF4CB.quest_subtitle: "{count:1,id:\"ends_delight:steamed_dragon_egg\"}"
 	quest.2D51D898355A13B9.quest_subtitle: "{count:1,id:\"quark:blossom_planks_stairs\"}"
 	quest.2D55F4B68ACB703D.quest_subtitle: "{count:1,id:\"veggiesdelight:wild_broccoli\"}"
@@ -4511,6 +4548,7 @@
 	quest.2D804C50D3016905.quest_subtitle: "{count:1,id:\"farmersdelight:nether_salad\"}"
 	quest.2D8240DF99C0054C.quest_subtitle: "{count:1,id:\"railways:orange_flat_slashed_locometal\"}"
 	quest.2D861A77CCECAA52.quest_subtitle: "{count:1,id:\"comforts:sleeping_bag_pink\"}"
+	quest.2D88EABE0798F9F0.quest_subtitle: "Run detailed expression calculations"
 	quest.2D8974D630629366.quest_subtitle: "{count:1,id:\"thirst:terracotta_water_bowl\"}"
 	quest.2D8B2A86A6E743E1.quest_subtitle: "{count:1,id:\"railways:purple_brass_wrapped_locometal_boiler\"}"
 	quest.2D8BBDB24FFF9974.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:wind_burst\":3}}},count:1,id:\"minecraft:enchanted_book\"}"
@@ -4628,6 +4666,9 @@
 	quest.2EB13A5C9FFAD1AE.quest_subtitle: "{count:1,id:\"createbigcannons:casting_sand\"}"
 	quest.2EB164CEF81DA452.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:infested_chiseled_stone_bricks\"},count:1,id:\"ae2:facade\"}"
 	quest.2EB17E1F0E8AF470.quest_subtitle: "{count:1,id:\"minecraft:fermented_spider_eye\"}"
+	quest.2EB90EE11F46DC81.quest_desc: ["From the start, architects of Create packs have dreamed of the creative worldshaper. Many finish a world without ever making one……"]
+	quest.2EB90EE11F46DC81.quest_subtitle: "Sponsored by Eva0V0!"
+	quest.2EB90EE11F46DC81.title: "A Hundred Million Architects' Dream"
 	quest.2EB93D35FC90F761.quest_subtitle: "{count:1,id:\"railways:magenta_flat_riveted_locometal\"}"
 	quest.2EBE8C630A108DF0.quest_subtitle: "{count:1,id:\"create:exposed_copper_shingles\"}"
 	quest.2EBFFE0098B48E03.quest_subtitle: "{count:1,id:\"railways:track_quark_azalea\"}"
@@ -4786,6 +4827,7 @@
 	quest.30560D2E84B4E42B.quest_subtitle: "{count:1,id:\"ars_nouveau:timer_spell_turret\"}"
 	quest.305AA69EBF1330C2.quest_subtitle: "{count:1,id:\"ae2:printed_engineering_processor\"}"
 	quest.3061E1B98B784AFC.quest_desc: [""]
+	quest.3061E1B98B784AFC.quest_subtitle: "Start your life as a farmer~"
 	quest.3061E1B98B784AFC.title: "Farmer's Delight"
 	quest.3062634120E3A309.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"create_sa:chunk_eater\":4}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.30635CFA020E8123.quest_subtitle: "{count:1,id:\"ars_nouveau:archwood_stairs\"}"
@@ -4918,6 +4960,7 @@
 	quest.317E4C21FBD51CAE.quest_subtitle: "{count:1,id:\"ae2:memory_card\"}"
 	quest.3181EEB69DDCE40F.quest_subtitle: "{count:1,id:\"createnuclear:deepslate_uranium_ore\"}"
 	quest.3181FFB05B600A11.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:mud_pillar\"},count:1,id:\"ae2:facade\"}"
+	quest.318ADC29FC1BDE88.quest_desc: ["Get elytra so you can make a jetpack."]
 	quest.318EDEAD3AE8081A.quest_subtitle: "{count:1,id:\"ae2:sky_stone_brick_wall\"}"
 	quest.3193CEBB87520CDB.quest_subtitle: "{count:1,id:\"minecraft:bamboo\"}"
 	quest.31A0780A61035F69.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:platinum_halberd\"}"
@@ -5004,6 +5047,8 @@
 	quest.3248B8F201FF6E86.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:golden_greatsword\"}"
 	quest.324C26D799565F1D.quest_subtitle: "{count:1,id:\"ars_nouveau:brazier_relay\"}"
 	quest.324C501DB1FA39DB.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":3}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.324D08DEDEB9C62E.quest_desc: ["Eat your vegetables~ Stay healthy~"]
+	quest.324D08DEDEB9C62E.title: "Healthy Vegetables~"
 	quest.324D157BCB1F699E.quest_subtitle: "{count:1,id:\"copycats:copycat_fluid_pipe\"}"
 	quest.32565A0BCABD03A4.quest_subtitle: "{count:1,id:\"minecraft:birch_log\"}"
 	quest.3258285F3CC38FBE.quest_subtitle: "{count:1,id:\"create_confectionery:white_chocolate_glazed_marshmallow\"}"
@@ -5201,6 +5246,8 @@
 	quest.342144DE37F9B66E.quest_subtitle: "{count:1,id:\"vintageimprovements:platinum_wire\"}"
 	quest.342648A7461709D6.quest_subtitle: "{count:1,id:\"vsfluidlink:item_hose_connector\"}"
 	quest.34292A79BA7D473D.quest_subtitle: "{count:1,id:\"createnuclear:light_blue_cloth\"}"
+	quest.3429D56F8840BF9F.quest_desc: ["A storage box that holds a lot of items."]
+	quest.3429D56F8840BF9F.title: "Storage Box"
 	quest.342AE4FE8F069FA0.quest_subtitle: "{count:1,id:\"quark:polished_myalite_stairs\"}"
 	quest.342CEF95A1AFD278.quest_subtitle: "{count:1,id:\"minecraft:brown_banner\"}"
 	quest.342E01C9149E42D8.quest_subtitle: "{count:1,id:\"ars_nouveau:thread_heights\"}"
@@ -5934,6 +5981,7 @@
 	quest.3C0B37EDD4FAF688.quest_desc: ["\"Accurate\""]
 	quest.3C0B37EDD4FAF688.title: "Heavy Crossbow"
 	quest.3C0BB29668DE5762.quest_subtitle: "{components:{\"minecraft:entity_data\":{id:\"minecraft:painting\",variant:\"minecraft:match\"}},count:1,id:\"minecraft:painting\"}"
+	quest.3C0BD15162450F7A.title: "Storage Box Upgrades"
 	quest.3C0C1927444CBAA2.quest_subtitle: "{count:1,id:\"create:andesite_alloy_block\"}"
 	quest.3C0C7B5167D0A204.quest_subtitle: "{count:1,id:\"northstar:martian_steel_space_suit_helmet\"}"
 	quest.3C0D3B1D6B1D1C70.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:swiftness\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_arrow\"}"
@@ -6042,10 +6090,13 @@
 	quest.3D177F5E42913F9F.quest_subtitle: "{count:1,id:\"northstar:mercury_gold_ore\"}"
 	quest.3D21E0B3837A0CF6.quest_subtitle: "{count:1,id:\"minecraft:dark_oak_fence\"}"
 	quest.3D2465895661C4CB.quest_subtitle: "{count:1,id:\"create_radar:radar_safe_zone_designator\"}"
+	quest.3D2AF43B2389A9D3.title: "Special Upgrades"
 	quest.3D2C489B25023872.quest_subtitle: "{count:1,id:\"createdeco:tiled_dean_brick_stairs\"}"
 	quest.3D2E97AD93479C24.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:mona_lisa_painting\"}"
 	quest.3D2F2A399CB76CE6.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:waxed_weathered_chiseled_copper\"},count:1,id:\"ae2:facade\"}"
 	quest.3D2FE47C77C39034.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:grip_osovets_black\"}},count:1,id:\"tacz:attachment\"}"
+	quest.3D31BF6C56DBA6CF.quest_subtitle: "Pack a whole wall of gauges into one small console"
+	quest.3D31BF6C56DBA6CF.title: "Integrated Control"
 	quest.3D31EA05ADA88E92.quest_subtitle: "{count:1,id:\"createdeco:brass_bars\"}"
 	quest.3D32D38F0E5AB9A6.quest_subtitle: "{count:1,id:\"railways:magenta_locometal_pillar\"}"
 	quest.3D34FAC1EF962CEB.quest_subtitle: "{count:1,id:\"functionalstorage:ender_drawer\"}"
@@ -6306,6 +6357,9 @@
 	quest.3FB9905EC612B84F.quest_subtitle: "{count:1,id:\"ae2:certus_quartz_shovel\"}"
 	quest.3FBAD140D3A59A41.quest_subtitle: "{count:1,id:\"railways:gray_locometal_pillar\"}"
 	quest.3FBB14E209D10039.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:golden_battleaxe\"}"
+	quest.3FBB2338360A85CB.quest_desc: ["A gift from Rhodes Island elite operator Rosmontis, for you on this unfamiliar land. How will you use it?"]
+	quest.3FBB2338360A85CB.quest_subtitle: "Sponsored by yushu_ouo!"
+	quest.3FBB2338360A85CB.title: "Rosmontis's Token"
 	quest.3FBD2177F682B1C3.quest_subtitle: "{count:1,id:\"create_bic_bit:fries\"}"
 	quest.3FC1FB4DDBABD3CC.quest_subtitle: "{count:1,id:\"minecraft:infested_stone_bricks\"}"
 	quest.3FC1FEC53672E054.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:waxed_white_corundum\"},count:1,id:\"ae2:facade\"}"
@@ -6425,6 +6479,8 @@
 	quest.40F19B2A5B6A13A5.quest_subtitle: "{count:1,id:\"railways:wooden_headstock_link_and_pin\"}"
 	quest.40F2BBDFD76E1D64.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"ars_armorer:spell_damage_p\"}},count:1,id:\"tacz:attachment\"}"
 	quest.40F68E387BEE426E.quest_subtitle: "{count:1,id:\"create:cut_calcite_brick_wall\"}"
+	quest.40F86F4E0A4411B5.quest_desc: ["Speaking of storage, how could we forget backpacks?"]
+	quest.40F86F4E0A4411B5.title: "Backpack"
 	quest.40F9B15CCCAD699D.quest_subtitle: "{components:{\"minecraft:entity_data\":{id:\"minecraft:painting\",variant:\"minecraft:aztec2\"}},count:1,id:\"minecraft:painting\"}"
 	quest.40FAEE73CDCD1114.quest_subtitle: "{count:1,id:\"fluid:copper_tap\"}"
 	quest.41069ACFED6A0889.quest_subtitle: "{components:{\"ae2:facade_item\":\"vintageimprovements:vanadium_block\"},count:1,id:\"ae2:facade\"}"
@@ -6656,6 +6712,7 @@
 	quest.436AD3B6C60519FC.quest_subtitle: "{count:1,id:\"ae2:cut_quartz_stairs\"}"
 	quest.436DAEF699D77335.quest_subtitle: "{count:1,id:\"ars_nouveau:allow_scroll\"}"
 	quest.437810084FA65EAB.quest_subtitle: "{count:1,id:\"fruitsdelight:lemon_slice\"}"
+	quest.43781CCBE88A89D3.title: "Cardboard"
 	quest.437979D91CD87D1D.quest_subtitle: "{count:1,id:\"create:cut_dripstone_brick_wall\"}"
 	quest.437997F676E19B43.quest_subtitle: "{components:{\"kaleidoscope_tavern:brew_level\":6},count:1,id:\"kaleidoscope_tavern:whiskey\"}"
 	quest.437CBB9C749C45CE.quest_subtitle: "{count:1,id:\"veggiesdelight:wild_zucchinis\"}"
@@ -6724,6 +6781,8 @@
 	quest.440467A3F3C0C8E2.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:red_iron_wrapped_locometal\"},count:1,id:\"ae2:facade\"}"
 	quest.440607ADAE9000D5.quest_subtitle: "{count:1,id:\"minecraft:saddle\"}"
 	quest.4406A1EC762C2116.quest_subtitle: "{count:1,id:\"ae2:fluid_cell_housing\"}"
+	quest.440E54445238293C.quest_desc: ["In honor of a certain xnn who drowned a dozen times fixing a ship on the server ("]
+	quest.440E54445238293C.quest_subtitle: "Sponsored by Yeffie__xnn!"
 	quest.44101282FFAB89E4.quest_subtitle: "{count:1,id:\"minecraft:jungle_door\"}"
 	quest.4412DB9B4F6B8CF8.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:egg_fried_rice\"}"
 	quest.44135B12418BABAE.quest_subtitle: "{components:{\"minecraft:custom_data\":{AmmoUsed:0}},count:1,id:\"spartan_weaponry_unofficial:boomerang_wooden\"}"
@@ -7228,6 +7287,7 @@
 	quest.48CEE0EF7371883C.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_slowness\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_bolt\"}"
 	quest.48CFE24DF7648F09.quest_subtitle: "{count:1,id:\"minecraft:pillager_spawn_egg\"}"
 	quest.48D055BC4DE2497F.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:country_style_mixed_vegetables\"}"
+	quest.48D088A8E44A9030.quest_desc: ["Set up a tree farm to supply your logs."]
 	quest.48D37E9B041AC2A5.quest_subtitle: "{count:1,id:\"create_sa:brass_pickaxe\"}"
 	quest.48D3ED7A725E9215.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:spear_wooden\"}"
 	quest.48D5555A51B58EF7.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:deepslate_bricks\"},count:1,id:\"ae2:facade\"}"
@@ -7365,6 +7425,7 @@
 	quest.4A263BDAA70B27C4.quest_subtitle: "{count:1,id:\"cbcmoreshells:wide_brass_single_cannon_chamber_shielded\"}"
 	quest.4A2647D07588FD89.quest_subtitle: "{count:1,id:\"create:red_toolbox\"}"
 	quest.4A27167D2258EBF4.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"create_armorer:sight_reflex\"}},count:1,id:\"tacz:attachment\"}"
+	quest.4A2AD5154EEC147A.quest_subtitle: "A super-super-super chest?"
 	quest.4A2E6C6CD07CE155.quest_subtitle: "{count:1,id:\"cbc_at:twin_autocannon_barrel_mould\"}"
 	quest.4A37BE125E0EC129.quest_subtitle: "{count:1,id:\"railways:orange_copper_wrapped_locometal_boiler\"}"
 	quest.4A3883F7A992E586.quest_subtitle: "{count:1,id:\"cbcmoreshells:long_range_torpedo_mold\"}"
@@ -7485,6 +7546,7 @@
 	quest.4B4C878199A550D8.quest_subtitle: "{count:1,id:\"quark:blue_corundum\"}"
 	quest.4B4D313E41E73B6A.quest_subtitle: "{components:{\"computercraft:right_turtle_upgrade\":{id:\"minecraft:diamond_shovel\"}},count:1,id:\"computercraft:turtle_advanced\"}"
 	quest.4B4D50FF648CD8A8.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:plate_fungus_cap_block\"},count:1,id:\"ae2:facade\"}"
+	quest.4B502AA5C094E24A.quest_desc: ["The andesite machine matters. Take flint and gravel, byproducts of the iron generator, run lava through them, then press. That makes andesite."]
 	quest.4B52F3A21DE406BF.quest_subtitle: "{count:1,id:\"createdieselgenerators:lighter\"}"
 	quest.4B555AE51341EF9F.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:invar_battleaxe\"}"
 	quest.4B59106156BF50A9.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:slow_falling\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_wooden_arrow\"}"
@@ -7903,6 +7965,8 @@
 	quest.4F4130E0B3D2508D.quest_subtitle: "{count:1,id:\"ars_nouveau:whirlisprig_shards\"}"
 	quest.4F416C3865583CD4.quest_subtitle: "{count:1,id:\"minecraft:charcoal\"}"
 	quest.4F45EA06904322EB.quest_subtitle: "{count:1,id:\"ae2:quartz_slab\"}"
+	quest.4F4A14428616EB35.quest_desc: ["Supply water for cooling or coolant for freezing!"]
+	quest.4F4A14428616EB35.quest_subtitle: "Snowman coolers can use straws too!"
 	quest.4F4A2A13FFD1682E.quest_subtitle: "{components:{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"minecraft:bamboo\"}}},count:1,id:\"quark:seed_pouch\"}"
 	quest.4F4DDE7B4D563A62.quest_subtitle: "{count:1,id:\"ends_delight:dragon_leg\"}"
 	quest.4F50094A824357C6.quest_desc: ["Stackable… diesel engines. Mountains of stress!"]
@@ -8387,6 +8451,7 @@
 	quest.54536079D44F7A12.quest_subtitle: "{count:1,id:\"ars_nouveau:smooth_gilded_sourcestone_small_bricks\"}"
 	quest.545E15D7D29BA76C.quest_subtitle: "{count:1,id:\"minecraft:stripped_warped_hyphae\"}"
 	quest.5463354C844FF154.quest_subtitle: "{count:1,id:\"create:copper_tile_slab\"}"
+	quest.5464EB4F8CEC7B9F.quest_desc: ["A millstone grinds cobblestone into gravel. Wash that gravel with a fan to get iron nuggets. A crushing wheel can replace the millstone."]
 	quest.54668458C09F0C05.quest_subtitle: "{count:1,id:\"fluidlogistics:horizontal_multi_fluid_tank\"}"
 	quest.54686B91716415EC.quest_subtitle: "{count:1,id:\"fluidlogistics:rare_fluid_package\"}"
 	quest.546EC9701930FC5E.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:experience_block\"},count:1,id:\"ae2:facade\"}"
@@ -8630,6 +8695,8 @@
 	quest.56F950406C274C07.quest_subtitle: "{count:1,id:\"create:polished_cut_granite_slab\"}"
 	quest.56FA0B5B09B9CB90.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:leaping\"}},count:1,id:\"minecraft:potion\"}"
 	quest.5700D9E1C88EC9BA.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:long_water_breathing\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_bolt\"}"
+	quest.57018B6FAD7BDC0E.quest_desc: ["The backpack from Create Storage."]
+	quest.57018B6FAD7BDC0E.title: "Backpack"
 	quest.57037BF6C7931A27.quest_subtitle: "{count:1,id:\"mynethersdelight:spicy_hoglin_stew\"}"
 	quest.57055BAE2A2B3BF3.quest_subtitle: "{count:1,id:\"minecraft:warped_planks\"}"
 	quest.5706EEF37915F7A9.quest_subtitle: "{count:1,id:\"createnuclear:autunite\"}"
@@ -8645,12 +8712,15 @@
 	quest.5727074A2D9EECF0.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:leaping\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_bolt\"}"
 	quest.572819CE9900B5E5.quest_subtitle: "{count:1,id:\"expandeddelight:sweet_berry_jelly\"}"
 	quest.5729750E0CB7FE27.quest_subtitle: "{count:1,id:\"minecraft:waxed_weathered_copper_grate\"}"
+	quest.572D90C27C5A5A2C.quest_subtitle: "A gauge that shows passive production"
 	quest.572E08B554E1E31E.quest_subtitle: "{count:1,id:\"cbcmoreshells:aphe_bouncing_bomb\"}"
 	quest.572FD44CFBB6E1A2.quest_subtitle: "{count:1,id:\"create:cut_diorite_bricks\"}"
 	quest.5732729910AC4CC8.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:recovery_potion\"}},count:1,id:\"minecraft:lingering_potion\"}"
 	quest.573322E64B19D0CE.quest_subtitle: "{count:1,id:\"fruitsdelight:persimmon_cookie\"}"
 	quest.5736E849573EA60C.quest_desc: ["Run up walls and dash across ceilings!"]
 	quest.5736F7A22C6589C4.quest_subtitle: "{components:{\"ae2:stored_energy\":20000.0d},count:1,id:\"ae2:color_applicator\"}"
+	quest.573D65655D643022.quest_desc: ["Another kind of transporter."]
+	quest.573D65655D643022.title: "Smart and Not So Smart"
 	quest.573D8E8C462D5F81.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:swiftness\"}},count:1,id:\"minecraft:tipped_arrow\"}"
 	quest.573F490E6BE8A1D0.quest_subtitle: "{count:1,id:\"ae2:fluix_covered_dense_cable\"}"
 	quest.57444D1119B6CF65.quest_subtitle: "{count:1,id:\"northstar:venus_iron_ore\"}"
@@ -8691,6 +8761,7 @@
 	quest.57A48A55D73F5CB9.quest_subtitle: "{count:1,id:\"aeronautics:propeller_bearing\"}"
 	quest.57A4ACCC3EBE6257.quest_subtitle: "{count:1,id:\"ae2:speed_card\"}"
 	quest.57A5CE0FF5AC67F6.quest_desc: ["Automated logistics is an essential slice of Create you simply must taste."]
+	quest.57A5CE0FF5AC67F6.title: "Logistics & Storage"
 	quest.57AAD2D2A7A77F75.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:sight_sro_dot\"}},count:1,id:\"tacz:attachment\"}"
 	quest.57B2287BB00D1AD0.quest_subtitle: "{count:1,id:\"create:brass_ingot\"}"
 	quest.57B3A008C0195D13.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:grip_rk1_b25u\"}},count:1,id:\"tacz:attachment\"}"
@@ -8929,6 +9000,7 @@
 	quest.5A15CC3DDE613533.quest_subtitle: "{count:1,id:\"kaleidoscope_cookery:tomato\"}"
 	quest.5A163605EBAD3973.quest_subtitle: "{count:1,id:\"cmr:empty_snowman_cooler\"}"
 	quest.5A17233F9529B878.quest_subtitle: "{components:{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"fruitsdelight:apple_sapling\"}}},count:1,id:\"quark:seed_pouch\"}"
+	quest.5A17E1D3A01B51BB.quest_desc: ["You can make infinite lava now. All you need is Quark's iron grate, and then you can pump lava forever."]
 	quest.5A182A80DD4DA45E.quest_subtitle: "{components:{\"ae2:facade_item\":\"cratedelight:peanut_crate\"},count:1,id:\"ae2:facade\"}"
 	quest.5A19EBA3457DAAC0.quest_subtitle: "{count:1,id:\"veggiesdelight:raw_vegetarian_patty\"}"
 	quest.5A2140DE8E02D00F.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:blasting_potion_strong\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_arrow\"}"
@@ -8941,6 +9013,7 @@
 	quest.5A342583A33636C3.quest_subtitle: "{count:1,id:\"cbc_at:unbored_bronze_twin_autocannon_silencer\"}"
 	quest.5A343663A2844F51.quest_subtitle: "{count:1,id:\"createdeco:tiled_red_brick_slab\"}"
 	quest.5A3F790CB1769C78.quest_subtitle: "{count:1,id:\"minecraft:cut_red_sandstone\"}"
+	quest.5A40A64A0A52D2AD.quest_subtitle: "Redstone counter"
 	quest.5A4654E77928EC26.quest_subtitle: "{count:1,id:\"create:oxidized_copper_tile_stairs\"}"
 	quest.5A48D19C71499E33.quest_subtitle: "{count:1,id:\"railways:light_gray_conductor_cap\"}"
 	quest.5A49EEC55F9A7E99.quest_subtitle: "{count:1,id:\"quark:jasper_vertical_slab\"}"
@@ -9025,6 +9098,8 @@
 	quest.5AF554422A83E514.quest_subtitle: "{count:1,id:\"cbc_at:unbored_cast_iron_heavy_autocannon_qfbreech\"}"
 	quest.5AF82B92DEC833B7.quest_subtitle: "{count:1,id:\"numismatics:cog\"}"
 	quest.5AF9F1C9305C3AB6.quest_subtitle: "{count:1,id:\"createdeco:green_industrial_iron_lamp\"}"
+	quest.5AFCF2007ABE459F.quest_subtitle: "Link ports used for gauge math"
+	quest.5AFCF2007ABE459F.title: "Port"
 	quest.5AFE39ACD4BE1988.quest_subtitle: "{count:1,id:\"minecraft:wheat_seeds\"}"
 	quest.5B00E8F11280268E.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:grass_block\"},count:1,id:\"ae2:facade\"}"
 	quest.5B05C66347DFC15B.quest_subtitle: "{count:1,id:\"culturaldelights:wild_eggplants\"}"
@@ -9126,6 +9201,7 @@
 	quest.5C10FA8C186D4840.quest_subtitle: "{components:{\"ae2:facade_item\":\"fruitsdelight:pear_jello_block\"},count:1,id:\"ae2:facade\"}"
 	quest.5C1278E3A842FA9C.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:yellow_copper_wrapped_locometal\"},count:1,id:\"ae2:facade\"}"
 	quest.5C15826A284D7A1D.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:heavy_crossbow_netherite_strengthened\"}"
+	quest.5C1AC6CACF6EA9B4.quest_subtitle: "Control gauges with redstone"
 	quest.5C1BD80441987B61.quest_subtitle: "{count:1,id:\"railways:light_blue_locometal_smokebox\"}"
 	quest.5C1D05E71AD72008.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:grapevine\"}"
 	quest.5C1DF5245FAFF0A7.quest_subtitle: "{count:1,id:\"fruitsdelight:kiwi_jello\"}"
@@ -9213,6 +9289,7 @@
 	quest.5CF72B0D02116F26.quest_subtitle: "{count:1,id:\"expandeddelight:glow_berry_jelly_sandwich\"}"
 	quest.5CF9CC57B9CD27AE.quest_subtitle: "{count:1,id:\"simulated:gimbal_sensor\"}"
 	quest.5CFB97FFB54EA797.quest_subtitle: "{count:1,id:\"ars_nouveau:thread_whirlisprig\"}"
+	quest.5D068FAB4A2919B8.title: "Andesite"
 	quest.5D07882EAAECF132.quest_subtitle: "{count:1,id:\"arsdelight:chimera_meat_slice\"}"
 	quest.5D099CCADD50974E.quest_subtitle: "{count:1,id:\"cbc_at:cast_iron_heavy_autocannon_silencer\"}"
 	quest.5D0B05E6F43DEC19.quest_subtitle: "{count:1,id:\"create_connected:fan_blasting_catalyst\"}"
@@ -9435,6 +9512,8 @@
 	quest.5EDDFEAE8E54E851.quest_subtitle: "{count:1,id:\"minecraft:stripped_oak_log\"}"
 	quest.5EDFB88A76853A65.quest_subtitle: "{count:1,id:\"minecraft:endermite_spawn_egg\"}"
 	quest.5EE0A8C614831F94.quest_subtitle: "{count:1,id:\"minecraft:exposed_chiseled_copper\"}"
+	quest.5EE563517EB66AD5.quest_desc: ["Meow meow meow~ I'm a little catgirl, meow~"]
+	quest.5EE563517EB66AD5.quest_subtitle: "Sponsored by Heinrich6941!"
 	quest.5EE8780B24653DFB.quest_subtitle: "{count:1,id:\"create:crushed_raw_iron\"}"
 	quest.5EEA4B47BD498669.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:waxed_weathered_copper_grate\"},count:1,id:\"ae2:facade\"}"
 	quest.5EF4F3B8D266AB22.quest_subtitle: "{count:1,id:\"minecraft:chorus_fruit\"}"
@@ -9449,6 +9528,7 @@
 	quest.5F0D34BF6D1DE0B9.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:dark_oak_wood\"},count:1,id:\"ae2:facade\"}"
 	quest.5F0DD0FEFFE0D73C.quest_desc: ["Build your shelter on an off-world body!"]
 	quest.5F142AF105E98497.quest_subtitle: "{count:1,id:\"minecraft:magenta_stained_glass\"}"
+	quest.5F156A8EEDEE964B.title: "Basic Upgrades"
 	quest.5F190182E1DB4E9B.quest_subtitle: "{count:1,id:\"farmersdelight:oak_cabinet\"}"
 	quest.5F225268791987DF.quest_subtitle: "{count:1,id:\"createdeco:green_zinc_lamp\"}"
 	quest.5F23E6FCF2D99B3C.quest_subtitle: "{count:1,id:\"mynethersdelight:blackstone_bricks_cabinet\"}"
@@ -9799,6 +9879,7 @@
 	quest.62ADCBF97271618D.quest_subtitle: "{count:1,id:\"ae2:blue_smart_dense_cable\"}"
 	quest.62B281B1B56FF694.quest_subtitle: "{count:1,id:\"createbigcannons:guncotton\"}"
 	quest.62B38D533900CC27.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:shielding_potion_long\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_copper_arrow\"}"
+	quest.62B6B37A640F05D2.quest_desc: ["You can also mine for raw materials. This may be your first trip underground, and also your last."]
 	quest.62B8D62E68428ACB.quest_subtitle: "{count:1,id:\"farmersdelight:honey_glazed_ham\"}"
 	quest.62BAB9BE98816205.quest_subtitle: "{count:1,id:\"createdeco:tiled_dusk_bricks\"}"
 	quest.62BDE8A0F840D872.quest_subtitle: "{count:1,id:\"create:brown_postbox\"}"
@@ -9937,6 +10018,7 @@
 	quest.63D925B3082921A7.quest_subtitle: "{count:1,id:\"minecraft:tropical_fish\"}"
 	quest.63D94A61C30AEC0A.quest_subtitle: "{count:1,id:\"createbigcannons:pair_of_cannon_wheels\"}"
 	quest.63D97065D2FE3A31.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":4}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.63DAE4D53E91CD7C.title: "Crops"
 	quest.63DFF8CA79DDC00F.quest_subtitle: "{count:1,id:\"create_mechanical_spawner:spawn_fluid_bee_bucket\"}"
 	quest.63E5EEC5D0E126AE.quest_subtitle: "{count:1,id:\"northstar:moon_deep_diamond_ore\"}"
 	quest.63E7D7D77D0D2D7C.quest_subtitle: "{count:1,id:\"create:polished_cut_deepslate_wall\"}"
@@ -10108,6 +10190,7 @@
 	quest.6586CCC4EB99650A.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":5}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.658AD8402997C215.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:emerald_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.65922A0260F13C0E.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"ars_nouveau:reactive\":4}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.65927BA40B76F680.title: "Utility Upgrades"
 	quest.6593F8A829B8CD64.quest_subtitle: "{count:1,id:\"createaddition:electrum_amulet\"}"
 	quest.65940360BED40878.quest_subtitle: "{count:1,id:\"interiors:red_cushion\"}"
 	quest.6597884D3E20016A.quest_subtitle: "{count:1,id:\"minecraft:glass_pane\"}"
@@ -10120,6 +10203,7 @@
 	quest.65A2B8639F00BC24.quest_subtitle: "{count:1,id:\"farmersdelight:carrot_crate\"}"
 	quest.65A38ADD1F15E14B.quest_subtitle: "{count:1,id:\"quark:red_sandstone_bricks_vertical_slab\"}"
 	quest.65A3D19B69C3A97F.quest_subtitle: "{count:1,id:\"createadditionallogistics:blue_short_seat\"}"
+	quest.65A3EB74B3B5430B.quest_subtitle: "Link gauges and output text"
 	quest.65A68BD4E21411A2.quest_subtitle: "{count:1,id:\"ars_nouveau:glyph_bounce\"}"
 	quest.65A6D0CC9F9A81DD.quest_subtitle: "{count:1,id:\"ccq_core:crushing_blackstone\"}"
 	quest.65A808D2E6F3D721.quest_subtitle: "{count:1,id:\"functionalstorage:void_upgrade\"}"
@@ -10415,6 +10499,7 @@
 	quest.6888D944E394542E.quest_subtitle: "{count:1,id:\"quark:netherrack_bricks\"}"
 	quest.68898E8BE43949E2.quest_subtitle: "{count:1,id:\"ae2wtlib:quantum_bridge_card\"}"
 	quest.6890A59271673BB5.quest_subtitle: "{components:{\"quark:item_count\":640,\"quark:stored_item\":{stack:{count:1,id:\"ars_nouveau:frostaya_pod\"}}},count:1,id:\"quark:seed_pouch\"}"
+	quest.6893366FF56DD129.quest_subtitle: "Smart control over several optional recipes"
 	quest.6897FCD262BADBC9.quest_subtitle: "{count:1,id:\"create:framed_glass_door\"}"
 	quest.68995A05E39422D2.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_poison\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_copper_bolt\"}"
 	quest.689A06AEC6DDAE0A.quest_subtitle: "{count:1,id:\"createdeco:cracked_verdant_brick_stairs\"}"
@@ -10486,6 +10571,7 @@
 	quest.690CA14A0E7C9CB6.quest_subtitle: "{count:1,id:\"createbigcannons:steel_autocannon_breech\"}"
 	quest.690D4AA2BD88A4E3.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:long_poison\"}},count:1,id:\"minecraft:potion\"}"
 	quest.690FE99FC95FF0B2.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:blast_protection\":4}}},count:1,id:\"minecraft:enchanted_book\"}"
+	quest.691148088BABB8DA.title: "Work Block Upgrades"
 	quest.69140BC437ADDDF7.quest_subtitle: "{count:1,id:\"minecraft:music_disc_far\"}"
 	quest.6916A03AF13BE17D.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_regeneration\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_bolt\"}"
 	quest.691845526D87634F.quest_subtitle: "{count:1,id:\"create:metal_bracket\"}"
@@ -10730,6 +10816,366 @@
 	quest.6B388BED8A1DCB1A.quest_subtitle: "{count:1,id:\"createdeco:tiled_verdant_brick_slab\"}"
 	quest.6B396DA49E043AB5.quest_subtitle: "{count:1,id:\"ae2:black_glass_cable\"}"
 	quest.6B3A14ACBF658768.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_healing\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_wooden_arrow\"}"
+	quest.6B41000000000001.quest_desc: [
+		"You have a factory; now take it into the sky! Lift, propulsion and steering are separate problems. Build a little boat before dreaming of a flying castle."
+		"This chapter starts with hot-air balloons and floatstone, then branches into mechanical propulsion, joysticks, flight control, fuel, onboard logistics, radar and weapons. Item tasks only check ownership, not whether equipment works. Complete practical tasks yourself before checking them off. Use this instance's JEI for recipes."
+	]
+	quest.6B41000000000001.title: "Take Off and Set Sail"
+	quest.6B41000000000002.quest_desc: [
+		"Wear pilot goggles to inspect the lift and thrust of aviation components. If you cannot take off, read the instruments before piling on more engines!"
+		"Use the goggles for debugging: record RPM, thrust or gas readings, change one setting, then compare. Check both individual components and the whole ship. A working thruster does not guarantee that the ship can lift off."
+	]
+	quest.6B41000000000002.title: "Pilot Online"
+	quest.6B41000000000003.quest_desc: [
+		"Build a sealed hollow shell from balloon blocks and leave space inside. Shafts passing through it also need an airtight covering, or your balloon will leak. See Ponder."
+		"Start with a simple rectangular balloon so leaks are easy to find. Internal equipment occupies volume; inspect corners, the underside and transmission openings. Save fancy shapes for after the first flight."
+	]
+	quest.6B41000000000003.title: "A Big Balloon!"
+	quest.6B41000000000004.quest_desc: [
+		"A hot-air burner fills the balloon above it. Its panel sets maximum output; redstone strength controls actual output. A larger balloon can hold more lifting gas, while lift weakens at higher altitudes."
+		"Build the balloon and control signal on the ground, then observe output changes. Several burners can feed the same balloon, but its capacity remains the limit. Check volume before adding burners."
+	]
+	quest.6B41000000000004.title: "Full of Hot Air"
+	quest.6B41000000000005.quest_desc: [
+		"Not a fan of giant balloons? Try floatstone. Prepare the mixture using JEI, then consult Ponder for casting and heating. Once crystallization starts, you cannot recover the fluid, so do not pour it around the house!"
+		"Nearby heat can also start crystallization, which spreads through the entire fluid. Keep experiments away from storage and review the casting-container instructions in Ponder: some container blocks are destroyed during crystallization."
+	]
+	quest.6B41000000000005.title: "Floatstone Mixture"
+	quest.6B41000000000006.quest_desc: [
+		"Floatstone can suspend a light enough contraption, but does not make it climb by itself. Climbing needs additional force, and floatstone also resists low-speed movement. Suspension and propulsion are different things!"
+		"Test suspension with a lightweight structure before adding decks and equipment. Low-speed drag and the force required to climb affect handling; this route still needs propulsion and a controlled landing plan."
+	]
+	quest.6B41000000000006.title: "Floating Is Not Flying"
+	quest.6B41000000000007.quest_desc: [
+		"Choose either hot air or floatstone. Build a lightweight boat, assemble its contraption according to this version's Ponder scenes, then check lift and weight distribution. Check this off once it can leave the ground steadily."
+		"Either lift route unlocks this task; you do not need materials for both. Prepare the shipyard and onboard power before lifting off. Later low-altitude exercises cover repeated climbs and descents."
+	]
+	quest.6B41000000000007.title: "First, Make It Float"
+	quest.6B41000000000008.quest_desc: [
+		"Small propellers provide thrust. Test rotation and mounting direction on the ground before installing them aboard. The andesite version also works; test whether it pushes you forward or pulls you back!"
+		"On the ground, change propeller orientation and drive rotation separately and observe thrust direction. Andesite propellers have their own comparison branch; collecting both types is not required here."
+	]
+	quest.6B41000000000008.title: "A Little Push"
+	quest.6B41000000000009.quest_desc: [
+		"A propeller bearing assembles larger blade structures. Supply switchable rotational power and check blade and thrust directions in Ponder. Keep the layout symmetric so the ship does not spin as soon as you start it."
+		"Consult Ponder for blade count and assembly, and verify stress and RPM on the onboard system. Test paired propellers together; do not accelerate with only one side running."
+	]
+	quest.6B41000000000009.title: "Bigger Blades"
+	quest.6B4100000000000A.quest_desc: [
+		"A gyroscopic propeller bearing tries to keep its propeller upright, making it useful for exploring rotorcraft. Upward and downward mounting and redstone control have different uses; consult Ponder first."
+		"Ponder covers redstone control and stabilization with downward mounting. Thrust changes with altitude: good low-altitude performance does not guarantee the same result higher up."
+	]
+	quest.6B4100000000000A.title: "Steady, Don't Tip!"
+	quest.6B4100000000000B.quest_desc: [
+		"The joystick sends control signals through redstone links. Sneak-right-click to configure frequencies, right-click to take control, and press Esc to exit. Test every direction on the ground before taking to the sky."
+		"Confirm how to exit control before entering it; use the joystick screen's key and mouse modes. Configure each action's frequency separately, then verify signals using ground-based lights or mechanisms."
+	]
+	quest.6B4100000000000B.title: "Steering Wheel? Joystick!"
+	quest.6B4100000000000C.quest_desc: [
+		"Mechanical servos control angle using redstone strength; stepper servos have a configurable angle per step. Tune their ranges on the ground before connecting the joystick. They finish the current movement first, so do not expect an instant reversal!"
+		"After setting the range, compare weak, medium and strong signals. Practice returning to center before using steering or tilting mechanisms. Do not copy settings blindly between mechanical and stepper servos."
+	]
+	quest.6B4100000000000C.title: "Servos"
+	quest.6B4100000000000D.quest_desc: [
+		"A gyroscope provides attitude and stabilization information. Observe it level and tilted, then connect it to your control scheme as the tooltip describes. A steady instrument does not necessarily mean a steady ship."
+		"Observe it at rest first, then compare movement and tilt readings on a test structure. Understand measurement, target attitude and actuators separately: a gyroscope is not a complete control system."
+	]
+	quest.6B4100000000000D.title: "Read the Attitude"
+	quest.6B4100000000000E.quest_desc: [
+		"Once the ship floats and responds to controls, try a flight! Take off at low altitude, move forward, turn, stop propulsion and land. Control lift and forward thrust separately, with onboard power connected. Check this off after completing the flight."
+		"Change one parameter at a time and start with short, slow trips. If it cannot rise, check lift and supply; if it spins, check thrust and center of mass; if the joystick fails, check frequencies and receiver modes. Learn to return and land before travelling far."
+	]
+	quest.6B4100000000000E.title: "First Test Flight"
+	quest.6B4100000000000F.quest_desc: [
+		"Rope connectors and launchers let you experiment with connections and mooring. Learn to connect and release them on the ground before using a ship. Do not tie yourself down while moving at full speed!"
+		"Leave accessible operating space around both the dock anchor and ship attachment. Check tension after connecting and confirm the ship can depart after release. A rope is not an emergency brake for full-speed travel."
+	]
+	quest.6B4100000000000F.title: "An Aerial Dock"
+	quest.6B41000000000010.quest_desc: [
+		"Install storage on your boat, deliver a batch of materials to another outpost, then return to dock. Recheck lift and center of mass after loading. Check this off after actually completing the delivery."
+		"Materials in your inventory do not count as transportation: deliver the goods to the destination and return to base. This task is manually confirmed. Later mobile packaging and mechanical-bee branches explore package logistics further."
+	]
+	quest.6B41000000000010.title: "Same-Day Air Delivery"
+	quest.6B41000000000011.quest_desc: [
+		"Steam vents offer another gas-lift route. Study the boiler, vent and balloon Ponder scenes after getting familiar with hot-air ships. Steam deserves its own place in the sky!"
+		"Compare gas supply, control response and sustained operation on the same lightweight structure. Verify the boiler and vent work before investigating the balloon, using your hot-air experience as a reference."
+	]
+	quest.6B41000000000011.title: "Another Way to Lift"
+	quest.6B41000000000012.quest_desc: [
+		"Pearlescent floatstone extends the floatstone route. Prepare materials using JEI and Ponder, and start with small experiments. Why choose between looks and usefulness?"
+		"Check crystallization conditions and the resulting structure in a separate test area. Once the materials work, compare them as part of the full ship design. Pearlescent materials are not required for the first flight."
+	]
+	quest.6B41000000000012.title: "The Pink Version!"
+	quest.6B41000000000013.quest_desc: [
+		"The mouse flight controller is another way to steer. Read its tooltip and key bindings, confirm connection and exit procedures, then test it on a small boat."
+		"Verify mouse input, control directions and exit controls on the boat; do not begin at full speed. Choose whichever suits you, mouse or joystick. Upgraded flight controls need not replace an already tuned manual setup."
+	]
+	quest.6B41000000000013.title: "Mouse Piloting"
+	quest.6B41000000000014.quest_desc: [
+		"Add the flight computer to your control scheme and configure it according to the component instructions. Change one parameter at a time and test low to the ground. Even computer assistance needs a stable ship."
+		"The computer combines controller demands and distributes force and torque among connected thrusters. Select a controller or thruster with the toolgun, then right-click the computer to connect it. Start with one equipment group and expand gradually after observing allocation."
+	]
+	quest.6B41000000000014.title: "Flight Computer"
+	quest.6B41000000000015.quest_desc: [
+		"The HUD projector and flight-control toolgun provide displays and configuration. Dock before adjusting them, then verify control response before takeoff. Now the cockpit is starting to look like one!"
+		"The projector displays flight information; the toolgun connects and configures equipment. Confirm displayed information matches the ship before expanding the cockpit. Later attitude, altitude and velocity tasks explain the control modules."
+	]
+	quest.6B41000000000015.title: "Cockpit Instruments"
+	quest.6B41000000000016.quest_desc: [
+		"Platinum ingots and casings introduce the propulsion expansion's materials. Plan production with JEI and check the target thruster's operating requirements first. Next stop: advanced aircraft!"
+		"Set a small initial production target, build test equipment and verify its supply before expanding the line. Advanced propulsion does not block cargo tasks for your existing mechanical airship."
+	]
+	quest.6B41000000000016.title: "The Platinum Age"
+	quest.6B41000000000017.quest_desc: [
+		"Automatic glue and the assembly wand build structures for the propulsion expansion. Learn selection and operation on a small structure first, or you may glue the runway into the aircraft!"
+		"Test selection, assembly and disassembly on an isolated structure. Install power and controls before assembling the actual aircraft and check that ground equipment is excluded. Keep both pre-assembly and assembled states easy to inspect."
+	]
+	quest.6B41000000000017.title: "Assembly Tools"
+	quest.6B41000000000018.quest_desc: [
+		"Wings and thrusters open new design routes. Check mounting, supply and force direction using tooltips before building an aircraft. Airship settings cannot simply be copied over."
+		"Thrust provides propulsion; wings contribute a different kind of aerodynamic force. Do not confuse them. Verify the engine first, then position wings according to component instructions. Begin with short tests and stable landings."
+	]
+	quest.6B41000000000018.title: "Wings and Propulsion"
+	quest.6B41000000000019.quest_desc: [
+		"Vector thrusters let you explore thrust-direction control. Test deflection on a lightweight structure before adding flight controls. With the wrong directions, somersaulting is technically flying too!"
+		"Tune one axis first and record the actual response to left, right or pitch inputs. Test deflection mechanisms, supply and control signals separately before combining them. Randomly changing every axis just makes a spinning top."
+	]
+	quest.6B41000000000019.title: "Thrust Can Turn Too"
+	quest.6B4100000000001A.quest_desc: [
+		"Check ion-thruster requirements in JEI and tooltips before testing supply. Having built this far, it is time to pursue performance!"
+		"Verify operating supply independently, then compare response and cruising performance on the same structure. Added supply equipment changes layout and load, so repeat the full takeoff and landing test."
+	]
+	quest.6B4100000000001A.title: "Ion Propulsion"
+	quest.6B4100000000001B.quest_desc: [
+		"Radar antennas and panels monitor the airspace. Configure them on the ground using their tooltips, verify detection range and a known target, then move them aboard."
+		"Place a known target on the ground and observe detection within range before installing the radar on the ship. Sensing, data transmission and display are three separate steps; testing each makes troubleshooting easier."
+	]
+	quest.6B4100000000001B.title: "Watching the Airspace"
+	quest.6B4100000000001C.quest_desc: [
+		"Connect a display to the radar as instructed and test a known target first. If nothing appears, check configuration and range before declaring the sky empty."
+		"Show a known target before adding wireless data and filters. If a target disappears, check the sensor, connections and rules. A display does not replace watching the sky while piloting."
+	]
+	quest.6B4100000000001C.title: "Radar Display"
+	quest.6B4100000000001D.quest_desc: [
+		"Reserve a clear assembly area for the first aircraft: room to walk around it, set up temporary power and inspect the underside. Leave clearance between hull and ground, and check the selection before assembly."
+		"Build a lightweight deck, choose positions for the pilot, balloon and power, then assemble the contraption following Ponder. Check this off after completing the actual build."
+	]
+	quest.6B4100000000001D.title: "The Shipyard"
+	quest.6B4100000000001E.quest_desc: [
+		"After assembly, check that the deck, balloon and equipment belong to the intended structure. The ground, scaffolding and neighboring warehouse should not take off with it."
+		"Bring the ship to rest before testing assembly and disassembly. Follow this version's tool instructions and practice on small structures before operating on your flying castle!"
+	]
+	quest.6B4100000000001E.title: "A Hull Is Not a Foundation"
+	quest.6B4100000000001F.quest_desc: [
+		"A balloon must be sealed, but its drive shaft has to pass through the shell. Balloon-encased shafts handle this crossing."
+		"Apply the encasement following balloon Ponder scenes and inspect corners, pipe entries and the bottom. Filling the interior with blocks reduces gas volume; a pretty shell does not guarantee useful lift."
+	]
+	quest.6B4100000000001F.title: "Transmission Through a Balloon"
+	quest.6B41000000000020.quest_desc: [
+		"Weight, lift and force application points determine performance together. Inspect component readings with goggles, distribute heavy equipment evenly and symmetrically, and leave capacity for cargo."
+		"If one side lifts first, inspect the layout and thrust directions. Check this off after completing an assembly inspection of your small boat."
+	]
+	quest.6B41000000000020.title: "Do the Math Before Lifting Off"
+	quest.6B41000000000021.quest_desc: [
+		"A shaft on the ground will not follow you into the air. Plan power sources, transmission, switches and necessary supplies into the hull."
+		"While docked, verify the onboard drive operates independently, then switch off temporary ground power and check again. Control lift and forward thrust separately: stopping the ship does not mean shutting down everything keeping it afloat. Check off after testing."
+	]
+	quest.6B41000000000021.title: "Bring Your Own Power"
+	quest.6B41000000000022.quest_desc: [
+		"Redstone links connect the pilot's position to actuators. Give each action a clear, independent frequency and test actions individually on the ground."
+		"If nothing moves, check sender/receiver modes, frequency items and signal strength. If things move unexpectedly, check for frequency reuse. The hatch button should not also start the engine!"
+	]
+	quest.6B41000000000022.title: "Signals Need to Board Too"
+	quest.6B41000000000023.quest_desc: [
+		"A stepper servo responds to redstone strength in configured angle steps, useful for mechanisms with distinct angle positions. Inputs on its two sides also affect rotation direction; consult Ponder for simultaneous inputs."
+		"Build a visible pointer and test weak signals, strong signals and returning to center before installation. The servo finishes its current rotation before handling a new target."
+	]
+	quest.6B41000000000023.title: "Stepper Servo"
+	quest.6B41000000000024.quest_desc: [
+		"Place it on the same test bench as a wooden propeller and compare rotation, RPM and thrust readings. Do not change hull mass, propeller position and power simultaneously, or you will not know what caused the result."
+		"This is an optional propulsion comparison branch. Your first flight does not require every propeller type."
+	]
+	quest.6B41000000000024.title: "Andesite Propeller"
+	quest.6B41000000000025.quest_desc: [
+		"Read the smart propeller's tooltip and Ponder scenes, learn its controls and adjustment, then compare response on the original test bench."
+		"Keep a known working setup while upgrading. If a new component behaves oddly, return to the previous settings rather than dismantling all transmission at once."
+	]
+	quest.6B41000000000025.title: "Smart Propeller"
+	quest.6B41000000000026.quest_desc: [
+		"Switch off forward propulsion and adjust lift gradually: rise a little, hold position, then descend under control. Hot-air output, altitude and load all affect the result."
+		"If you keep climbing, reduce output; if sinking, check mass, balloon volume, sealing and supply. Check this off once you can repeat controlled climbs and descents."
+	]
+	quest.6B41000000000026.title: "Low-Altitude Hover Practice"
+	quest.6B41000000000027.quest_desc: [
+		"The hull may keep moving after propulsion stops. Leave braking space and test reverse thrust or your control scheme, observing the required stopping distance."
+		"Complete a slow forward run, active deceleration and controlled landing. Confirm stopping thrust did not also disable lift, then check this off. The dock is not a brake pad!"
+	]
+	quest.6B41000000000027.title: "Flying Includes Stopping"
+	quest.6B41000000000028.quest_desc: [
+		"Fly the route empty, then load a batch of materials and repeat it. Compare takeoff, turns and landing."
+		"Cargo concentrated at one end can shift the center of mass. If more lift is needed, check weight and distribution before maximizing thrust. Check this off after comparing empty and loaded flights."
+	]
+	quest.6B41000000000028.title: "With and Without Cargo"
+	quest.6B41000000000029.quest_desc: [
+		"The toolgun connects flight-control equipment: select a controller or thruster, then right-click the flight computer to connect or disconnect it."
+		"Connect one device while docked and use goggles to confirm connections and allocation before expanding to the whole ship. Each mod still governs its own module and supply rules; being connected does not mean having fuel."
+	]
+	quest.6B41000000000029.title: "Flight-Control Toolgun"
+	quest.6B4100000000002A.quest_desc: [
+		"The forward direction indicator defines the flight controller's body-forward reference. Select it with the toolgun and connect it to the relevant equipment; the components must be on the same physical structure."
+		"Align the bow, controllers and thrust. If forward input makes the ship move sideways, check the coordinate reference before tuning parameters."
+	]
+	quest.6B4100000000002A.title: "Which Way Is the Bow?"
+	quest.6B4100000000002B.quest_desc: [
+		"The attitude stabilizer calculates the torque needed to maintain orientation. Its bottom drive needs rotational stress capacity; connect it to the flight computer with the toolgun."
+		"Choose trim, trim with heading hold, or current-attitude hold. Begin with gentle presets. P increases correction and D damps oscillation, but excessive values are harmful. Stabilize pitch and roll before locking heading."
+	]
+	quest.6B4100000000002B.title: "Attitude Stabilizer"
+	quest.6B4100000000002C.quest_desc: [
+		"The altitude stabilizer holds or limits world-coordinate Y height. Its bottom drive also needs stress capacity, and it must connect to the flight computer."
+		"At low altitude, test holding the current height before entering a target height. It needs enough available lift; pressing altitude hold does not conjure engines when overloaded or underpowered."
+	]
+	quest.6B4100000000002C.title: "Altitude Hold"
+	quest.6B4100000000002D.quest_desc: [
+		"The linear velocity coupler calculates required force from a body-frame target velocity. Connect it to the computer and provide rotational stress capacity."
+		"Set a small target on one axis, test forward motion and return to zero, then add other directions. With redstone proxy inputs, verify signs first so signals do not cancel one another."
+	]
+	quest.6B4100000000002D.title: "Target Velocity"
+	quest.6B4100000000002E.quest_desc: [
+		"The distance coupler uses optical sensors and requests corrections along their rays. Select a sensor with the toolgun, then connect it to the coupler; repeat to disconnect."
+		"Give the sensor a visible ground target and check ray direction and distance changes before trying docking assistance. It is not omnidirectional collision avoidance: unseen obstacles remain your responsibility."
+	]
+	quest.6B4100000000002E.title: "Keep Away from the Wall"
+	quest.6B4100000000002F.quest_desc: [
+		"The angular velocity coupler extends rotational control. Check this version's tooltip for its inputs and connections."
+		"Test one axis on a small structure and observe target changes and response. Do not give it goals that contradict attitude hold. Move the tuned setup aboard only after testing."
+	]
+	quest.6B4100000000002F.title: "Target Angular Velocity"
+	quest.6B41000000000030.quest_desc: [
+		"The redstone proxy converts external redstone into actions for supported flight-control devices. Connect it with the toolgun and assign actions to faces in its interface."
+		"A master toggle, a pulse-based mode change and an analog input are different signals. Test one switch first, then add altitude, speed or mode controls. Do not power every face at once."
+	]
+	quest.6B41000000000030.title: "Redstone Proxy"
+	quest.6B41000000000031.quest_desc: [
+		"The standard smart vector thruster needs an installed nozzle, enabled state and fuel before it participates in flight-computer allocation. Right-click with a nozzle to install it; supply fuel through sides perpendicular to the nozzle axis."
+		"Local instructions list lava, diesel, biodiesel, gasoline and kerosene. Connect the computer with the toolgun and inspect fuel and allocated thrust through goggles. Once connected, computer control takes priority."
+	]
+	quest.6B41000000000031.title: "Smart Vector Thruster"
+	quest.6B41000000000032.quest_desc: [
+		"The small smart vector thruster includes a nozzle and supports compact layouts. Use this version's instructions for base fluid supply or toolgun tank linking."
+		"Check enabling, fuel and computer connections before inspecting thrust allocation. A compact design still needs room for pipes and maintenance."
+	]
+	quest.6B41000000000032.title: "Compact Vector Thrust"
+	quest.6B41000000000033.quest_desc: [
+		"The smart ion vector thruster offers another flight-control actuator. Check power, enabling and connection requirements in this version's tooltip rather than copying fuel-nozzle connections."
+		"Test it independently on the ground, then connect the computer and observe allocation. You need not replace the whole ship at once; swap one thruster pair at a time."
+	]
+	quest.6B41000000000033.title: "Smart Ion Thrust"
+	quest.6B41000000000034.quest_desc: [
+		"Stabilize attitude first, add altitude hold, then a small target velocity. Check that each device has stress capacity, thrusters have supplies and the computer can allocate the requested force."
+		"Watch for repeated oscillation, one-sided drift or failure to reach targets. Change one setting at a time and record useful parameters. Check this off after a low-altitude return trip and stable docking."
+	]
+	quest.6B41000000000034.title: "Flight-Control Acceptance Test"
+	quest.6B41000000000035.quest_desc: [
+		"Each thruster's mod defines its operating requirements. Choose fuel using JEI and tooltips, and leave its supply pipes accessible for inspection."
+		"Compare consumption in empty cruise and loaded flight, and refuel before long journeys. Crafting a burner does not mean every engine accepts the same fuel; verify on the ground first."
+	]
+	quest.6B41000000000035.title: "Fuel Comes First"
+	quest.6B41000000000036.quest_desc: [
+		"Solid-fuel thrusters provide another propulsion option. Verify fuel, ignition control and thrust direction on the ground using their instructions."
+		"Compare refueling convenience with liquid fuel before choosing an installation. A backpack full of coal does not make other engines coal-powered!"
+	]
+	quest.6B41000000000036.title: "Solid-Fuel Propulsion"
+	quest.6B41000000000037.quest_desc: [
+		"Liquid-fuel vector thrusters combine supply with directional adjustment. Check fuel input independently, then the steering mechanism, and connect pilot controls last."
+		"Symmetric placement makes initial tuning clearer. If only one side has fuel, joystick sensitivity is not the problem."
+	]
+	quest.6B41000000000037.title: "Liquid-Fuel Vector Thrust"
+	quest.6B41000000000038.quest_desc: [
+		"Platinum fluid tanks and containers add storage choices for the propulsion expansion; consult tooltips for connections. Decide which fluids to carry before arranging supply."
+		"Record consumption on a short return trip and leave a reserve for returning. Recheck center of mass and lift after fitting a larger tank."
+	]
+	quest.6B41000000000038.title: "Tanks and Endurance"
+	quest.6B41000000000039.quest_desc: [
+		"Cables and relays connect power for the propulsion expansion. Check interfaces and connections in tooltips, make one device work independently, then expand the network."
+		"Inspect power delivery and mechanical transmission separately. A lit display does not prove the thrusters have enough operating supply."
+	]
+	quest.6B41000000000039.title: "Cables Aboard"
+	quest.6B4100000000003A.quest_desc: [
+		"Reinforced and copycat wings offer more choices. Confirm mounting and force direction before concentrating on appearance."
+		"Use a proven test aircraft, change only the wings and repeat the same route. Practice landing before decorating it as an airliner!"
+	]
+	quest.6B4100000000003A.title: "Wing Looks and Performance"
+	quest.6B4100000000003B.quest_desc: [
+		"The launcher makes rope connections easier. Test range, endpoint selection and release on the ground, confirming both objects meet the tool's requirements."
+		"Connect the rope after approaching the dock slowly. Rope length and anchor placement affect tension. Do not try to haul a full-speed ship to a stop with it."
+	]
+	quest.6B4100000000003B.title: "Rope Launcher"
+	quest.6B4100000000003C.quest_desc: [
+		"The portable inventory terminal introduces mobile logistics. Bind your logistics network according to the item instructions and verify that the correct stock is visible."
+		"Ship holds and base warehouses are distinct locations. Decide where goods come from and where they go before aiming for ordering from anywhere."
+	]
+	quest.6B4100000000003C.title: "Remote Inventory Access"
+	quest.6B4100000000003D.quest_desc: [
+		"The mobile packager brings package logistics to moving structures. While docked, configure the network and addresses, test one simple package, then try the process in motion."
+		"Check demand, packing and receipt separately. This task only detects obtaining the equipment; cross-structure compatibility and actual delivery must be tested yourself."
+	]
+	quest.6B4100000000003D.title: "Mobile Packaging"
+	quest.6B4100000000003E.quest_desc: [
+		"Mechanical bees and their ports offer another package-logistics option. Read this version's instructions for binding, sending, receiving and range, then test short deliveries at the base."
+		"Tune the ground process before using it at the dock. Test while moored first; capabilities while moving depend on actual results. This is not an unlimited-range teleportation portal."
+	]
+	quest.6B4100000000003E.title: "Mechanical-Bee Ports"
+	quest.6B4100000000003F.quest_desc: [
+		"Give the dock a clear delivery point, a refueling point and enough room for arrivals and departures. Separate cargo, fuel and repairs so every docking does not require dismantling half the ship."
+		"Complete a full cycle of docking, unloading, resupplying and taking off again, then check this off."
+	]
+	quest.6B4100000000003F.title: "Dockside Delivery"
+	quest.6B41000000000040.quest_desc: [
+		"Radar data links and receivers extend radar connections. Check frequency, network and direction in tooltips, then transmit one known target on the ground first."
+		"If the display is empty, check sensing, the link and the display separately before changing detection range."
+	]
+	quest.6B41000000000040.title: "Wireless Data Link"
+	quest.6B41000000000041.quest_desc: [
+		"Target filters organize radar contacts. Choose the desired target type using the item instructions, test the rules with one known target, then expand the range."
+		"If the filter is too strict, the sky is not empty—you filtered everything out!"
+	]
+	quest.6B41000000000041.title: "Target Filtering"
+	quest.6B41000000000042.quest_desc: [
+		"The mounted potato cannon is basic Aeronautics armament. It accepts compatible potato-cannon ammunition and can be explored with automatic loading. Read Ponder and verify aim, loading and triggering on the ground."
+		"Do not share firing signals with flight controls. Start with a small test ship, then visit the cannon chapter for larger weapons."
+	]
+	quest.6B41000000000042.title: "Onboard Potato Cannon"
+	quest.6B41000000000043.quest_desc: [
+		"An armed platform must account for load, supply, steering and firing directions together. Test empty first, then add weapons and repeat the flight, watching how the new equipment affects balance."
+		"In a test area, complete loading, firing and cease-fire, verifying that flight controls are not accidentally operated. Check this off after testing. Crafting large cannons and guns is covered in their respective chapters."
+	]
+	quest.6B41000000000043.title: "Weapons Are Optional"
+	quest.6B41000000000044.quest_desc: [
+		"This pack includes aerial exploration content. Watch for structures, traders and hostile units in the sky and record discoveries. Obtaining spawn eggs is not the goal."
+		"Bring a boat capable of returning and basic supplies. Observe unfamiliar structures before approaching. Check this off after a journey with a real discovery."
+	]
+	quest.6B41000000000044.title: "You Are Not Alone Up There"
+	quest.6B41000000000045.quest_desc: [
+		"Choose a useful viewpoint and establish a mooring with supplies, storage and boarding access. Map markers help the return journey, but the dock should also be recognizable by sight."
+		"Travel from the base to the post and back, record the route and supply requirements, then check this off."
+	]
+	quest.6B41000000000045.title: "Aerial Observation Post"
+	quest.6B41000000000046.quest_desc: [
+		"For hot-air ships, check balloon sealing, usable volume, burner signals and weight. For floatstone, check structure mass and the extra force needed to climb."
+		"For inactive thrusters, check enabling, RPM, stress, fuel or electricity. Weak high-altitude performance may also involve air pressure. Check this off after personally diagnosing and fixing a lift or power problem."
+	]
+	quest.6B41000000000046.title: "Why Won't It Fly?"
+	quest.6B41000000000047.quest_desc: [
+		"Check thrust directions and left/right layout, then whether steering returns to center and link frequencies overlap. Off-center thrust causes rotation; adding engines can make the problem worse."
+		"With flight control, also check the forward reference, connected equipment and target settings. Check this off after fixing a yaw, tilt or oscillation problem."
+	]
+	quest.6B41000000000047.title: "Why Does It Keep Spinning?"
+	quest.6B41000000000048.quest_desc: [
+		"Choose a real goal: more cargo, steadier controls or longer range. Change one thing at a time, repeat empty and loaded tests, and record power and lift performance."
+		"Complete takeoff, cruise, deceleration, docking and resupply, confirming the new equipment works. Check this off once the full cycle succeeds. Your flying castle finally looks like an engineer built it!"
+	]
+	quest.6B41000000000048.title: "Acceptance Test for a Larger Ship"
 	quest.6B418D5C613F0573.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_swiftness\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_arrow\"}"
 	quest.6B42F239D2A05F92.quest_subtitle: "{components:{\"minecraft:stored_enchantments\":{levels:{\"create:capacity\":2}}},count:1,id:\"minecraft:enchanted_book\"}"
 	quest.6B43C352A33BD2A3.quest_subtitle: "{components:{\"minecraft:entity_data\":{id:\"minecraft:painting\",variant:\"minecraft:fighters\"}},count:1,id:\"minecraft:painting\"}"
@@ -10796,6 +11242,8 @@
 	quest.6BF309867E30B14C.quest_subtitle: "{count:1,id:\"createbigcannons:medium_cast_mould\"}"
 	quest.6BF409FF523A0302.quest_subtitle: "{count:1,id:\"minecraft:orange_glazed_terracotta\"}"
 	quest.6BFA1882D3FED7E6.quest_subtitle: "{count:1,id:\"create:portable_storage_interface\"}"
+	quest.6BFAE398D01B8641.quest_desc: ["A simple storage box that holds many items."]
+	quest.6BFAE398D01B8641.title: "Simple Storage Box"
 	quest.6BFF850780D21058.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_swiftness\"}},count:1,id:\"minecraft:lingering_potion\"}"
 	quest.6C01B26E58317E42.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:long_turtle_master\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_arrow\"}"
 	quest.6C01FEF8897A7B6D.quest_subtitle: "{count:1,id:\"ae2:yellow_covered_cable\"}"
@@ -11053,6 +11501,8 @@
 	quest.6E89AD5D832578CE.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:mana_regen_potion_strong\"}},count:1,id:\"minecraft:potion\"}"
 	quest.6E89B438AF77A0C8.quest_subtitle: "{count:1,id:\"create:scoria\"}"
 	quest.6E8A043529CBD94C.quest_subtitle: "{count:1,id:\"createbigcannons:unbored_bronze_autocannon_breech\"}"
+	quest.6E8A9F360275017E.quest_desc: ["Drawers, for storing items."]
+	quest.6E8A9F360275017E.title: "Drawers!"
 	quest.6E8C7FC290C89C0B.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:emerald_block\"},count:1,id:\"ae2:facade\"}"
 	quest.6E8EDBDEBE7D0CA7.quest_subtitle: "{components:{\"ae2:facade_item\":\"ae2:smooth_sky_stone_block\"},count:1,id:\"ae2:facade\"}"
 	quest.6E92158514F31F30.quest_desc: ["24 damage and ammo this cheap?"]
@@ -11158,6 +11608,7 @@
 	quest.6FACBB8FB0D607A6.quest_subtitle: "{count:1,id:\"fruitsdelight:melon_jello_block\"}"
 	quest.6FAE8F03EA4F6657.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:granite_pillar\"},count:1,id:\"ae2:facade\"}"
 	quest.6FAFB68D8531832C.quest_subtitle: "{count:1,id:\"cbcmoreshells:wide_steel_dual_cannon_charger\"}"
+	quest.6FB5A142FFB85208.quest_desc: ["Read the whole quest book before you start, so you don't miss a mod you didn't know about (lol"]
 	quest.6FB5CFFD5A75B820.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:spell_damage_potion\"}},count:1,id:\"minecraft:potion\"}"
 	quest.6FB7D0298B8A3512.quest_subtitle: "{count:1,id:\"create_bic_bit:waxed_young_cheese\"}"
 	quest.6FB839DAF74E8159.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"tacz:sight_srs_02\"}},count:1,id:\"tacz:attachment\"}"
@@ -11232,6 +11683,7 @@
 	quest.707CBA33B1C43CA3.quest_subtitle: "{count:1,id:\"minecraft:oxidized_copper_grate\"}"
 	quest.707F36E9B5D6EB3D.quest_subtitle: "{count:1,id:\"cbcmoreshells:baked_apfsds_shot\"}"
 	quest.7082C0C6AB3EDF0C.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:cut_asurine_bricks\"},count:1,id:\"ae2:facade\"}"
+	quest.7082E261DFE0CF8C.title: "Stack Upgrades"
 	quest.70888511559DA470.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:freezing_potion_long\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_bolt\"}"
 	quest.70891F74B33FD8F9.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"create_armorer:scope_telephoto\"}},count:1,id:\"tacz:attachment\"}"
 	quest.70893AEC0349FB78.quest_subtitle: "{count:1,id:\"create_confectionery:ruby_chocolate_bucket\"}"
@@ -11251,6 +11703,7 @@
 	quest.70AB42420B25DD58.quest_desc: ["Smart water suction too."]
 	quest.70AB42420B25DD58.title: "Suck Suck Suck 2.0"
 	quest.70AD20303C1D77B4.quest_subtitle: "{count:1,id:\"quark:cobblestone_bricks\"}"
+	quest.70B287489BCEA2F3.quest_desc: ["Drawers are a classic storage block. On a production line they are hard to replace."]
 	quest.70B6EB3C3C75F8C9.quest_subtitle: "{count:1,id:\"quark:blackstone_bricks_vertical_slab\"}"
 	quest.70BA02E3B9DDBEE7.quest_subtitle: "{components:{\"minecraft:block_entity_data\":{id:\"createcobblestone:mechanical_generator\",type:\"createcobblestone:generator_types/scoria.json\"}},count:1,id:\"createcobblestone:mechanical_generator\"}"
 	quest.70BA1425980593B3.quest_subtitle: "{count:1,id:\"minecraft:birch_stairs\"}"
@@ -11263,6 +11716,7 @@
 	quest.70C2CF6D34FA12A4.quest_subtitle: "{count:1,id:\"minecraft:cut_sandstone_slab\"}"
 	quest.70C2D8947739D72D.quest_subtitle: "{components:{\"ae2:facade_item\":\"northstar:mercury_glowstone_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.70C42FFEB75A7D35.quest_subtitle: "{count:1,id:\"minecraft:red_concrete_powder\"}"
+	quest.70C62C005B633EA7.quest_desc: ["Upgrades for drawers."]
 	quest.70C8A57613F92895.quest_subtitle: "{components:{\"ae2:facade_item\":\"createdeco:tiled_red_bricks\"},count:1,id:\"ae2:facade\"}"
 	quest.70C90EA65C73A4B6.quest_subtitle: "{count:1,id:\"create:polished_cut_veridium\"}"
 	quest.70CE0D53979A17F8.quest_subtitle: "{components:{\"ae2:facade_item\":\"railways:blue_slashed_locometal\"},count:1,id:\"ae2:facade\"}"
@@ -11679,6 +12133,7 @@
 	quest.74E56DE0E468DC68.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:bubble_coral_block\"},count:1,id:\"ae2:facade\"}"
 	quest.74E6FC488ECADF5D.quest_subtitle: "{count:1,id:\"eternalnether:cobbled_blackstone\"}"
 	quest.74E8D48CD0A83B93.quest_subtitle: "{count:1,id:\"ars_nouveau:gilded_sourcestone_basketweave_stairs\"}"
+	quest.74EA122E1F12F49C.title: "What's This Even For……"
 	quest.74EB0992DE3D8C15.quest_subtitle: "{count:1,id:\"copycats:copycat_vertical_step\"}"
 	quest.74F57C6486FBFF74.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:water\"}},count:1,id:\"minecraft:splash_potion\"}"
 	quest.74F627614CEB361C.quest_subtitle: "{count:1,id:\"comforts:hammock_magenta\"}"
@@ -11854,6 +12309,7 @@
 	quest.7676358A7F47B692.quest_subtitle: "{count:1,id:\"veggiesdelight:roasted_garlic_clove\"}"
 	quest.7677D540E169B300.quest_subtitle: "{components:{\"minecraft:custom_data\":{AttachmentId:\"applied_armorer:bracelet_exo\"}},count:1,id:\"tacz:attachment\"}"
 	quest.767883F8160D9F69.quest_desc: ["Make the Blaze in charge of enchanting burn blue!"]
+	quest.767F3D13C6D3360C.quest_desc: ["Convenient compacting."]
 	quest.7680BEF3FB629048.quest_subtitle: "{count:1,id:\"minecraft:purple_shulker_box\"}"
 	quest.76846600FBA12DD5.quest_subtitle: "{count:1,id:\"ccq_core:crushing_granite\"}"
 	quest.76865704E3DBEBAE.quest_subtitle: "{count:1,id:\"createprism:andesite_glass_casing\"}"
@@ -11992,6 +12448,7 @@
 	quest.77C30746CDB964B0.quest_subtitle: "{count:1,id:\"thirst:terracotta_bowl\"}"
 	quest.77C38D672F1FC5D3.quest_subtitle: "{count:1,id:\"veggiesdelight:cauliflower_crate\"}"
 	quest.77C6236D7AE06165.quest_subtitle: "{count:1,id:\"railways:track_tieless_wide\"}"
+	quest.77CB7DD5020CD5F7.quest_desc: ["A clone of the drawer network, for easy deposits and withdrawals."]
 	quest.77D6BF82572B7B1C.quest_subtitle: "{count:1,id:\"ars_nouveau:sourceberry_bush\"}"
 	quest.77D71354B4375075.quest_desc: ["Nether-exclusive crops—gather them to cook up something delicious."]
 	quest.77D71354B4375075.title: "Nether Crops"
@@ -12069,6 +12526,8 @@
 	quest.78ACDF5565A799F3.quest_subtitle: "{count:1,id:\"northstar:combustion_engine\"}"
 	quest.78ADB4EE94A3445F.quest_subtitle: "{count:1,id:\"arsdelight:mendosteen_crate\"}"
 	quest.78AF2A80BDD3A40C.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:ancient_wood\"},count:1,id:\"ae2:facade\"}"
+	quest.78B23195CE379E4E.quest_desc: ["The rich food of the Overworld."]
+	quest.78B23195CE379E4E.title: "Overworld Cuisine~"
 	quest.78B3507251E2E363.quest_subtitle: "{count:1,id:\"kaleidoscope_tavern:orange_bar_stool\"}"
 	quest.78B6561CC185F0F2.quest_subtitle: "{components:{\"minecraft:suspicious_stew_effects\":[{duration:200,id:\"minecraft:poison\"}]},count:1,id:\"minecraft:suspicious_stew\"}"
 	quest.78B940C4868A55E3.quest_subtitle: "{components:{\"createbigcannons:power\":1},count:1,id:\"cbc_at:grapeshot_caseless\"}"
@@ -12145,6 +12604,7 @@
 	quest.7991897B3B80A3A2.quest_subtitle: "{components:{\"ae2:facade_item\":\"culturaldelights:white_eggplant_crate\"},count:1,id:\"ae2:facade\"}"
 	quest.7992E6537D7095B2.quest_subtitle: "{components:{\"ae2:facade_item\":\"minecraft:deepslate_lapis_ore\"},count:1,id:\"ae2:facade\"}"
 	quest.7994AC45617FDB1F.quest_desc: [""]
+	quest.7994AC45617FDB1F.quest_subtitle: "Summon little bees in one click"
 	quest.7994AC45617FDB1F.title: "Summoner"
 	quest.79977B7025BF8EEB.quest_subtitle: "{count:1,id:\"cbc_at:unbored_bronze_twin_autocannon_muzzle_brake\"}"
 	quest.799CDBDBB6129C9F.quest_subtitle: "{count:1,id:\"quark:raw_gold_bricks_wall\"}"
@@ -12177,6 +12637,7 @@
 	quest.79D9EEC0A857B06D.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"ars_nouveau:shielding_potion_long\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_arrow\"}"
 	quest.79DAF67C586CAF5E.quest_subtitle: "{count:1,id:\"waystones:magenta_sharestone\"}"
 	quest.79DD2E5C7A74F106.quest_subtitle: "{components:{\"ae2:facade_item\":\"create:tuff_pillar\"},count:1,id:\"ae2:facade\"}"
+	quest.79DDC86A8F92EF22.title: "Storage Type Upgrades"
 	quest.79DE455C657358D3.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_turtle_master\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_netherite_arrow\"}"
 	quest.79DFC0C2906601F8.quest_subtitle: "{count:1,id:\"quark:polished_jasper\"}"
 	quest.79E41F003C72BBE1.quest_desc: ["This section is Create quests aimed at newer players&mVeterans can grab some loot and spare me the roast&r"]
@@ -12213,6 +12674,7 @@
 	quest.7A38FC93FCA3119E.quest_subtitle: "{count:1,id:\"create_enchantment_industry:super_enchanting_template\"}"
 	quest.7A3F31F8A04E48AE.quest_subtitle: "{count:1,id:\"railways:pink_plated_locometal\"}"
 	quest.7A3F4385C7181965.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minersdelight:long_haste\"}},count:1,id:\"spartan_weaponry_unofficial:tipped_diamond_bolt\"}"
+	quest.7A45E2F13E29559E.title: "Logs"
 	quest.7A48E18F61777593.quest_subtitle: "{count:1,id:\"spartan_weaponry_unofficial:aluminum_spear\"}"
 	quest.7A4A9DD8AC7849B2.quest_subtitle: "{components:{\"minecraft:potion_contents\":{potion:\"minecraft:weakness\"}},count:1,id:\"minecraft:tipped_arrow\"}"
 	quest.7A4FD6899B482BB7.quest_subtitle: "{count:1,id:\"ars_nouveau:alteration_table\"}"
@@ -12336,6 +12798,7 @@
 	quest.7B6C38F7129C01F8.quest_subtitle: "{count:1,id:\"minecraft:large_amethyst_bud\"}"
 	quest.7B716407AD530ED4.quest_subtitle: "{count:1,id:\"minecraft:lime_glazed_terracotta\"}"
 	quest.7B717ABEB79B80DE.quest_subtitle: "{components:{\"ae2:facade_item\":\"quark:ancient_log\"},count:1,id:\"ae2:facade\"}"
+	quest.7B777643C1AD50B2.title: "Work Block Upgrades"
 	quest.7B777B79A5848CE5.quest_subtitle: "{count:1,id:\"ae2:cyan_covered_cable\"}"
 	quest.7B7B0EFBCA39D848.quest_subtitle: "{count:1,id:\"create:layered_scoria\"}"
 	quest.7B7DFEC926341B36.quest_desc: ["Fires faster the longer you shoot—great for extended fights"]
@@ -12452,6 +12915,9 @@
 	quest.7C808E5DFC5EBFFA.quest_subtitle: "{count:1,id:\"minecraft:sugar_cane\"}"
 	quest.7C86D70C4BC64307.quest_subtitle: "{count:1,id:\"createdeco:cracked_pearl_brick_slab\"}"
 	quest.7C87B23C200DB2D7.quest_subtitle: "{count:1,id:\"cbc_at:unbored_cast_iron_vert_twin_autocannon_muzzle_brake\"}"
+	quest.7C8D494EC6F3FDAD.quest_desc: ["LogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLogLog"]
+	quest.7C8D494EC6F3FDAD.quest_subtitle: "Sponsored by YueNan_purple!"
+	quest.7C8D494EC6F3FDAD.title: "Please Enter Text"
 	quest.7C8E2670B4778B6C.quest_subtitle: "{count:1,id:\"create:filter\"}"
 	quest.7C8F58DF3CBC6DDD.quest_subtitle: "{count:1,id:\"touhou_little_maid_spell:flow_core\"}"
 	quest.7C8F89BD6CEBA965.quest_subtitle: "{count:1,id:\"northstar:small_lunar_sapphire_bud\"}"
@@ -13228,29 +13694,41 @@
 	reward.3342298332885D51.title: "Welcome to the Void"
 	reward.33F79206EC140C4A.title: "Here Comes the Grand Prize"
 	reward.36EDBFB4ACCA21ED.title: "Thunder Rolls"
+	reward.608FAADB96346C08.title: "Blueprint check temporarily disabled"
+	reward_table.0A18991D9745743A.title: "Certus Ore"
 	reward_table.0A4D0C6441DBF319.title: "Building Materials"
+	reward_table.1C21F4DF3B6C2824.title: "Rosmontis's Token"
+	reward_table.1C5AB3AA1CC484A3.title: "Creature Cultivation"
 	reward_table.1EC6956FA2BB2B00.title: "Storage"
 	reward_table.29C97F550C5FDEBA.title: "Common Reward"
 	reward_table.3602F483568B92BA.title: "Miscellaneous"
 	reward_table.3E18BFE17618113C.title: "Iron Tools"
 	reward_table.4D37FFAF33DF678A.title: "Rare Reward"
 	reward_table.5832C9BCFDB476AF.title: "Magic Source"
+	reward_table.71B0C3D0264CEA66.title: "Heinrich's Reward"
+	reward_table.7449E6F18800520C.title: "Rosmontis's Token 1"
 	task.0105A38E835FD541.title: "Atomic Motion"
 	task.011890AC893D30E5.title: "Armor"
 	task.054994D77D2DCF68.title: "Welcome to CCQ"
 	task.07C44556BC17163C.title: "Agriculture"
 	task.091CC0CA146BF6F5.title: "Event Token"
-	task.093E2550C1AD44DC.title: "Drown in ocean"
+	task.093E2550C1AD44DC.title: "Drowned xnn"
 	task.0D6188AF782C02B7.title: "Preface"
 	task.0D8D4EFFF5519C32.title: "Ponder"
+	task.14267FE54890B622.title: "Infinite Lava"
 	task.17B02992032700E6.title: "Series Materials"
 	task.18A50E20B2137BBC.title: "Explosion!"
 	task.1E27B153C442F49D.title: "Modifiers"
 	task.22B0F7776C53BB50.title: "Tools and Weapons"
 	task.233C9D1670713936.title: "1"
 	task.24764D037884F92F.title: "Comfort Items"
+	task.24C8D6BD83D3CA65.title: "Drawers?"
+	task.24CA45B66C827116.title: "Tree Farm"
+	task.2695AC55507D4A7F.title: "Overworld Food"
 	task.26C2291A6A720780.title: "Assemble the Rocket!"
+	task.297562703D3FB796.title: "Backpack"
 	task.2A6C9EADBE00B284.title: "Spartan Weapons"
+	task.2B5F0AD1F8198856.title: "Resource Output"
 	task.2C63084E1260580F.title: "About Addons"
 	task.30629EEA349AB527.title: "Preface"
 	task.308398B945D85A7F.title: "Logistics"
@@ -13258,6 +13736,8 @@
 	task.3696C2398BA2E3BB.title: "Special Equipment"
 	task.376A6CDDFEF3CF2E.title: "Enchantment Industry"
 	task.37BDD67887ED03BD.title: "Power"
+	task.3FA3E0A13C213D0F.title: "Iron"
+	task.4304BB4CBBC80D0D.title: "Hint"
 	task.4B0B0AD1F30B63D5.title: "Guns"
 	task.4DD1CB222256E145.title: "About Currency"
 	task.4F7FD5A3D255004B.title: "Sanctuary!"
@@ -13266,15 +13746,20 @@
 	task.574A4852DE8D6FFD.title: "Transmission"
 	task.57A5A6B2C4AD58BC.title: "Portal"
 	task.5802082073E07AC8.title: "Rocket Fuel"
+	task.586A028D066DA8CB.title: "Mining"
 	task.586A15D7D935D3FC.title: "Adventure"
 	task.61BAA1B83AE240E5.title: "Ore Excavation"
 	task.638376FA1478BC45.title: "Industrial Platform"
 	task.698190D48C5FE3A3.title: "Technology"
+	task.699C8AFFC27CE73E.title: "Crops"
 	task.6A817B814C45317A.title: "Tools"
 	task.6C1185C9A93FCC66.title: "Bows & Arrows"
 	task.6DCCEF3B2BC3FABD.title: "Triggers"
+	task.733921267A3CE55A.title: "Meow meow meow~"
+	task.77A1662A098720EB.title: "Build Machines"
 	task.7827E798080E7CB2.title: "Arcane Core"
 	task.78C266B334D4B669.title: "Venus Crude Oil"
+	task.7D64F7C7303AD0AD.title: "Structures"
 	task.7E38C0B432BB84D4.title: "Weapons"
 	task.7F4BE70779340AF9.title: "To the Stars!"
 }

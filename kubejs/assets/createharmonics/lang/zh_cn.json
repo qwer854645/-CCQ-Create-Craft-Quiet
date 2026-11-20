@@ -1,0 +1,13 @@
+{
+  "createharmonics.display_source.audio_name.display": "文本显示模式",
+  "createharmonics.display_source.audio_name.full": "满",
+  "createharmonics.display_source.audio_name.scroll": "滚动",
+  "createharmonics.display_source.audio_name.wrap": "包裹",
+  "createharmonics.display_source.loading_title": "加载中...",
+  "createharmonics.display_source.read_record_player_state": "唱机状态",
+  "createharmonics.display_source.record_player.paused": "暂停",
+  "createharmonics.display_source.record_player.playing": "玩",
+  "createharmonics.display_source.record_player.stopped": "停止",
+  "createharmonics.gui.library_setup.status.ffprobe_missing": "缺少 FFProbe！",
+  "createharmonics.recipe.record_repair": "修理"
+}

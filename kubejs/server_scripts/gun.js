@@ -2,52 +2,8 @@ ServerEvents.recipes(event => {
 
     const create = event.recipes.create
     const farmer = event.recipes.farmersdelight
-    //魔艺军械的配方在1.21.1有问题
+    // 保留工作台调整；枪械与配件原生配方供哨戒动力臂生成工业生产线。
   event.remove('ars_armorer:blocks/ars_workbench')
-  event.remove('ars_armorer:triggers/trigger_high_speed')
-  event.remove('ars_armorer:triggers/trigger_slow_speed')
-  event.remove('ars_armorer:triggers/trigger_horizontal_spread')
-  event.remove('ars_armorer:triggers/trigger_vertical_spread')
-  event.remove('ars_armorer:triggers/trigger_reckless_rounds')
-  event.remove('ars_armorer:triggers/trigger_sniper_rounds')
-  event.remove('ars_armorer:triggers/trigger_close_range_rounds')
-  event.remove('ars_armorer:triggers/trigger_double_fire')
-  event.remove('ars_armorer:mods/mod_low_consume')
-  event.remove('ars_armorer:mods/mod_low_damage')
-  event.remove('ars_armorer:mods/mod_proficient_utilization')
-  event.remove('ars_armorer:mods/mod_high_damage')
-  event.remove('ars_armorer:mods/mod_instant_renewal')
-  event.remove('ars_armorer:mods/mod_conflux_accelerator')
-  event.remove('ars_armorer:mods/mod_rapid_regeneration')
-  event.remove('ars_armorer:spells/spell_damage')
-  event.remove('ars_armorer:spells/spell_damage_p')
-  event.remove('ars_armorer:spells/spell_damage_pp')
-  event.remove('ars_armorer:spells/spell_suppression')
-  event.remove('ars_armorer:spells/spell_suppression_p')
-  event.remove('ars_armorer:spells/spell_crit')
-  event.remove('ars_armorer:spells/spell_crit_p')
-  event.remove('ars_armorer:spells/spell_crit_pp')
-  event.remove('ars_armorer:spells/spell_ignite')
-  event.remove('ars_armorer:spells/spell_ignite_p')
-  event.remove('ars_armorer:spells/spell_explode')
-  event.remove('ars_armorer:spells/spell_explode_p')
-  event.remove('ars_armorer:spells/spell_penetrate')
-  event.remove('ars_armorer:spells/spell_penetrate_p')
-  event.remove('ars_armorer:spells/spell_penetrate_pp')
-  event.remove('ars_armorer:spells/spell_penetrate_incendiary')
-  event.remove('ars_armorer:spells/spell_penetrate_incendiary_p')
-  event.remove('ars_armorer:spells/spell_penetrate_incendiary_pp')
-  event.remove('ars_armorer:mags/mana_mag_1')
-  event.remove('ars_armorer:mags/mana_mag_2')
-  event.remove('ars_armorer:mags/mana_mag_3')
-  event.remove('ars_armorer:guns/pistol_source_ejector')
-  event.remove('ars_armorer:guns/sniper_distance_ejector')
-  event.remove('ars_armorer:guns/auto_rifle_stream_ejector')
-  event.remove('ars_armorer:guns/shotgun_splash_ejector')
-  event.remove('ars_armorer:guns/shotgun_jet_ejector')
-  event.remove('ars_armorer:guns/special_miner_drill')
-  event.remove('ars_armorer:guns/mortar_source_thrower')
-  event.remove('ars_armorer:guns/special_source_flying_blade')
 
   //应用军械台
   event.remove('applied_armorer:worckbench_applied_armorer')
@@ -66,73 +22,11 @@ ServerEvents.recipes(event => {
     }
   ).id('ccq_core:worckbench_applied_armorer')
 
-  //机动军械
-  const RECIPE_IDS = [
-  'create_armorer:ammo/40mmhe',
-  'create_armorer:ammo/gas_pistol_ammo',
-  'create_armorer:ammo/gernade',
-  'create_armorer:ammo/rbapb',
-  'create_armorer:ammo/slap',
-  'create_armorer:attachments/extended_mag_ca_1',
-  'create_armorer:attachments/extended_mag_ca_2',
-  'create_armorer:attachments/extended_mag_ca_3',
-  'create_armorer:attachments/grip_gantry_shaft',
-  'create_armorer:attachments/grip_shaft',
-  'create_armorer:attachments/grip_wooden',
-  'create_armorer:attachments/muzzle_refit_bigger_cylinder',
-  'create_armorer:attachments/muzzle_refit_brass_retractor',
-  'create_armorer:attachments/muzzle_refit_energy_blade',
-  'create_armorer:attachments/muzzle_refit_iron_spike',
-  'create_armorer:attachments/muzzle_refit_lava_perfusion_bottle',
-  'create_armorer:attachments/refit_blasting_protocol',
-  'create_armorer:attachments/scope_telephoto',
-  'create_armorer:attachments/sight_medium_distance',
-  'create_armorer:attachments/sight_reflex',
-  'create_armorer:attachments/sight_simple',
-  'create_armorer:attachments/sight_standard',
-  'create_armorer:create_workbench',
-  'create_armorer:gun/cannon_40mm_salamander',
-  'create_armorer:gun/gl_revolver_devastator',
-  'create_armorer:gun/mg_platemag_flywheel',
-  'create_armorer:gun/pistol_auto_stress',
-  'create_armorer:gun/pistol_revolver_torque',
-  'create_armorer:gun/rifle_assult_crane',
-  'create_armorer:gun/rifle_assult_roller',
-  'create_armorer:gun/shotgun_db_stone',
-  'create_armorer:gun/shotgun_pump_bearing',
-  'create_armorer:gun/smg_auto_crank',
-  'create_armorer:gun/sniper_semi_clockwork',
-  'create_armorer:gun/sniper_semi_m1',
-  'create_armorer:gun/special_melee_wrench',
-  ]
-  RECIPE_IDS.forEach(id => event.remove(id))
-
+  // Sentry Mechanical Arm generates production routes from native gunpack recipes.
   //子弹
-   create.compacting(
-    Item.of('tacz:ammo[max_stack_size=60,custom_data={AmmoId:"applied_armorer:hard_core_quartz_bullet"}]',24),
-    [
-      Item.of('minecraft:copper_ingot',12),
-      Item.of('minecraft:gunpowder',4),
-      Item.of('minecraft:lapis_lazuli',4)
-    ]
-  ).id('ccq_core:hard_core_quartz_bullet')
-  create.compacting(
-    Item.of('tacz:ammo[max_stack_size=60,custom_data={AmmoId:"applied_armorer:etched_quartz_bullet"}]',60),
-    [
-      Item.of('minecraft:copper_ingot',8),
-      Item.of('minecraft:gunpowder',2),
-      Item.of('minecraft:lapis_lazuli',2)
-    ]
-  ).id('ccq_core:etched_quartz_bullet')
-  create.compacting(
-    Item.of('tacz:ammo[max_stack_size=24,custom_data={AmmoId:"applied_armorer:fluix_infused_grenade"}]',12),
-    [
-      Item.of('minecraft:copper_ingot',8),
-      Item.of('minecraft:gunpowder',6),
-      Item.of('minecraft:redstone',6),
-      Item.of('minecraft:lapis_lazuli',4)
-    ]
-  ).id('ccq_core:fluix_infused_grenade')
+   
+  
+  
   create.compacting(
     Item.of('tacz:ammo[max_stack_size=20,custom_data={AmmoId:"applied_armorer:fluix_battery"}]',4),
     [
@@ -140,14 +34,7 @@ ServerEvents.recipes(event => {
       Item.of('minecraft:iron_ingot',4)
     ]
   ).id('ccq_core:fluix_battery')
-    create.compacting(
-    Item.of('tacz:ammo[max_stack_size=48,custom_data={AmmoId:"applied_armorer:cluster_quartz_bullet"}]',24),
-    [
-      Item.of('minecraft:copper_ingot',12),
-      Item.of('minecraft:gunpowder',4),
-      Item.of('minecraft:lapis_lazuli',2)
-    ]
-  ).id('ccq_core:cluster_quartz_bullet')
+    
 
   /*create.mechanical_crafting(
     'tacz:workbench_b[custom_data={BlockId:"create_armorer:create_workbench"}]', 

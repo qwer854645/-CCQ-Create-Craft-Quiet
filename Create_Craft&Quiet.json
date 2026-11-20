@@ -110,9 +110,9 @@
         ]
       },
       "--fml.neoForgeVersion",
-      "21.1.248",
+      "21.1.255",
       "--fml.fmlVersion",
-      "4.0.43",
+      "4.0.45",
       "--fml.mcVersion",
       "1.21.1",
       "--fml.neoFormVersion",
@@ -202,24 +202,24 @@
   },
   "libraries": [
     {
-      "name": "net.neoforged.fancymodloader:earlydisplay:4.0.43",
+      "name": "net.neoforged.fancymodloader:earlydisplay:4.0.45",
       "downloads": {
         "artifact": {
-          "path": "net/neoforged/fancymodloader/earlydisplay/4.0.43/earlydisplay-4.0.43.jar",
-          "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/4.0.43/earlydisplay-4.0.43.jar",
-          "sha1": "3a941fcf258b5a7dde0445377a7206a55d11630d",
+          "path": "net/neoforged/fancymodloader/earlydisplay/4.0.45/earlydisplay-4.0.45.jar",
+          "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/4.0.45/earlydisplay-4.0.45.jar",
+          "sha1": "dc7a8b1370054dd0e2d70c1db4ddf4092793c115",
           "size": 261719
         }
       }
     },
     {
-      "name": "net.neoforged.fancymodloader:loader:4.0.43",
+      "name": "net.neoforged.fancymodloader:loader:4.0.45",
       "downloads": {
         "artifact": {
-          "path": "net/neoforged/fancymodloader/loader/4.0.43/loader-4.0.43.jar",
-          "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/4.0.43/loader-4.0.43.jar",
-          "sha1": "fb10b7bf2f568a9676ad8b426b19c23badbbd98a",
-          "size": 505633
+          "path": "net/neoforged/fancymodloader/loader/4.0.45/loader-4.0.45.jar",
+          "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/4.0.45/loader-4.0.45.jar",
+          "sha1": "4a0968c2ec6234d58e0a9ed97acafc08cc8f33b5",
+          "size": 505696
         }
       }
     },
@@ -367,13 +367,13 @@
       }
     },
     {
-      "name": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
+      "name": "net.fabricmc:sponge-mixin:0.16.4+mixin.0.8.7",
       "downloads": {
         "artifact": {
-          "path": "net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar",
-          "url": "https://maven.neoforged.net/releases/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar",
-          "sha1": "2af2f021d8e02a0220dc27a7a72b4666d66d44ca",
-          "size": 1494751
+          "path": "net/fabricmc/sponge-mixin/0.16.4+mixin.0.8.7/sponge-mixin-0.16.4+mixin.0.8.7.jar",
+          "url": "https://maven.neoforged.net/releases/net/fabricmc/sponge-mixin/0.16.4+mixin.0.8.7/sponge-mixin-0.16.4+mixin.0.8.7.jar",
+          "sha1": "26d01f0567ab46e9ca0d2ed89d0ecc11aadbd433",
+          "size": 1504204
         }
       }
     },
@@ -2079,6 +2079,11 @@
       "sha1": "03f8985492bda0afc0898465341eb0acef35f570",
       "size": 7456063
     },
+    "client": {
+      "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar",
+      "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88",
+      "size": 26836906
+    },
     "client_mappings": {
       "url": "https://piston-data.mojang.com/v1/objects/2244b6f072256667bcd9a73df124d6c58de77992/client.txt",
       "sha1": "2244b6f072256667bcd9a73df124d6c58de77992",
@@ -2088,11 +2093,6 @@
       "url": "https://piston-data.mojang.com/v1/objects/59353fb40c36d304f2035d51e7d6e6baa98dc05c/server.jar",
       "sha1": "59353fb40c36d304f2035d51e7d6e6baa98dc05c",
       "size": 51627615
-    },
-    "client": {
-      "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar",
-      "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88",
-      "size": 26836906
     }
   },
   "logging": {
@@ -2108,8 +2108,8 @@
     }
   },
   "type": "release",
-  "time": "2026-08-01T14:03:55+08:00",
-  "releaseTime": "2026-08-01T14:03:55+08:00",
+  "time": "2026-10-04T06:41:31+08:00",
+  "releaseTime": "2026-10-04T06:41:31+08:00",
   "minimumLauncherVersion": 21,
   "root": true,
   "patches": [
@@ -3775,6 +3775,11 @@
           "sha1": "03f8985492bda0afc0898465341eb0acef35f570",
           "size": 7456063
         },
+        "client": {
+          "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar",
+          "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88",
+          "size": 26836906
+        },
         "client_mappings": {
           "url": "https://piston-data.mojang.com/v1/objects/2244b6f072256667bcd9a73df124d6c58de77992/client.txt",
           "sha1": "2244b6f072256667bcd9a73df124d6c58de77992",
@@ -3784,11 +3789,6 @@
           "url": "https://piston-data.mojang.com/v1/objects/59353fb40c36d304f2035d51e7d6e6baa98dc05c/server.jar",
           "sha1": "59353fb40c36d304f2035d51e7d6e6baa98dc05c",
           "size": 51627615
-        },
-        "client": {
-          "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar",
-          "sha1": "30c73b1c5da787909b2f73340419fdf13b9def88",
-          "size": 26836906
         }
       },
       "logging": {
@@ -3810,14 +3810,14 @@
     },
     {
       "id": "neoforge",
-      "version": "21.1.248",
+      "version": "21.1.255",
       "priority": 30000,
       "arguments": {
         "game": [
           "--fml.neoForgeVersion",
-          "21.1.248",
+          "21.1.255",
           "--fml.fmlVersion",
-          "4.0.43",
+          "4.0.45",
           "--fml.mcVersion",
           "1.21.1",
           "--fml.neoFormVersion",
@@ -3847,24 +3847,24 @@
       "inheritsFrom": "1.21.1",
       "libraries": [
         {
-          "name": "net.neoforged.fancymodloader:earlydisplay:4.0.43",
+          "name": "net.neoforged.fancymodloader:earlydisplay:4.0.45",
           "downloads": {
             "artifact": {
-              "path": "net/neoforged/fancymodloader/earlydisplay/4.0.43/earlydisplay-4.0.43.jar",
-              "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/4.0.43/earlydisplay-4.0.43.jar",
-              "sha1": "3a941fcf258b5a7dde0445377a7206a55d11630d",
+              "path": "net/neoforged/fancymodloader/earlydisplay/4.0.45/earlydisplay-4.0.45.jar",
+              "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/4.0.45/earlydisplay-4.0.45.jar",
+              "sha1": "dc7a8b1370054dd0e2d70c1db4ddf4092793c115",
               "size": 261719
             }
           }
         },
         {
-          "name": "net.neoforged.fancymodloader:loader:4.0.43",
+          "name": "net.neoforged.fancymodloader:loader:4.0.45",
           "downloads": {
             "artifact": {
-              "path": "net/neoforged/fancymodloader/loader/4.0.43/loader-4.0.43.jar",
-              "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/4.0.43/loader-4.0.43.jar",
-              "sha1": "fb10b7bf2f568a9676ad8b426b19c23badbbd98a",
-              "size": 505633
+              "path": "net/neoforged/fancymodloader/loader/4.0.45/loader-4.0.45.jar",
+              "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/4.0.45/loader-4.0.45.jar",
+              "sha1": "4a0968c2ec6234d58e0a9ed97acafc08cc8f33b5",
+              "size": 505696
             }
           }
         },
@@ -4012,13 +4012,13 @@
           }
         },
         {
-          "name": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
+          "name": "net.fabricmc:sponge-mixin:0.16.4+mixin.0.8.7",
           "downloads": {
             "artifact": {
-              "path": "net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar",
-              "url": "https://maven.neoforged.net/releases/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar",
-              "sha1": "2af2f021d8e02a0220dc27a7a72b4666d66d44ca",
-              "size": 1494751
+              "path": "net/fabricmc/sponge-mixin/0.16.4+mixin.0.8.7/sponge-mixin-0.16.4+mixin.0.8.7.jar",
+              "url": "https://maven.neoforged.net/releases/net/fabricmc/sponge-mixin/0.16.4+mixin.0.8.7/sponge-mixin-0.16.4+mixin.0.8.7.jar",
+              "sha1": "26d01f0567ab46e9ca0d2ed89d0ecc11aadbd433",
+              "size": 1504204
             }
           }
         },
@@ -4365,8 +4365,8 @@
         }
       ],
       "type": "release",
-      "time": "2026-08-01T14:03:55+08:00",
-      "releaseTime": "2026-08-01T14:03:55+08:00"
+      "time": "2026-10-04T06:41:31+08:00",
+      "releaseTime": "2026-10-04T06:41:31+08:00"
     }
   ]
 }

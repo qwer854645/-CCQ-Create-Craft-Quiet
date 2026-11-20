@@ -94,5 +94,5 @@ PlayerEvents.chat((event) => {
   if (!raw || raw.startsWith('/')) return
   if (raw.endsWith('喵~')) return
 
-  event.setComponent(Text.of(raw + '喵~'))
+  event.setComponent(Text.translate('message.ccq_core.meow_chat', raw))
 })

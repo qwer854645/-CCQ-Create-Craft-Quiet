@@ -1,4 +1,17 @@
 {
-    "entity.minecraft.villager.chefsdelight.cook": "厨师",
-    "entity.minecraft.villager.chefsdelight.chef": "厨师"
+  "entity.minecraft.villager.chefsdelight.chef": "厨师",
+  "entity.minecraft.villager.chefsdelight.cook": "厨师",
+  "chefsdelight.configuration.chefHouseDesert": "沙漠厨师屋",
+  "chefsdelight.configuration.chefHousePlains": "平原厨师屋",
+  "chefsdelight.configuration.chefHouseSavanna": "热带草原厨师屋",
+  "chefsdelight.configuration.chefHouseSnowy": "雪地厨师屋",
+  "chefsdelight.configuration.chefHouseTaiga": "针叶林厨师屋",
+  "chefsdelight.configuration.cookHouseDesert": "沙漠厨屋",
+  "chefsdelight.configuration.cookHousePlains": "平原厨屋",
+  "chefsdelight.configuration.cookHouseSavanna": "热带草原厨屋",
+  "chefsdelight.configuration.cookHouseSnowy": "雪地厨屋",
+  "chefsdelight.configuration.cookHouseTaiga": "针叶林厨屋",
+  "chefsdelight.configuration.section.chefsdelight.common.toml": "村庄结构生成",
+  "chefsdelight.configuration.section.chefsdelight.common.toml.title": "村庄结构生成配置",
+  "chefsdelight.configuration.title": "村庄结构生成配置"
 }

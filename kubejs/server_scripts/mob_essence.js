@@ -792,4 +792,52 @@ ServerEvents.recipes(event => {
       'netherexp:cerebrage'
     ]
   )*/
+
+  // 补齐生物精华的原材料增殖：每次消耗 200mB，返还原料并有 20% 概率额外产出 1 个
+  // 已通过 OEI 统一的物品只为目标 ID 添加配方，不重复添加来源物品
+  const extraEssenceCrops = [
+    // 原版植物：发光浆果、海带、红蘑菇、棕蘑菇
+    'minecraft:glow_berries',
+    'minecraft:kelp',
+    'minecraft:red_mushroom',
+    'minecraft:brown_mushroom',
+
+    // 农作物：普通茄子、亚麻、恶魂长米
+    'culturaldelights:eggplant',
+    'supplementaries:flax',
+    'mynethersdelight:ghasmati',
+
+    // 酿造作物：统一后的啤酒花、咖啡浆果与咖啡豆
+    'kaleidoscope_dim_wine:hop',
+    'farmersrespite:coffee_berries',
+    'farmersrespite:coffee_beans',
+
+    // 茶叶：当前模组的茶树战利品中，绿茶、黄茶、红茶叶均可直接采收
+    'farmersrespite:green_tea_leaves',
+    'farmersrespite:yellow_tea_leaves',
+    'farmersrespite:black_tea_leaves'
+  ]
+  extraEssenceCrops.forEach(item => {
+    create.compacting(
+      [CreateItem.of(item, 1), CreateItem.of(item, 0.2)],
+      [Fluid.of('ccq_core:mob_essence', 200), item]
+    ).id('ccq_core:mob_essence/' + item.replace(':', '/'))
+  })
+
+  // 新生魔艺植物：魔源浆果、法师之花、堡垒果、炸弹果、霜木瓜、门多山竹
+  // 魔法作物增殖概率降低：200mB 生物精华，返还原料，10% 概率额外产出 1 个
+  const arsEssenceCrops = [
+    'ars_nouveau:sourceberry_bush',
+    'ars_nouveau:magebloom',
+    'ars_nouveau:bastion_pod',
+    'ars_nouveau:bombegranate_pod',
+    'ars_nouveau:frostaya_pod',
+    'ars_nouveau:mendosteen_pod'
+  ]
+  arsEssenceCrops.forEach(item => {
+    create.compacting(
+      [CreateItem.of(item, 1), CreateItem.of(item, 0.1)],
+      [Fluid.of('ccq_core:mob_essence', 200), item]
+    ).id('ccq_core:mob_essence/' + item.replace(':', '/'))
+  })
 })

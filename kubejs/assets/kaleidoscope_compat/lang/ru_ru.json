@@ -1,0 +1,22 @@
+{
+  "config.kaleidoscope_compat.category.farmersdelight": "Farmers Delight",
+  "config.kaleidoscope_compat.category.farmersdelight.description": "Настройки, связанные с Farmers Delight",
+  "config.kaleidoscope_compat.compat.quark_sickle_harvest_fix_enabled": "Исправление урожая кваркового серпа",
+  "config.kaleidoscope_compat.compat.quark_sickle_harvest_fix_enabled.comment": "Если включено, удерживание серпа не приведет к сбору урожая Кварка",
+  "config.kaleidoscope_compat.spectrum.chopping_board_item_handler_enabled": "Передача узла разделочной доски",
+  "config.kaleidoscope_compat.spectrum.chopping_board_item_handler_enabled.comment": "Включить ли передачу узла разделочной доски",
+  "config.kaleidoscope_compat.spectrum.millstone_item_handler_enabled": "Перенос узла жернова",
+  "config.kaleidoscope_compat.spectrum.millstone_item_handler_enabled.comment": "Включить ли передачу узла жернова",
+  "config.kaleidoscope_compat.spectrum.pot_item_handler_enabled": "Передача узла WOK",
+  "config.kaleidoscope_compat.spectrum.pot_item_handler_enabled.comment": "Включить ли передачу узла WOK",
+  "config.kaleidoscope_compat.spectrum.shawarma_spit_item_handler_enabled": "Перенос узла косы шаурмы",
+  "config.kaleidoscope_compat.spectrum.shawarma_spit_item_handler_enabled.comment": "Включить ли передачу узла shawarma spit",
+  "config.kaleidoscope_compat.spectrum.steamer_item_handler_enabled": "Передача узла пароварки",
+  "config.kaleidoscope_compat.spectrum.steamer_item_handler_enabled.comment": "Включить ли передачу узла парохода",
+  "config.kaleidoscope_compat.spectrum.teapot_item_handler_enabled": "Передача узла чайника",
+  "config.kaleidoscope_compat.spectrum.teapot_item_handler_enabled.comment": "Включить ли передачу узла чайника",
+  "config.kaleidoscope_compat.spectrum.trash_can_item_handler_enabled": "Передача узла корзины",
+  "config.kaleidoscope_compat.spectrum.trash_can_item_handler_enabled.comment": "Включить ли передачу узла корзины",
+  "key.category.kaleidoscope_compat": "Калейдоскоп: Совместимость",
+  "key.kaleidoscope_compat.take_kitchen_item": "Возьмите кухонный предмет из приспособления"
+}

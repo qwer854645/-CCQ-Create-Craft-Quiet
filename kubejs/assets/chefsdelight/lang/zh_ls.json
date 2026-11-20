@@ -1,4 +1,17 @@
 {
-  "entity.minecraft.villager.chefsdelight.chef": "奇厄弗",
-  "entity.minecraft.villager.chefsdelight.cook": "克乌克"
+  "chefsdelight.configuration.chefHouseDesert": "谢夫 豪斯 德泽特",
+  "chefsdelight.configuration.chefHousePlains": "谢夫 豪斯 普莱恩兹",
+  "chefsdelight.configuration.chefHouseSavanna": "谢夫 豪斯 瑟瓦纳",
+  "chefsdelight.configuration.chefHouseSnowy": "谢夫 豪斯 斯诺伊",
+  "chefsdelight.configuration.chefHouseTaiga": "谢夫 豪斯 塔格",
+  "chefsdelight.configuration.cookHouseDesert": "库克 豪斯 德泽特",
+  "chefsdelight.configuration.cookHousePlains": "库克 豪斯 普莱恩兹",
+  "chefsdelight.configuration.cookHouseSavanna": "库克 豪斯 瑟瓦纳",
+  "chefsdelight.configuration.cookHouseSnowy": "库克 豪斯 斯诺伊",
+  "chefsdelight.configuration.cookHouseTaiga": "库克 豪斯 塔格",
+  "chefsdelight.configuration.section.chefsdelight.common.toml": "维勒奇 斯特勒克彻 杰纳诶申",
+  "chefsdelight.configuration.section.chefsdelight.common.toml.title": "维勒奇 斯特勒克彻 杰纳诶申 肯菲格",
+  "chefsdelight.configuration.title": "维勒奇 斯特勒克彻 杰纳诶申 肯菲格",
+  "entity.minecraft.villager.chefsdelight.chef": "谢夫",
+  "entity.minecraft.villager.chefsdelight.cook": "库克"
 }

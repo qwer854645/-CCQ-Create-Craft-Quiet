@@ -48,6 +48,9 @@ ServerEvents.recipes(event => {
   event.remove('create:crushing/diorite_recycling')
   event.remove('create:crushing/limestone')
   event.remove('create:milling/limestone')
+  // 金红石只走夸克石灰石；硝酸盐改由振动台处理粉碎的石灰岩产出
+  event.remove('northstar:crushing/limestone')
+  event.remove('createnuclear:crushing/nitrate')
   event.remove('vintageimprovements:crushing/basalt_recycling')
   event.remove('vintageimprovements:crushing/basalt')
   event.remove('create:milling/andesite')

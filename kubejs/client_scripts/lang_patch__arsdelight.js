@@ -1,0 +1,23 @@
+// Partial translation supplements. Original mod language files remain available.
+ClientEvents.lang("zh_cn", event => {
+  event.add("arsdelight", "block.arsdelight.dawnberry_crate", "黎明莓箱")
+  event.add("arsdelight", "block.arsdelight.dawnberry_jelly", "黎明莓果冻")
+  event.add("arsdelight", "block.arsdelight.dawnberry_pie", "黎明浆果派")
+  event.add("arsdelight", "block.arsdelight.lightchee_crate", "莱奇箱")
+  event.add("arsdelight", "block.arsdelight.lightchee_jelly", "莱奇果冻")
+  event.add("arsdelight", "block.arsdelight.lightchee_pie", "莱奇派")
+  event.add("arsdelight", "effect.arsdelight.lightning_curse.desc", "对你的法术攻击目标施加闪电诱饵")
+  event.add("arsdelight", "item.arsdelight.bleak_bark", "荒芜树皮")
+  event.add("arsdelight", "item.arsdelight.dawn_bark", "黎明树皮")
+  event.add("arsdelight", "item.arsdelight.dawnberry_hornbeer", "黎明莓角啤")
+  event.add("arsdelight", "item.arsdelight.dawnberry_pie_slice", "黎明莓派切片")
+  event.add("arsdelight", "item.arsdelight.dawnberry_tea", "黎明莓茶")
+  event.add("arsdelight", "item.arsdelight.fading_bark", "褪色树皮")
+  event.add("arsdelight", "item.arsdelight.lightchee_hornbeer", "莱奇角啤")
+  event.add("arsdelight", "item.arsdelight.lightchee_pie_slice", "莱奇派切片")
+  event.add("arsdelight", "item.arsdelight.lightchee_tea", "莱奇茶")
+  event.add("arsdelight", "item.arsdelight.neutralized_dawnberry_jam", "中和黎明莓果酱")
+  event.add("arsdelight", "item.arsdelight.neutralized_lightchee_jam", "中和莱奇果酱")
+  event.add("arsdelight", "item.arsdelight.skittle_stew", "彩虹糖炖菜")
+})
+

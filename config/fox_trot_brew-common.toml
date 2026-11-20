@@ -1,0 +1,17 @@
+#通用配置
+["Common Config"]
+	#踩葡萄时是否隐藏女仆脚部的鞋子
+	enableShoeHiding = true
+	#鞋类骨骼名关键字（不区分大小写，骨骼名包含任一关键字即视为鞋子）
+	#例如模型里的 LeftShoe / bootsRight / bootLeft 都会被命中
+	shoeBoneKeywords = ["shoe", "boot"]
+	#当模型没有独立鞋骨骼时，是否改为按方块粒度隐藏脚骨里的鞋子
+	#脚和鞋被塞在同一根骨骼里时（例如酒狐的 LeftFoot / RightFoot），只能靠这个开关
+	#关闭后这类模型将不做任何隐藏
+	hideFootWhenNoShoeBone = true
+	#脚部骨骼名关键字，仅在 hideFootWhenNoShoeBone 生效时使用
+	footBoneKeywords = ["foot"]
+	#脚部骨骼里属于"脚"的方块序号（从 0 开始），保留这些方块，其余方块当鞋子隐藏
+	#酒狐 winefox 系列的 LeftFoot / RightFoot 各 14 个方块，只有第 0 个是脚，其余是鞋
+	#若你的模型脚部件在别的序号，改这里即可
+	footCubeKeepIndices = ["0"]
