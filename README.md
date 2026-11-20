@@ -1,5 +1,7 @@
 # Create Craft & Quiet
 
+更新日志的内容、版本记录和发布格式见 [更新日志规范](CHANGELOG_GUIDE.md)。
+
 NeoForge 1.21.1 整合包配置仓库。本仓库保存整合包的自定义内容（配置、KubeJS 脚本、资源包等），**不包含** `mods/` 目录中的模组 jar 文件。
 
 ## 环境要求
